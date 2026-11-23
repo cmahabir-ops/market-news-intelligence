@@ -1,5 +1,48 @@
 [
   {
+    "id": "8375d620c6cc5c448c6f",
+    "title": "Bitcoin ETFs lose $4.57B in 30 days as withdrawals persist - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RYjRhUUxEeHlMSEMxWk52VldWRk9oMmJpVGNYdHdRWHpsX05wdlAwLU9BZXRCMjhwRF9tWDI4WG9zZTVLaEtBUmVuMXhpQXltc2NWVkFsRFFzS0pEZEhnbkdvNlpyMlBmaXEwVDNn?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-23T18:07:07+00:00",
+    "detected_at": "2026-11-23T20:57:37.121240+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "07fa8925c8d5237888de",
+    "title": "3 High-Yield BDCs Trade Below Book Value. One Sits at a 45% Discount - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbFp1WTFJdWNBc0twRHQxQnpBVzhIVHVueWpDUng1Tk5KWjU5aXVKZjZ4UnpKTmd6cm4xVi1ENXc3cDVTem9TX3VGSEVhTy1zekkwakZvRTBwX29TX0g4V25MSzhkM1M0azFtTkpoYVNTRFUyd3FybmM1N0lSMzd2c0JJbU1QN1pfaDFxcE1OWVZPYUdvZ3BsTWcwRU8zaGR5UWJxZFJRWWgyVFV3UmhN?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-23T17:47:00+00:00",
+    "detected_at": "2026-11-23T20:57:36.621498+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "8546e3b871aa0ebdc243",
+    "title": "Jensen Huang is back at Nvidia, and the stock market is surging. Can it last? - MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR2FodkFXZnpMZUVsNEpoUEdkS0V2RXNxN3Jkeng0NWtHZ2hmaUVOSjFodGpDdGV3dnJHSW9Gb05YMGxlcWNUUjBfZlJDanFlR3Z1Vm5ld3RnWHNsOXRUV2hDczBfUW9XeTh4RF9NM0V5NDJyejdHM1ZKZ19ZcUZqRTRzSEVxQ0N4Wk1wemt0cnNUZGZObWVMUDZWM3NjTU8yZk15d0JzaVZCSHhoZmQ0VS1rMVQwYjl1bDR0dGZYY0w3YTg?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-23T14:37:00+00:00",
+    "detected_at": "2026-11-23T20:57:36.621198+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
     "id": "f0e082b607a336091fbe",
     "title": "Bitcoin Core fixes bug that could stall nodes for 12 seconds - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51RWh5TmRqN1huQ3JVOHZIc0FKeWtQajFwZTQ2VUVrRlhwWlhxd0JuQU00T2ZQa0RiMWpwaFg5aTE3VDRxcGdPSVlheERNWExQQ1kySnRTaXBRei0w?oc=5",
