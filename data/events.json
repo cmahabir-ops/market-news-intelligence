@@ -1,5 +1,675 @@
 [
   {
+    "id": "7c258e94ead4de6de648",
+    "title": "What Is BOB Coin (Build on Bitcoin)? - Kriptofoni",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxbHcxeU0zWnR3SFdDRm4xYlhCTjE4M2hKSHJzRXI0M3FWQTkwLTE0Q3hZXzRtWDMzYjB5YkFwZkx3MUsxTjNPX0dzWTdza2c0UzZDNnU0elh5bzhULXRqd1ZBam5uVHdhOFVVNDhpaHVaZw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T01:04:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.495937+00:00",
+    "assets": [
+      "BTC",
+      "COIN"
+    ],
+    "market": "Both",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "c45d0e20b2944c3dfdc5",
+    "title": "What Will 1,000 Avalanche (AVAX) Be Worth in 5 Years? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSzAtRlNMb3dSTDhHX1Jub0Vka1Q0enFJWHFaMW82M2Q1ZVpGWUtuclh5YXprcHE4VkVtNkVEN3JDZFNoNzVZMTZEUlUzSEdUQkdFTmUxOWotYm13SW1VNm9scVcyQ1hrYjVFWlJwdzFfOG8zOG5XdDdSNkVaZ01FbTlHNDBLZkRRbzVET0cyZy12dXdjSEZRMTZENlZLWG93RG8tT0tzUTY5YUI5?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T01:22:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.495863+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "8cecea3b0ff334a84f59",
+    "title": "What Could 20,000 XRP, 20,000 Stellar and 20,000 Hedera Be Worth by 2035? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUEs0Q2tiNjhNZXRRQXpISHcyVE9uc0JRbHRwVHlpZDg5MXduekcyM0thMENQRWx1a09IWXgzNnBsTGlpNlU2ZW9YTV9IY2Y4T3dNVVoycmNxTExhTVVQc01MMFNjNFpjUEFaMVdnclNPRnZaTVJmckwwb0lJSFB1dXQ1QTZ3OFJPVUFGb05ON2ZVVkNfVi1aTlJfQWJfZERMbDgxVFBtWFBzUFJja3VzM19WbDFoUk1hYklHcjdVWGpBZlNKdWc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-23T21:58:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.495753+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "8857cfca80135eff41dc",
+    "title": "US Files Action To Recover More Than $1 Billion In Cryptocurrency Assets Stolen By North Korean Cyber Actors In Binance Hack - Eurasia Review",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTXM2b3ZkNURWQmFmcHNUdE1CaExtUUZ4R19sNDJEM2dPUE51REZiVkFJYzZMcEU1N1IyNHhvazhRM3hvaEl6eTZIOFRHZzFUWW9sY29YeUdPakMxSUtaUjZSbTBIc1ZXdHB4S2xJVVFkRHR3eFVVWDBtX0NYbDRzaHBoYXVBWkRCNUJsQ2FxV3JVN1N5U0lNclczZmdpdERYeUhJMXNmUTllOVFnVGdWMHZreVduUkJuQmFyOG1ZRU9WWDZDcWdKRXg2OWc3enppUTFCSXNNWFFfRV9KMHBxb04yVVhpMmItUVp4Ym5wLVRWVVRIeFE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T01:53:35+00:00",
+    "detected_at": "2026-11-24T05:21:09.495637+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Potentially bearish",
+    "significance_score": 2,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "472756942c595c725624",
+    "title": "Crypto Market Rally: How Jensen Huang’s Comeback Sparked A Bitcoin Bounce - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeW0tRzlXc2cwRldLWm9uOGRoa0Z4bUxtRDZkaTZSOElGNkNZQ1hMSmRVR3liVDF1bGthakRTR3NZWTFoRU5QQ0d3Ni1qQkVBT0FXVUxRcmVzNlVjQ3lSbkZPNkN0ekJIaG5VSU5oZ2RkZm8xTlYxT1dwdWhWZVhPMnU2aFlRYmczNGR0VzBoNmNxcXllMnlMSnctYTdtUzNRYTk4b0xEYmNYeE9DSmthetIBtgFBVV95cUxNd1NiZ1k2QTRlaXljWVRFOFFJWXRCRElUMElYWDZPUHdxQjZIYmNPNkdaSWVoRXJ0QlNMX2t2OXlRZG4yRlJ6ZnRtSFotMjRLU0R5M0ZOM2RLSWFyWDBZZXRKLTN4cFhqUUlGa1l3aXp0WnptLTA0VS16QXBEZGxSRzZIRklkVktUOW9ua0hWZXJ6WTBfZGZnUldjckdiTlh5UnRyVUEzdWtVYVRXQ2tYXzJablhzQQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-23T14:42:52+00:00",
+    "detected_at": "2026-11-24T05:21:09.495498+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "eeb7d6a7717f6355f8c0",
+    "title": "Will Chainlink (LINK) Recover in 2027? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWs2RWlqTVdvNFFYOHdJNm1TeFc1WXZkQ2I3R2N0M21Ebk1GeFl3eFBFQ1ljSmpOWnhxcWZVMzlnbDNvRVg0cFpER2JVTkNLc2RmdzA5MUdEMnFoVlVUb0FNMEVzMjdlUXlDblRqa1pnVWNJdk56SXk1UVJkLXVnY21PdW5WODhLeEtsckp0VGJsc0dILW1zZTBR?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-23T22:53:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.495409+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "202fdf904e0e5d7c6c9d",
+    "title": "Bitcoin-S&P 500 Correlation Deepens as Halving Cycle Loses Predictive Power - Businesskorea",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HNmFwekJYbTd4YmttcjlnV2RQdDZ2SFRyX2I0aUM0cTdRQ0M4V084eDh0Nk1LeXNMQlZZdHJXOHVKTmlmVTJVNnFnNkRPamhad1BrWnctQWdlSkJmNlotRWNOYkc1R2g2b2dQbnphbk0xWTVN?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T00:29:23+00:00",
+    "detected_at": "2026-11-24T05:21:09.495339+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "840a522cc6c150484be6",
+    "title": "XRP Just Formed a Death Cross: What It Means and the Levels to Watch - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONFNldWZnTy1zUEpsdHJDR0hnc0w4VUpTT1k2Zl9UZmRFNkFvRFlwbEh2cXFCdG8zNmctc0xNcW41Ml9QcnZEZWhTMWctb1Y4RFpRVlMtYkVUYXFXR1JSNExuWmpic0V4M20xXzB3Yzl1ck1wemV3NFFlbi1tMUo4eVZ6bzFoTzJXVEhqenU1TjNNSTdFZ281Z0R5bVlORlhtSHItSHNwUEtfWVRHTUxUMWgwNTlGYlU3aXFfNlJKQ1NMNE8y?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-23T23:53:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.495209+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "cace51534b112545b4db",
+    "title": "What Could $500 Each in XRP, Dogecoin and Shiba Inu Be Worth by 2027? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSi1zNEhuMDJnUHhTR3ZpcEN0VUVIa3FBYnhjUm9xU3NyY1ljMnZ0LUtGWnNqN0ZyMkxydUNqaGs3dUp0bnlkaXhZcmFtYW92V3pmLTRmOEl6eUh0Z3h0cW1mbTVJYW5pbmYxWERIdmNmcXI0cDloWGNaN0twWm5HUEEwMm9LNTdtS1IxSDRZMWxRLURDd01EWTY5T0RqUmFoT053QzRwb0w5V3FQZ2c2NlRRS3dnYnlVRk5ob0JYZjRQSHM?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T00:57:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.495102+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "3635b38f14afa50fbc75",
+    "title": "Bitcoin Miner, Crypto Stocks Skyrocket After Nvidia Reinstates CEO Jensen Huang - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXTnpMWWhSdGZFUWp6aVpIczBGM3VvZ2ZGUURMeE1LbFFfYzF2c3FjbTNzYV9lOExQRjVwczhObFpzdGNxb0lZNUdLaTdXcHhtdjRMV2VhOUk?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-23T22:39:17+00:00",
+    "detected_at": "2026-11-24T05:21:09.495004+00:00",
+    "assets": [
+      "BTC",
+      "NVDA"
+    ],
+    "market": "Both",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "c767f397cff502ce94f4",
+    "title": "Is Dogecoin a Good Investment Right Now at 6 Cents? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdnpvT2JIS25yRFNvZTFMTU9aUXhSX093OWpvMG1QWndxMmhUN29oYmtwaWtlUHFXZjRuOUpFamQwY2h5UGIwUTNJd2tZNzNPYXRVUl80SEMxVGdUeEJpb1ROM0hrNEJWVTMweTBTTlBuakptNDlqcVFaNVNtck9lRmFVLVlSRk5Bd01BY2ZlbFlheW1Cd3JudFM0SGN2dlVWeXNxUE1Wd2g4cXdCaEE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T00:08:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.494872+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "8b15d3ba73539bf91119",
+    "title": "Which Crypto Under $5 Could Double First in 2027? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0kxYnQ5TFllcG4wNTJuTXFXUDl1LWRUb3otSF9RZzJCcTlLTVZYeWtfbUwtbVVfNGV6V2NWNThFNlRaLU5GM1RCT2RBYzRFTGhmb2dXQ2NpMnduSWs5eGs5VnU2YVlaSC1LSllPNW5EYzNHUGc0VG40b1dvclBSMmx2Mi1vMzdNTzVqOW52TzdUX0hlekNGZF96dlFwZ1lKRnhhejRoa0VHZw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-23T21:33:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.494789+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "e26ab98ce8838446ff82",
+    "title": "Jensen Huang-Themed Crypto Rips 90% Following Nvidia Reinstatement —But Here’s Why You Should Be Careful - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdXpEREpDNWhFb3BBejhqZXo4Q2d1VnNxR3hhbnd4eWVhLXNiT3R3U3YwNm55SDBOdkp0cHVuQlVoMC1qLU9hdjZKU3J4bHFhT0JTVGIxbkt3U2VxVHBZSllFeHlhRUFEZ2VHcFFDdnhQOWZ3UjMwMTVUSTB5YnVnbGY2TGZiVS0xTEE5NElfdmUyVHdSR2ZuTWhETTFYVG9KcndTUEd3?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T03:47:08+00:00",
+    "detected_at": "2026-11-24T05:21:09.494696+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "7a10df8fb479523a7f19",
+    "title": "What Is the Best Bitcoin ETF to Buy for 2027? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZUFXNVZZeGwxY2cycDcxNlUtdmpUNURDY2ZsazVxVjlNdG5lWlJJVTdJZXJXOGo1aGJsZnhKZ0pENXV0N0VLMW5vNDhIaEtpMG9QaEVzVDBUSjBjLVhmRGRya29xRWZrTG9xRzMxOUdWdTZrWkp2ZjRCYVp2bnR6NEFDWWtPVGFrYzFpVlNoUG1oaFZQakgxRC1VOWpmU2tYRGpTN25R?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T00:32:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.494558+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "1ba398cc19f40dcdc303",
+    "title": "EU unveils new sanctions against Russia focusing on banks, cryptocurrency, and sports events - European Interest",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3B4cENwNzY3b3M3ZmJrbjk5YWd3eFBsMWdqaWtRUjYxQ1dVTnRBWGthUnprWU5hVFZhXzVibGRWQThtRDBEdG12ekFFTmdyV2tOdEY3V1A4M0NNNWNVOUl0SHRNSFRObFJUUU9mMGJUYVd3SlJma05XdmdpaG1YMHN1YmZEQWNkaGw0U0hmLU5yUzJGWmhGZFA5Q05SWEZvWUFsaV81b2l2WXUwejJfV1Q3TWhVc3U1NWZjQzhZOXk?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-23T22:19:30+00:00",
+    "detected_at": "2026-11-24T05:21:09.494485+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "fd9793b6dec8144510ff",
+    "title": "Is XRP or Bitcoin the Better Buy After Both Fell About 20% in November? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPalhWLXpDNUtpWXoydDE5OUtGZmx1YTJTVmE1N0pZNkYzdlZZdFJvWDJ1ZkpMNjk4OTNiMl9IVWgzQ1ZHd2dDQ1c4dWktVFVIZFdqak1rdWY1cWJrSFRoeHA3aDQxcGFOU3pmcGpmTGNrd3E0UTAzblFmclpOTXpzVzVtS2pTZVJFMG5vZEZLU1JwZl9ZN0V1bXZmVmNocUhvS0YxVWZFaENwdG1kTko2UmtXMF9UQ2hsN2dabTRLcjhmWmc5Q19J?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-23T21:38:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.494336+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "cd4a7ddc2b2b7427cd70",
+    "title": "BTCS sold more Ethereum than it has left to repay $43.8 million in debt - CryptoSlate",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOTctbW8wc1BPcUwtSlBRM2Q3dzI0UlhZU1lEdVFoTkREVkRjZXNERXdQU2lLVXl3Z2ZtMVFNNE41WWJRTk1vcnpiV1FrWVFUTThUMl9aUW8zbGswUUJXQ1JiMms5Nk55bFdKa0RyZkJsb2Y0dld2eUxocVN4NE1VSkxjdVB3Q2NJdWVSZnR2b3VqbmNnUHpjWXRnTQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T03:40:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.494230+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "d364d71ec17bfe388ff5",
+    "title": "Bitcoin Loses Ground to Nvidia as Huang’s Return Sparks 30% Rally - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaFFWb0pjU3ZDb3ZLZFVSeDd6amExWFRmMmNwclRodnJNcG1WOXRMaTF2YVYxeUdsZFZNWHdRbGhJcW9TbzQ5Y1NiclJYa0V4VTdwMmZZM3Q4bnhzbTJ2Uk5yckRKMVJzcFFJQ045UDRuRlZLMWtsejBlSlVvZE10aERpQmxReG9pMjRkcGVWZi1sNEVLSERRcW94TG9aX0Z6dmlGeEpMSEVhNWlRNEFmdl9Xa1VQbmtVYU1OZVZBZmlDU2M?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T00:30:07+00:00",
+    "detected_at": "2026-11-24T05:21:09.494136+00:00",
+    "assets": [
+      "BTC",
+      "NVDA"
+    ],
+    "market": "Both",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "71095815731cefe068c5",
+    "title": "XRP XRP (XRP-USD) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BNXk3d1d6cTFvMnpQekE4Vmh2YS16bTNkX1k5YnVleHpKNDExNmZtR19ROTJrWXFubVFtbFN2b2R1QjN1bXhxaGZnTU5OM0h3R3d2M3FR?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-23T18:06:46+00:00",
+    "detected_at": "2026-11-24T05:21:09.494054+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "09d449b16e49960db2a2",
+    "title": "Crypto premarket wrap: What investors need to know before the bell - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmlWQ2VUQ3J3T25xeTRaRnQ2aVpFem1SOTIyQldSNlUyMEJseVV1UERRT05URWlLRkEyNXZTMVVydW9lQXlaRVo0dHUzVWNTaS1IZldEN0RQTktLcGF3el9xWVJEdXY2LTFtb195ak81TkJmejdZd2JkRzBJdEMyMDd4cVlja0FkdTV2YUJ5NEpDeU52eFJTZmdHSmZoTTRQdDYw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-23T17:05:24+00:00",
+    "detected_at": "2026-11-24T05:21:09.493943+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "b2fb82acd7e56a23afef",
+    "title": "Is Bitcoin Heading for $50,000? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTZ6UnpGdHNzTVZxY3RhZkJGNWFzTWJtYU9JQ3B6OXowa0tGLW9yS2x1RVUtdU5sZVlhTWN3QkpXYWlLNVp6NUFYV1ZTN3dEUGN0TmtEejF3N2MtQVFOcUpuMWYxZkY3MnBIblZ0N2RROE50alg3UkV6dTJHUlM2YlFQenByZ0xQTmhhTUVUZnA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-23T21:49:02+00:00",
+    "detected_at": "2026-11-24T05:21:09.493830+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "c17b33de95500421e2ea",
+    "title": "Tom Lee Explains Why He’s Bullish on Ethereum, Shares the “Hard Money” Case - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORVd0VHZoWThDek1YRnc1VnFtWDJocDNNZG9xd1pDS1dKcUtva0Iyc2xzNVVYWm9qcnl4aTRvWnR5QmR1ekxucDE4ejFhSzJOTU1DRXFXbEhOVTdneGd4R08zU3cySF9rcmF6MHctdW9DdDdycEhGYVhjWlJmVmtfTmN1ZHBpa1lGY0wwYlpTNmVMd1ZHbzl6MQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T00:33:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.493767+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "ff6165c6ef04317f9c40",
+    "title": "CFTC staff advisory says crypto can count toward reserves, not liquidity rule - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTFBqMlN3d1A0RDl4WE5qRmF6anNDNXgxUDQzQjhMLWk3Q3ZyeW8yZWVja1BQTW96cjVjeXlaRUQwRnR5SHR6WllQcDFGRTRBY0tqWmhLZlZnNlJ4MVZPYk1IWTlMVDZQRE0zRTcyX0RGSnhNcnZ5WE82WHpWVDJYX2cyV1BPcVE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T00:17:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.493672+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "9cdbd125e4a5bffb36c1",
+    "title": "Bitcoin And Ethereum Get A Bigger Role In US Derivatives Markets: Here’s What The CFTC Changed - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeUIyeGhJSlhzM2t4TmdMeUZvM1hoeEh5WmE4a1R5RDRUX1FCeW9EQW81UG9LS3Z4Wk1PNFNva056QkRRaDh4bFowX2tRcGVSQ2R6bFkwTWVqTno1N0VBbjVGXzBGSl9xR2U4NUpWOFdGQnh5WjdqUlljUl80QzdoRVVFWE42YjJhcUtBMGY2eGFJUWE3UEFmajczS04?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T02:51:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.493564+00:00",
+    "assets": [
+      "BTC",
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "081546e03258de7a2b72",
+    "title": "Justice department warning online dating users of scammers using real women in cryptocurrency schemes: Here's what to look out for - ABC7 Bay Area",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd1BBaUhOZkxFUVRSVGo3VlpzaUtodmRLS29tbkFjT0JldTJ2bFBPNTF4UkNOMTdIaUYzVV9JRktTeThZRHRna2tFUVBvR1NpT09ja1FKdWlmdUwyQnpSb2tBRWRnYmVzb0gxQVRhOTd3ZE1ybkFQUEVEem13Ri1HTzJRTHkyVTh3TXJhR3Utcml5S3loa0dHVi13SHlJcm1feXJ0RE8xWlhNbFZNUHE1aE1zemJoR0Q4Smp3VmFQUlZkUnNtVzF1cnlRYXdCb1RtcGhLc1duaTYyYWpUNzlRQdIB5gFBVV95cUxOeHFWLWJzUmxyTExIUkQ1cG95Nm05WWowaWx5NmozTTFjSTdjWWRvOERnUzA0NGg2MUpaNVptNVpUYmtTN0JSbmQzbHVzbDNZOE01R01faHZlZ0RlTEk5eU9DREpUekxNa3ZHZEdSVElqX0JtQk1YVmw0YVkwSmNBemhFQ2ttNUppbWtIYmg0YkVnQnVsM2VZTlBncjRKbWRYSFFpYkdZTXZJdkRGQW11UXhYRDNBNS1hMkZ0WGtsSWhVX3FpTUtpbk9EX1M0c19DUGU1aklDNS0wOFhlenM1M0pBdjdXQQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T02:03:08+00:00",
+    "detected_at": "2026-11-24T05:21:09.493444+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "f76c6c466b56b62fe6df",
+    "title": "How SEC's Federal Crypto Enforcement Docket Is Changing - Law360",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4WFYzMzNXOTRucDR1S0JJamJkSGFhdVlHRFZraDZyRFB5eWc5UzZndVlQcmFyYWFVUlhwUEJFNTNQNVlfRXQxVU1fNENIVmU2Z3FHclhB0gFWQVVfeXFMUDhYVjMzM1c5NG5wNHVLQklqYmRIYWF1WUdEVmtoNnJEUHl5ZzlTNmd1WVByYXJhYVVSWHBQQkU1M1A1WV9FdDFVTV80Q0hWZTZncUdyWEE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-23T20:57:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.493297+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "5d44ee4c6a0178f6b60a",
+    "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNblNTaFcybnRPdTZmRWpWSzduWnlkT1NCeFhZZnZWWlVEaDhYZ0dTY1VjdFJuM3NZaHdpNFlDOWkyNHZCd0drdmJPakJUdGFJSzBFeXNlT3lVVE0zT1pZMGctOWVEcWp1SE4tTW9XTUZhTnViT1dZZ19Xam52ZkhyUVozUlljRTdCNUduZ1RhTnJDMFhBYlI0b3E3b2N3QUczY0N0UjdjNEF2MlI2ZGxodnBTNGt2Y0Uzak0xejBWTC1pUU5r?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T00:25:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.493203+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "8bab5410b33b3f7d590a",
+    "title": "Grayscale says bitcoin and major altcoins look 'oversold' as AI risks cloud near-term outlook - The Block",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNVlIbVU5SFJHYXFOazZKU3Nub0FPX0l5c0lfXzQzNFFtUnBBbXZWUzdaZGFac2tNbVNBSVBuVmJPaXhKNGtXQ1hlcmFSbzRqd1AyYjF0UHNGUHItVnoyVS02emlSTmV5Q0pQSFg2QWR6ZXhvTkl6R2lDUS1wVzNoYU5Da0ZDS3ozaXVHdkFtR2t4UDBPenJJS01veWlJb1JJbkFRbm5WQmF5S2JnaDVJWk1GZnc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-23T22:18:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.493094+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "b044b4eebb26a157b468",
+    "title": "Trump’s new bipartisan SEC and CFTC nominees, and what this means for enforcement - Winston Taylor",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRjlaaE54VFBNRzlCRnBqRmFBR0hHRGZFcEZ5QlY5X0hFN3FPVXQzNHl4cU5vMmZONFVsd0RkbjVfNTI3VUU2cmgwVmgtLURaVGZkMU9YTXJfQkVyd0FwU1hLZjRXZmlUMUxaV1ZPZXFvTFUxT280V0dqQWZoRVdETU5JcmgtQXdTeE5HMGx3cWJHSjRibkRzLTBWY21WRHFEUFZMM3N6MjFKQ0dtQWFyTlk0OUJvdGlGdXc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-23T23:30:18+00:00",
+    "detected_at": "2026-11-24T05:21:09.492973+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "1883dd029c3589e917df",
+    "title": "Crypto Market Today, Nov. 23: Bitcoin Sits Out Wall Street's Historic Rally as $1.8 Billion ETF Exodus Weighs on Prices - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdWQ4bjBaRlh5OURIMmROZkljd0NiMlRZcU43MURTZlFqcFppdlhrUkJNWGdBc1lzZWFQU240N05abTN1ck5WV1pnZE9fQWZCYmZFZzd5YlFYaGppVm1vYWFBSXl6RGhWQWdvQlNBZ0RQMHl2R21hdlVlbHZtTzN1TnZidVFEX20wX18yWnNidEZnMWxuMU9WWEV6QjNtS0diM0RZWlNCVU91TktuNUoxQlR5Y1M5OGh4QldzXzZSaEplUnNqenJVWHZkbnVMbEpzNUQySUswSTVXeTk1UVZxcVNuX1FZRDlkVmhiLWxRZjQ3amgwYVgtbzlhRU5yQ3pZc0xKMU9tVnFuUE0?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-23T21:55:02+00:00",
+    "detected_at": "2026-11-24T05:21:09.492851+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "410fb20cde0c71b3ea7a",
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Gain Amid Crypto’s Relief Rally on Jensen Huang’s Return: Analyst Says B - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTFpXUGJkTmNIenphb1BFdUJYY1hjbE0tOFp2WU9HWldra0Z3MWpObkxGc1dGbS0xUlRMZHdGUkhxMEVRR1lpMjJQYloxODV2RnEyN3MzX2Eycnl4bmc5LWgyd1BDcFg5Q0tnLXFobUwxTWFqblJXa011Zlpuc1NQY2liSDB1dElhakticVNyQUE0WE12YkNFVlJSTHgxeWV0UkRRRUlUUUd1NC1Xd0s0bGN3?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T01:50:48+00:00",
+    "detected_at": "2026-11-24T05:21:09.492726+00:00",
+    "assets": [
+      "BTC",
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "d76a4a88845afb53dddf",
+    "title": "Grayscale Calls Crypto Oversold as 21Shares Sticks to 2027 Bitcoin Forecast - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmhaeU1PUU5tamctQ1JkaGxIdUtuSWpKdnI0UGM5cnhNaVU0RjA0WXR6eldZdkdyS2tTSlBxRkJuX25DZ2M0aE05TjRfd2lwejlHbTIzTGw1S3YyLVNWZWJCLTMwejZ2QjRlRWlmZ1lRODJmUktOa3l0NGwtV3Bra2ZDM3pZMkNRQkV0RXhLQ3BKOVU1bU9UanNtdzBPak1qVzZwNGpBNEI?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-23T23:53:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.492608+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "511ec88aedd831aa3703",
+    "title": "Justice department warning online users of scammers using real women in cryptocurrency scheme - ABC7 Bay Area",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LR0VrNEZlYzJLNjlOMExuUndyNmRTLXF6TTJWeFRPTzI1T2gyQVd5VVNFWTNlMGZUbmF2NWNSQzNGaGpjQkdGb21TYlFMZDFkTVE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T01:59:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.492506+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "b3b0d08804b730a4976e",
+    "title": "Bitcoin Fails to Hold Nvidia Bump With Crypto Headwinds in Focus - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOEJWNUpxV1pydU9OT3Z4VnpWc2Q3dThJb1pwZXg5RjlBeGZBRE9SaDdqYmlMS3ZIWlBBNFdDckp0bTZRT1FDajNVV0dGZ1pRLTdFdi1mbjJxUG9PVGlWUXJxOEpqWWpaMkhadUJTVFVLRDBBOGFwWHJCQmYxaGtfSDJqUlpjWFRQN1dUakdjNEhaM2g3amVXZ05kVU9IbmMzNVJsNVNEb2M2Ul9Cd3ZybHRJbTdzZw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T03:53:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.492383+00:00",
+    "assets": [
+      "BTC",
+      "NVDA"
+    ],
+    "market": "Both",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "eefc14988572fb772043",
+    "title": "Stock Market Today, Nov. 23, 2026: Powerful Wall Street Rally - STL.News",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HWHo1Z1BzSHp6ZGxYWVRZZmdRSGhTZjZWV1pZR3h3bnVyTTBhaHo0Z0F2c1JzU1U4QWRvRGZBT1g5N3BRcVpsSmw0YkpYMHU0XzIxSDEycnI5NFJEN1NIMThuX2lFcUxoUnhYeg?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-23T23:44:54+00:00",
+    "detected_at": "2026-11-24T05:21:09.043966+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "21f4cf6680fb99786eda",
+    "title": "Gold rebounds for second day to touch US$3,666 as stock market recovery eases selling pressure - 联合早报",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSENPMmJtMmttRzdTZ204Y010QWpEb2JWZmt0bEFDTUxXejdqblpGV3RiQk1ZMnlHeWhUMmZMNjYwQklXV3ZibU5QRUl3cFJUeERKUFNRUWNGVHdvQU9ybTRrQzNZeFk0SkIyM2JDZzFURWtpUlNpSWdwclZOb05VQjhRNUtNZWJsaDdnZzF2aERFT0dMd3EzQUpmZ3J0X2tfUmkyTFFFNjI2TXFMOU8tWHJQN1VDTEVrUXJRaWEyZEMwaWs?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T03:56:39+00:00",
+    "detected_at": "2026-11-24T05:21:09.043876+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "0f650b72d87ee9ecf192",
+    "title": "Spot gold gains 3.5% on 23 Nov after hitting 14-month low - Nation Thailand",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IejR5NzI3XzRTWDE5Y19XRGtHRFdXNnZGdlpDSHNpVlhUYmZJd050RW52UjN6cEdrWDNQc1pqeldwZTI5dFRiVTlEYTdienNIdFpqdkJhSzQ3SUI4a0RaMWZ5Y0lqXzZaS0gyNkZaODRUaHlKSkE?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T00:36:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.043750+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "433240994fb2b495cbe1",
+    "title": "Arthur Hayes Says Nvidia Rally Is Worst for Crypto Holdings, U.S. Stock Declines Could Prompt Fed Money-Supply Expansion - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNM1ZELUI3amV6LTdHSW9MZUxNdkpjOEVoYTdTLXlkTC1FMWxROENxenN3ZVVSWGIyT2JfZm1Id0JOWmdTY19QWFYtbEk2UEx4OG5vM1Jtd1pLdVIzMDNTcEZvN0VnQTQ5Y1JkSTA0Tzh4ZmszRlJ6bC1veUZJWmdJaThKX3FCM3pnNlE4WEczSkF3dDFQME1icUFQZ3pSUEhfMHczcFVyWWFJZ1hPRWlycHpfTk9tZXZiUjczcmhVbWh1b1l5MHFqaDhIT2VMU0dzU3g2V3R1UDlZeFZWTTRGR1VZTXRkTUN3R1ZSRGE1T1BiM1JCNjk1ZGtIUVZRUEw0YlpZY0VYQkItU0dZZ0E?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T00:24:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.043656+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "2a8c2632c94cf804b023",
+    "title": "Fed Chair Kevin Warsh Just Laid Out 3 Scenarios for \"Super Intelligence.\" 2 of Them Are \"Less Positive,\" Including 1 Scenario That Outright Disappoints - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNS0pGajdrUDJXYVBPVU0yTmJUbTI3cDg0VUI1bllXbkROODlIbEFocFpsdExfZ05Kc3UxcFFEZURIeDdwMGtPZkVMV1p2UEZKZ3JZYWp4VGtKYTF4dnRobzYxMmdVb1dUUFFqLXA5bVVuNVQxQWFxMWZzY2QtTHRzazByTEIxck9WWC1qdFhhS3FjYXlsX3pNeU9Zd3NydEluUXRKWkU3S2NtMk1JMTlFMlRwMFhpVkQweGdBTlJGQVJOdHpqV3VNRUs1aHZDZTNEcjRSYUNIci16cmROWVV0Z3B6T01aNmhXSWxxZmdvNWJZTW0yNzFjcTBwd09JdkpVQzFSVDZCTS1zYldGc29Pc1F2SW9rdW8?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-23T22:00:03+00:00",
+    "detected_at": "2026-11-24T05:21:09.043493+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "28eeef80f11ce8586bc6",
+    "title": "U.S. stock futures steady after Nvidia-led Wall Street rally - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFkzaTBpMy1QY3pYOG1fR1dlUG0yZ0ZEcEtpYlpXeGxsNXZaQzczVzlTLUdSOXFZUTlRX2pDd0F0TVRfVmpLYng2ZUE1NU9hSVVLalVxcEVKT1p5Uzd1S19UWDVVUjJNb1JPSmRUSDVEYUVkMElmSzU3eHU3dDhzSktWOXRjOWV6YkZWMDc4WjBqdm5aaXpXaUJ3?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T00:48:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.043319+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "e156975744905de328c5",
+    "title": "US stock market today: Nasdaq Composite surges 6.5% as Nvidia stock jumps 30% - Beinsure",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVkhhLWZsSzRjYjY0NlU1ZDM3ckpSS19QcFFhMVNGYnB6LUpvbVFqYU03ZS16ZHdMa19oT3RMZmlITFFzcEpNc1lEd1VHT3RkVU5wSEU1ekVUcEkwZ19ldDY0emQ3ZTdGZ1l2ZE5wamZOWlBaUGwxZFRhQ0dxOEJ3ZmJsTkRtVFFtcDVCckxXYkN6UQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-23T19:24:42+00:00",
+    "detected_at": "2026-11-24T05:21:09.043225+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "57d1ab9e4ce719745d6e",
+    "title": "Emons: Markets Have Done Part of Fed’s Job, Will Hike Rate in December, Pause in January - Kathleen Hays Presents: Central Bank Central",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Fanl5RzFkbFZGcl9ud0M1aW85bkNfV2hkbkYzZlpySmI2TG85bjM4MXVua3FBRFZhb1p2TXM1M3R4NXo1d2MwcDhwdUZtYTFoMmMxZ3M1SmQtcEQ2cjVZM2U2V2h3YnJWZVJnYkdEamZ4MjcxeG9hdzA2ODk?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T04:09:43+00:00",
+    "detected_at": "2026-11-24T05:21:09.043115+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "b5cbcd29e54af1e4be42",
+    "title": "Confidence Revival Hinges on Return of the Federal Reserve’s Put - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQnRyNm1PMkprSHJzU2JHVEh1RGhpVGtZbUZyenhqZVNTUU1Gd2otaTY5UG1rdG95UWUzYjM3eEdsMEM5OFNqd0lOanpVR2F5dWxNcG10cWVLY2U0clp1emV6QlRDWnI3cmlTUV9OMk1KdEdTRnVFeG91bWNGb3A3aUtIVm41ZXF0ZGdFR0gwSjM2bnR0TTd1UHJmRXFObEZYUUk5bzZDcTNCd0NZRmtNNnFIblc?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-23T13:27:49+00:00",
+    "detected_at": "2026-11-24T05:21:09.042887+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "5662dcef387849482455",
+    "title": "Federal Reserve has ‘work to do’ to lower inflation, Williams says - The Business Times",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS3RDRnZKckE0N25KTEdFb0xFSlFxYU5UdUJlNTFLTlRyOHhLbWlFR3ljMjA5Wkt2a2hIMWkyc0RxTWt5YVJMWFRpRTJSYjgyalF1WkdiSGYxMnNlZ0lOS0JmMkNFeEEteElnRXVycXJLZUx3Zm10blFiZkZEdkQyU2MzSW1iWHoyNjNJaGZoS1hPdHZJRUV3SWY2VEtDREJVX0pVNTN0ZkFLcUQzdGM5Tll4bGpodFVpNVRrMUtmWktjUQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-23T22:38:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.042803+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "9e58576b0ba88958dd8c",
+    "title": "The Last Time the Fed Kept Raising Rates, the S&P 500 Fell 25%. History Says Long-Term Investors Still Came Out Ahead. - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRUZCbjZNS2NMWjhiM3ZGdmxTYkQyWEZVMnEza1kyQWFhVGMyT25RWGlkV1lJUDI4UE4tbGZwb1BrYWhRd1JCTWpaNkVQVWlWY3U0eEd2Q1R0OUhIZ1RTLTl5bDVrSm1WRk5zVGp4VE1jYi1IUHY2MzhpWGlNZ2JxTnFVV3hnalJSaGFONmdWVERxZEl4WFFGMWZNV1ZnWEhMcV9TV0NMYWdsZTAta2FFYmxRd09iUk5oMlRKYllVaVg1YVUzRTNDYzVqUktHRF9GQ0p3eEZXeDFNMlpS?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-23T21:18:10+00:00",
+    "detected_at": "2026-11-24T05:21:09.042648+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "5230f7ef60b6d9ea3fda",
+    "title": "Bill Ackman says Federal Reserve is 'about to make another mistake' - Fox Business",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUE9HVW1nMUdjOGFRNk5ndXFqUmZRZTRQYnlaUnRZdDRCcFI3RXlUNWNKQkRfeHREMDUtb0pyUWRBTWVra1hjVUlSZzhMVGxiSTExVmIzUWtFTk9wb3VuOHNOVkdyNXRURjFUSTJpLTRaUTA1UUd6S1JfMkpLVUQ2Q3VJMkQxN1FQa0ZFMXNyUU1takl1WlEwRDBNTdIBoAFBVV95cUxNRHNsdWxrWGhsRlFiSDFZclhXNWFfMHY5Nks0MXdWMzh2eWdjNHFMaGFzNjNjODJkTmJWN3FnU2NzQVA4d2x6NFM3VjRCUGd0bF92b2xlNVNiS3FaOC15clZxM1daOXhCai1IZXRRUGVuRzV3Ml9pamMwZFRiSTN4Ull5bk4tQnpISmxWYjBHZjJ6WGwwd0xQalA2dVJzN25W?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-23T21:47:00+00:00",
+    "detected_at": "2026-11-24T05:21:09.042468+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "e111c70667c6faefd3cb",
+    "title": "The Fed isn't riding to the rescue — Wall Street still sees a December rate hike after tech's worst week since 2020: Chart of the Day - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNZUR1MTlERXpOM1pMNmNIb1VzalZvZldna0dhNlN6dG9ZYl9NT0tNTWVlbllaUjhFT0tkdjBmTDRFaUZhb0hCYkdwOE9GR3RxYjMzWUJVbjhhRmtMS2NubUNrd28waGdhQ0ZfLTN4U2duc2E0QnBscm1GNjNvWFozMVUxb1NJVXJRdXQ5MHRYcVpuWHFrUmp0d1hHUEVWZVlUVFMwY01jMnVwaWV4MXk4aVk1cHFrcFZUYUUwWjhDRG5iZTZfRFRoLTZ4TkdtMDZYTGIxYkNYaktQVk1sNU1kVFdNYXBHRUtabWZ4TlUwYVpaZUF6ZjVvbThwbEtlRGtfUkRzZnk5OU1KeHZyVF9IQktKbTE?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-23T13:26:37+00:00",
+    "detected_at": "2026-11-24T05:21:09.042364+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Potentially bearish",
+    "significance_score": 2,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "382fa2a2c23bf5b9f243",
+    "title": "Fed's Williams says inflation still too high, signals more rate hikes possible - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3lvbHFTMGFKUm9paUJYVzFoQzd1QnQtSzAtTlZmSlFyRW5Sc1hic3p2MVV0VWVrYjFkNDdQZlFTUWMzZGFueG5yMTVMcGhLWUxwQi16Ujk5b2ppMVRWTGowaHlMZDQ4Z19xbWpCQTRFVzFHSHhxeW9kbG80OTVtSEZsb3REX29FRFFPR0xzTnFjYXh6?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-23T23:38:48+00:00",
+    "detected_at": "2026-11-24T05:21:09.042183+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
     "id": "8375d620c6cc5c448c6f",
     "title": "Bitcoin ETFs lose $4.57B in 30 days as withdrawals persist - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RYjRhUUxEeHlMSEMxWk52VldWRk9oMmJpVGNYdHdRWHpsX05wdlAwLU9BZXRCMjhwRF9tWDI4WG9zZTVLaEtBUmVuMXhpQXltc2NWVkFsRFFzS0pEZEhnbkdvNlpyMlBmaXEwVDNn?oc=5",
