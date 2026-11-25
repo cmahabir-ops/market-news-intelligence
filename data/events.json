@@ -1,5 +1,43 @@
 [
   {
+    "id": "b9ec069c0f5f066bfaa0",
+    "title": "Indian Rupee hits fresh seven-month high against US Dollar - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNEVwWGtuTGFyVFQ5RWF6SUJMWkozUmRXVGtGMVp2NTB4eUlnQWZYeUdBdmJFVEs0VHpnUjRxeVB0dlgzaDlrd1FmMlBBWllVam5MMXNmTHBuTTlETzg1VGpfVk9zVkY4WW9vLWwzeldtRDZiY3RiaGJVZHZnSmVBY1BYTGc2RjJieTIzcUIzWHlvWkFyRW5wa3pzSzNva25RcFV3?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T05:37:43+00:00",
+    "detected_at": "2026-11-25T09:30:34.219788+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 232.9,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "3de173d116f48b417a57",
     "title": "Mert Mumtaz Says Bitcoin’s Dominance Could Be Broken: Speaks About Solana, Zcash, and Ethereum - Cryptonews.net",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SbTBTU1ZkZWM3YkN1S3N3WmFxeHdqYW9hS2pMX2tuVVhxTjA1eTZmalAyaGtFSUdURUd3U1BuQ29MTF92TTgxMjRhdUJUN1VrTE5wTjhrUVJUdkk?oc=5",
@@ -136,6 +174,21 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 9.88
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 19.96,
+          "observed_at": "2026-11-25T09:30:36.514529+00:00",
+          "returns_pct": {
+            "BTC": -0.5045,
+            "ETH": -0.5647,
+            "SOL": -0.458
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -152,7 +205,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 58825.735,
+            "observed_at": "2026-11-25T09:30:35.314770+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.5045
+          }
+        }
       }
     }
   },
@@ -240,6 +305,21 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 9.88
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 19.96,
+          "observed_at": "2026-11-25T09:30:36.514595+00:00",
+          "returns_pct": {
+            "BTC": -0.5045,
+            "ETH": -0.5647,
+            "SOL": -0.458
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -256,7 +336,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 58825.735,
+            "observed_at": "2026-11-25T09:30:35.314770+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.5045
+          }
+        }
       }
     }
   },
