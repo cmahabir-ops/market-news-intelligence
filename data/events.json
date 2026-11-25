@@ -1,5 +1,146 @@
 [
   {
+    "id": "3810b7b96296530577d1",
+    "title": "Why Is Most of Ripple's RLUSD on Ethereum Instead of XRP Ledger? - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMXo2dko3RGFDaXc0ZFhZQ3dMZWI2NzhCNVd1SkNsVzl3QU1zeGZ6eWF6aHI4NFJXYklVRUlSZ2hpRnZDS2YwNS0wT3FTeDdhYUR1aV9QY2dDODhVR0ZEd3R3UmJYX19jSHVqZ0RnRUp4T0c1SjRFYzRHOWhUV0s1aG5jUXpmRngxdU9XN1NMUXRlZ0lnbEE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T10:14:48+00:00",
+    "detected_at": "2026-11-25T10:55:30.006365+00:00",
+    "assets": [
+      "ETH",
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "XRP",
+      "ETH"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto",
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 40.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-25T10:55:32.602779+00:00",
+    "alert_last_attempt_at": "2026-11-25T10:55:32.602793+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "542d92b2c3f2b9dd52aa",
+    "title": "Why are Bitcoin, Ethereum and XRP face diminishing recovery prospects? - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZWN1YXJwMmFHb0k0YXR1S3lwRjV6RjZqQURlRlZPbHp2czQ0M2locUxNajNmdWdiMWx3d19MU2VkdHhGV0l2VWNtS19vU2dTN1RVUDNZaHY2QzVsVFFXLVRLWFllTnp5T2V1d0NOc1g2Q2F0VDNnWGI3NktCOHJZR1hVSnJuNlRid0hsc2JVUGY2eVdMVzBsM2phWThPSW9MWG9PUzFBVnMxZGRCZnNGVnRZbVpSR3F1ZTlmMkUyWS1VNVotWnU0?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T10:31:32+00:00",
+    "detected_at": "2026-11-25T10:55:30.006003+00:00",
+    "assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto",
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 24.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-25T10:55:32.851729+00:00",
+    "alert_last_attempt_at": "2026-11-25T10:55:32.851743+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "d8c8fd7ed45cc1ffa1f5",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall ahead of inflation data - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ub3NMckhMQ1BmSFNZZ21kRHF6Y29ld3ZmSjJoT3dkVDNVckxON00ycFY1b2ZybXBINWwtaUNTdkhUX3VyTHNMNTBWUE5xeWJqNm85NFJ6eHF3X01feFRLc3BBbTBzZWFiZzZocGxlUFlkWlZvSHVB?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T09:14:28+00:00",
+    "detected_at": "2026-11-25T10:55:29.596196+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 101.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "46124dd94a66b9531453",
     "title": "Gold price in India drops 3%, silver plunges Rs 8,748 per kg as sell-off deepens - The Financial Express",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObG82ZzZKVDdPclROQUtJYmVfUUlLa1pUWUtUQ0RENC1NWng0NnJCaXFSenVoekJZTjZtdkpYZFVnZnFyT1lpWHR6Y1R0SVh6LUFHemYxQzFiZklQRmc0SHAtaURzN0ZOSjdSczJUWm9pUU50d2RrckprcFdtZFpSaTk4V2ljbG9SZUFGUUVZQnM5a205VF9fdG5Hc3V1ZmZlalR0X2VTVGRSa1dRdGMzVXVwbEt6WVJhc1hqTjhKaEw0eXR4U0hCTk43bFdPMWxx0gHXAUFVX3lxTE9KRENXdlRIM1dJaTJueTkybEFyVFRTc1E4SjhwWW51dXJvODZPeTRCVlcyR2FCdk1GOHhsX2VHNTVrN0hMajZMVTZzUDRUU0J5YW1KSlRJRk9aWnpSNnFzMmFFa21pVVhLX2tUN1E3T1I2LTBnMDBnTWdoOVM1NWd2S3g4TVBuLWZrNkhYSzZUY2NFR20zb3V4TmRJdGxoVnNnZDNpZjV6VWtwSHJMSWt2M2ktTW5Tbjk5dUtGdEE3T2t1UTVXaS13NkkwRzlRdXB5YTNqOGlv?oc=5",
@@ -117,7 +258,12 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 10.08
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -345,6 +491,21 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 9.97
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.06,
+          "observed_at": "2026-11-25T10:55:32.278354+00:00",
+          "returns_pct": {
+            "BTC": -0.2518,
+            "ETH": -0.0667,
+            "SOL": -0.0444
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -361,7 +522,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 58728.965,
+            "observed_at": "2026-11-25T10:55:30.667853+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.2518
+          }
+        }
       }
     }
   },
@@ -498,6 +671,10 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "missed_window",
+          "elapsed_min": 20.05
         }
       },
       "detection_delay_eligible": true
@@ -514,7 +691,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 58728.965,
+            "observed_at": "2026-11-25T10:55:30.667853+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.305
+          }
+        }
       }
     }
   },
@@ -2219,6 +2408,21 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.09,
+          "observed_at": "2026-11-25T10:55:32.278524+00:00",
+          "returns_pct": {
+            "ETH": 0.1403,
+            "BTC": -0.2525,
+            "SOL": 0.1779
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.3928,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -2248,6 +2452,19 @@
             "change_pct": 0.1766,
             "benchmark_return_pct": 0.1624,
             "excess_return_pct": 0.0142
+          },
+          "60": {
+            "price": 1641.32,
+            "observed_at": "2026-11-25T10:55:30.893600+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1403,
+            "benchmark_return_pct": -0.2525,
+            "excess_return_pct": 0.3928
           }
         },
         "benchmark_asset": "BTC",
