@@ -117,3 +117,20 @@ if v32:
     st.dataframe(v32df.sort_values('Detected UTC',ascending=False),hide_index=True,use_container_width=True)
 else:
     st.info('Awaiting first V3.2 scan. Existing V3 and legacy events are intentionally unchanged.')
+
+
+st.subheader('V3.3 — Source, macro and near-duplicate audit')
+st.caption('Observational context only. Macro benchmark mappings are not directional predictions or validated event reactions. Aggregated RSS links do not verify original publishers. Near-duplicates are flagged, never removed.')
+v33=[e for e in events if e.get('intelligence_method')=='observational_v3_3']
+if v33:
+    x,y,z=st.columns(3)
+    x.metric('V3.3 events',len(v33))
+    y.metric('Macro context candidates',sum(e.get('macro_status')=='candidate_context' for e in v33))
+    z.metric('Possible near-duplicates',sum(e.get('duplicate_status')=='possible_duplicate' for e in v33))
+    audit=pd.DataFrame([{'Detected UTC':e.get('detected_at'), 'Headline':e.get('title'),
+        'Source tier':e.get('source_tier'), 'Macro context':e.get('macro_event_type'),
+        'Macro benchmarks':', '.join(e.get('macro_benchmarks',[])),
+        'Possible duplicate of':e.get('possible_duplicate_of')} for e in v33])
+    st.dataframe(audit.sort_values('Detected UTC',ascending=False),hide_index=True,use_container_width=True)
+else:
+    st.info('Awaiting first V3.3 scan. Existing events are intentionally unchanged.')

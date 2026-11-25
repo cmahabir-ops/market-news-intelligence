@@ -13,6 +13,7 @@ import requests
 from prices import quote
 from attribution import attribute
 from catalysts import classify
+from intelligence import enrich
 from validation import benchmark_for
 
 ROOT = Path(__file__).resolve().parent
@@ -195,6 +196,12 @@ def run():
             print(f"{feed['name']}: fetched {len(parsed.entries)} entries")
         except Exception as ex:
             print(f"FEED ERROR {feed['name']}: {type(ex).__name__}: {ex}")
+    # Annotate newly collected events only; leave historical classifications untouched.
+    # Compare with previously stored and already processed headlines, without dropping records.
+    prior=list(existing)
+    for event in sorted(fresh,key=lambda x:x['published_at']):
+        event.update(enrich(event,prior))
+        prior.append(event)
     fresh.sort(key=lambda x: x["published_at"])
     # Save before sending; GitHub Actions commit preserves dedup across runs.
     combined = sorted(existing + fresh, key=lambda x: x["detected_at"], reverse=True)[:cfg.get("max_events", 2000)]
