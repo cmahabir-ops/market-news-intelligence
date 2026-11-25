@@ -1,5 +1,104 @@
 [
   {
+    "id": "a33ee75dc3e958aec597",
+    "title": "DOJ Targets 800 Defendants in Largest-Ever Scam Crackdown, Including Crypto Fraud - Bitcoin Magazine",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xRV92dXBKWGhuS2JVTzd2aHVYUWlZVWxsdnJrS3RYaUVROWl6MjgzTHhJd3hlTzQ3YThOZ2tJbFM4dHFLMDAxQ3k3TlExTlJRTmdvY2dMaTBSS292TUQ3ZEJrSFlfUHJ6Z0lNNXdHVFl6Y1Z0VGZHNjAyYw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T17:53:25+00:00",
+    "detected_at": "2026-11-25T17:55:29.074097+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 2.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59555.74,
+          "observed_at": "2026-11-25T17:55:29.488606+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1675.4,
+          "observed_at": "2026-11-25T17:55:29.709893+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 69.25,
+          "observed_at": "2026-11-25T17:55:29.864700+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59555.74,
+          "observed_at": "2026-11-25T17:55:29.488606+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "9c3331e1306b394a8023",
     "title": "What Will 50,000 Dogecoin Be Worth in 5 Years? - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUlPdVZZVEZILUlCREcxQ3hCWU0tQTU2bXlaa0llTGEzWkotZzJKWTNZWFhlWTN4dDRfblB3eDdUTE1sX1dNQUFqcGlWbDJoakZzc3ZLcG52UE5PSF8ta3V2N2hwRG5jRDNzVjUweWt0Wk5yYkJkdUlleHFscDdHX3VRNS1POWZrZVNSWTFaMm9QNkljVWpTckxpb2VKczg4c2NEa3RB?oc=5",
@@ -691,6 +790,21 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.01,
+          "observed_at": "2026-11-25T17:55:30.131483+00:00",
+          "returns_pct": {
+            "BTC": 0.0734,
+            "ETH": 0.2174,
+            "SOL": 0.2896
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -707,7 +821,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59555.74,
+            "observed_at": "2026-11-25T17:55:29.488606+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0734
+          }
+        }
       }
     }
   },
@@ -806,6 +932,21 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.01,
+          "observed_at": "2026-11-25T17:55:30.131513+00:00",
+          "returns_pct": {
+            "BTC": 0.0734,
+            "ETH": 0.2174,
+            "SOL": 0.2896
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -822,7 +963,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59555.74,
+            "observed_at": "2026-11-25T17:55:29.488606+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0734
+          }
+        }
       }
     }
   },
