@@ -79,7 +79,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.03,
+          "observed_at": "2026-11-25T15:10:33.295219+00:00",
+          "returns_pct": {
+            "BTC": -0.9394,
+            "ETH": -1.3432,
+            "SOL": -1.1679
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -238,7 +254,12 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 9.95
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {}
@@ -388,6 +409,22 @@
           "positive_assets": 4,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.11,
+          "observed_at": "2026-11-25T15:10:33.295310+00:00",
+          "returns_pct": {
+            "COIN": 0.7109,
+            "BTC": 0.3463,
+            "QQQ": 0.2685,
+            "SPY": 0.3166
+          },
+          "benchmark": "QQQ",
+          "primary_excess_return_pct": 0.4424,
+          "positive_assets": 4,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -404,7 +441,21 @@
           "valid_for_reaction": true,
           "freshness": "recent"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 97.75,
+            "observed_at": "2026-11-25T15:10:32.430036+00:00",
+            "quote_at": "2026-11-25T15:08:52+00:00",
+            "source": "Yahoo Finance chart indicative USD",
+            "currency": "USD",
+            "session": "regular_candidate",
+            "valid_for_reaction": true,
+            "freshness": "recent",
+            "change_pct": 0.7109,
+            "benchmark_return_pct": 0.3166,
+            "excess_return_pct": 0.3943
+          }
+        },
         "benchmark_asset": "SPY",
         "benchmark_baseline": {
           "price": 700.791,
@@ -514,6 +565,21 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.11,
+          "observed_at": "2026-11-25T15:10:33.295351+00:00",
+          "returns_pct": {
+            "ETH": 0.5147,
+            "BTC": 0.3463,
+            "SOL": 0.1798
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.1684,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -530,7 +596,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1635.665,
+            "observed_at": "2026-11-25T15:10:32.540003+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.5147,
+            "benchmark_return_pct": 0.3463,
+            "excess_return_pct": 0.1684
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 57693.82,
@@ -664,6 +744,23 @@
           "positive_assets": 5,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.11,
+          "observed_at": "2026-11-25T15:10:33.295378+00:00",
+          "returns_pct": {
+            "NVDA": -0.0326,
+            "AMD": -0.4556,
+            "SMH": -0.0187,
+            "QQQ": 0.2685,
+            "SPY": 0.3166
+          },
+          "benchmark": "QQQ",
+          "primary_excess_return_pct": -0.3011,
+          "positive_assets": 2,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -680,7 +777,21 @@
           "valid_for_reaction": true,
           "freshness": "recent"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 144.065,
+            "observed_at": "2026-11-25T15:10:32.578844+00:00",
+            "quote_at": "2026-11-25T15:08:52+00:00",
+            "source": "Yahoo Finance chart indicative USD",
+            "currency": "USD",
+            "session": "regular_candidate",
+            "valid_for_reaction": true,
+            "freshness": "recent",
+            "change_pct": -0.0326,
+            "benchmark_return_pct": 0.2685,
+            "excess_return_pct": -0.3011
+          }
+        },
         "benchmark_asset": "QQQ",
         "benchmark_baseline": {
           "price": 614.44,
@@ -875,7 +986,21 @@
           "valid_for_reaction": true,
           "freshness": "recent"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 144.065,
+            "observed_at": "2026-11-25T15:10:32.578844+00:00",
+            "quote_at": "2026-11-25T15:08:52+00:00",
+            "source": "Yahoo Finance chart indicative USD",
+            "currency": "USD",
+            "session": "regular_candidate",
+            "valid_for_reaction": true,
+            "freshness": "recent",
+            "change_pct": 1.219,
+            "benchmark_return_pct": 1.0613,
+            "excess_return_pct": 0.1577
+          }
+        },
         "benchmark_asset": "QQQ",
         "benchmark_baseline": {
           "price": 609.62,
