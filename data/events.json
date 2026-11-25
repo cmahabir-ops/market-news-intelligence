@@ -1,5 +1,104 @@
 [
   {
+    "id": "0b59263b6e009b6b3f97",
+    "title": "Bitcoin Could Take an NFT-Style Hit and Crash to $10,000 According to Bloomberg Analyst - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXYxenVuOHZGR1FxZjktNWNiaElHU1JIblJoX3poNWc2c1daVlhDLXdfclJTdGI2M0tpeTFuVmlRUmdsWGdnemZ3Rk93QnM0SENVQl9EbHM2UVp1Skl6ellBZFJTdnlfNDBjRjdBNWotNDZiV2tTZFloV0lKV3BZS3ByVzdURV9YNzhmQkJ3bkFZaWNCMmh3NkQzX0o5RUVETFZsRVdBQ2h2WjlnQXpHdGNTSU9hSGpDcTNzbmFJalU?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T20:04:46+00:00",
+    "detected_at": "2026-11-25T20:10:32.604915+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59897.395,
+          "observed_at": "2026-11-25T20:10:33.168430+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1681.685,
+          "observed_at": "2026-11-25T20:10:33.479732+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.35,
+          "observed_at": "2026-11-25T20:10:33.899249+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59897.395,
+          "observed_at": "2026-11-25T20:10:33.168430+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "d6660460b2430f637a6a",
     "title": "Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028 - Bitcoin Magazine",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95ekFhdUxtSnFQZVJnYjZoR2tfM2pnbmN0bTNURWVZN3Zwdl9pMWI1dTd1M1ZpZnFPTFI2eU16NUJwX1VBa0VQcVNERUxVZU1fNTJkcThfUTkwSjl2VTJRLUJnZDhzWVh0MWQyTWJoeWNlVXVBb2tr?oc=5",
@@ -79,7 +178,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.08,
+          "observed_at": "2026-11-25T20:10:34.245871+00:00",
+          "returns_pct": {
+            "BTC": 0.0736,
+            "ETH": -0.0062,
+            "SOL": 0.0284
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -1768,6 +1883,21 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.12,
+          "observed_at": "2026-11-25T20:10:34.245992+00:00",
+          "returns_pct": {
+            "BTC": -0.0537,
+            "ETH": -0.2006,
+            "SOL": 0.4139
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1795,6 +1925,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.4081
+          },
+          "60": {
+            "price": 59897.395,
+            "observed_at": "2026-11-25T20:10:33.168430+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0537
           }
         }
       }
@@ -9361,6 +9502,19 @@
             "change_pct": 1.2922,
             "benchmark_return_pct": 1.6505,
             "excess_return_pct": -0.3583
+          },
+          "240": {
+            "price": 147.875,
+            "observed_at": "2026-11-25T20:10:33.529448+00:00",
+            "quote_at": "2026-11-25T20:10:32+00:00",
+            "source": "Yahoo Finance chart indicative USD",
+            "currency": "USD",
+            "session": "regular_candidate",
+            "valid_for_reaction": true,
+            "freshness": "recent",
+            "change_pct": 3.8521,
+            "benchmark_return_pct": 3.614,
+            "excess_return_pct": 0.2381
           }
         },
         "benchmark_asset": "QQQ",
@@ -9605,6 +9759,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 1.7356
+          },
+          "240": {
+            "price": 59897.395,
+            "observed_at": "2026-11-25T20:10:33.168430+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 2.8629
           }
         }
       }
