@@ -1,5 +1,43 @@
 [
   {
+    "id": "000fb75c6525262302b3",
+    "title": "Why is Monero price going up despite the crypto market sell-off? - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeW4ya2xGT2I4ZDB5UUhjY1hZcGdzYk02Q0pkNFR1cXpMNnR3UkxMRjNwNFBjVEFkRVQtZEhKMEg0MlZUZGxjRGVmNXpWendNdnJEMXF5TmVWbDE1MkVUMWZkWkxNSERxRkxyUVRlU0MyMnFWb0doOUNMVzJVWUhJZlRsUDUwdmIwbEtKSA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T05:51:00+00:00",
+    "detected_at": "2026-11-25T07:55:30.115928+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 124.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "86ed613344fccc94aaaf",
     "title": "Fidelity Adds AAVE, LINK and UNI to Crypto Trading, Bringing DeFi Trio Into 8-Asset Lineup - BigGo Finance",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnMDlDbkpBVEZfQVM5QlRKN0ZnY1lCVEVvN0VSM09DelV4TXpsNkFPNi1GSGhpbGxGVTRDV1ZRZm84cHRCNHVkSUZpNE5ydDRXRTIzX09hVk1hcjVuVEkxekZCSmVLaUdrdWx0T3hqTVNsWFJ6VHc?oc=5",
@@ -235,6 +273,10 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 10.0
+        },
+        "15": {
+          "status": "missed_window",
+          "elapsed_min": 20.03
         }
       },
       "detection_delay_eligible": true
@@ -251,7 +293,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 58610.685,
+            "observed_at": "2026-11-25T07:55:30.325779+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.5552
+          }
+        }
       }
     }
   },
