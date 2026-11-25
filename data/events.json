@@ -1,5 +1,43 @@
 [
   {
+    "id": "71c91756be07a3d225f8",
+    "title": "Stock Market 'Mini Crash' A Real Risk Warns Julius Baer - Pound Sterling Live",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZVV4dVpSdzBLTlptWmMxOHc2NzlYVzNXMTI0dlEwWjk2NTFXa2hQSjFtUm5ZRUVfUGdwYWowaUlJcFNZalUtbFdlY0pPUEc2Q2xCV2lXUzk2MjJKWm0zUXRZWlpSVjV3eFJTclVsNmNidFNHbWh2cm1pWlVSTERhbG9LQ1NYLVVoVEUxN3FHcFpDeHRxc0Nab1dfbXV6Ry1vWGc?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T16:52:05+00:00",
+    "detected_at": "2026-11-25T18:35:26.624652+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 103.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "4f185530137a26555e6f",
     "title": "Crypto scheme targeting Haitian immigrants results in $1.3B judgment - Times Union",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSGIyNUFHMWpSQU0tbUpWc0w2cDlCUFRIRHlLTl9HOTVIcHVtTHN4Z2NFZjNzUGtLdjdTTm9XUE9ZZFJTNGJVbDZmYVlGQUE4VHB4TUxNUlNNMWRHTEtfaFlBa1BfVHdpY1IyRTdkLTBnYUNSOTV4QWlZTVp4amVEa2I3NGRNRzF2cG52UlZ1QlI0czNXNUE?oc=5",
@@ -10973,6 +11011,19 @@
             "change_pct": 1.4086,
             "benchmark_return_pct": 0.9951,
             "excess_return_pct": 0.4135
+          },
+          "240": {
+            "price": 1676.79,
+            "observed_at": "2026-11-25T18:35:27.765761+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 3.5916,
+            "benchmark_return_pct": 3.0996,
+            "excess_return_pct": 0.492
           }
         },
         "benchmark_asset": "BTC",
@@ -11152,6 +11203,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.9951
+          },
+          "240": {
+            "price": 59442.375,
+            "observed_at": "2026-11-25T18:35:27.518812+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 3.0996
           }
         }
       }
