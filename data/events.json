@@ -1,5 +1,157 @@
 [
   {
+    "id": "faad725c694810b5f9a2",
+    "title": "Ray Dalio Explains Why Gold Beats Crypto While Holding Some Bitcoin - Mitrade",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGlSUzRSTlgzNGJVYTh5NjJBWE8xMXVkbnotVWQtaW1FU0paWW0ybnp1NWZ3R0tyX2ZqclhRZndjb1FmNjZqYVdmWjRiY3FKNFRfdVRldU5NWlpRaktkOHBWVjNkREpDTEU2Wl9qcVhZTDdSTnFsaVgwZmRIRWxCZ1FiaTZMOGx3SEwxM09TbGxRSkNya1NMVzBkRDBwWW80dGc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T03:55:24+00:00",
+    "detected_at": "2026-11-25T05:25:24.382562+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 90.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59079.995,
+          "observed_at": "2026-11-25T05:25:25.018258+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1657.135,
+          "observed_at": "2026-11-25T05:25:25.270552+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 68.575,
+          "observed_at": "2026-11-25T05:25:25.965699+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59079.995,
+          "observed_at": "2026-11-25T05:25:25.018258+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "de94808ec6dfe027232b",
+    "title": "Why Are Bitcoin, Ethereum And XRP Prices Falling Again? - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd0swNG9hVFlSMUFSUk5vOFBveGFkb21PXy1IYlhIZExqZ0h6NEtJRFh5dUxiaFNKUkFfclFuTnpnQWRWYS1OeWpoUG1KXzhVNnpzQkNKaVRzY3IxV3Y1ZUxVU3JiRllDZkdwSVpMVFRIOTh2LWh5UGZVMXJNeWM2QjNPVUlqeVhoTWU1RXBRVXZ3VmVOUk4zTdIBngFBVV95cUxPNWF4cWgzYnJnMVVVRnR6TE9FSERIekx6Wm03dTRBTFA5MW15ZGlia1k2dVBXclV2aHJxSFRxai1JWURpUXJ5SWJNZE9XM0V3TjNxOGlrOGR3MTlvS01Zc0IyYURFZmwzQWwzX0Z1WWlzVXRKS1dLemJCWDlnZnVia0pqMDFWcXUtYXJwWmhxcm1CVmlBYm5iSTA2MnNaZw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T04:16:26+00:00",
+    "detected_at": "2026-11-25T05:25:24.382117+00:00",
+    "assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto",
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 69.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-25T05:25:26.973350+00:00",
+    "alert_last_attempt_at": "2026-11-25T05:25:26.973367+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "5f6a1861146420370747",
     "title": "SEC Issues No-Action Letter to Molecule, Easing Token Securities Registration Burden - bloomingbit",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjYk5HdWVhMHRaWDV1LVFjUnNuVmE5NVYwdHR0R3ViR1BXTVVxMXJfQTVWVVlYS3dCRkp2MVVRUWt5MmVGTU9URnM0SUVyNTBiSXQzcA?oc=5",
@@ -247,6 +399,21 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 19.96,
+          "observed_at": "2026-11-25T05:25:26.631747+00:00",
+          "returns_pct": {
+            "ETH": -0.0109,
+            "BTC": -0.1069,
+            "SOL": -0.0656
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.096,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -263,7 +430,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1657.135,
+            "observed_at": "2026-11-25T05:25:25.270552+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0109,
+            "benchmark_return_pct": -0.1069,
+            "excess_return_pct": 0.096
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 59143.23,
