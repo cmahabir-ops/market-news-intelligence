@@ -1,5 +1,102 @@
 [
   {
+    "id": "d0072575b0c1fc5fb938",
+    "title": "Can XRP Hold 90 Cents After Its Worst November Ever? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMmNVOFRLT0tMYXBVRjAwcGotcjBsV3N1WkJVRC1VV01WVXFLd0RObHZSSzdSUGdtbVJjcnQxRlNpQUNaamg0dGgzV1Rya2lWM3gzZkxXN1g0QmFqWHBYNEt0UlJBZnVkUURuMGI0SVMxRjJNLU93X2FPMC1EVVpEMi1odnRKRWNvaEJfTVpoUVFHWFNTMnRwaVJ1Z2JlZnViUkREcTVXTFdFdkRCUkRz?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T18:31:00+00:00",
+    "detected_at": "2026-11-25T00:25:27.019116+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "783028bd17af6bb75dcd",
+    "title": "Tom Lee Says Ethereum Price Can Hit New ATH in 2026 - CoinMarketCap",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYXQxN0NaN0E0czUxUnVNNGxZQkpGWUh0Mk15S3MyeldoNlJfRGJRT1RoS0tmQm0wa04tYjRRQThLcXVQN2hwNVEyZGZ4V1lGZDdGTm4wamlOLUhHa3pKc1d0OWllZDN2cS12VWk3S2R5ZnVtSDhhSGQyMnVfUVVkQlo4Xy0tazhDOXc5eFhrc1FmUQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T13:45:19+00:00",
+    "detected_at": "2026-11-25T00:25:27.018924+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "204968dd693ed2f7c2f9",
+    "title": "Ethereum Foundation Isn’t Waiting for Quantum Computers to Become a Threat - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTENZaUttdWp3RUl1SEpGYXZiLThSS1dySnFERFZOSDN1OU9EU2F1Z2wyWTBfX3NpcHg3WWhKQ0F2N1dnLXRLQ0lKN19zYUYzaEtkOWVETVkwQTdpazhxU1NLczl1QjYzeENZaWwwcTU3T2Y3a3RwUkZxWk5tTDhMRGE3dm5ubTUzUEhpU3Q0c2RRRDJzLVNPaHJ3Z3ZfSVhZ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T19:24:00+00:00",
+    "detected_at": "2026-11-25T00:25:27.018768+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "b10206afb6ce5633e37f",
+    "title": "Which Comes First for Cardano (ADA): 10 Cents or 20 Cents? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWkzak5sOGV1RHg0aV9CcHBzT3U3VlgwZTh0bkJfeXQ3RXlQcHhZcmxVU1dQVVBUdDVfSzRMYkhQc2dZRU1md0NDaGdIWWVUQ2NVNHA2YVNocnRnLWxSYXgtTzdRNXpaaW1HT2RWemMyRXJLTnNqeVRzVW51bzA5NjRUNEV6X0drVnNWU1pYU0hmVGNCX3JteXBWSnZjc1FpRklvb3YyN2J3TU13akJiWHNIUQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T20:53:00+00:00",
+    "detected_at": "2026-11-25T00:25:27.018500+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "68bc9929700aa4113bc7",
+    "title": "Ripple’s RLUSD Has Caught Trump’s USD1: What Does XRP Get Out of It? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOVFSdFZ2enJ4bDFWSTlxdFdUZ3VQWExWR0U0V2FITWlBQ2FQMUE0eXUwVThieTVQaHlsUEVtSHRCcGFyazEtT1MwcVVIUlRMcUp3VlJSRVZEZzhhbF9rME1XM2tFN2diV25QbC1RcWZtd011b0I5Q0JacDFHR0t2V0NLTzE1bjlfX0I4MzFaTEtBaHpjRTJ3QkxRM1doS1QydEZWdk0yZ21tUkVJcWVvUmNiS2JkYjZ3UkttTVJhcm8?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T19:52:00+00:00",
+    "detected_at": "2026-11-25T00:25:27.018311+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "a9ab9506d867051748d2",
+    "title": "How Low Could Dogecoin Go After Falling to 5 Cents? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOREJFTHpYdTFrcmhGQXdZWXVCX2xfU0FPMlVTMGNzOUpSbzQyOGZIRjNoOTA0bTFPNzhSUU9xcjFEZkRqdENDaWpYbEZRZ0RJOEJtYjc4UUE1TDdKRjg0dlRkZnpiRkY0TGI4ODJnbURTWWZYNmhXckRnMEpYNld2NlZDMjZsUlgtZWcySFVzQWVWR1BTQ1FrQm8zYkZqQUVneUhEVXdTSXBxVV9ORWc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T19:32:00+00:00",
+    "detected_at": "2026-11-25T00:25:27.018072+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "4ddf144c537f5a00e98d",
+    "title": "Why Bitcoin's Dominance Over Crypto Could Finally Be Breaking: Helius CEO - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVTAtZkdzOWQwaHdEYXBXMW5nM3BVTzNrVDZKVTMySVgzNDhjYTdpRlRHU3l3VllnakVzZzloaXFHWWtYNE9ZVWRMNFFZa18xU2dkZ1RwSmU5S1VJekh6cEU5MWJ1VjMtUV9vTjJQR3p5a3BUbTFuYXpoWmZlWjdZX0MzcjNkemlk?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T23:56:00+00:00",
+    "detected_at": "2026-11-25T00:25:27.016828+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
     "id": "9de9fadd4525b1f1f192",
     "title": "US Stock Futures Turn Mixed on November 24 After Rally - www.suaralandak.co.id",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04RC1UQ0lKQmdnVmY3WmE2UXRrVmpYUFo1QnZLaEsyMVBIT1JxS3B5eEVhbXVwcUxxRzhKeFJVVzV2a1ctaWw5bUUydUhaYXZqakNqY0x3eWtHOHVoQUl1MG9mRXA2dw?oc=5",
