@@ -1,5 +1,115 @@
 [
   {
+    "id": "edcb5f796f9ebf6904af",
+    "title": "Peter Brandt Warns Ethereum Could Crash Below $500 if One Key Level Breaks - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DVWMtRVpTaWlibUlhX1FQOFQwRUl5ckRSWU5aV1FvT2FXdlRJMks1N3VSX3IwYWNyWUxPYXM4V09wTVNOU3oxWmNDUTUzVmM4R19nSV85Z1Iwa2hSN19UMC1UX1NlUQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T07:14:52+00:00",
+    "detected_at": "2026-11-25T09:35:28.447169+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 140.6,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1636.64,
+          "observed_at": "2026-11-25T09:35:28.979522+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 58790.085,
+          "observed_at": "2026-11-25T09:35:28.871545+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.44,
+          "observed_at": "2026-11-25T09:35:29.348632+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1636.64,
+          "observed_at": "2026-11-25T09:35:28.979522+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 58790.085,
+          "observed_at": "2026-11-25T09:35:28.871545+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
     "id": "b9ec069c0f5f066bfaa0",
     "title": "Indian Rupee hits fresh seven-month high against US Dollar - FXStreet",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNEVwWGtuTGFyVFQ5RWF6SUJMWkozUmRXVGtGMVp2NTB4eUlnQWZYeUdBdmJFVEs0VHpnUjRxeVB0dlgzaDlrd1FmMlBBWllVam5MMXNmTHBuTTlETzg1VGpfVk9zVkY4WW9vLWwzeldtRDZiY3RiaGJVZHZnSmVBY1BYTGc2RjJieTIzcUIzWHlvWkFyRW5wa3pzSzNva25RcFV3?oc=5",
