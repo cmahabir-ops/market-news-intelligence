@@ -1,5 +1,104 @@
 [
   {
+    "id": "5b3d0b4e72dc9c81618e",
+    "title": "Why Did AI-Related Crypto Tokens Rally Over 7% Intraday as Bitcoin Lost Momentum? - KuCoin",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOblB5aFk4bUtBOXpjR2N4N3BrQzNEWWx5VWZwdFZpYU0zM2YwaGF5eUZwY3JxaXMtMmh4bGdhc191NTRhdWQxTVJCdE0zTnl3aWRvTTZFY3BDTTRySjFEaFNoRHh0bVlGTG1IQWN3WHY3TkdtZ1prZmNEOUJQdDE0R2F0RU52ZXdVbkE0NmFLRHk1SkdFNkR1ekVWei00aHFIY3djVkFZZk9LUUE2Sldr?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T07:33:05+00:00",
+    "detected_at": "2026-11-25T07:35:28.484054+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 2.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58937.905,
+          "observed_at": "2026-11-25T07:35:28.841866+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1652.16,
+          "observed_at": "2026-11-25T07:35:29.077208+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 68.445,
+          "observed_at": "2026-11-25T07:35:29.611422+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58937.905,
+          "observed_at": "2026-11-25T07:35:28.841866+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "4a853720a329ccee35fe",
     "title": "CleanSpark considers selling more Bitcoin than it mines after posting $987M annual loss - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tY1h2OEpiSW5veVZSYmQtWWtMZDNGazJGWjBVcGZKd1g1OUVYZExEOWhlREtGS0NuRUxLc2lScTNCRXB4TDNvOEdrYWtSMTRpUml1bVFicFJLeXJlaVkwTDV5VVhnVG93dnJWR091N2RqQ2xJSjViQg?oc=5",
@@ -4797,6 +4896,19 @@
             "change_pct": -0.3821,
             "benchmark_return_pct": -0.5732,
             "excess_return_pct": 0.1911
+          },
+          "240": {
+            "price": 1652.16,
+            "observed_at": "2026-11-25T07:35:29.077208+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.6497,
+            "benchmark_return_pct": -0.8243,
+            "excess_return_pct": 0.1746
           }
         },
         "benchmark_asset": "BTC",
