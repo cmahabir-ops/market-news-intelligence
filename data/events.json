@@ -1,5 +1,169 @@
 [
   {
+    "id": "aa6e78197a30687ef117",
+    "title": "Bitcoin Hashrate Hijacked Amid AI Cryptography Break Rumors - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZjNZSURMODNHLUZEQlJPYnp3UkI2QUN0bGFqRkVxeEZORGlLbl9EM3hZXzM5cXlrWlRORHlDOFZPd0czTmhHMXMxQnNyYUJPWi01U20zbWVJdUx4eDUtRHNKQTFpMUhvM2ktRl9YQTFJTzZFNndsR0xBV1VpVnFNNmNYbTFObGM1UF9ySnR3SlHSAZYBQVVfeXFMTVdrQVNlTkFnRXVyYjdkSkdsNE4tcHEwYVl5VDlxOVRsZXowQXhNUVZfdS1hUG55Qm1KTHk4MjZWa3lsZW5FSHlCdHE2clhyVjlWNFo0QWtmZUR6TU5BdFlnS2tyQTBCZTJoWWx4RnRnY1hhTU1xY0RxMmF6Q19OZEJBNXRnM3hxRTlVaUN3RFQ4RUIwUkx3?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T22:30:48+00:00",
+    "detected_at": "2026-11-25T22:40:31.904363+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 9.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 9.73,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60131.925,
+          "observed_at": "2026-11-25T22:40:33.210528+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1685.515,
+          "observed_at": "2026-11-25T22:40:33.399338+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.42,
+          "observed_at": "2026-11-25T22:40:33.538560+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60131.925,
+          "observed_at": "2026-11-25T22:40:33.210528+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "a3061cb21e001092fd82",
+    "title": "Crypto’s Big Problem? ‘We Built Too Much Infrastructure,’ Says VanEck Manager - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ1YxSE9WSnVMWElDeUt0TXVqRlZ2cFZGTXVWZ0NsbmhBbk5sZTRscDk0UmlZcTJWVDlTSVhwNEJRTDdLUEFBWHRCQmNGWmxaalRuRS1pVVhzS1Jsa1lpTzBBeEZpcVVYWnRIWjFtS0ZrLUlaNWRhQndrVzNWVnpmQzl5U0hpOGJoSktPQ3djMnB0aUNQWHlVZjR3MjdCb2JVbkNGNnlrZkZ2RDBNOHAxeXBWWjZtVEt6WldGRVpzcGNMT0NsQWQ1VGh2QVZUNkk?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T22:30:07+00:00",
+    "detected_at": "2026-11-25T22:40:31.902910+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 10.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 10.42,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "28244bc0dba07d41bf12",
     "title": "Senate Democrats seek to scrap SEC crypto exemption proposal - Traders Union",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMV9fWFRvdVNXMDVfNDU1NE1aOE9JcTZTV2pIdDlUV1I5VmFZOVFsWldobWtfSzFyc21JVDhTbGp6M1dIdHNFeDJuTjFhNHgtWXlkemNHUHVZb2JyRUtuU0Y1RGRzLUhtZ0pFbEpqWG9QTUZRaEZOZTQyWlM5LU9vT0dGaTBFeWFWMjhrQTJmb1VUQ1JOUldwWnBoM2hRNzc3RFBj?oc=5",
@@ -216,6 +380,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.09,
+          "observed_at": "2026-11-25T22:40:33.680988+00:00",
+          "returns_pct": {
+            "BTC": 0.259,
+            "ETH": 0.308,
+            "SOL": 0.1565
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0866,
+            "ETH": 15.0863,
+            "SOL": 15.0845
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -232,7 +416,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60131.925,
+            "observed_at": "2026-11-25T22:40:33.210528+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.259
+          }
+        }
       }
     }
   },
