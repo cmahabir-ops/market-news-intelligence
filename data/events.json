@@ -1,5 +1,169 @@
 [
   {
+    "id": "109d6f7dd53716074b10",
+    "title": "Bitcoin Sinks to $57,500 as US Proposes Tariffs on 14 Economies - Bitbo",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sM041WTYtVnlyM053VFpLbnowRGVzdnoxU3hhTzVnZEpqTTJiYmVmQk1SZ25ROU56MjUzYkFYd2N5bVQzSGpyZlZ6bFBfdEx6TjNKTk5DdjVHZEZVS0JlaExR?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T14:55:00+00:00",
+    "detected_at": "2026-11-25T21:10:32.677357+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 375.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "B",
+      "kind": "indirect_candidate",
+      "delay_min": 375.54,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60148.625,
+          "observed_at": "2026-11-25T21:10:33.132618+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1684.84,
+          "observed_at": "2026-11-25T21:10:33.285275+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.355,
+          "observed_at": "2026-11-25T21:10:33.507486+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60148.625,
+          "observed_at": "2026-11-25T21:10:33.132618+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "4806206fabfca62b3dbf",
+    "title": "Michael Burry Bets on Stock Market Recovery After Thanksgiving - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT3FQbW5LQmJxUXFOcU4yeDk5Q2JPTFFTWmt2aXYxdDhwRTFvQ1FPd1VxM253LUZ5aktMWUNDR01VV3BBYXJITjNhX1FZSXlOVjhrRUtVaW92SjlGVDBmM2JGOExrQ1FhQWc3VVZodjZiQnRtSnd2UUpSd2Y1SDVqOEViaW8?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T15:00:00+00:00",
+    "detected_at": "2026-11-25T21:10:32.177572+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 370.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 370.54,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "91fddfd1782f57789724",
     "title": "Bitcoin Needs to Return to 'Original Narrative' to Hit $100,000, Bloomberg Analyst Says - Benzinga",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYU1OejZQQm9ZQUs4XzRPd2h4LXNiRFVjeHRoOThwMEp6dmQtcVlVQURENkhKX1RBNEpQWVpQNkhZUklSbHFMV0xZbjIzMVIxbS12c2ZyR0VRRWhjWFl1a256STlLa1FUV2FVc01QZ0JRaVZWVi1md3JXTVUxcDdmWm0wcHZfY1hhU01CUWo1VFBnY3pEcFJWbnNuUU1IQWtnWGM5cVI2Ny1Ta1ZmMU1NNnc4LTlnYUxkTllGNWM1QXVJMjV3eG9IbjB5RGRfQi01ZEd6TFZrMlpDdjA1?oc=5",
@@ -79,7 +243,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.94,
+          "observed_at": "2026-11-25T21:10:33.695427+00:00",
+          "returns_pct": {
+            "BTC": -0.395,
+            "ETH": -0.2738,
+            "SOL": -0.3188
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9288,
+            "ETH": 4.9265,
+            "SOL": 4.9218
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -965,6 +1150,10 @@
           "positive_assets": 5,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "missed_window",
+          "elapsed_min": 25.05
         }
       },
       "detection_delay_eligible": false
@@ -1565,6 +1754,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1003
+          },
+          "60": {
+            "price": 60148.625,
+            "observed_at": "2026-11-25T21:10:33.132618+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.4194
           }
         }
       }
