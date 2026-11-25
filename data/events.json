@@ -1,5 +1,249 @@
 [
   {
+    "id": "bcfefc171b9cc90e45db",
+    "title": "Bitcoin Falls Toward $57,000 as Hotter Inflation and Tariff Worries Sink Stocks - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQXzFLcGlUNmxOd0QzeUhGMV9LSk1OMDRrcGYxS2VxdXZFLXZDeV91NTJNa3JRRTVvQU1SSl81dWlYR2xrcVVjdjh3OFkyMzRKU3RXZnNuT2lOcVgzcHdVZWRGUUttTFVWMnNtYl9NelR5NG1RbEJPeGl5LWxfSXBvMGtrWUtfcjRManBuUXd4MzdvZWsxOGxn?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T17:54:00+00:00",
+    "detected_at": "2026-11-25T18:15:35.579290+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 21.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59663.155,
+          "observed_at": "2026-11-25T18:15:35.903321+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1679.15,
+          "observed_at": "2026-11-25T18:15:36.037942+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 69.55,
+          "observed_at": "2026-11-25T18:15:36.275900+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59663.155,
+          "observed_at": "2026-11-25T18:15:35.903321+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "42517356caed95554fd9",
+    "title": "New measures reveal how vulnerable crypto assets are when others are in distress - EurekAlert!",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kbi0tRmlha1lSVmhJVnp2cEZydExDUmlxbnRHNHF1TWRVSVpqLXRIMlFVckp6TnNPQVdSNklDay1scUNxZWViak1icThabTR5RVhlM1Y0SGxyOWNM?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T17:21:54+00:00",
+    "detected_at": "2026-11-25T18:15:35.578828+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 53.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "0aad8660ef6e95c9622b",
+    "title": "At 9:30 p.m. tonight, the Fed's \"preferred\" inflation gauge, the PCE, is set to be released! Will it officially pave the way for rate hikes in 2027? - 富途牛牛",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUERYOGl5S3BNUnpyU3A5MU5NOW5FSldnZHo3X3o2M1ByNXFrMDVWcW1mdWF0YXRWSlVMNndLRDdicW00amdxaUtvX2IxeTNUTEt2Zy1lRXhfY1VjaTlYM3E1VlIwNFBON255elRfR2lRXzNsLTI1c0RjLUtKU2pXUWMtU2hYeFY0YTJlN3FfdDdPajJ2Q0E?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T05:36:00+00:00",
+    "detected_at": "2026-11-25T18:15:35.088041+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 759.6,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": "inflation_release",
+    "macro_status": "candidate_context",
+    "macro_benchmarks": [
+      "SPY",
+      "QQQ",
+      "BTC"
+    ],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "SPY",
+        "QQQ",
+        "SMH",
+        "XLK",
+        "BTC"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "SPY": {
+          "price": 711.54,
+          "observed_at": "2026-11-25T18:15:36.307417+00:00",
+          "quote_at": "2026-11-25T18:15:34+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "regular_candidate",
+          "valid_for_reaction": true,
+          "freshness": "recent"
+        },
+        "QQQ": {
+          "price": 624.93,
+          "observed_at": "2026-11-25T18:15:36.179382+00:00",
+          "quote_at": "2026-11-25T18:15:25+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "regular_candidate",
+          "valid_for_reaction": true,
+          "freshness": "recent"
+        },
+        "SMH": {
+          "price": 409.94,
+          "observed_at": "2026-11-25T18:15:36.194645+00:00",
+          "quote_at": "2026-11-25T18:15:33+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "regular_candidate",
+          "valid_for_reaction": true,
+          "freshness": "recent"
+        },
+        "XLK": {
+          "price": 152.88,
+          "observed_at": "2026-11-25T18:15:36.400653+00:00",
+          "quote_at": "2026-11-25T18:15:34+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "regular_candidate",
+          "valid_for_reaction": true,
+          "freshness": "recent"
+        },
+        "BTC": {
+          "price": 59663.155,
+          "observed_at": "2026-11-25T18:15:35.903321+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {}
+  },
+  {
     "id": "81bce472ec0fc46b3b54",
     "title": "Founders of 'cryptocurrency Ponzi scheme' ordered to pay $1.3 billion after defrauding immigrant communities - Newsday",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcExnWkdWVnVRc0NIWk8yU1UzMnhqZWN0eVkza1FvSnRxTHpFTW9NRUI4U05nWUl6VTZJa1lfSHVMSHBmRmJBMGhKaElObW5SZUlYU0hZWkJ6dmxlN25YTGhTbER6X3lTNTNFTks3MUZSQUEzUlc1eHFlQkxhaEFMcEJIUHdFX3VSOHNLOXpaOC0?oc=5",
@@ -121,7 +365,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.07,
+          "observed_at": "2026-11-25T18:15:36.505751+00:00",
+          "returns_pct": {
+            "BTC": -0.1182,
+            "ETH": -0.0765,
+            "SOL": -0.2009
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -2234,6 +2494,21 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 64.91,
+          "observed_at": "2026-11-25T18:15:36.505877+00:00",
+          "returns_pct": {
+            "BTC": 0.7126,
+            "ETH": 1.1567,
+            "SOL": 1.5699
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -2261,6 +2536,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.2385
+          },
+          "60": {
+            "price": 59663.155,
+            "observed_at": "2026-11-25T18:15:35.903321+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.7126
           }
         }
       }
