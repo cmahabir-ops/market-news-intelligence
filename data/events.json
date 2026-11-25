@@ -1,5 +1,344 @@
 [
   {
+    "id": "ba4f0e38faae540b0d8f",
+    "title": "Bitcoin Price Forecast: BTC risks fresh yearly low ahead of US PCE - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLWlUdmNXTmtCZ25OS2YxLWNMTmUxR0NCN3RQOXdQTTlUV2FIWkxvZlZXamdvS0FWNV8zczJXTGx3dEpvanhhNHEtNnBENDhLbW4xc3hhc2k0bGpSU2ZveWVqSWdDQ3VjV0JDZVZRdGx1ckJySjVZQ1FFelRLM1RvM255OTg4WkNyWmxaQnpHZTlpYUpKTExyVHY5SnFFSFRfbE94R2haUDdDLVBiNlU2UHp5WWlQS3FFSDU1b0R3RUJiXzQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T08:35:10+00:00",
+    "detected_at": "2026-11-25T12:40:28.436916+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 245.3,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58591.395,
+          "observed_at": "2026-11-25T12:40:29.007222+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1642.215,
+          "observed_at": "2026-11-25T12:40:29.105674+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.665,
+          "observed_at": "2026-11-25T12:40:29.347340+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58591.395,
+          "observed_at": "2026-11-25T12:40:29.007222+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "b9aacef30ca232c64ed1",
+    "title": "Monero Tops $500 as Privacy Upgrade Audit Advances, Bucking Crypto Selloff - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92Y2JqZ1gta3E3S3hsUnk5dDhSY0tVdFlxa3BNaDJlREU2SzNsWVc3aU1vZW9WUmRYcWV1Q2w5X2xqNkRDM192Z1hUY0kwY3hKQ2RwWXF5dEx1YUFfNXg1X2VHWFVPcFV6WUZIU3VvYTdrTjd5cUE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T12:05:00+00:00",
+    "detected_at": "2026-11-25T12:40:28.436497+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline contains potentially positive catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Potentially bullish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 35.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "a4417b4440e85001a889",
+    "title": "Bitcoin Slips Below $59K Ahead Of PCE Report, Heads For Worst Month Since July 2022 - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUmNTNUl5VU5taHJQUzRzc3FhYWN0a0ZFNnl1NlZ2OHl1TjA3SEhxVFhWcFpQVDl6MHZZd3pNZWpFWXgxTzRFWlRnVlI0Vk9CY0x5OWxtTWZlRGZESEtSN0FNLU9uSkR4d1hVY3Q4T1doT1lhUDFMODNEdmEzTEFXWEpYM2d5UklYN1ppbUczS0toZUlqcHpyUDJn?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T12:31:56+00:00",
+    "detected_at": "2026-11-25T12:40:28.434349+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 8.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": "inflation_release",
+    "macro_status": "candidate_context",
+    "macro_benchmarks": [
+      "SPY",
+      "QQQ",
+      "BTC"
+    ],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58591.395,
+          "observed_at": "2026-11-25T12:40:29.007222+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1642.215,
+          "observed_at": "2026-11-25T12:40:29.105674+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.665,
+          "observed_at": "2026-11-25T12:40:29.347340+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58591.395,
+          "observed_at": "2026-11-25T12:40:29.007222+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "12651e48e6ad760f8077",
+    "title": "Gold, Bitcoin Sharpe Ratios Turn Negative - Wisevoter",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUFlydVZrdnVRODJpYnE0SENhLTNwYk9SNU9LSkhPYk53SmVSRVdiWlJVV1JUZHl1M21yZlNyeE9oMERLVGluakJZbW9iSjc5WWhEUFYyVF9oLTA1N1BtT1FJUUs3Mk8zeWl2VDlmalV2b3RuQWE4NVFNQlQ2Q1QxaGVMeXJFUQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T12:38:20+00:00",
+    "detected_at": "2026-11-25T12:40:27.990544+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 2.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58591.395,
+          "observed_at": "2026-11-25T12:40:29.007222+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1642.215,
+          "observed_at": "2026-11-25T12:40:29.105674+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.665,
+          "observed_at": "2026-11-25T12:40:29.347340+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58591.395,
+          "observed_at": "2026-11-25T12:40:29.007222+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "2064407de8f1f5dbc1e9",
     "title": "Huawei convicted of violating US sanctions in Iran operations - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14Z0ZOSHR6X1R2dTlIa1BXNDkzRTRuWE1QVmJyMDJRRktSV3pWZ0QwbXJJMmlySTVHdzh1TUFnTHptMFVMd2tfdjhvdnNVUmJnSW1RUG5ETC0wQU9ELWsxVXJrWk9JTmtFQ2U1Y19YTQ?oc=5",
@@ -7927,6 +8266,19 @@
             "change_pct": -1.0506,
             "benchmark_return_pct": -0.5299,
             "excess_return_pct": -0.5207
+          },
+          "240": {
+            "price": 0.9083,
+            "observed_at": "2026-11-25T12:40:29.637794+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -1.6246,
+            "benchmark_return_pct": -0.9837,
+            "excess_return_pct": -0.6409
           }
         },
         "benchmark_asset": "BTC",
@@ -8110,6 +8462,19 @@
             "change_pct": -1.0506,
             "benchmark_return_pct": -0.5299,
             "excess_return_pct": -0.5207
+          },
+          "240": {
+            "price": 0.9083,
+            "observed_at": "2026-11-25T12:40:29.637794+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -1.6246,
+            "benchmark_return_pct": -0.9837,
+            "excess_return_pct": -0.6409
           }
         },
         "benchmark_asset": "BTC",
