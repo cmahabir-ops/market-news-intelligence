@@ -1,5 +1,203 @@
 [
   {
+    "id": "8d785ae4949fbafa6802",
+    "title": "Ripple news: Ten accounts drove all of the XRP Ledger's trading growth last quarter - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYTNPTTdKaGNsdTM3V0ZnakhKamwzdE5pNmszWGFtZzRTRmRPM0RCUlpWTUVaLUVMZTVsRGwwcFE1UHg2eWFUVng5ZUVzbHFlMnRDWHIyZmpQWkE2andUSUNzRkh2cDhIOHpMdy1odFZOWERaaDljMWthbHhJN19OMXd0QkpIU0t6SGt6NklKY3FtUU1KMEpra2NvV1pHcHl4MnhFSUJvZ1YzRkVXSmRwaW5kUms?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T06:15:08+00:00",
+    "detected_at": "2026-11-25T06:20:29.338855+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.9158,
+          "observed_at": "2026-11-25T06:20:30.232536+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59158.335,
+          "observed_at": "2026-11-25T06:20:29.667998+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1657.48,
+          "observed_at": "2026-11-25T06:20:29.800593+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.9158,
+          "observed_at": "2026-11-25T06:20:30.232536+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59158.335,
+          "observed_at": "2026-11-25T06:20:29.667998+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "43b46266100f92961a3d",
+    "title": "Russia’s largest stock exchange to launch Bitcoin, Ethereum, USDT trading - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEdGx5OUlvXzlFbnAwVG1XLXZuTlRPUWtpclVjMzVlU29aLVktck5JSmxYV05SYXFxdTFfeXlnQTJIOXZ3V0FYT3VXcWhGTDk3X3JtRTlRUExhTGtsZXVNVFZZVGk5RzVlVk5fdWJBLVRXclZqRjhuRXFIWXU?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T06:14:00+00:00",
+    "detected_at": "2026-11-25T06:20:29.338287+00:00",
+    "assets": [
+      "BTC",
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 6.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-25T06:20:30.558699+00:00",
+    "alert_last_attempt_at": "2026-11-25T06:20:30.558714+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "038067d40bad8e0a2333",
+    "title": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80Zi1UMEpUelRGTEJLSTdEMTRhdllaNGhidS1VeWs5R1JpemNia2p0aDV5QmVHS05YQXhua2pnNW90RWRQUnpIWWlydHhOQnBZLXQ4dzY5dURDZXNBVGIzcUU2bHI0cXNCZ1pEWTRoZTNmS03SAXhBVV95cUxNWXh5bXdqZmdJMVdFdWg4Z244MmpfUXJ6aFpxcDY1X3EwWVJra3pFV3ZpcnI3VVhKT1FFS01aTGVINzlGWURkZlJGRWFQZ0gyZktiQTMzWGVkSmtqM3FwUklFelphWW84UW1hU1NCRVlPUnA2RGNKMXo?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T06:02:56+00:00",
+    "detected_at": "2026-11-25T06:20:29.337683+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 17.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "fe694cece4f586125a56",
     "title": "Ethereum Foundation selects Keccak-256 for post-quantum cryptography push - FXStreet",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOVFRR1ZtZlNUWUZBU2pXeTU3YTlteWpEX2JpaHU2cW5mLVBYaEJBcF91cUFmWWNhMldNZGJybnM0bjNFSHpQWVpGajlVN21mUnEtSnI0V0RqQUVDRFRNTzhJWHQwM1FRU05nZVR2Z25WVzBFWmdFZzFoSXZ2UnlNelR4TS1VRjROOGl5dTJjSXJ1dDNPUGtuTFFuUk1fQ1JybTUxa05zUGdfb3FxTk5iaDE4d0tLOTRwT0F6cy1VNnVYSXhsRV83a2tYTDl0dw?oc=5",
@@ -209,6 +407,21 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 9.95
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 19.93,
+          "observed_at": "2026-11-25T06:20:30.259352+00:00",
+          "returns_pct": {
+            "BTC": 0.2131,
+            "ETH": 0.1644,
+            "SOL": -0.0364
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -225,7 +438,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59158.335,
+            "observed_at": "2026-11-25T06:20:29.667998+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.2131
+          }
+        }
       }
     }
   },
@@ -351,6 +576,21 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 9.95
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 19.93,
+          "observed_at": "2026-11-25T06:20:30.259394+00:00",
+          "returns_pct": {
+            "ETH": 0.1644,
+            "BTC": 0.2131,
+            "SOL": -0.0364
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0487,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -367,7 +607,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1657.48,
+            "observed_at": "2026-11-25T06:20:29.800593+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1644,
+            "benchmark_return_pct": 0.2131,
+            "excess_return_pct": -0.0487
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 59032.555,
