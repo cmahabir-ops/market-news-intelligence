@@ -1,5 +1,156 @@
 [
   {
+    "id": "7f1d8a71cd3a34569980",
+    "title": "Ethereum Foundation researchers pick one hash 'to rule them all' for post-quantum upgrade - The Block",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNUFpSmE2ZzFGaFpvcG10bktlWGkybUs5SElNZnE5OTRmTF9lVWxablRmQlpkNUtOZElpSVU2dDBTd1JJejJLRXJsREZqVFozZUVrQmd1cXM2eGZjNzdxSkx1V1dCWXZNWUZvRG9KdUJsZk5lOWx5cmhWMHcwSWpMbXNpRVhKNVlaSEw0NG5CYm0tODQxMlJuZVVvYTQ4bWlYaHUya1dzUFlDMHlLQ0pNa2RQRWxoYnJtWmR5bEEyOElCZXVTYndKd2M3NzlSRHVLLUJHSS04am5pUVpMalE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T09:49:00+00:00",
+    "detected_at": "2026-11-25T09:55:26.510654+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline contains potentially positive catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Potentially bullish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 6.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1639.02,
+          "observed_at": "2026-11-25T09:55:26.928495+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 58877.625,
+          "observed_at": "2026-11-25T09:55:26.837761+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.47,
+          "observed_at": "2026-11-25T09:55:27.161231+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1639.02,
+          "observed_at": "2026-11-25T09:55:26.928495+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 58877.625,
+          "observed_at": "2026-11-25T09:55:26.837761+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    },
+    "alert_delivered_at": "2026-11-25T09:55:28.266826+00:00",
+    "alert_last_attempt_at": "2026-11-25T09:55:28.266839+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "2958be003b9b41e0399b",
+    "title": "The Federal Reserve's preferred inflation indicator is set to be released tonight, subjecting AI-driven trading strategies to another critical stress test. - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZzFyYUxhanJNY0VYa3ItTF9RWWFjQ1RYbWRZbWE3VE9xdUpNXzEzUVVZenMxRlpFZi1WeE1vX0JTU0d5NzFTMGZmX29pakpMQldYSDlyNkVRUTZOUVpYOWFHclZTaWtxOUpMV01VMlNKeGdSclJ5aWZnOXVFa1hGTEctSWtOcEFJcURsYklGai10X1hUOEI5VE5JQVRxT1NHczZ6RnRIa1k?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T08:30:44+00:00",
+    "detected_at": "2026-11-25T09:55:25.974051+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 84.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "25de6976d9b203b9ba3d",
     "title": "The limits of the SEC’s no-action letter for Molecule’s research tokens - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMkVIU0tyRk1Nb25zU3FNa0djUkFMek9uVmlIdkExQWFKZjBNam5yb2NoRmlsMEVGSTZMZ1UyaG9ReV83NG1YR0tfSzl2U1U3anpYN19PWHQ4UXdlQ0pEeW1jbk00NFBHNG91Sm0wUXdVZ0JlNUZrelBqU0hybzJPUFJxdnFsWGpaM0JZaWNpcUJnMWRR?oc=5",
@@ -6056,6 +6207,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.058
+          },
+          "240": {
+            "price": 58877.625,
+            "observed_at": "2026-11-25T09:55:26.837761+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3674
           }
         }
       }
