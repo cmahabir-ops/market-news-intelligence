@@ -1,5 +1,142 @@
 [
   {
+    "id": "c008f0661679f851ac99",
+    "title": "SEC’s Investor Advisory Committee to discuss tokenized securities on Dec. 3 - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLTI3alZzNzd4VUMxLWxLM0ZYZnlEMW1uZ1J6eTVPWGRtZGJCc3lZQV9fVVo1YVhHM1M3QkFZby1ZMDNfTnBtYlRDVlJONlFkbEMyY2taMmF0TGxQZjluY1BLUWMzb0MzSFBVa2JITGwxR1J3LWVwY3NGOXdaZGlBbjhuMVVHWFU?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T15:35:31+00:00",
+    "detected_at": "2026-11-25T15:40:31.040884+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 5.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "7c82c037fa9efe930cf7",
+    "title": "Arthur Hayes Predicts AI Crash Will Trigger Bailout and Bitcoin Boom, but Not Yet - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2tXZWlua1NFS0dKMEFDd085U1NHRzNlOXJsQTNkWGtWQm4tanlfVGtETlZvaTQzSk5QU21SX0dkUjRjLU5XU2d3UV9jaGlRZ2RfTHp3SmtSdEpKZlMyQTh0Y3V0bXl4WlkyVTJrMXVQdmdMTzI1VVcxMFNIWnlxRTRLOTJqdXpyZjJoaHFXdlpFTWJ4YVNYd014WQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T15:16:00+00:00",
+    "detected_at": "2026-11-25T15:40:31.037439+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 24.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58240.43,
+          "observed_at": "2026-11-25T15:40:31.389140+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1641.73,
+          "observed_at": "2026-11-25T15:40:31.516649+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.17,
+          "observed_at": "2026-11-25T15:40:31.712494+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58240.43,
+          "observed_at": "2026-11-25T15:40:31.389140+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "36427dd6967d85e1a4f9",
     "title": "Adam Back urges Strategy to spend $3 billion on roughly 50,000 Bitcoin - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JSzVZbTJENDJlWm1GSmE4NjdJVVVaZ2Zrd3BSUjNQNnMyNXo3b08wTmlnNld6MnBOeGNMeEVlZ0NPOFk3QkxCUW5aRVVDOEtTWkxRZEotMDVpT2pSMHg3ZHFxSjduOGhMM0Y3UVExeENPQQ?oc=5",
@@ -79,7 +216,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.0,
+          "observed_at": "2026-11-25T15:40:31.807348+00:00",
+          "returns_pct": {
+            "BTC": 0.0197,
+            "ETH": 0.0168,
+            "SOL": 0.0745
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -178,7 +331,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.0,
+          "observed_at": "2026-11-25T15:40:31.807394+00:00",
+          "returns_pct": {
+            "BTC": 0.0197,
+            "ETH": 0.0168,
+            "SOL": 0.0745
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -315,7 +484,12 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 9.97
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
