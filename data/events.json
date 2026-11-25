@@ -1,5 +1,142 @@
 [
   {
+    "id": "a8a709f86b1b522088dd",
+    "title": "The CFTC opens the door to Bitcoin reserves at US exchanges with a 20% catch - CryptoSlate",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNllNQ0pfTmpIeVBjeTRCMXpxaW5SNXIyUXZvNVJTLV9xVjBvUXlrX1d4QmJQYWVjODlDVXl5azJoajdLNlhWc0hSMEZPbmpyZGI1TjV5MXR3QXV3ZnlNYS14blZaaDd0dUZFN3NLQzJzMGg3NzlMT1VWNHNfU0FmeGdpblBmbGo0UVJFelhBelhRRWw0STU5WFlGXzdnaWcxdGc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T02:50:00+00:00",
+    "detected_at": "2026-11-25T02:55:29.309270+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59107.975,
+          "observed_at": "2026-11-25T02:55:29.597909+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1652.325,
+          "observed_at": "2026-11-25T02:55:29.751138+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 68.55,
+          "observed_at": "2026-11-25T02:55:30.040276+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59107.975,
+          "observed_at": "2026-11-25T02:55:29.597909+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "0817c9fd5d4a057c4e1a",
+    "title": "Jakarta Stocks Open Lower as Asian Sell-Off, Fed Bets Weigh on Sentiment - Jakarta Globe",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0tiMGVWczd6T0pyYjkwekxoZ3lrWlZEV3Vjb2tnWnhyX1c2RmtqUHMtN00wdFN5cUdFMUZsdzdQdTlaNkRUelRPbHVHTk1qcm1HanNYelVONHZ0M1FNd21BN1hHeHBmTm13OWJqQmRtaVZDa3lzWUNJMHNUN05ldldOMzNXclVySjBrQW4yWTU2SXlvYWNTQjlIN29YZFRqUHVGdnZn?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T02:38:00+00:00",
+    "detected_at": "2026-11-25T02:55:28.774034+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 17.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "28576b8a9c6bc32d6473",
     "title": "Wall Street is beginning to position for hedges amid concerns that the Federal Reserve may have \"over-tightened\"! - 富途牛牛",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSXdVZXFOeTBwMU5qdUlsQy16cDdSSnRURHp4ZGIzb2NvZndPMG9MZE50TFBtZktabDhMakd2a3BVdzhTRGE3WERVY28teHVhRWZtWVVYQVZnQVhjdUpFTmlnM29MWF9yQXQ3anpJNU9Zd2hOREFSb0VoSEZsZG5IejNSbTVpcXdhTTg0S0lVYWNlaGt0THZpVTNIeEY5S0NxNzVLZHNBNA?oc=5",
