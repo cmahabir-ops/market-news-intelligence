@@ -1,5 +1,171 @@
 [
   {
+    "id": "9ac60a2a912959893511",
+    "title": "Ethereum is Predicted to Reach $ 1,849.87 By Nov 29, 2026 - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3WUlIS3A5NnRrMXZDc2t4cTN6VW53TWhNcnhzd3Z2dGhKVktLelhlRkJjWk8xclZLcFZYSGtXOW8yQmtHMFVfb1VvYk1XOFNBUGE0aUxubzRGZw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T19:00:40+00:00",
+    "detected_at": "2026-11-25T00:15:28.371082+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "900b41551696a5a7f3e6",
+    "title": "IBEX 35 Closes Down 0.86% as Tech Concerns Return - ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc0Z3YTVVN2ZONC1CMUFsYmR6Y0NRQVpYYldYc3pLTjVCSFZkdllMemY3U0pTRi1EU1IwTVh2bGZ2RDFNYy11WmpLazBKUEVsTzZta3VFWS1ZVTdSTEZWT0Y2MEhqWE1OMDJjLTVsYVI4MWF1Y0lnLXp4ay10RmV5RzZIbl9yN3U5RVBRcmJTSFFNX25haXpPandEdHRoeHAzcjk2c3hyeVo5Z3djaGxJ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T17:45:37+00:00",
+    "detected_at": "2026-11-25T00:15:27.920551+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "51222e7559d16620225b",
+    "title": "Nasdaq opens 1.6% lower as Nvidia rally fades, AI stocks slide - Invezz",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2Q3MWJRcGY2TEJJUEh1VlM0VUF5aFJzVHN1bmNNNjhiYndQMkZ0VWZBLWVSZVFXdVZUTlZEZEI0WG1nNHRWd0piSFVzOW1BbmpUc3NmZGxYVS00VUJPcXpUWnA2RWlxM091Q3NYNWFPVjVnamFjSEY4WTdYWkZINXJkUUQtYWJnUm9NSGs5NjJzS1RYUDVsTXljVnZZa2NHU3JEOXR1bDY?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T14:53:25+00:00",
+    "detected_at": "2026-11-25T00:15:27.920432+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "0a5c23c281986813ae2a",
+    "title": "Evening digest: Anthropic stock falls below IPO price, gold price falls - Invezz",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEdURTBhMlhoczB1R0FZNnRUMEVPZVNPeEJvMHkzU2p4aVpDMFVhMG4xbUhMUjVrNDhlaW9EX0dVYTNBLXV3ZFA4ZFlTLUNCcHVtU0MxRTBObW0wWHByV0VORjhIYTlKYVhuamxVcHUwcXRZNEJRWW1qZzVJNGRMSzJma2VfUlpjdmJoTjVCUXpZODAxbTZfbmIwVXJ1eE5TNWlnY1lTdkFhQm1W?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T20:33:36+00:00",
+    "detected_at": "2026-11-25T00:15:27.920312+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "9481dbece099a7c01e2d",
+    "title": "US yields little changed as AI rally fades - Livemint",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVHdhaEtQd3RDSHBFelhFcG5GUGdzT1A5bmZMX25zSW13dVczYmdKQXItZ0tRSU83WHRxNUc3YmZiVjA4ZHVHQ3Nmd3I5OUFNbVR0U01FWUVkSmhKVGwxQVpyd3lwWVBWUlMxRlp3ZDJNaUZBdndZZ0dHMVQ1TVdEdTlkRDVlT0JKSkNyWDRxQUhyNTJNa0RSV2V30gGfAUFVX3lxTFBHeFgzUGVqejV3NXVfMHhxUXBmLUw3QmZpcEVKRlFMRzdGeElwdWE3YUZ4U3hEZWRWV2tMeFpqVGh0Y1RwVzBsaG94UnkzenJhV2NLei1YOUtTdkRub1FVd1p1c25WZlYxYkJ0ZXlCYW5hMk5iTWVQczhXWVROcmdPNWptOEU2dlVPc2xUWVhaXzY1MTdHeHhEY1BHTjZwQQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T20:00:11+00:00",
+    "detected_at": "2026-11-25T00:15:27.920174+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "b02ec2c5c2da289207f5",
+    "title": "Global Stock Markets Plunge as AI Sell-Off Spreads - STL.News",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XMzlhZG9YdG1QS21EcHRpUHpseU9EYzJhYWtCQ1h0aFJXRWpZLVl6S0Q5MWFQRV9vX0tBbEVGeW1pZmJoUWJQN3NtNlBQVnNJNDFOMEJ2VTM3R1F2eFZWSFlsSjRKNUVxOWFsSW8yVEFRRHlTZ1JqcHZVVmg?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T02:41:51+00:00",
+    "detected_at": "2026-11-25T00:15:27.920071+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "8dfaacd2f0c2db5b5c99",
+    "title": "US Stock Market: Nasdaq Futures Fall as Nvidia Rally Fades Ahead of US Inflation Data - Analytics Insight",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeDVJNTU0X0J4RVdPQXpmalFfSWMtRmRBVVpiSWpaM2k5TVcyN1FuSFQzaC1FOURia2lXVnFwOHJZc2xLV1kyOWV0dEhBZUpzRGlsc1Zrc2VlMGgxVmVSeEY5Y3FIWS1say1OeU9VdDl6V2J4YjFIcVI2UC1xYmdwc0xVd0hMQXM3YmltWmFkcGN5aV9GbktWWndCaHJsRXZkdWkxRDVsS2x0blRjeGxXSGZLUkQzQk1oT2hVZzdRalNnQ3I3eUpRZ2o1ajZ6SlXSAc8BQVVfeXFMT3g1STU1NF9CeEVXT0F6ZmpRX0ljLUZkQVVaYklqWjNpOU1XMjdRbkhUM2gtRTlEYmtpV1ZxcDhyWXNsS1dZMjlldHRIQWVKc0RpbHNWa3NlZTBoMVZlUnhGOWNxSFktbGstTnlPVXQ5eldieGIxSHFSNlAtcWJncHNMVXdITEFzN2JpbVphZHBjeWlfRm5LVlp3QmhybEV2ZHVpMUQ1bEtsdG5UY3hsV0hmS1JEM0JNaE9oVWc3UWpTZ0NyN3lKUWdqNWo2ekpV?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T20:24:33+00:00",
+    "detected_at": "2026-11-25T00:15:27.919963+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "229d689f18468cedc3fc",
+    "title": "US Stock Futures Fall as Nvidia Shares Drop 5 Percent - SuaraGarut.ID",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IQ0JRWlVjbll0MFh0RmVKQTcxVFlsWGlsS3R3ZVJ2SFZhbUxlRnVqS1dVSUtCVVA0c2w4anB5cEl4WGRYZDNSQnJSRXlLSjc1VDVNbDA5MEZ5MWpIaVVHa0p4bG9KN0dHdEVjdw?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T14:22:50+00:00",
+    "detected_at": "2026-11-25T00:15:27.919791+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "a86c0590f7e26e399fa0",
+    "title": "FTSE 100 Slips as Mining Stocks Fall and Investors Await US Inflation Data - Share Talk",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbG1GalloMTNqNUgwd2RGUjFJRGV6U0hKRmxBVFc0Y0dfTmlVZEdBYVlIdXNZQld3dDhIdS1WNFExdWxsLU9iTlVJSEFkUWxBQW9UdWp4MW4tRGxtQUg5aHE5ci1oek81NTc5RTNEQmJtMHJjOThBQVo0SVZnWjk1NGRIZ2l0YlNkazJhQVV0bVdxX0hIejdSVWRsRWpuVE1ZRXpCTA?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T12:36:23+00:00",
+    "detected_at": "2026-11-25T00:15:27.919603+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "c1a67eff868aafc16d60",
+    "title": "US October CPI Preview: Inflation Growth May Slow, How Will US Stocks, Dollar and Gold React? - TradingKey",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTnBnTU9ZdVZuNFpZLXZONDUxNFpVZFVKU2Z4OEU2d2lYaXlBcTdCTFpjTWo5UUhRSmdRU0dpekdLd3c4NzE3QkRCWnBGaXFpUnNpWnAyQXJjbE56THJFN3piX0dOc1dMNTE0UFlvUTYxdXE3YnAzYjJVYmxNYUw4OGZmSDh3Y3RwZXBpTTFYaU40VTg0TENxRTY0a1VFeFR1Tk1zcHNocVJENkdneDMtVVp6aEVhOXc5Q29uV2RlZmZJMjUzckhYTTVld2JoMEpEWWZPRVhvR0d0bWJWV1ZnMnVibw?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T22:23:14+00:00",
+    "detected_at": "2026-11-25T00:15:27.919412+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "ea2af5ebbb8f27035174",
+    "title": "Asian Markets Rally: KOSPI Jumps 7.5%, Taiwan Gains 9.1% as Nvidia Soars - NiftyTrader",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFZuRnJaQkpoNWNqV3JoQVhFcG1RX1BvcmhGZU51SEh1WWpZNXNsUDFCczRxYkpITS1YZ2RCdmZWaHJMeHlwLUUxMGE5czlTZ3lWOFh6WjZLRXotZmlMLUw4dEhDa3NxajlJR0NDeXd0ZVJiekNITFdqdFVMR2NTdThqaG41dUpS?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T04:01:07+00:00",
+    "detected_at": "2026-11-25T00:15:27.919029+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
+    "id": "e7e2553ed140c6e34ea6",
+    "title": "Wells Fargo: Fed now drives markets as AI capex peaks - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdTNzS0lnSkNMdVpjUUQ3M1VOa2ZrWVBOS3Nyakw2UGpFNlhjcTVub2RDa1dpclZTVmNIU1RkLTFtcDVrdVlSTGtjR0JnQUxGRTB3WmVQY2xnRjlUZUUzdDIwcnV3NDBnSmpQWTRIS1VqOUV1RkNQVVdLQTV4NjNUQVg5eE1jdnZHNEF5VmQ5N1VTMzctZ0FpLXkyMUUxQXJROFRQV19CaHZPRnRLd1FXQTRxN3RJZw?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T15:04:57+00:00",
+    "detected_at": "2026-11-25T00:15:27.918609+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response."
+  },
+  {
     "id": "45680164750388eda2d8",
     "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
