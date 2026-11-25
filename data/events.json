@@ -1,5 +1,241 @@
 [
   {
+    "id": "8d4bca8433e94b0a73fe",
+    "title": "Ukraine passes crypto legalization bill with new tax and licensing rules - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHd6dFRiWWJ2TU91TUxLMUlCc2picXRwVDQyUWozZFgtNnN1X0tPeU5wODIwMUxCLUpsMl81bTNrZmlKbzBzNFlQWXR5OVZvMkROYmNtcXB0NW9XWlZOR1RyczRLQ1dBS1lhaVBmeTZrT0pYTUpOWlRaSVVTSWhJd1prNEw4R0RrNy1uYkVNalRCcFZ6eXdidg?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T10:45:40+00:00",
+    "detected_at": "2026-11-25T12:00:39.105162+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 75.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "788c873a85d1330de32d",
+    "title": "Bitcoin sportsbook payouts vs bank transfers - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93MzdQSk1xYU5vNk93LW1HM3hqRWZ4M2FXcEhKUWlIdTAwbGp5bWxrZEhoa2VhT1FocnRLc1pHcTRVVmppX3BHcjd1cVJFcmZNVlNjQXpLc3BEaFpCbkEwY0VueTA2bk5xZVpnWnNrSEZpc3M?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T11:54:20+00:00",
+    "detected_at": "2026-11-25T12:00:39.102453+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 6.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58565.9,
+          "observed_at": "2026-11-25T12:00:39.494181+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1636.89,
+          "observed_at": "2026-11-25T12:00:39.583010+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.475,
+          "observed_at": "2026-11-25T12:00:39.845254+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58565.9,
+          "observed_at": "2026-11-25T12:00:39.494181+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "1a06355aa17bcf80c540",
+    "title": "Cryptocurrencies Price Prediction: PI, Bitcoin & Crypto – European Wrap 25 November - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYnpQQTdZUWx2TkVVVnNYNjN4NFJkamw1ckIzUTdWbkExay1uVGdtZllBV2pLV3hWMS1lVkFobVF6SXhpZHZ0MEFWX1lFX0VuU0hMeUxnTTFPX2kwZVZsSEhiQ1JuVUFnaFJzTnUwSTVrcEJXU2FiVGwwajRTYVZtRmxCRldmOXowV2t1Q0hlWEkzcS1yaDVBSGZBOWw4ZjZ6YWZIQjRzZGg2ZGFFTjJHSnRfZVhUV3FjLVRJNjlYNGtURDl5SEZsRTI4UllFaXhzdnlJ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T11:10:47+00:00",
+    "detected_at": "2026-11-25T12:00:39.100987+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 49.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58565.9,
+          "observed_at": "2026-11-25T12:00:39.494181+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1636.89,
+          "observed_at": "2026-11-25T12:00:39.583010+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.475,
+          "observed_at": "2026-11-25T12:00:39.845254+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58565.9,
+          "observed_at": "2026-11-25T12:00:39.494181+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "12b537687733826672ff",
     "title": "Bitcoin (BTC) isn't rewarding holders for the risk it carries, and now nor is gold - CoinDesk",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX0hMRV9rSUtRVllrR3RmdGNmVkJQTm12NkV6YU5mLVlaeVpHN2JYZi1uaThyUTc1Q2NBYUVFbzZmNmxfNkFlU1F0S1dzRGxka0UwdlJ3Q3hxSzRYalRGRVBMcXpwOHp2OW0yWnRBY0VUdG9hbG9JTWZEek5MeW9lc0RxdUVZV0hyM2pkTzVQYk5NaUNZaDdVcmh4UWt1VG1sYk50R0xzbzJydTlTc1BiMk96S3luR004VDZMOHZ6VFVwSlpCS01oQmlR?oc=5",
@@ -79,7 +315,12 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 10.06
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
