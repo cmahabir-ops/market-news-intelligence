@@ -1,5 +1,107 @@
 [
   {
+    "id": "61ef77a58601a2a79135",
+    "title": "On the Chain: Bitcoin falls below US$60,000 as record ETF withdrawals deepen crypto sell-off - Proactive financial news",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRXB0b0V4WnN4eURDM3dUOFhNQWZJWW9lby1RcVdrSXJZOEdOb2FZdVQ3ci1jT0FmX0hQODlZMG94UFZnYWZydUZ6NEtEd2x4V3JfSy16b1VwdlY3VFhGUHY0UEF5WHgzWHlQM2RZTmM5OHl3SS1Fc1BnRmM5RmVIZGZnZUllTEtraVByRk9oZW5fT1puWHJTbUJ5TjZoYXdjekpuT2FJSHVBaUJXeEVTbTc4TkFuNlNvNlQ2bkhvZDRWZFVaTUkybnNPY3dVdXlxMnY1aWlKS051M3VJZGlWbDB0RGtSakRGM0VLb1B6Um0xOC1S?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T03:23:00+00:00",
+    "detected_at": "2026-11-25T04:10:27.515055+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 47.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59132.865,
+          "observed_at": "2026-11-25T04:10:27.960388+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1658.09,
+          "observed_at": "2026-11-25T04:10:28.135890+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 68.975,
+          "observed_at": "2026-11-25T04:10:28.690603+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59132.865,
+          "observed_at": "2026-11-25T04:10:27.960388+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-25T04:10:30.987595+00:00",
+    "alert_last_attempt_at": "2026-11-25T04:10:30.987614+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "08dcf8f8818289921640",
     "title": "US Moves to Recover $1.1 Billion From Binance Hack, Saylor's Strategy Buys 457 BTC, XRP Briefly Reclaims $1 — U.Today Crypto Digest - Cryptonews.net",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53S29lLVhKRGRUd2tRTnAyQjd2R3JicHNTYWN1UmQ2Q0NkYk9jUmRTa08yRmJsOUl1T2lna3JocWVfRzVYbXppYXQ4SFpPVFVaWW5ORWNvRWQ?oc=5",
@@ -129,7 +231,12 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 9.92
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -239,7 +346,12 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 9.92
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
