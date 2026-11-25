@@ -1,5 +1,43 @@
 [
   {
+    "id": "c5cfb6e3c0d944fa1037",
+    "title": "Fidelity Lists 3 More Altcoins: AAVE, LINK and UNI Now Available for Trading - Kriptofoni",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51bGgtUTNkdXRBdm9iVkUtQWNFdl9pYTRhWmRLWjJiWVhBa2lfQjNoNGZ1c2NMMFo5UE9WSGkwNDE4aTRmRXEweUJ5SDZrM2xPakN0OVpma3F5MUhueHpfWXozRzZCWkNYcXJaLWpZRWhvY2FB?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T04:14:46+00:00",
+    "detected_at": "2026-11-25T06:35:30.040413+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 140.7,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "633e478f928e5c62e45c",
     "title": "Binance Adds 5 New Assets to Margin Trading: Bitcoin ETF Included - Kriptofoni",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10cFVQR1VLdUJoenNnbXp6X1FrX0R6V014WGJCT1Y3elRuNEZJeXJJQTgyLXFZdDNUR3dKSjRnY2gzMjV5cHY2MVVOd0RDbEZyc1o3SGNnYmdydEtQbkh3NEEyM0gxWjZsQWszclkyU1k?oc=5",
@@ -79,7 +117,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.01,
+          "observed_at": "2026-11-25T06:35:31.297547+00:00",
+          "returns_pct": {
+            "BTC": 0.0208,
+            "ETH": 0.0408,
+            "SOL": 0.1752
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -196,6 +250,21 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.03,
+          "observed_at": "2026-11-25T06:35:31.297614+00:00",
+          "returns_pct": {
+            "XRP": 0.142,
+            "BTC": -0.3271,
+            "ETH": -0.2184
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.4691,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -212,7 +281,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 0.9171,
+            "observed_at": "2026-11-25T06:35:31.235636+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.142,
+            "benchmark_return_pct": -0.3271,
+            "excess_return_pct": 0.4691
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 59158.335,
