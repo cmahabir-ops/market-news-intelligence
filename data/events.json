@@ -1,5 +1,142 @@
 [
   {
+    "id": "28aa706950914bc1d3d5",
+    "title": "Elon Musk’s X wins court judgment over alleged $277K Bitcoin bot scheme - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jUElfRjV4cTBBN2tmeVlrMkVKZ1A0Nzlib0FHVTFiM2hVbG55SUhheENxSUpVM2hzcGdaVUx3MEt0ZzlrRVFtVHV2ekpaVERZM0xZQnQzZ3d6M2lHaVRTTnhGS3l1X0dKSTRfV3FBdHA1QQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T06:53:00+00:00",
+    "detected_at": "2026-11-25T07:00:38.511054+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 7.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59129.015,
+          "observed_at": "2026-11-25T07:00:38.780776+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1657.245,
+          "observed_at": "2026-11-25T07:00:39.166476+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 68.725,
+          "observed_at": "2026-11-25T07:00:39.571604+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59129.015,
+          "observed_at": "2026-11-25T07:00:38.780776+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "9912784414d52f35fded",
+    "title": "The market has already hiked rates by 100 basis points on the Fed’s behalf, yet Wall Street may struggle to wait for a… - 深潮TechFlow",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY0FNV1FyWE8wVkxVem9fOGtPeUMyZTAxQm5ja2F6NkxRWDF3d05wc2tTYWJZVUZjYldvVU1pRzBZYVItSWI5SXl4Y1R0TzJSc2VnbTVCTmhCSUg1d2hfM2R2TlRzX04tVWRPbEllVlRLcFhncm9qak9uajBMdTV5amVVSXhuU3A0NElYbWtBV1U?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T05:53:02+00:00",
+    "detected_at": "2026-11-25T07:00:37.834614+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 67.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "5ab73533219c1fa9b2dc",
     "title": "JPMorgan Warns: Five Major Risks Converge at Year-End, Threatening an \"Ugly Christmas\" - BigGo Finance",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IeVVkRTFoenJtTF82di0yRnZWMHdPWGhOVTBTNVhNc19vMzk1TEtSMG9BeV8zNjdrbEhnci1GSC1adkxXZmxIejdVRVk4MGNsamNJOUlsOWowUTlxZ041bUZSVlRjNWtxZG1LTWZVVXMzS2F3dEE?oc=5",
@@ -862,6 +999,21 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.09,
+          "observed_at": "2026-11-25T07:00:39.960085+00:00",
+          "returns_pct": {
+            "BTC": 0.1634,
+            "ETH": 0.1502,
+            "SOL": 0.1238
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -889,6 +1041,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2131
+          },
+          "60": {
+            "price": 59129.015,
+            "observed_at": "2026-11-25T07:00:38.780776+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1634
           }
         }
       }
@@ -1031,6 +1194,21 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.09,
+          "observed_at": "2026-11-25T07:00:39.960115+00:00",
+          "returns_pct": {
+            "ETH": 0.1502,
+            "BTC": 0.1634,
+            "SOL": 0.1238
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0132,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1060,6 +1238,19 @@
             "change_pct": 0.1644,
             "benchmark_return_pct": 0.2131,
             "excess_return_pct": -0.0487
+          },
+          "60": {
+            "price": 1657.245,
+            "observed_at": "2026-11-25T07:00:39.166476+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1502,
+            "benchmark_return_pct": 0.1634,
+            "excess_return_pct": -0.0132
           }
         },
         "benchmark_asset": "BTC",
@@ -1186,6 +1377,21 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 65.22,
+          "observed_at": "2026-11-25T07:00:39.960138+00:00",
+          "returns_pct": {
+            "BTC": 0.058,
+            "ETH": 0.0558,
+            "SOL": 0.0364
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1213,6 +1419,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.1342
+          },
+          "60": {
+            "price": 59129.015,
+            "observed_at": "2026-11-25T07:00:38.780776+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.058
           }
         }
       }
@@ -4029,6 +4246,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.236
+          },
+          "240": {
+            "price": 59129.015,
+            "observed_at": "2026-11-25T07:00:38.780776+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0356
           }
         }
       }
