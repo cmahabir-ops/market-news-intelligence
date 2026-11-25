@@ -1,5 +1,191 @@
 [
   {
+    "id": "9717e042b2ee7fc3187d",
+    "title": "Western Union Is Going On-Chain: Can Ripple and XRP Still Compete? - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS0VOX3pQY1FMSFZwWFp6b2Y0Ulk1YUc2NG5jQTlIOVFfZTN3SE15a1U5Q1BSeEFWUXNDMVVRM0R3bkk0VDIzYy1BRmYxaHl4aUt1eTgwLUtMem11ZFU0cjFrY0JDNTE3bkpXdzVxQU8tejQ1bDZwc1d4TmlxUTcxWDBfLWJyOUdteHhJcU9iOVRyZDJQRVpJ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T10:24:48+00:00",
+    "detected_at": "2026-11-25T10:45:27.063821+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 20.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.91135,
+          "observed_at": "2026-11-25T10:45:28.022529+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 58851.915,
+          "observed_at": "2026-11-25T10:45:27.477189+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1643.12,
+          "observed_at": "2026-11-25T10:45:27.567071+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.91135,
+          "observed_at": "2026-11-25T10:45:28.022529+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 58851.915,
+          "observed_at": "2026-11-25T10:45:27.477189+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "ae1a57ab75ec0ef88019",
+    "title": "Jensen Huang's Return Fails to Ease AI Valuation Worries as U.S. Stocks Face Dual Test From PCE and Beige Book This Week - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yaGVoUzdJSGpUZlJJN1hEcE5CNExyYXJDODVyV2RDVk5LYzlsUVM1SlVXbV9yZVgyWmF4Nk5WU3lQUUlfeHRSb3E5QVNhRE8wdm1hZkRqb0dCNTQwcTN6VGFHSVpVY3ItQU9XdnV6ZjRmbFJkckE?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T10:35:00+00:00",
+    "detected_at": "2026-11-25T10:45:26.664846+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 10.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "2a3c3bde594ef81f2d8f",
+    "title": "‘Haven’t we had enough?’ Florida Gov. DeSantis reveals simple plan to lower inflation - WKMG",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLTRYVExYajdwTy1VMW5rLUxnT3F3anZPZDFkLXJnTENfSnZQTkI1N3lCelRiRUpyUmJUQlJtMjNXaXJ0MEZYV2VlVFF6WjllOGJTaUdNcFl6cFMtZjNYUHVrTi12M05FRWdFTFBoR0VReHBnUFZPX1pubGlwSUE0THRYNmdVYkZlRHdoZGFYZjQwV3pocVdfdlpuNUlWODYwTzFJNjZxU3RsNXdmZlVmVG1fUWlydllsck45clloZVVLTTBkM2E1bHlFR0E0dFU?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T10:00:01+00:00",
+    "detected_at": "2026-11-25T10:45:26.664360+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 45.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "7c9fbb363b2d73ec0fb4",
     "title": "Ukraine’s parliament passes law to legalize cryptocurrency - Ukrinform",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONjM4c3N3R3lFWHdBd1AxbG1aNzVYQTBDOWpzUTdrV1F4V3diUGFFSXE0VllObU9TVFd5cnBhQmNBRGRXQnNqeWVfS2lzSTdFUDJYUVBnWV83UWlna1pUVVZjS1o3ZG1qaWN0bUdXem9KM1d0c3FvUkJaSnBLNUMyRWFnYjVfMmNmVVlsa2M2THBwSm4yN20tdnlmLTBJZEF5NVRKMS1VNjVlZ2xfOTFOetIBtgFBVV95cUxOa1dYX2ppN2ZDV2E0dDd2WVVfVXhLMkZ6QkI2Z1dsNlFEb21wcE5FU1h6ald1TmRzazd6Wi1FbFpDNXJtLWZCc2lLLUt2ZW1tMjJfNmdSUHk5bkwzX1hpRVkzRTNOSDNGSmJpcUJhcHdadE0tLWtDUnpkMGhWbzN4NUlhUEVsU0JaRWJnOEdOR25FVGtkMUhvVWhZS0ljRFVOcmZ4NlBUQ2hZd1VzOVY1WkZDUk1idw?oc=5",
@@ -574,6 +760,21 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 19.91,
+          "observed_at": "2026-11-25T10:45:28.055179+00:00",
+          "returns_pct": {
+            "BTC": -0.0375,
+            "ETH": 0.0362,
+            "SOL": 0.1111
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -590,7 +791,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 58851.915,
+            "observed_at": "2026-11-25T10:45:27.477189+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0375
+          }
+        }
       }
     }
   },
@@ -689,6 +902,21 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 19.91,
+          "observed_at": "2026-11-25T10:45:28.055220+00:00",
+          "returns_pct": {
+            "ETH": 0.0362,
+            "BTC": -0.0375,
+            "SOL": 0.1111
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0737,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -705,7 +933,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1643.12,
+            "observed_at": "2026-11-25T10:45:27.567071+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0362,
+            "benchmark_return_pct": -0.0375,
+            "excess_return_pct": 0.0737
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 58873.995,
@@ -2512,6 +2754,21 @@
         "15": {
           "status": "missed_window",
           "elapsed_min": 20.02
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 64.88,
+          "observed_at": "2026-11-25T10:45:28.055368+00:00",
+          "returns_pct": {
+            "BTC": -0.0136,
+            "ETH": 0.2731,
+            "SOL": 0.2744
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -2539,6 +2796,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2429
+          },
+          "60": {
+            "price": 58851.915,
+            "observed_at": "2026-11-25T10:45:27.477189+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0136
           }
         }
       }
