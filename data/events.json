@@ -1,5 +1,142 @@
 [
   {
+    "id": "175abe10289e1733a416",
+    "title": "Ukraine Legalizes Crypto Market, Sets 23% Tax on Bitcoin Gains - Bitbo",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5Y2ZSQlhsYWhaTU5PMnlYeWE4QWRFcEZoV0tpN1RxVFhKZk5HZm8xRXMwQktNNEdfOERIN21SeFhNbGstcGYwSVhJdmtRR1JkNnhjckowcl81LTJDdVdHckRn?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T13:00:00+00:00",
+    "detected_at": "2026-11-25T13:25:25.480481+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 25.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58754.825,
+          "observed_at": "2026-11-25T13:25:26.349460+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1648.4,
+          "observed_at": "2026-11-25T13:25:26.419347+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.865,
+          "observed_at": "2026-11-25T13:25:26.642187+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58754.825,
+          "observed_at": "2026-11-25T13:25:26.349460+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "5b5b5cd015064261a262",
+    "title": "Are banks closed on Black Friday 2026? No: they close Thanksgiving, then reopen Friday, November 27 - Nacionale",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeWNUOHJvaUhSeUJSM3JQT1Y5WGNMQk4xREFBM1dsQlNid3czZEs5WUkyWTdCT3R1YVFQU1l5bmI4OV9LaXVyRFdxSVRJVm95RF95Ty03SnZwcG1zbURWQ0swcXJ6a3lCTWxydjNoQktxREVtbFM3X2l4QkJHeGNUT1ljVDI0U05vTFJRS2c1dTdBZmFvaGw0YnYyalFvNXVXNWRySEQtdXpXZmhVX3dYWmZPaUMwalU?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T13:20:32+00:00",
+    "detected_at": "2026-11-25T13:25:24.997331+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 4.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "29029160bf21c799c4e7",
     "title": "Crypto Today: Recovery outlook dims for Bitcoin, Ethereum and XRP - www.tmgm.com",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYXFKZU5NcXVHMGFmQVZKRHQ5dVpfbGh2eWE4bFByUng1cUtjV1h2WlFQcllXSXJ1VjIxQTFqQ1FXTmNwZW5PVGFnN3NrSXB1TDVhQjhVVkdvRUVaZlEwMUZselhRM0d6QThrRkJuU0FOZG1lRTYzRGhqZHBLcEF2TXkzTTRzN21hNW00ZWN4d3JPZFBsS0JBcEE4Q3ZNQ2Mxenk0cFloNXhMRl82dlNfbWhyTDNMWXRtUGtIWXZKZGg2YVFOMTE5SkhTWHhUbEIy?oc=5",
