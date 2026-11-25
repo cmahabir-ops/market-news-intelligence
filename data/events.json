@@ -1,5 +1,75 @@
 [
   {
+    "id": "ac8978937eb11b9f68fc",
+    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5HX2lzR3d1S0x4Zm90S3J3alZlWnVhdG5ZTWRFUlBuNmJzakZZaVBGdWd5MVo5UHRpLU5iZzVB?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T20:47:57+00:00",
+    "detected_at": "2026-11-25T00:55:25.643879+00:00",
+    "assets": [
+      "BTC",
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "alert_status": "delivered",
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59530.775,
+          "observed_at": "2026-11-25T00:55:25.926734+00:00",
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD"
+        },
+        "followups": {}
+      },
+      "ETH": {
+        "baseline": {
+          "price": 1670.15,
+          "observed_at": "2026-11-25T00:55:26.203373+00:00",
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-25T00:55:26.997817+00:00",
+    "alert_last_attempt_at": "2026-11-25T00:55:26.997835+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "499bd09d0e9a5bb755e6",
+    "title": "First Capital Management's 2027 Taiwan Stock Outlook: A U-Shaped Slow Bull Market Grinding Higher, with the High Challenging 55,000 Points - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51ZzJnQzNkR0trYmx3UDV4b3FDald5b2RoSmRUSEFCYkRKVHA1a0ozY0NiajZFbnNVa3NVNS01RFB0Y3NCaElJZTNLd2dHWHhaZ3Y2eUE2OVF4N3lYUVRjQzRVYmh0dEs1eTZsa2tJRjR0ZDFnVmc?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T06:05:00+00:00",
+    "detected_at": "2026-11-25T00:55:25.164285+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "b93552e8e7353b1cee62",
+    "title": "Bond Traders Hedge Against Risk Fed Hikes and Stock Slide Will Slow US Economy - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZi1YVjJ0VHYzT2huLUtSTDVZTHYwUWp1MVRWa0FIcjhobGJvRjhNc1c2MTZDYUtRTW4zNWNxRXBzRmVQSUNaSjh2NmJQMk9ST2cxYkM5WldQWmdxQjh4Y2pZQ3UxbUtoN0t3UHlHdEZwS0dSOHotaC04Ym42WVlIQkM2OWU2c3JpeVF1eWRnN19PSTVncGF1UlpmeGFvQzRRRkhEdUJOLUEzN0otNWhYLTBaeWxNVGJkMjl2WGJTaVZCZEVNS2NDZnZzWWVMSXNHa0lxQ3dYWjk?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T21:36:46+00:00",
+    "detected_at": "2026-11-25T00:55:25.163614+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "8024f78fb5a19e36b8eb",
     "title": "Workday (WDAY) Stock Rises 1.8% After C1.ai Acquisition and Partner Deal - JournalArta",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSWRkZVJ2TF8ycmxFXzdNeUVEZTZfZHRuTmdUb2lQUElsOF8xWHIzWk91dmV2ZEtqX0ZVMk1SaEZqUHhRTU8wVll2TDRqSmpycWxCaE1KY29rbHRDTVcyUUtTZ0NoT3RuelBjcndyNEhUbnBmcmpRMVVVeW5felU5VmtYYUEwVGl5eWR6V1paM3pvU2s?oc=5",
