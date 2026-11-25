@@ -1,5 +1,43 @@
 [
   {
+    "id": "bf594ad9afe2664dacb5",
+    "title": "Goldman Sachs Sees Three Pillars for China's Economy in 2027, Overweights Banks and Four Other Sectors - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HTG5oblM5bGlnTUFaY1dLNEE4TVBtbVJQM3hMNnN5MHNvYmczRUYzU05mMWZ4WGNpWHBBYXBHcGJadk1DUmdYYk1qV3VIaUFYR1VUZ2JjNlEtVURRMDBlY1EyUG8yYjlrUVBBcFYwZzFoZWVZUWc?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T10:35:00+00:00",
+    "detected_at": "2026-11-25T11:05:26.693306+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 30.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "3810b7b96296530577d1",
     "title": "Why Is Most of Ripple's RLUSD on Ethereum Instead of XRP Ledger? - Coinpaper",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMXo2dko3RGFDaXc0ZFhZQ3dMZWI2NzhCNVd1SkNsVzl3QU1zeGZ6eWF6aHI4NFJXYklVRUlSZ2hpRnZDS2YwNS0wT3FTeDdhYUR1aV9QY2dDODhVR0ZEd3R3UmJYX19jSHVqZ0RnRUp4T0c1SjRFYzRHOWhUV0s1aG5jUXpmRngxdU9XN1NMUXRlZ0lnbEE?oc=5",
@@ -7499,6 +7537,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.6012
+          },
+          "240": {
+            "price": 58737.815,
+            "observed_at": "2026-11-25T11:05:27.494247+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.6616
           }
         }
       }
