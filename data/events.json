@@ -1,5 +1,144 @@
 [
   {
+    "id": "1283f93b8461795073f6",
+    "title": "Nasdaq-100 nears bear market as futures plunge 3.2%, Nvidia slides amid Fed rate hike concerns | Hindustan Times - Hindustan Times",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQejE3UnloTXVKYllqT3RoLWhiX1N6QXJTb2RZSlFFVTBQUllfbHV6dFBtdTZxdE1jWUJJT0pBYkZhWmtqeVlyTGpiRHVYenZIbmw5eWhmYUxMVGs3ZURhU1J2dHlyNVB2eC1CZWF2QTg4QkwtQVZYbG1ZMm5tYUZmYk9iX2lXeDMtLXg0X2QxUlJHamtsNUd0WWRRWEIzbWFLalJLWE8zS0txd2g4WU1Qd3NxM3p3dFp4M3l4WlFNSHQzV3d0NU1HVkQ0RjhaWjB2Sl9zQWV5V1kzUWxJSmc3Rlh3RDdlUmpkMHREWE1BUVZqTVRwWDJTUzl30gH6AUFVX3lxTFB6MTdSeWhNdUpiWWpPdGgtaGJfU3pBclNvZFlKUUVVMFBSWV9sdXp0UG11NnF0TWNZQklPSkFiRmFaa2p5WXJMamJEdVh6dkhubDl5aGZhTExUazdlRGFTUnZ0eXI1UHZ4LUJlYXZBODhCTC1BVlhsbVkybm1hRmZiT2JfaVd4My0teDRfZDFSUkdqa2w1R3RZZFFYQjNtYUtqUktYTzNLS3F3aDhZTVB3c3Ezend0WngzeXhaUU1IdDNXd3Q1TUdWRDRGOFpaMHZKX3NBZXlXWTNRbElKZzdGWHdEN2VSamQwdERYTUFRVmpNVHBYMlNTOXc?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T17:04:17+00:00",
+    "detected_at": "2026-11-25T20:55:24.874282+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "NVDA",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "NVDA": "Stocks"
+    },
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 231.1,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": "central_bank_rate_decision",
+    "macro_status": "candidate_context",
+    "macro_benchmarks": [
+      "SPY",
+      "QQQ",
+      "BTC"
+    ],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "NVDA",
+        "AMD",
+        "SMH",
+        "QQQ",
+        "SPY"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "NVDA": {
+          "price": 148.9,
+          "observed_at": "2026-11-25T20:55:25.899679+00:00",
+          "quote_at": "2026-11-25T20:55:11+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "regular_candidate",
+          "valid_for_reaction": true,
+          "freshness": "recent"
+        },
+        "AMD": {
+          "price": 402.945,
+          "observed_at": "2026-11-25T20:55:25.646503+00:00",
+          "quote_at": "2026-11-25T20:55:11+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "regular_candidate",
+          "valid_for_reaction": true,
+          "freshness": "recent"
+        },
+        "SMH": {
+          "price": 419.44,
+          "observed_at": "2026-11-25T20:55:25.987797+00:00",
+          "quote_at": "2026-11-25T20:55:20+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "regular_candidate",
+          "valid_for_reaction": true,
+          "freshness": "recent"
+        },
+        "QQQ": {
+          "price": 633.24,
+          "observed_at": "2026-11-25T20:55:25.923569+00:00",
+          "quote_at": "2026-11-25T20:55:20+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "regular_candidate",
+          "valid_for_reaction": true,
+          "freshness": "recent"
+        },
+        "SPY": {
+          "price": 717.06,
+          "observed_at": "2026-11-25T20:55:26.116943+00:00",
+          "quote_at": "2026-11-25T20:55:16+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "regular_candidate",
+          "valid_for_reaction": true,
+          "freshness": "recent"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "NVDA": {
+        "baseline": {
+          "price": 148.9,
+          "observed_at": "2026-11-25T20:55:25.899679+00:00",
+          "quote_at": "2026-11-25T20:55:11+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "regular_candidate",
+          "valid_for_reaction": true,
+          "freshness": "recent"
+        },
+        "followups": {},
+        "benchmark_asset": "QQQ",
+        "benchmark_baseline": {
+          "price": 633.24,
+          "observed_at": "2026-11-25T20:55:25.923569+00:00",
+          "quote_at": "2026-11-25T20:55:20+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "regular_candidate",
+          "valid_for_reaction": true,
+          "freshness": "recent"
+        }
+      }
+    },
+    "alert_delivered_at": "2026-11-25T20:55:27.648008+00:00",
+    "alert_last_attempt_at": "2026-11-25T20:55:27.648024+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "16a4347b8739c42d613c",
     "title": "Bitcoin Price Struggles Below $60K as Spot Buyers Retreat and Leverage Builds - Cryptonews.net",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1dGtoRExORXV1bVIwc2EzVmpBSUszTmU2ZUpUQkFBTlR4T2FZOXQxcnU2YkJ6QzRMNmZTbF9ZbUkzc2g5LVVPcHVPdWZDdUJ4eDVIc1VEcXQ?oc=5",
