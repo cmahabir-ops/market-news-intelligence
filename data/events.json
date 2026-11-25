@@ -1,5 +1,81 @@
 [
   {
+    "id": "9dd5c78a4a95b2ab57f3",
+    "title": "Federal Reserve Rate Expectations Shift as Markets Reprice the Policy Path - kalkine.co.uk",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWVLRnlLZGZtVmEyNERnRFIwM3RDZzMtb05pMkRCX3Y3elpNb0podm1lYjBwdXdMVHpnSlAzSHpRRmpWQk9rVXVscEVHOUNVSHNiYVFtN1FKLWN3MVh1SkdwZzdiZ3ViM2NVMmpjUVBRZFhSTHhKdkRmM011VmVtTEpaNkx0NXJvTDZyZ1g2TWZQUzU4eWQ0aUZnVFRfRDdkX25CeERndi1xLUNpTUhoekNUTUk?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T03:56:00+00:00",
+    "detected_at": "2026-11-25T07:15:35.223829+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 199.6,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "0979481ffcd343f8e1b1",
+    "title": "Goldman Sachs Warns of Aggressive Fed Rate Hikes as Sharp Plunge in US Stocks Conceals Greater Risks - 深潮TechFlow",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVVOaUZQTVFDQUdTdU91Y2ttQ2dHYy0xQWZTR3h4ZjhmdEdMaWVjdE9hRjlWbUtfdDI2d1JNMmJ2SUtvTHpROUJkSjRWMFI0QlVkZ2hWeHZYcXJfdUJUTk9xc3Y0RzJIejVRWVgyWmJWS2VUVnZQYjY4S0lQZzIweVVWeGpsSWZMcWY2UElXeFgxa1Z3R3Q0dWl3?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T11:04:32+00:00",
+    "detected_at": "2026-11-25T07:15:35.223166+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 1211.1,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "e5699e76642e3d817ce9",
     "title": "SEC staff clears Molecule to sell research-funding tokens without registration - Cryptonews.net",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxTGlqV29rYTlQU2FDQ3NJd2xma0p6TFlrZkRUYWRSOE1FWWFIUUZKcjV4b25DZlVVUTR2NnA2bTRBZlF3Mjd2VFA2THBESTVnRk5LVURn?oc=5",
@@ -155,7 +231,12 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 10.09
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -1035,6 +1116,21 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 65.11,
+          "observed_at": "2026-11-25T07:15:36.532887+00:00",
+          "returns_pct": {
+            "ETH": 0.009,
+            "BTC": -0.0406,
+            "SOL": 0.051
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0496,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1064,6 +1160,19 @@
             "change_pct": -0.1201,
             "benchmark_return_pct": -0.1564,
             "excess_return_pct": 0.0363
+          },
+          "60": {
+            "price": 1657.785,
+            "observed_at": "2026-11-25T07:15:36.159865+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.009,
+            "benchmark_return_pct": -0.0406,
+            "excess_return_pct": 0.0496
           }
         },
         "benchmark_asset": "BTC",
