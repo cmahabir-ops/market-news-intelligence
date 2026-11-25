@@ -132,7 +132,12 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 9.88
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -231,7 +236,12 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 9.88
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
