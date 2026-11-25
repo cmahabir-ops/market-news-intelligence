@@ -1,5 +1,81 @@
 [
   {
+    "id": "86ed613344fccc94aaaf",
+    "title": "Fidelity Adds AAVE, LINK and UNI to Crypto Trading, Bringing DeFi Trio Into 8-Asset Lineup - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnMDlDbkpBVEZfQVM5QlRKN0ZnY1lCVEVvN0VSM09DelV4TXpsNkFPNi1GSGhpbGxGVTRDV1ZRZm84cHRCNHVkSUZpNE5ydDRXRTIzX09hVk1hcjVuVEkxekZCSmVLaUdrdWx0T3hqTVNsWFJ6VHc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T07:25:00+00:00",
+    "detected_at": "2026-11-25T07:50:24.759370+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 25.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "13deb4b1542698f4eafd",
+    "title": "Federal Reserve Vice Chair for Supervision Bowman Faces Rare Investigation, Accused of Violating \"Quiet Period\" Rules;… - 深潮TechFlow",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNjFPby1BaWhCTWRtM0w1aW10bU5kN0pFcnQ5XzREVGl3MmNwMzM5dmRMRVJyNkZ0ZnMyRk9WOUdPb2RwcEdjcjNScUFPVEF4Y0VmV2JMTWp6SHNFakN4NUJCRVEzcm9vX2QzUjU4QkNYVDdWMjJuYjN6TnNOek9Eb0JMOWFoWG02YmR6NV9tMTgtbzhhSFN2dTk2WQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T22:18:54+00:00",
+    "detected_at": "2026-11-25T07:50:24.354984+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 571.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "3523af7d90510a4c58f2",
     "title": "AI Trade May Have Bottomed, Steno Says - Wisevoter",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CV0RLRlJtRUtSelFaU012R3c1bElMcDdnTm1iMzhmSXA0am9xR2FTaWtsNDlENXZKbFlQZk92ZnpwdVo2aXFBTkZIY2NIckhkcTE5NkhOdjdXMnIwLUFoTU52XzRiMkY4Q3FyZU1ydTZvVWdHOXNoMDA3UDREVmc?oc=5",
@@ -263,6 +339,21 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 9.94
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 19.91,
+          "observed_at": "2026-11-25T07:50:26.793842+00:00",
+          "returns_pct": {
+            "BTC": -0.4516,
+            "ETH": -0.9103,
+            "SOL": -0.9781
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -279,7 +370,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 58746.935,
+            "observed_at": "2026-11-25T07:50:25.331751+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.4516
+          }
+        }
       }
     }
   },
