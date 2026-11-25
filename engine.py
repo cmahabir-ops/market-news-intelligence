@@ -14,6 +14,7 @@ from prices import quote
 from attribution import attribute
 from catalysts import classify
 from intelligence import enrich
+from quality import assess
 from validation import benchmark_for
 from impact import basket as impact_basket, update as update_impact
 
@@ -202,6 +203,7 @@ def run():
     prior=list(existing)
     for event in sorted(fresh,key=lambda x:x['published_at']):
         event.update(enrich(event,prior))
+        event["quality_v352"] = assess(event)
         prior.append(event)
     fresh.sort(key=lambda x: x["published_at"])
     # Save before sending; GitHub Actions commit preserves dedup across runs.

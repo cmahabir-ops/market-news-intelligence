@@ -189,3 +189,19 @@ if impact_data:
     else:
         st.warning("Timing audit unavailable: observation columns are missing.")
     st.caption("Nominal horizons are not exact exchange-time returns. Actual per-asset elapsed times are recorded for new observations.")
+
+st.subheader('V3.5.2 — Catalyst quality and news relevance')
+from quality import rows as quality_rows_v352
+st.caption('Headline-only triage of new records. Feed freshness is not proof of original event freshness. No forecast-ready labels are assigned. Existing alerts and impact collection are unchanged.')
+qrows = quality_rows_v352(events)
+if qrows:
+    qdf = pd.DataFrame(qrows)
+    a,b,c = st.columns(3)
+    a.metric('Classified headlines', len(qdf))
+    b.metric('A/B candidates', int(qdf['Tier'].isin(['A','B']).sum()))
+    c.metric('Priority manual review', int(qdf['Review candidate'].sum()))
+    st.dataframe(qdf['Tier'].value_counts().reindex(['A','B','C','D'],fill_value=0).rename_axis('Tier').reset_index(name='Headlines'),hide_index=True)
+    tier = st.selectbox('Quality tier',['All','A','B','C','D'],key='v352_tier')
+    st.dataframe(qdf if tier=='All' else qdf[qdf['Tier']==tier],hide_index=True,use_container_width=True)
+else:
+    st.info('Awaiting newly collected V3.5.2 headlines. Historical records are unchanged.')
