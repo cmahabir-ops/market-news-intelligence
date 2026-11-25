@@ -1,5 +1,252 @@
 [
   {
+    "id": "905b8c383a4769fbe3e0",
+    "title": "Next Technology Holding sells 500 Bitcoin, updates cryptocurrency strategy - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTVdxQjl3TVB1ZXVaMGpia21CNjRVQUwwYjhKWnBPSmEtbnZydmFUNjlVckU5RVU1NG5vQ1VlaEN1QjhrS2JLTU82cWRGeVpfX0V1VTJIdFYydXRpZnBSN2VUSngwbDgtcl9LaGRWRkFzSTRVcUl6aHJwMWM2VjN2UWN5cDMyandsMC1sQkNkN0lUV3VMblV0MzBBdUo3eUFKQU5QWUtVcTVvVkJjQ0s1VnRySU01cjhReE1uaUNYMzRpTXFXUVNNYg?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T03:02:25+00:00",
+    "detected_at": "2026-11-25T06:00:34.203863+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 178.2,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59032.555,
+          "observed_at": "2026-11-25T06:00:34.619148+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1654.76,
+          "observed_at": "2026-11-25T06:00:34.744668+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 68.64,
+          "observed_at": "2026-11-25T06:00:35.006276+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59032.555,
+          "observed_at": "2026-11-25T06:00:34.619148+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "c431f3e96b5eacb85e92",
+    "title": "Sam Bankman-Fried Says He May Return to Crypto or Enter AI After Prison Release - bloomingbit",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZZkdadFVjNUItdDRhV00zeVJsYnlScE1MSV8zMVZrRlJ1WnhqWVFUTmkzaVgwUUllOXZTQTdjbDJ6bTFsZWdzT2ptYTBpS29memZhVA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T04:26:47+00:00",
+    "detected_at": "2026-11-25T06:00:34.203442+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 93.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "34d7278c49e75ce040e4",
+    "title": "Ethereum price on November 27: Live Odds - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fUFJBaG96ZllqYkx1V21nQUdYazhrWk93QUFMeUQ3ZWtfMGdpVThOYkFYam00RERRWFJyR0VoU0NtYU9idzc4MzQweEotTmEzOUo1VThNOFVhRXZrV1BZS3gyTHd2VUxYQy1JX0dzSnVVaTBpbjAtbFVR?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T03:35:46+00:00",
+    "detected_at": "2026-11-25T06:00:34.200048+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 144.8,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1654.76,
+          "observed_at": "2026-11-25T06:00:34.744668+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59032.555,
+          "observed_at": "2026-11-25T06:00:34.619148+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 68.64,
+          "observed_at": "2026-11-25T06:00:35.006276+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1654.76,
+          "observed_at": "2026-11-25T06:00:34.744668+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59032.555,
+          "observed_at": "2026-11-25T06:00:34.619148+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
     "id": "601ad4f95987a154a164",
     "title": "Why is Bitcoin price down today? BTC struggles below $60K ahead of US economic data - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OSHdXSk1lRmRFSTBuaW9QN1pVOFE1RnZodzVtWFVPV0c5UjA1N29WbW1ORXZ6aGc2MGlqQUdHUEdTanptVEljSm1QVHFTRFE1MTJYMk5adDJiejhKdG1mS3BBY1h3MENFeWk3Wkk1NWZVT1FjWGdpVA?oc=5",
@@ -79,7 +326,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.14,
+          "observed_at": "2026-11-25T06:00:35.150162+00:00",
+          "returns_pct": {
+            "BTC": -0.1052,
+            "ETH": -0.0942,
+            "SOL": -0.0873
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -922,6 +1185,21 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 65.12,
+          "observed_at": "2026-11-25T06:00:35.150259+00:00",
+          "returns_pct": {
+            "BTC": 0.018,
+            "ETH": -0.0851,
+            "SOL": -0.0946
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -949,6 +1227,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2072
+          },
+          "60": {
+            "price": 59032.555,
+            "observed_at": "2026-11-25T06:00:34.619148+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.018
           }
         }
       }
