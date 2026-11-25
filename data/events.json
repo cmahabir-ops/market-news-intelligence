@@ -1,5 +1,108 @@
 [
   {
+    "id": "28244bc0dba07d41bf12",
+    "title": "Senate Democrats seek to scrap SEC crypto exemption proposal - Traders Union",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMV9fWFRvdVNXMDVfNDU1NE1aOE9JcTZTV2pIdDlUV1I5VmFZOVFsWldobWtfSzFyc21JVDhTbGp6M1dIdHNFeDJuTjFhNHgtWXlkemNHUHVZb2JyRUtuU0Y1RGRzLUhtZ0pFbEpqWG9QTUZRaEZOZTQyWlM5LU9vT0dGaTBFeWFWMjhrQTJmb1VUQ1JOUldwWnBoM2hRNzc3RFBj?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T22:25:39+00:00",
+    "detected_at": "2026-11-25T22:30:34.850054+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 4.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 4.93,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "ef5c2a9f243462fb36f2",
+    "title": "JPMorgan Says the Biggest Risk to Stocks in 2027 Is the Fed - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdjNyNFFLUm5scWpkRHBhMlN4Z3AzQ3ZaR1BGb2NfcXU0QWVDelFYRWlvdDVXUTNBQU5WTXh5ek4zOXZTY2pwcDZfM1VmaWNaS1loTkpqbzZTNnlrMTZNclhsbm5rX2dxdUdwZHVLczl5SDRpcVlVazc2V1M0cnctSTlvdFFYTWtoakhra09uQy10NjBsUzBnY2FONERMTFIxOGtwdGh3?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T16:27:00+00:00",
+    "detected_at": "2026-11-25T22:30:34.287213+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 363.6,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 363.57,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "aa41d73c059d25203f39",
     "title": "Sam Trabucco Agreed to Surrender $11M in Homes and Yacht in FTX Settlement - Bitcoin Foundation",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS2syM3BaVTR4VUw5RUNvWXczOXlkMVJpbjMtTFB2ZklRNml4dzVacDdtdmVXVFdVM00tb0FaWkFjVHMzUmVuVUd5M24zNm5XU0hwRzkxM0Y4aWYxYzZVTlhVNjhzR0YyZlRUNjBHUGdOUGl0UU5HT0FMUjNJWnVzclM0a1o5T2R3aDR5OFBBMENhSlJVaWNlc3VjMjVLOFpacnc1OTN3UnFhc1puWXIyYld2bEtIQ3FKUG1RNjY4cVYwOEJW?oc=5",
@@ -93,7 +196,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.13,
+          "observed_at": "2026-11-25T22:30:36.033277+00:00",
+          "returns_pct": {
+            "BTC": 0.1144,
+            "ETH": 0.133,
+            "SOL": 0.0498
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.1279,
+            "ETH": 5.1269,
+            "SOL": 5.1247
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -666,7 +790,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60045.17,
+            "observed_at": "2026-11-25T22:30:35.691397+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1048
+          }
+        }
       }
     },
     "alert_delivered_at": "2026-11-25T22:10:36.736236+00:00",
@@ -1340,6 +1476,19 @@
             "change_pct": -0.122,
             "benchmark_return_pct": 0.0684,
             "excess_return_pct": -0.1904
+          },
+          "60": {
+            "price": 0.93535,
+            "observed_at": "2026-11-25T22:30:36.007370+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.8007,
+            "benchmark_return_pct": -0.2334,
+            "excess_return_pct": -0.5673
           }
         },
         "benchmark_asset": "BTC",
