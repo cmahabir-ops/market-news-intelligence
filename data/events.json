@@ -1,5 +1,180 @@
 [
   {
+    "id": "7c9fbb363b2d73ec0fb4",
+    "title": "Ukraine’s parliament passes law to legalize cryptocurrency - Ukrinform",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONjM4c3N3R3lFWHdBd1AxbG1aNzVYQTBDOWpzUTdrV1F4V3diUGFFSXE0VllObU9TVFd5cnBhQmNBRGRXQnNqeWVfS2lzSTdFUDJYUVBnWV83UWlna1pUVVZjS1o3ZG1qaWN0bUdXem9KM1d0c3FvUkJaSnBLNUMyRWFnYjVfMmNmVVlsa2M2THBwSm4yN20tdnlmLTBJZEF5NVRKMS1VNjVlZ2xfOTFOetIBtgFBVV95cUxOa1dYX2ppN2ZDV2E0dDd2WVVfVXhLMkZ6QkI2Z1dsNlFEb21wcE5FU1h6ald1TmRzazd6Wi1FbFpDNXJtLWZCc2lLLUt2ZW1tMjJfNmdSUHk5bkwzX1hpRVkzRTNOSDNGSmJpcUJhcHdadE0tLWtDUnpkMGhWbzN4NUlhUEVsU0JaRWJnOEdOR25FVGtkMUhvVWhZS0ljRFVOcmZ4NlBUQ2hZd1VzOVY1WkZDUk1idw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T10:32:41+00:00",
+    "detected_at": "2026-11-25T10:40:28.441798+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 7.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "840d77474fa6eff580c7",
+    "title": "Michael Saylor Bought $100M In Bitcoin Before Strategy Did, Says The Man Who Convinced Him To Buy It — Now That Bet Is Around $589M - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2haN2RrYU12NEpkcFVqT0JXS18zS3BhYnhpbElLT0Q2cHpBaVNXMGpidWFKaS05MnhWeEtLSFR6VjVsZmd3S0hwY29BTnp1OFZ2d2FsVWdVN2dTMGtNU0dybUZDY0ZuX2l0SWNJaFVaU0JzaWJZYmg5ZlNVTkhZYlMzTVc5LWZJZ3NVWnp1RnYxQm9OaDV4OVVZUHhzZXJD?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T10:22:23+00:00",
+    "detected_at": "2026-11-25T10:40:28.438936+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 18.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58877.195,
+          "observed_at": "2026-11-25T10:40:28.854822+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1642.415,
+          "observed_at": "2026-11-25T10:40:28.922233+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.62,
+          "observed_at": "2026-11-25T10:40:29.150661+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58877.195,
+          "observed_at": "2026-11-25T10:40:28.854822+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "96f89cdda59b7c4d3cbf",
+    "title": "DJIA Futures: Market Dynamics, Structure, and Key Drivers - The Cryptonomist",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPejdyRGNIMUJkeGZYZnRXeWVkSHNHajkxbFoyN0VBcVRrcWJKajk5cnpCTjdCaGRYcFozOHRWSmlIalk5YWozM1NFN2E3YjRqdVdjMjNIS0ZqQVVTMVRKVmtHeENvOU9RMFloM3ZoX1ItNXpieTRRN1NaekNpZHo5V2dmeUZQTnRqQXA2THBBNGs3eWp1cTVOVg?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T10:33:06+00:00",
+    "detected_at": "2026-11-25T10:40:27.979316+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 7.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "2950e1ab233774bbdd49",
     "title": "Charles Schwab’s framework points to a roughly 3% Bitcoin slice for balanced portfolios - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iRnZWT25YWlFYOGRPZjl1dzhaWG5hX1NTa3Z0UGZsNklSQlFETTU1aVk3ZjluYWVkRU1iSHBvVWdsRXBVOS1JaTN2SGNpVGFoUnpGUV9EeUFEdkN1RC1JeXhsQThMNk5vTVlYUkdTUmMwR0RiZml4VA?oc=5",
@@ -79,7 +254,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.0,
+          "observed_at": "2026-11-25T10:40:29.436013+00:00",
+          "returns_pct": {
+            "BTC": -0.0534,
+            "ETH": -0.077,
+            "SOL": -0.0887
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -663,6 +854,21 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 10.03
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 19.92,
+          "observed_at": "2026-11-25T10:40:29.436090+00:00",
+          "returns_pct": {
+            "BTC": -0.1312,
+            "ETH": -0.1832,
+            "SOL": -0.1182
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -679,7 +885,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 58877.195,
+            "observed_at": "2026-11-25T10:40:28.854822+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1312
+          }
+        }
       }
     }
   },
@@ -6862,6 +7080,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.5875
+          },
+          "240": {
+            "price": 58877.195,
+            "observed_at": "2026-11-25T10:40:28.854822+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.4187
           }
         }
       }
