@@ -1,5 +1,86 @@
 [
   {
+    "id": "816fc7a4589619905a56",
+    "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQelZKWGNfQjZvSE5lSTZaS283ZVJQMmsxVGdsd3BoaHV4U3VzWnIya25DcmZhel8tZlhkcmtOM2luMkphOTdpZGhWUXVGWGY1MnhDMmdBTmpPOGdHMldCSjVDNFRzVTEycEdvTThiUFYwRFlyR3lEVkNaajlLYldiNmlHM3laYUcteHkwa21rb0M5TGNqZi1iQTd5bFBXa2I0RjRUMW80S2xSOTNsZFpDcXdJTUc3a3FlZm5CVERzTTVQdGc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T03:35:00+00:00",
+    "detected_at": "2026-11-25T03:40:33.395344+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "NVDA",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "NVDA": "Stocks"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "NVDA",
+        "AMD",
+        "SMH",
+        "QQQ",
+        "SPY"
+      ],
+      "status": "awaiting_baseline",
+      "baseline": {},
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "NVDA": {
+        "baseline": {
+          "price": 155.38,
+          "observed_at": "2026-11-25T03:40:33.834783+00:00",
+          "quote_at": "2026-11-24T21:00:01+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        },
+        "followups": {},
+        "benchmark_asset": "QQQ",
+        "benchmark_baseline": {
+          "price": 638.1,
+          "observed_at": "2026-11-25T03:40:33.900422+00:00",
+          "quote_at": "2026-11-24T21:00:00+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        }
+      }
+    }
+  },
+  {
     "id": "4ac4caf34b7211a24ca4",
     "title": "Ethereum Could Crash Below $500, Peter Brandt Warns – Why Another Analyst Still Sees A Bounce Toward $2,000 - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkpyOVNzUTd4NHhaTGpRMFhpU1N1X0U1LV82Q1B6amQ0VHJRc3hZTEVLNTZjM2EwdDFfQzcyM29IdEQwV3JIWkc5UV9ZZ2NZVlFiMU1EYWJFXzBuZU9rLWc2a2I2N0hrcGhDSnQwaFY5WTNrNmc1WXR4b2dhenpoOUxlX19HVkhKd18yS0VDR2M4TEpJTWhrWlQtOA?oc=5",
@@ -79,7 +160,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.09,
+          "observed_at": "2026-11-25T03:40:34.146068+00:00",
+          "returns_pct": {
+            "ETH": -0.0337,
+            "BTC": -0.0638,
+            "SOL": 0.0289
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0301,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
