@@ -87,3 +87,14 @@ if vrows:
     st.warning('Sample sizes may be small or correlated. These metrics exclude neutral classifications and do not account for trading costs, slippage, news arrival latency or selection bias. No causal or profitable-trading claim is implied.')
 else:
     st.info('No eligible V3 observation windows yet. New V3 events need a valid baseline and a subsequent eligible quote.')
+
+
+st.subheader('V3.1 — Validation eligibility diagnostics')
+from diagnostics import reason
+from collections import Counter
+reasons = Counter(reason(e) for e in events)
+st.dataframe(pd.DataFrame([{'Reason': k, 'Events': v} for k,v in reasons.most_common()]), hide_index=True, use_container_width=True)
+st.caption('Diagnostics include legacy records for transparency. No existing records are reclassified.')
+v3_events = [e for e in events if e.get('attribution_method') == 'headline_mentions_v3']
+if v3_events:
+    st.dataframe(pd.DataFrame([{'Detected UTC':e.get('detected_at'), 'Headline':e.get('title'), 'Primary asset':e.get('primary_asset'), 'Direction':e.get('direction'), 'Exclusion / status':reason(e)} for e in v3_events]).sort_values('Detected UTC', ascending=False), hide_index=True, use_container_width=True)

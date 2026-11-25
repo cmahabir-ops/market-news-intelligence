@@ -8,11 +8,20 @@ def completed_rows(events):
         if e.get('attribution_method')!='headline_mentions_v3':continue
         asset=e.get('primary_asset')
         if not asset or e.get('direction') not in ('Potentially bullish','Potentially bearish'):continue
+        # Avoid treating a delayed next-session baseline as a response to old news.
+        try:
+            detected=datetime.fromisoformat(e['detected_at'])
+        except (KeyError,ValueError,TypeError):
+            continue
         rec=e.get('price_reactions',{}).get(asset,{})
         for horizon,f in rec.get('followups',{}).items():
             if not f.get('valid_for_reaction'):continue
             b=rec.get('baseline',{})
             if not b.get('valid_for_reaction'):continue
+            try:
+                baseline_time=datetime.fromisoformat(b['observed_at'])
+                if abs((baseline_time-detected).total_seconds())>30*60:continue
+            except (KeyError,ValueError,TypeError):continue
             change=f.get('change_pct')
             if not isinstance(change,(int,float)):continue
             expected=1 if e['direction']=='Potentially bullish' else -1

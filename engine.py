@@ -192,19 +192,32 @@ def run():
     if initial and not cfg.get('alert_on_first_run', False):
         for e in fresh: e['alert_status'] = 'first_run_suppressed'
     # Record only actual observation-time prices. Do not claim historical publication-time quotes.
-    targets = sorted({a for e in combined[:300] for a in e.get('assets', []) if a in ASSETS} | {'SPY','QQQ','BTC'})
+    targets = sorted({a for e in combined[:300] for a in e.get('assets', []) if a in ASSETS} | {e.get('primary_asset') for e in combined[:300] if e.get('primary_asset')} | {'SPY','QQQ','BTC'})
     quotes = {a: quote(a) for a in targets}
     horizons = [15, 60, 240, 1440]
     for e in combined[:300]:
         reactions = e.setdefault('price_reactions', {})
         for a in ([e['primary_asset']] if e.get('attribution_method') == 'headline_mentions_v3' and e.get('primary_asset') else ([] if e.get('attribution_method') == 'headline_mentions_v3' else e.get('assets', []))):
             if not quotes.get(a): continue
-            record = reactions.setdefault(a, {'baseline': quotes[a], 'followups': {}})
+            record = reactions.setdefault(a, {'baseline': dict(quotes[a]), 'followups': {}})
+            # Keep an invalid first observation for audit, but allow a later valid baseline.
+            # A delayed baseline is NOT an event-time reaction and is excluded from V3 validation.
+            old_baseline = record.get('baseline', {})
+            if not old_baseline.get('valid_for_reaction') and quotes[a].get('valid_for_reaction') and not record.get('followups'):
+                record.setdefault('discarded_invalid_baselines', []).append(old_baseline)
+                record['baseline'] = dict(quotes[a])
+                record['baseline_replaced_at'] = utcnow().isoformat()
             if e.get('attribution_method') == 'headline_mentions_v3':
                 bm=benchmark_for(a)
                 if bm and quotes.get(bm) and 'benchmark_baseline' not in record:
                     record['benchmark_asset']=bm
                     record['benchmark_baseline']=dict(quotes[bm])
+            # Align benchmark baseline to the asset's eligible baseline where possible.
+            bm = record.get('benchmark_asset')
+            if bm and quotes.get(bm) and quotes[bm].get('valid_for_reaction') and not record.get('followups'):
+                bb = record.get('benchmark_baseline', {})
+                if not bb.get('valid_for_reaction') or 'baseline_replaced_at' in record:
+                    record['benchmark_baseline'] = dict(quotes[bm])
             baseline = record.get('baseline', {})
             try:
                 start = datetime.fromisoformat(baseline['observed_at'])
