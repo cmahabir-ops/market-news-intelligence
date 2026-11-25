@@ -1,5 +1,107 @@
 [
   {
+    "id": "7c59061c306811c9a1da",
+    "title": "Bitcoin Drops to $58,000 as U.S. Tariff Fears and ETF Outflows Weigh on Crypto Markets - KuCoin",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT2ljRWZoNWY3QnR6UnA3SFRzSXpMQTQ0TDhCRXZwa0FnbTZpbG5WU1pNUjJYT3hpdkRUa01jVUlEVVl1Q0hWZE05M3JSVHN2Wk1JWURVamo3dDdxYkQ0ZUVsVE9OcFA5RHFvQmdPRzluQ090UDZRc3VPaW55UHpKVk12dnFVWnhWczNLemRBT2kzVnM4TFRuM3RiNkxRbHdZWVRPc0Fadmw5VFhBOUhaUDdpSnVDUlh4cFE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T15:15:52+00:00",
+    "detected_at": "2026-11-25T15:30:33.130460+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 4,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 14.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 57910.475,
+          "observed_at": "2026-11-25T15:30:33.834803+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1631.54,
+          "observed_at": "2026-11-25T15:30:34.206213+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 66.85,
+          "observed_at": "2026-11-25T15:30:34.804570+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 57910.475,
+          "observed_at": "2026-11-25T15:30:33.834803+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-25T15:30:35.939388+00:00",
+    "alert_last_attempt_at": "2026-11-25T15:30:35.939404+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "b37715254348fe1d6f75",
     "title": "SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting",
     "url": "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
@@ -667,6 +769,21 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 10.1
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.04,
+          "observed_at": "2026-11-25T15:30:35.407149+00:00",
+          "returns_pct": {
+            "ETH": -0.0677,
+            "BTC": 0.0312,
+            "SOL": 0.0299
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0989,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -683,7 +800,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1631.54,
+            "observed_at": "2026-11-25T15:30:34.206213+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0677,
+            "benchmark_return_pct": 0.0312,
+            "excess_return_pct": -0.0989
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 57892.385,
@@ -782,6 +913,21 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 10.1
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.04,
+          "observed_at": "2026-11-25T15:30:35.407180+00:00",
+          "returns_pct": {
+            "BTC": 0.0312,
+            "ETH": -0.0677,
+            "SOL": 0.0299
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -798,7 +944,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 57910.475,
+            "observed_at": "2026-11-25T15:30:33.834803+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0312
+          }
+        }
       }
     }
   },
@@ -886,6 +1044,21 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 10.1
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.04,
+          "observed_at": "2026-11-25T15:30:35.407203+00:00",
+          "returns_pct": {
+            "BTC": 0.0312,
+            "ETH": -0.0677,
+            "SOL": 0.0299
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -902,7 +1075,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 57910.475,
+            "observed_at": "2026-11-25T15:30:33.834803+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0312
+          }
+        }
       }
     }
   },
@@ -2880,6 +3065,21 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.04,
+          "observed_at": "2026-11-25T15:30:35.407300+00:00",
+          "returns_pct": {
+            "BTC": -0.305,
+            "ETH": -0.038,
+            "SOL": -0.0747
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -2907,6 +3107,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -1.4626
+          },
+          "60": {
+            "price": 57910.475,
+            "observed_at": "2026-11-25T15:30:33.834803+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.305
           }
         }
       }
@@ -4414,6 +4625,19 @@
             "change_pct": -1.2489,
             "benchmark_return_pct": 0.0,
             "excess_return_pct": -1.2489
+          },
+          "60": {
+            "price": 143.22,
+            "observed_at": "2026-11-25T15:30:34.315890+00:00",
+            "quote_at": "2026-11-25T15:30:29+00:00",
+            "source": "Yahoo Finance chart indicative USD",
+            "currency": "USD",
+            "session": "regular_candidate",
+            "valid_for_reaction": true,
+            "freshness": "recent",
+            "change_pct": -0.6314,
+            "benchmark_return_pct": 0.1878,
+            "excess_return_pct": -0.8192
           }
         },
         "benchmark_asset": "QQQ",
@@ -6404,6 +6628,19 @@
             "change_pct": -1.2489,
             "benchmark_return_pct": 0.0,
             "excess_return_pct": -1.2489
+          },
+          "60": {
+            "price": 143.22,
+            "observed_at": "2026-11-25T15:30:34.315890+00:00",
+            "quote_at": "2026-11-25T15:30:29+00:00",
+            "source": "Yahoo Finance chart indicative USD",
+            "currency": "USD",
+            "session": "regular_candidate",
+            "valid_for_reaction": true,
+            "freshness": "recent",
+            "change_pct": -0.6314,
+            "benchmark_return_pct": 0.1878,
+            "excess_return_pct": -0.8192
           }
         },
         "benchmark_asset": "QQQ",
@@ -8497,6 +8734,19 @@
             "change_pct": -1.2489,
             "benchmark_return_pct": 0.0,
             "excess_return_pct": -1.2489
+          },
+          "60": {
+            "price": 143.22,
+            "observed_at": "2026-11-25T15:30:34.315890+00:00",
+            "quote_at": "2026-11-25T15:30:29+00:00",
+            "source": "Yahoo Finance chart indicative USD",
+            "currency": "USD",
+            "session": "regular_candidate",
+            "valid_for_reaction": true,
+            "freshness": "recent",
+            "change_pct": -0.6314,
+            "benchmark_return_pct": 0.1878,
+            "excess_return_pct": -0.8192
           }
         },
         "benchmark_asset": "QQQ",
@@ -9750,6 +10000,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.1278
+          },
+          "240": {
+            "price": 57910.475,
+            "observed_at": "2026-11-25T15:30:33.834803+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -1.0372
           }
         }
       }
@@ -9834,6 +10095,19 @@
             "change_pct": -1.2489,
             "benchmark_return_pct": 0.0,
             "excess_return_pct": -1.2489
+          },
+          "60": {
+            "price": 143.22,
+            "observed_at": "2026-11-25T15:30:34.315890+00:00",
+            "quote_at": "2026-11-25T15:30:29+00:00",
+            "source": "Yahoo Finance chart indicative USD",
+            "currency": "USD",
+            "session": "regular_candidate",
+            "valid_for_reaction": true,
+            "freshness": "recent",
+            "change_pct": -0.6314,
+            "benchmark_return_pct": 0.1878,
+            "excess_return_pct": -0.8192
           }
         },
         "benchmark_asset": "QQQ",
@@ -12410,6 +12684,19 @@
             "change_pct": -1.2489,
             "benchmark_return_pct": 0.0,
             "excess_return_pct": -1.2489
+          },
+          "60": {
+            "price": 143.22,
+            "observed_at": "2026-11-25T15:30:34.315890+00:00",
+            "quote_at": "2026-11-25T15:30:29+00:00",
+            "source": "Yahoo Finance chart indicative USD",
+            "currency": "USD",
+            "session": "regular_candidate",
+            "valid_for_reaction": true,
+            "freshness": "recent",
+            "change_pct": -0.6314,
+            "benchmark_return_pct": 0.1878,
+            "excess_return_pct": -0.8192
           }
         },
         "benchmark_asset": "QQQ",
@@ -16384,6 +16671,19 @@
             "change_pct": -1.2489,
             "benchmark_return_pct": 0.0,
             "excess_return_pct": -1.2489
+          },
+          "60": {
+            "price": 143.22,
+            "observed_at": "2026-11-25T15:30:34.315890+00:00",
+            "quote_at": "2026-11-25T15:30:29+00:00",
+            "source": "Yahoo Finance chart indicative USD",
+            "currency": "USD",
+            "session": "regular_candidate",
+            "valid_for_reaction": true,
+            "freshness": "recent",
+            "change_pct": -0.6314,
+            "benchmark_return_pct": 0.1878,
+            "excess_return_pct": -0.8192
           }
         },
         "benchmark_asset": "QQQ",
@@ -18397,6 +18697,19 @@
             "change_pct": -1.2489,
             "benchmark_return_pct": 0.0,
             "excess_return_pct": -1.2489
+          },
+          "60": {
+            "price": 143.22,
+            "observed_at": "2026-11-25T15:30:34.315890+00:00",
+            "quote_at": "2026-11-25T15:30:29+00:00",
+            "source": "Yahoo Finance chart indicative USD",
+            "currency": "USD",
+            "session": "regular_candidate",
+            "valid_for_reaction": true,
+            "freshness": "recent",
+            "change_pct": -0.6314,
+            "benchmark_return_pct": 0.1878,
+            "excess_return_pct": -0.8192
           }
         },
         "benchmark_asset": "QQQ",
@@ -21269,6 +21582,19 @@
             "change_pct": -1.2489,
             "benchmark_return_pct": 0.0,
             "excess_return_pct": -1.2489
+          },
+          "60": {
+            "price": 143.22,
+            "observed_at": "2026-11-25T15:30:34.315890+00:00",
+            "quote_at": "2026-11-25T15:30:29+00:00",
+            "source": "Yahoo Finance chart indicative USD",
+            "currency": "USD",
+            "session": "regular_candidate",
+            "valid_for_reaction": true,
+            "freshness": "recent",
+            "change_pct": -0.6314,
+            "benchmark_return_pct": 0.1878,
+            "excess_return_pct": -0.8192
           }
         },
         "benchmark_asset": "QQQ",
@@ -22159,6 +22485,19 @@
             "change_pct": -1.2489,
             "benchmark_return_pct": 0.0,
             "excess_return_pct": -1.2489
+          },
+          "60": {
+            "price": 143.22,
+            "observed_at": "2026-11-25T15:30:34.315890+00:00",
+            "quote_at": "2026-11-25T15:30:29+00:00",
+            "source": "Yahoo Finance chart indicative USD",
+            "currency": "USD",
+            "session": "regular_candidate",
+            "valid_for_reaction": true,
+            "freshness": "recent",
+            "change_pct": -0.6314,
+            "benchmark_return_pct": 0.1878,
+            "excess_return_pct": -0.8192
           }
         },
         "benchmark_asset": "QQQ",
@@ -22905,6 +23244,19 @@
             "change_pct": -1.2489,
             "benchmark_return_pct": 0.0,
             "excess_return_pct": -1.2489
+          },
+          "60": {
+            "price": 143.22,
+            "observed_at": "2026-11-25T15:30:34.315890+00:00",
+            "quote_at": "2026-11-25T15:30:29+00:00",
+            "source": "Yahoo Finance chart indicative USD",
+            "currency": "USD",
+            "session": "regular_candidate",
+            "valid_for_reaction": true,
+            "freshness": "recent",
+            "change_pct": -0.6314,
+            "benchmark_return_pct": 0.1878,
+            "excess_return_pct": -0.8192
           }
         },
         "benchmark_asset": "QQQ",
@@ -23089,6 +23441,19 @@
             "change_pct": -1.2489,
             "benchmark_return_pct": 0.0,
             "excess_return_pct": -1.2489
+          },
+          "60": {
+            "price": 143.22,
+            "observed_at": "2026-11-25T15:30:34.315890+00:00",
+            "quote_at": "2026-11-25T15:30:29+00:00",
+            "source": "Yahoo Finance chart indicative USD",
+            "currency": "USD",
+            "session": "regular_candidate",
+            "valid_for_reaction": true,
+            "freshness": "recent",
+            "change_pct": -0.6314,
+            "benchmark_return_pct": 0.1878,
+            "excess_return_pct": -0.8192
           }
         },
         "benchmark_asset": "QQQ",
@@ -23754,6 +24119,19 @@
             "change_pct": -1.2489,
             "benchmark_return_pct": 0.0,
             "excess_return_pct": -1.2489
+          },
+          "60": {
+            "price": 143.22,
+            "observed_at": "2026-11-25T15:30:34.315890+00:00",
+            "quote_at": "2026-11-25T15:30:29+00:00",
+            "source": "Yahoo Finance chart indicative USD",
+            "currency": "USD",
+            "session": "regular_candidate",
+            "valid_for_reaction": true,
+            "freshness": "recent",
+            "change_pct": -0.6314,
+            "benchmark_return_pct": 0.1878,
+            "excess_return_pct": -0.8192
           }
         },
         "benchmark_asset": "QQQ",
@@ -23885,6 +24263,19 @@
             "change_pct": -1.2489,
             "benchmark_return_pct": 0.0,
             "excess_return_pct": -1.2489
+          },
+          "60": {
+            "price": 143.22,
+            "observed_at": "2026-11-25T15:30:34.315890+00:00",
+            "quote_at": "2026-11-25T15:30:29+00:00",
+            "source": "Yahoo Finance chart indicative USD",
+            "currency": "USD",
+            "session": "regular_candidate",
+            "valid_for_reaction": true,
+            "freshness": "recent",
+            "change_pct": -0.6314,
+            "benchmark_return_pct": 0.1878,
+            "excess_return_pct": -0.8192
           }
         },
         "benchmark_asset": "QQQ",
