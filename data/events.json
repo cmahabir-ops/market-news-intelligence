@@ -1,5 +1,104 @@
 [
   {
+    "id": "440f8fe04bf4762c4317",
+    "title": "Galaxy Told Investors to Buy Bitcoin, Now It Says: ‘We Withdraw Our Call’ - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMmFrV19yaU9qUG5LQkxqSW9HaUpzUjB3OWpURUJpcXBnQ2U2bDQtR01wYVNDR3pHOE9uNEhQcG95ZV90cDFIaU5BbENoWW1UVV9jT09USjVkaHVRX3hzczVEZzVDbWpjUE9mVEstTjN0UERFa0ktTHZTX1l0R3Zlb3dOdXY4SmtWUFNYM0NQanFFQW9QTE5CbHdieGhkYzFxRjU4azdGYUYwVUwyNDFVMFFCaXRsUjVjdHJmLTVwS2EybUE1eEtlaEgtOA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T19:00:08+00:00",
+    "detected_at": "2026-11-25T19:10:26.570219+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 10.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59929.575,
+          "observed_at": "2026-11-25T19:10:26.990932+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1685.065,
+          "observed_at": "2026-11-25T19:10:27.307392+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.06,
+          "observed_at": "2026-11-25T19:10:27.804144+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59929.575,
+          "observed_at": "2026-11-25T19:10:26.990932+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "4510a603aa8ad2f7e016",
     "title": "Strive CEO Matt Cole reports strong demand for Bitcoin-backed SATS preferred stock - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83STU0bzN4RFYxYmVtNWFsTC1QRzNHQlR5cUpDWDZzcUxxbXozbGpjaGtHRW1WNjc3VkF4N3VVQnhVdmxuMHNYVTNmUzExWklkS2J0b1pjbUYzaHQxMU9MTDdxQlBjbzdlOFN3YTRUYw?oc=5",
@@ -79,7 +178,12 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 9.69
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -10270,6 +10374,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.3632
+          },
+          "240": {
+            "price": 59929.575,
+            "observed_at": "2026-11-25T19:10:26.990932+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 2.5443
           }
         }
       }
