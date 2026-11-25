@@ -1,4 +1,6 @@
 """RSS-based public-news monitor. Heuristic impact, NOT investment advice."""
+import time
+from health_v363 import save as save_health, now as health_now
 import hashlib
 import html
 import json
@@ -156,6 +158,7 @@ def send_discord(event):
 
 
 def run():
+    report = {"started_at": health_now(), "feeds": [], "edgar": []}
     cfg = json.loads(CONFIG.read_text(encoding="utf-8"))
     existing = load_events()
     snapshot(ARCHIVE, existing)
@@ -164,6 +167,8 @@ def run():
     fresh = []
     cutoff = utcnow() - timedelta(hours=cfg.get("max_age_hours", 48))
     for feed in cfg["feeds"]:
+        started = time.monotonic()
+        status = {"source": feed["name"], "status": "error"}
         try:
             headers = dict(HEADERS)
             if os.environ.get("CONTACT_EMAIL"):
@@ -173,6 +178,7 @@ def run():
             parsed = feedparser.parse(r.content)
             if parsed.bozo and not parsed.entries:
                 raise ValueError(f"Invalid feed: {parsed.bozo_exception}")
+            status.update(entries=len(parsed.entries), dated=sum(parsed_time(e) is not None for e in parsed.entries), http=r.status_code, processed_limit=min(60,len(parsed.entries)))
             for entry in parsed.entries[:60]:
                 title = html.unescape(re.sub(r"<[^>]+>", "", entry.get("title", ""))).strip()
                 url = canonical_url(entry.get("link", ""))
@@ -200,12 +206,17 @@ def run():
                 e = {"id": key, "title": title, "url": url, "source": feed["name"], "published_at": dt.isoformat(), "detected_at": detected, **details}
                 fresh.append(e)
                 known.add(key)
+            status["status"] = "parse_warning" if parsed.bozo else "ok"
             print(f"{feed['name']}: fetched {len(parsed.entries)} entries")
         except Exception as ex:
             print(f"FEED ERROR {feed['name']}: {type(ex).__name__}: {ex}")
+            status["error_type"] = type(ex).__name__
+        finally:
+            status["duration_seconds"] = round(time.monotonic()-started,2)
+            report["feeds"].append(status)
     # EDGAR metadata is research-only until filing content is classified.
     if cfg.get('edgar_research_enabled', False):
-        for filing in collect(os.environ.get('CONTACT_EMAIL'), cfg.get('watchlist', [])):
+        for filing in collect(os.environ.get('CONTACT_EMAIL'), cfg.get('watchlist', []), report['edgar']):
             sighting(ARCHIVE, 'SEC EDGAR', filing['url'], filing['title'], filing['published_at'], utcnow().isoformat(), filing['accession'])
     # Annotate newly collected events only; leave historical classifications untouched.
     # Compare with previously stored and already processed headlines, without dropping records.
@@ -291,6 +302,8 @@ def run():
         e['alert_attempts'] = e.get('alert_attempts', 0) + 1
         save_events(combined)
     snapshot(ARCHIVE, combined)
+    report.update(completed_at=health_now(), new_events=len(fresh), total_events=len(combined), alert_failures=failed)
+    save_health(ROOT / "data" / "scanner_health.json", report)
     print(f"Discord attempted: {attempted}; failed: {failed}")
     print(f"New events: {len(fresh)}; Discord alerts: {alerts}; total stored: {len(combined)}")
 

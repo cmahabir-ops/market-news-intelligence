@@ -221,6 +221,27 @@ def render_dashboard():
     else:
         st.info('Awaiting newly collected V3.5.2 headlines. Historical records are unchanged.')
 
+    st.subheader("V3.6.3 — Scanner and source health")
+    from health_v363 import archive_summary
+    health_path = path.parent / "scanner_health.json"
+    try:
+        health = json.loads(health_path.read_text(encoding="utf-8"))
+        stamp = pd.Timestamp(health["completed_at"])
+        age = (pd.Timestamp.now(tz="UTC") - stamp).total_seconds()/60
+        st.metric("Last completed scan age (minutes)", round(age,1))
+        if age > 15: st.warning("Scanner report is stale or deployment synchronization is delayed.")
+        st.dataframe(pd.DataFrame(health["feeds"]), hide_index=True)
+        if health.get("edgar"): st.dataframe(pd.DataFrame(health["edgar"]),hide_index=True)
+    except (OSError,ValueError,KeyError,TypeError):
+        st.info("Awaiting first committed scanner health report.")
+    st.caption("Latest completed scan only; not a continuous uptime measurement.")
+    if st.checkbox("Load historical archive audit", key="v363_archive"):
+        counts, matches = archive_summary(path.parent / "research_archive")
+        st.write(counts)
+        st.caption("Exact stored event-key matches only; not verified equivalent events. Snapshots are versions, not independent events.")
+        if matches: st.dataframe(pd.DataFrame(matches[:500]),hide_index=True)
+        else: st.info("No cross-source event-key matches yet.")
+
     st.subheader("V3.5.4 — News source latency intelligence")
     from latency import summarize
     st.caption("Stored records only: reported feed timestamp to first detection, not original event latency. Publication timestamps may actually be update timestamps. Deduplication and retention limit coverage; these are not provider-wide delivery statistics.")

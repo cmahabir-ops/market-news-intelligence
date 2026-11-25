@@ -13,8 +13,9 @@ def entries(payload,symbol,cik,now):
         acc=recent['accessionNumber'][i]
         doc=recent['primaryDocument'][i]
         yield dict(symbol=symbol,form=form,accession=acc,published_at=dt.isoformat(),title=f'{symbol} SEC filing {form} {acc}',url=f'https://www.sec.gov/Archives/edgar/data/{cik}/{acc.replace("-", "")}/{doc}')
-def collect(contact,watchlist):
+def collect(contact,watchlist,health=None):
     if not contact or '@' not in contact:
+        if health is not None: health.append(dict(status='skipped',reason='missing contact'))
         print('EDGAR skipped: configure CONTACT_EMAIL'); return
     for symbol,cik in COMPANIES.items():
         if symbol not in watchlist: continue
@@ -23,5 +24,8 @@ def collect(contact,watchlist):
             r.raise_for_status()
             rows=list(entries(r.json(),symbol,cik,datetime.now(timezone.utc)))
             print(f'EDGAR {symbol}: {len(rows)} recent selected filings')
+            if health is not None: health.append(dict(symbol=symbol,status="ok",filings=len(rows)))
             yield from rows
-        except Exception as exc: print(f'EDGAR ERROR {symbol}: {type(exc).__name__}')
+        except Exception as exc:
+            if health is not None: health.append(dict(symbol=symbol,status="error",error_type=type(exc).__name__))
+            print(f'EDGAR ERROR {symbol}: {type(exc).__name__}')
