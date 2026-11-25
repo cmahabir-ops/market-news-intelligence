@@ -15,6 +15,18 @@
     {
       "name": "SEC Press Releases",
       "url": "https://www.sec.gov/news/pressreleases.rss"
+    },
+    {
+      "name": "BLS Latest Economic Indicators",
+      "url": "https://www.bls.gov/feed/bls_latest.rss"
+    },
+    {
+      "name": "Federal Reserve Speeches and Testimony",
+      "url": "https://www.federalreserve.gov/feeds/speeches_and_testimony.xml"
+    },
+    {
+      "name": "NVIDIA Official Press Releases",
+      "url": "https://nvidianews.nvidia.com/cats/press_release.xml"
     }
   ],
   "watchlist": [
