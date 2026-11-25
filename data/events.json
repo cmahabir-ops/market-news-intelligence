@@ -1,5 +1,57 @@
 [
   {
+    "id": "bd73737df212207519eb",
+    "title": "Global market rout sends Thai stocks below 1,500 points, gold plunges 8,100 baht in nine days - Pattaya Mail",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVW9RUnpaRDR4Q3lvYnN4TEtFZFhXdXBvSmFoMzZnVHhBREJqbnI1cVFEQnBlUkplXzhITWhMbHZ5QnpDMWh0Mm5GamZuT0U4Y2FZVHpPZGVxcE9IcFh1a1ZRRjhnMmF4cGRxZlpBZEs3RVR2QldSdUIwMFFoRXByTVdqanpnYXp4YnhEeGZHb01LeUtIbU93REkxcWtoQ1Uza0dIdG9pX2VDRzFIZVM4TW5LSEJmSU54dUlmeC1QRW1sbERsX0VsVFV3?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T18:48:37+00:00",
+    "detected_at": "2026-11-25T22:55:26.803967+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 246.8,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 246.83,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "cb28a2bac1f3782ae765",
     "title": "The Government Successfully Forfeited Over $670,000 in Cryptocurrency Linked to an Online Investment Scam - finchannel",
     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWlFQb0lNVHJULVBqMXJUU0xlZGNoMGNUUEtwejFMNGd5cGtLZjFEMkZrSU1LOW45VlEzLVJUN1FXU2o3X2FwVi0wajhQYnphRDBWTmVpWExwdnI5NjNCUmhWanNqNWVzdW41VWhPTXlmUmFFSGNaRnVubkc0ZUJCR09tenVVckhTTjZha2lNOThQRnhXSDRrZmZKU1g2QUhsZkxVNGNkU3FVYkJZblJURHc2QnRjRzNDdFJwdmVoTWF2eUFqak5YWG13TF9tcHVXaElZOFYtLTFYdFVSZlRSMHB3?oc=5",
@@ -361,6 +413,26 @@
             "BTC": 5.0596,
             "ETH": 5.06,
             "SOL": 5.0604
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.95,
+          "observed_at": "2026-11-25T22:55:29.971046+00:00",
+          "returns_pct": {
+            "BTC": -0.1154,
+            "ETH": -0.054,
+            "SOL": 0.0213
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.929,
+            "ETH": 14.931,
+            "SOL": 14.9356
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
