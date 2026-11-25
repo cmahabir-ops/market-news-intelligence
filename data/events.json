@@ -1,5 +1,81 @@
 [
   {
+    "id": "69c5e6c2c6d1a31ab87e",
+    "title": "Crypto Scams: Common Schemes and How to Protect Your Wallet - CyberGhost VPN",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xYTF5UVhBcGs3dXhDV0l5UHpmZFBhdzk3bUpIMi03cVZDYU1nd0d1M3FNQzRQNGlrTmN6ODc0S2N5Z0Y4aUI4aUJSMVZMaklDeUdrdEFOVkwzTkxoeWVVVU9nUmE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T11:34:57+00:00",
+    "detected_at": "2026-11-25T12:20:29.717856+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 45.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "22b2cac70b5fc8362b26",
+    "title": "S&P 500 ‘Quite Cheap’ After Selloff: Tom Lee Counters Citadel’s 2018 Warning, Says AI ‘Supply Shock’ Could Ease - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbE5BbXFLbUEtSjdtMjk3TklOY1dvbV9INF9wY1VhVm9UeHVDVVZYZUtjQWZzUmVlVHpGTEJDQXF5ak9oMlF0YzVYSEUzY2xlbC1DZ0wyQzJMRnNvOXMzVVVybHNNVWZ0eURmRnNfUUNjN2N5b1RRV05MNmRxZUlFcXlFOXdJcndjaFhNN2o2c2NLT1M4SndmYjlmWUVYenozaEZhZHZOQ0NITW5RalVTaUYycHlKQ3RCbHFiY0gxQkFrZnRmRHQ4T29JR0tDSHhtZjg1SGxoV3R1VHNfTzUyd2Y5bno3MkVZa1FmcHBBSnJNUkFIeUlBd3lsRXRzRE1qbllwMFVrSEVKS1k?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T12:00:19+00:00",
+    "detected_at": "2026-11-25T12:20:29.066863+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 20.2,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "e975e7aa9c8ca5ab88a7",
     "title": "Ripple XRP Price Drops To $0.92 As Buying Interest Fades - MarketForces Africa",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUh1WGV3MGtzXzVqcHd4X0ZHNnpTN1V1cEkwZGR4S0JTOHZXaTNNX0l0YkhXeUxESTByT2dRQVdUWDd5RXRmM3pucU1tVjlBaHFoakJzNzZwNnlTSFVtTFVUX0hpTjh3S3FseWZ0Sk4yOVJkbDZsYV9IY09TVmVacEZaUkZMajVsaWc?oc=5",
@@ -348,7 +424,7 @@
         "QQQ",
         "SPY"
       ],
-      "status": "awaiting_baseline",
+      "status": "baseline_missed",
       "baseline": {},
       "windows": {},
       "detection_delay_eligible": false
@@ -818,6 +894,21 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 9.82
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 19.87,
+          "observed_at": "2026-11-25T12:20:31.855624+00:00",
+          "returns_pct": {
+            "BTC": -0.3044,
+            "ETH": 0.0525,
+            "SOL": 0.3409
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -834,7 +925,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 58387.625,
+            "observed_at": "2026-11-25T12:20:30.659253+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3044
+          }
+        }
       }
     }
   },
@@ -922,6 +1025,21 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 9.82
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 19.87,
+          "observed_at": "2026-11-25T12:20:31.855663+00:00",
+          "returns_pct": {
+            "BTC": -0.3044,
+            "ETH": 0.0525,
+            "SOL": 0.3409
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -938,7 +1056,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 58387.625,
+            "observed_at": "2026-11-25T12:20:30.659253+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3044
+          }
+        }
       }
     }
   },
