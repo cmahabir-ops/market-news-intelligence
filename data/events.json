@@ -1,5 +1,340 @@
 [
   {
+    "id": "482401918814217763df",
+    "title": "XRP News : Ripple Partners With Türkiye’s Yapı Kredi Bank - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZTlFd0w4bnQyMXJHUmwzV09MTVFDOWdWczVoZklzckVvREo4VnUzY09VNjZzRUlYeXRWb0xDdloxMHhtRUV0OXUtRGpfX3IyMmlSQmtGUmp4NE1uN1hlSlBXT1hqeHJiWHVTcVM4aWRvSUZqUW1yYmh4MHdBTFRWUVJNYUo0Z3dkeURGLUFIOXVmT0Fra0JOYThMYlQyVk3SAZ8BQVVfeXFMUGU5RXdMOG50MjFyR1JsM1dPTE1RQzlnVnM1aGZJc3JFb0RKOFZ1M2NPVTY2c0VJWHl0Vm9MQ3ZaMTB4bUVFdDl1LURqX19yMjJpUkJrRlJqeDRNbjdYZUpQV09YanhyYlh1U3FTOGlkb0lGalFtcmJoeDB3QUxUVlFSTWFKNGd3ZHlERi1BSDl1Zk9Ba2tCTmE4TGJUMlZN?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T07:19:24+00:00",
+    "detected_at": "2026-11-25T08:05:25.037546+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 46.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.91525,
+          "observed_at": "2026-11-25T08:05:26.966267+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 58773.545,
+          "observed_at": "2026-11-25T08:05:25.639047+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1641.42,
+          "observed_at": "2026-11-25T08:05:25.878289+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.91525,
+          "observed_at": "2026-11-25T08:05:26.966267+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 58773.545,
+          "observed_at": "2026-11-25T08:05:25.639047+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "d95d44f59f6bce04c022",
+    "title": "XRP Below $1 Again as ETF Outflows Reach Four Weeks - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2NWbEwtMDgtdTNGYkcyMUt2OVdMR3k3akxIMm1QeEpiX2pZcUlfX2dTRkt1cVhnWk9IOFlvbE1tZEdhaGUtdjhhTzNDalBmRHhNQ0tsVjlsTjJoUDJ4Q1Y4aDB5ZXpoSVRRTHV3Yi15eEY1Mlg3V1M4N2NRSExyZ0lmOGlfNTBkSm1DQmpIZXZwZ2Q0bEdSdU11aWR0WlRfeHpZLThXM3FmZU1vc05z?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T07:20:00+00:00",
+    "detected_at": "2026-11-25T08:05:25.036922+00:00",
+    "assets": [
+      "BTC",
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 5,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "XRP",
+      "BTC"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto",
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 45.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-25T08:05:27.359712+00:00",
+    "alert_last_attempt_at": "2026-11-25T08:05:27.359729+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "8328b8221ce543367595",
+    "title": "Best Crypto Exchange Liquidity Providers - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSmhRMWNOX3d3MjYtVW5SbnBzYUFqMFRmT2NWWU82eHNVSU9VcW9BUF8xYXpqaUtvMVhYRHBjaFktOXFHSS15ZFZfdmcwOUNoeUtyVlpGeHdXejlObG1oa1kyQS1RYjlVMzU5dGdWWHNJcXNEMWRpQ25JM1VjNzcyeVVublVHWHFkNnE5VVhR?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T08:03:09+00:00",
+    "detected_at": "2026-11-25T08:05:25.035346+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 2.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58773.545,
+          "observed_at": "2026-11-25T08:05:25.639047+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1641.42,
+          "observed_at": "2026-11-25T08:05:25.878289+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.89,
+          "observed_at": "2026-11-25T08:05:26.613855+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58773.545,
+          "observed_at": "2026-11-25T08:05:25.639047+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "20148f534a6830b1a617",
+    "title": "Gold holds steady ahead of U.S. inflation data - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpcXRzdlI2OHBPUHRVRTFuTzVzYzc3N092aERUaG5YcW9BWTAzQUgxUEtaeVRJVlRBM1hVYUoxVEJ4bnVxbjFialMwSFZReUZZSnVlMm9nR0Q5ZjUteXVtMlIwVXpxTjhUSEtFUFYyekgybkhpWXdyZXRUTzRfem_SAYQBQVVfeXFMTjVXb2YzM0szVk81WmZKaTdDZUJhZ2lrUktxbjhFX2lZZGlCODNJLWdicEM3RU5YNDVrWUxNTHFPZlhubVdnUU14N3lZNjh1eEgybTVvSENYaVNveTJfZ2NMUVRjMjdJNXczMzlJWEdpV3pMRlI5OUVXaEg1bnBVZnM3NVdM?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T05:08:05+00:00",
+    "detected_at": "2026-11-25T08:05:24.576164+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 177.3,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "6c7f2e018cc86d78e822",
+    "title": "Asian stocks decline amid AI trade worries and fresh US tariff jitters - www.tmgm.com",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVm05UGNtUGhRMmstVFZzdjk1bVlYSFRGUk04UkI0M0s0RkxLVFVBdlI3VmNSTjh0bkpfNzBuRFhzeW5uSUs1Qmo3Q3VHNUt4RlJFYWxJbXNQVTBUZnZmT0pZd1l3YTVJckRwc3ZVRE9ETjNkaTRBdUdkbzNVVE9Cc2F1dFo2WVhUeG5WNzJ3eE5oOFRNQ2JGVmx2bzFlVlJ2ZUhXUGlEWWZRdkcxbFFnY3d5NEw0Q20tQkRYUS1XSFJ6YzVxT1Q2UTRSNHBob0NPY0E?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T05:13:34+00:00",
+    "detected_at": "2026-11-25T08:05:24.575703+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 171.8,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "000fb75c6525262302b3",
     "title": "Why is Monero price going up despite the crypto market sell-off? - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeW4ya2xGT2I4ZDB5UUhjY1hZcGdzYk02Q0pkNFR1cXpMNnR3UkxMRjNwNFBjVEFkRVQtZEhKMEg0MlZUZGxjRGVmNXpWendNdnJEMXF5TmVWbDE1MkVUMWZkWkxNSERxRkxyUVRlU0MyMnFWb0doOUNMVzJVWUhJZlRsUDUwdmIwbEtKSA?oc=5",
@@ -1083,6 +1418,21 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 64.8,
+          "observed_at": "2026-11-25T08:05:27.017628+00:00",
+          "returns_pct": {
+            "BTC": -0.6012,
+            "ETH": -0.9549,
+            "SOL": -1.215
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1110,6 +1460,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1602
+          },
+          "60": {
+            "price": 58773.545,
+            "observed_at": "2026-11-25T08:05:25.639047+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.6012
           }
         }
       }
