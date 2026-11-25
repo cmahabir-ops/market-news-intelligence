@@ -1,5 +1,180 @@
 [
   {
+    "id": "d659ddd91ac4da397c01",
+    "title": "Can AI Bitcoin Trading Beat Buy and Hold? - Securities.io",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLcG4wbU52d0JiTmxsY2Z3YXYtOEIweFBwdjZRbEFGd0pHTUlQZUJRN3J0STZlcVJ6WkFXWWk2ZUdEbzZ4RU9CUHBJWkJHLTAwamt6NHc3aHBNcGdQaUtBS1N0VEpjN3NfNHd3VEdzVk0?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T19:40:26+00:00",
+    "detected_at": "2026-11-25T19:50:26.517329+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 10.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59868.305,
+          "observed_at": "2026-11-25T19:50:27.005226+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1682.93,
+          "observed_at": "2026-11-25T19:50:27.375920+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.3,
+          "observed_at": "2026-11-25T19:50:27.793398+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59868.305,
+          "observed_at": "2026-11-25T19:50:27.005226+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "b86da5b5db9f426540ad",
+    "title": "Warren, Van Hollen Tell Atkins to Rescind SEC’s Crypto Plans - news.bloombergtax.com",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMENBc0JSaG9uaC11SGQ1dlNncXloTkNZV3NGTmNjQjFEaGJqZjVFZk1aaFpGZUcxcHRvcDdDWlZuVFh2eUtsM2VhR3NPQk9pejNPbHFpalB0U1N3enN0dE9aeFVmSXdnYlEyczU0UVJJaWN3RHhHd3RpLWNOTktyQktGVkc4MEt1Q3VPNkF5SFRfLTh2NXVvalpEWEZaN0hzcHQxb2I1MnpzbGFINkE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T19:44:00+00:00",
+    "detected_at": "2026-11-25T19:50:26.516311+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 6.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "de8b7dc3c759d614b31c",
+    "title": "Newmont Stock Falls 5% as Gold Slides - Wisevoter",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOEFiTHVSVUJMUWVfWjJtZEJvSWFnQWFUSDJ6QXpUcWw0ODZtLVY3MWZMSHBYOUhQVV9keDFBek1xLWQ0U2lsYVJUZ25WN01DRi12aEFRTWR2WXRxQ2RrbkYyQnVmUS0xWnNIMnV0Y201a1BuT1hJTXVkZ2lGVTluY1JlTQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T19:48:51+00:00",
+    "detected_at": "2026-11-25T19:50:26.048823+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 1.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "ec37d7ccf210851338b1",
     "title": "Fidelity Chainlink fund S-1 claim spreads as the firm adds LINK trading - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CbFBwUXk4aUozRVIwTVl5ZDY1enRSQnpaVWRTVkRsRUNwdUM0Zm8wTXB1NE9kYjJNUlFHdm5ZT2V3UjlreEZXM3pHa25KYUZiQkRCNjk4SUwwLS1kY0dNNkpONGplVzR2ZUNVeElMOGZLUHR0UlE?oc=5",
@@ -215,7 +390,12 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 9.96
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {}
