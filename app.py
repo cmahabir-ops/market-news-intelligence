@@ -221,6 +221,24 @@ def render_dashboard():
     else:
         st.info('Awaiting newly collected V3.5.2 headlines. Historical records are unchanged.')
 
+    st.subheader("V3.5.4 — News source latency intelligence")
+    from latency import summarize
+    st.caption("Stored records only: reported feed timestamp to first detection, not original event latency. Publication timestamps may actually be update timestamps. Deduplication and retention limit coverage; these are not provider-wide delivery statistics.")
+    period = st.selectbox("Latency audit period", ["All retained records", "Last 24 hours", "Last 7 days"], key="v354_period")
+    selected = events
+    if period != "All retained records":
+        hours = 24 if period == "Last 24 hours" else 168
+        cutoff = pd.Timestamp.now(tz="UTC") - pd.Timedelta(hours=hours)
+        selected = [e for e in events if (t := pd.to_datetime(e.get("detected_at"), utc=True, errors="coerce")) is not None and pd.notna(t) and t >= cutoff]
+    if selected:
+        st.dataframe(pd.DataFrame(summarize(selected)), hide_index=True, use_container_width=True)
+        st.caption("Freshness uses valid nonnegative delays only; P90 uses nearest rank. A/B and priority yields use V3.5.2 classified records only; duplicate rates use assessed records only. Missing rates mean no eligible denominator. Small samples are not reliable rankings.")
+        with st.expander("Reported publisher breakdown (unverified)"):
+            st.dataframe(pd.DataFrame(summarize(selected, by_publisher=True)), hide_index=True, use_container_width=True)
+            st.caption("Google News title suffixes are publisher hints, not verified identities. Other feeds are not independently attributed.")
+    else:
+        st.info("No retained records in this period.")
+
 if hasattr(st, "fragment"):
     st.fragment(run_every=f"{interval}s" if auto else None)(render_dashboard)()
 else:
