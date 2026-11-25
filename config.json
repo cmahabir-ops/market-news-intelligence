@@ -48,5 +48,6 @@
   "max_age_hours": 48,
   "alert_on_first_run": false,
   "alert_min_score": 3,
-  "v32_max_detection_delay_minutes": 120
+  "v32_max_detection_delay_minutes": 120,
+  "edgar_research_enabled": true
 }

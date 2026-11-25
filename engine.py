@@ -10,6 +10,8 @@ from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 
 import feedparser
 import requests
+from archive_v362 import snapshot, sighting
+from edgar_v362 import collect
 from prices import quote
 from attribution import attribute
 from catalysts import classify
@@ -21,6 +23,7 @@ from impact import basket as impact_basket, update as update_impact
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data" / "events.json"
 CONFIG = ROOT / "config.json"
+ARCHIVE = ROOT / "data" / "research_archive"
 HEADERS = {"User-Agent": "MarketNewsIntelligence/1.0 (public research; contact: set CONTACT_EMAIL env var)"}
 
 ASSETS = {
@@ -155,6 +158,7 @@ def send_discord(event):
 def run():
     cfg = json.loads(CONFIG.read_text(encoding="utf-8"))
     existing = load_events()
+    snapshot(ARCHIVE, existing)
     initial = not existing
     known = {e["id"] for e in existing}
     fresh = []
@@ -179,6 +183,7 @@ def run():
                 if not dt or dt < cutoff or dt > utcnow() + timedelta(minutes=10):
                     continue
                 key = event_id(title)
+                sighting(ARCHIVE, feed["name"], url, title, dt.isoformat(), utcnow().isoformat(), key)
                 if key in known:
                     continue
                 summary = html.unescape(re.sub(r"<[^>]+>", " ", entry.get("summary", "")))[:600]
@@ -198,6 +203,10 @@ def run():
             print(f"{feed['name']}: fetched {len(parsed.entries)} entries")
         except Exception as ex:
             print(f"FEED ERROR {feed['name']}: {type(ex).__name__}: {ex}")
+    # EDGAR metadata is research-only until filing content is classified.
+    if cfg.get('edgar_research_enabled', False):
+        for filing in collect(os.environ.get('CONTACT_EMAIL'), cfg.get('watchlist', [])):
+            sighting(ARCHIVE, 'SEC EDGAR', filing['url'], filing['title'], filing['published_at'], utcnow().isoformat(), filing['accession'])
     # Annotate newly collected events only; leave historical classifications untouched.
     # Compare with previously stored and already processed headlines, without dropping records.
     prior=list(existing)
@@ -263,6 +272,7 @@ def run():
                             current['excess_return_pct']=round(current['change_pct']-bmret,4)
                         record['followups'][key] = current
             except (KeyError,TypeError,ValueError,ZeroDivisionError): pass
+    snapshot(ARCHIVE, combined)
     save_events(combined)
     alerts = 0
     attempted = failed = 0
@@ -280,6 +290,7 @@ def run():
         e['alert_last_attempt_at'] = utcnow().isoformat()
         e['alert_attempts'] = e.get('alert_attempts', 0) + 1
         save_events(combined)
+    snapshot(ARCHIVE, combined)
     print(f"Discord attempted: {attempted}; failed: {failed}")
     print(f"New events: {len(fresh)}; Discord alerts: {alerts}; total stored: {len(combined)}")
 
