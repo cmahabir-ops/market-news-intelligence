@@ -1,5 +1,247 @@
 [
   {
+    "id": "47a63e2c4a87c48422e9",
+    "title": "Reported SEC Crypto Platform Lawsuit Differs From Verified Colorado Filing - WEEX",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbnNPcmliVURxOC1rZ0FiSDc5TEVaRzcyVmg0SVppRGtqUm9FV2pOUE4yOHc0ZjlsaXBWRGw0LVBrd1pNWVFuN0hyYVdRUVVxZC1qVjJWQkllT2puOWhVcWpMNl96NlpLV2hIV0hCSFRaTGVGbnhIZHkwUjlnVUtjR1dUMklWR2J2Q0dGYjM0dUVGaXliYWRoOHNfTXhoUE9EQ0hEYnp6VlVaOV84UmxzR0YxeUlOd2h1anBsLUlfZXJvNkRUbWd0a1pHc1Y3cFJPcXc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T09:42:49+00:00",
+    "detected_at": "2026-11-25T09:45:31.556377+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 2.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-25T09:45:33.926716+00:00",
+    "alert_last_attempt_at": "2026-11-25T09:45:33.926734+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "9c8e587c992315312498",
+    "title": "BTC News: ARK Sells $6.8M Bitcoin ETF as $4.9B Outflows Deepen Market Fear - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNU5aRDl6bUpmTGFKVVZ3VDZYV0JmT2dDWWtRNEFFODY1TE51X2ZvSU5FOUNSZVY4QnhMVDAwdlhOVUtlcDRvVEExWEI3TVM1TE5jdTVqSmJWU3RmdTVxMmU5NHJPa1VuY0NMT0Y3eXFlTm1Rd2drdUM4NnBzdDM5RmlzQWQ4cmo3MTktVHpR?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T09:05:13+00:00",
+    "detected_at": "2026-11-25T09:45:31.555280+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 40.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58825.075,
+          "observed_at": "2026-11-25T09:45:32.359331+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1637.025,
+          "observed_at": "2026-11-25T09:45:32.574932+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.41,
+          "observed_at": "2026-11-25T09:45:33.207571+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58825.075,
+          "observed_at": "2026-11-25T09:45:32.359331+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-25T09:45:34.462095+00:00",
+    "alert_last_attempt_at": "2026-11-25T09:45:34.462112+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "efe2e49fb854f7915046",
+    "title": "Bitcoin’s Next Bull Run Depends On An AI Bubble Bailout? Hayes Sees A 2027 Crash Coming - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVU9qeFZnclVxdmpLWEt2WmQtd0wtUm1XRTZKdEFTYjN0V284enFFMldiemV0cUlCeGk0RnhqR0JRaW5FRm4yZmc2WGRQSnhDNTNXUzhremZiWW9INlRwcXVZNkU3TGp6dU5ZOGw3NWt0YTg2TWZXNTFsaHlfa2hJQ0QwdUZpMnF6RUNvXzhBZTVSNWtESzR0dWx3?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T09:12:22+00:00",
+    "detected_at": "2026-11-25T09:45:31.553098+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 33.2,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58825.075,
+          "observed_at": "2026-11-25T09:45:32.359331+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1637.025,
+          "observed_at": "2026-11-25T09:45:32.574932+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.41,
+          "observed_at": "2026-11-25T09:45:33.207571+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58825.075,
+          "observed_at": "2026-11-25T09:45:32.359331+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "be03d5dea5ff9e47d69f",
     "title": "Wells Fargo Emerges as the New Top Dog as Bitcoin ETF Institutional Ownership Surges - Coinpedia",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRzBOUlB4OU96U2dPekpWOG9sV3RBaTVpbDI1RUZBVnY4UnpDTm1jZXV6WUtNbm9rODRleUtwcFNWVGlqa2Q0OV9hVWVVNlExaWRIWW5fTFNtRjhRQlhUQUV1eWlTNi1XVUt3YmtVUWNBTkpVSVNBbnd5ZEZ5LUtmNHNKTENrTWFjd0o4Wmk2QUg3cVFOcDNxb2hMS01SOWxCTDJYc3V5T082SU1BYVhOOUt30gG3AUFVX3lxTE5BQ3dRc1FhdWphY3ZTUm9DOU1peVMyZUpDWXZzejVMOWl6NkhlSjNFLTlIWTJOaWU3SUE4MUxpRFZhVTQxc19wbnExeHJwUHpFLUlhZmxJdXltdkF2ZTFMODBGdGFxWHp4OVlQT1JwVm1NUE1jYnBtUE1aaE00ZHA1VkxRaDRaeDFKMGpMQ25iQjRTQTR1OG4yY1FxMi1POTJfanJ0d0Q4VVh0bFhqc0U0WHZhWkhPdw?oc=5",
