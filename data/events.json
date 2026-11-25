@@ -1,5 +1,43 @@
 [
   {
+    "id": "9f9a7d404d6e2debd602",
+    "title": "Top Crypto Losers: crypto currencies posting the largest losses today - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3elh2eWwxQWxzWXVIdW50cm0wd3dvZXJlQUhoT25OcVcxdGs1eVJ1eFNGYmJOMjZOSVl2MER3anB3RzNKWXNienVtVFlFT0VDT3NtR0FQLWh6VnIz?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T18:32:19+00:00",
+    "detected_at": "2026-11-25T04:40:29.461536+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 608.2,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "8c539f083fd915af7366",
     "title": "Bitcoin options traders pile into puts at a pace last seen in 2022 - Cryptonews.net",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lVEdEUnAyYkxXRDRqazA2T05vUllOWFB4Mkx4dC0xU2F4cDVFOEZfOHEzUW9CWV94a0lIanloMG01d1l4YUU3Q01EU2xsaVFsdzFzQ19WSTc?oc=5",
@@ -94,6 +132,21 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.02,
+          "observed_at": "2026-11-25T04:40:31.206566+00:00",
+          "returns_pct": {
+            "BTC": -0.3249,
+            "ETH": -0.3566,
+            "SOL": -0.3981
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -110,7 +163,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59002.665,
+            "observed_at": "2026-11-25T04:40:30.000597+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3249
+          }
+        }
       }
     }
   },
@@ -183,6 +248,19 @@
           "observed_at": "2026-11-25T04:30:37.899702+00:00",
           "returns_pct": {
             "BTC": -0.0322
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.02,
+          "observed_at": "2026-11-25T04:40:31.206650+00:00",
+          "returns_pct": {
+            "BTC": -0.3249
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
