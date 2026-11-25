@@ -1,5 +1,157 @@
 [
   {
+    "id": "e0cde5097858fc5602cd",
+    "title": "3 Top Crypto Price Predictions: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP deepen losses as oversold market looks towards yearly lows - www.tmgm.com",
+    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQX0dTMGFONFZRcDVoeEo5V21XTkx1bndBRXRnQWRzbzJHY0JfcXNRNmZSRE5Rc0tDZ3gwVEpnV1hmZndzYmVyek03a1N1S3ZPVHAwa29kVExUVjktY0tFMWxORm9vcWxFNjl6dFlieUMyZ1dKUm1qUFpBQjJHaGlBYXNtN2dzbnQ3YXNad2dvZ0JadVQxYkZWRUNrU0FWUHVYTWRmR2Q5ME9zeWNxWnZFNkZRei1JUkhDbGw0NkxuN0lESHpoT0hXWG9tUnR3UlBmN1hZNE10SFBPODRKVlQ0WXFqdnVyaWRZQUdlSnlsQXFSNUJ4ZnZ3M0h2ZHE3VjhJT0cyaXduMnlyZzlBQlJyU1FTcl8?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T06:06:15+00:00",
+    "detected_at": "2026-11-25T08:10:29.765602+00:00",
+    "assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto",
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 124.2,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-25T08:10:32.119808+00:00",
+    "alert_last_attempt_at": "2026-11-25T08:10:32.119823+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "c09d8426fac0a90dbe5e",
+    "title": "Caroline Ellison Net Worth Remains Unverified as Netflix Revisits FTX - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLXppa2Q0UzVmR0JLaG9QSWJTc3BscFJLQk96bWpjczdtaUpMOTVLZGJZQnBKNndFaG5IMVJuMW55U3FkMkZhdlZoaXdTZjlMbjZrRXFSUG9sUEFxVjZObGI2QmxUNUFiZC1jVmswYjJaMVVFT1lXMEwxY0ZxWWdma0Q0ek1EOVgyOWdIOFptanRXMlVEYXlDUGFOeE13amtCLTVSSWotQVpoempGMnNUdk9UdE82QXc1eUxrcUdrWQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T08:02:53+00:00",
+    "detected_at": "2026-11-25T08:10:29.762010+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 7.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58846.855,
+          "observed_at": "2026-11-25T08:10:30.311353+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1641.315,
+          "observed_at": "2026-11-25T08:10:30.567244+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.855,
+          "observed_at": "2026-11-25T08:10:31.314049+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58846.855,
+          "observed_at": "2026-11-25T08:10:30.311353+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "482401918814217763df",
     "title": "XRP News : Ripple Partners With Türkiye’s Yapı Kredi Bank - Coinpedia",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZTlFd0w4bnQyMXJHUmwzV09MTVFDOWdWczVoZklzckVvREo4VnUzY09VNjZzRUlYeXRWb0xDdloxMHhtRUV0OXUtRGpfX3IyMmlSQmtGUmp4NE1uN1hlSlBXT1hqeHJiWHVTcVM4aWRvSUZqUW1yYmh4MHdBTFRWUVJNYUo0Z3dkeURGLUFIOXVmT0Fra0JOYThMYlQyVk3SAZ8BQVVfeXFMUGU5RXdMOG50MjFyR1JsM1dPTE1RQzlnVnM1aGZJc3JFb0RKOFZ1M2NPVTY2c0VJWHl0Vm9MQ3ZaMTB4bUVFdDl1LURqX19yMjJpUkJrRlJqeDRNbjdYZUpQV09YanhyYlh1U3FTOGlkb0lGalFtcmJoeDB3QUxUVlFSTWFKNGd3ZHlERi1BSDl1Zk9Ba2tCTmE4TGJUMlZN?oc=5",
@@ -79,7 +231,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.1,
+          "observed_at": "2026-11-25T08:10:31.787103+00:00",
+          "returns_pct": {
+            "XRP": 0.0929,
+            "BTC": 0.1247,
+            "ETH": -0.0064
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0318,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -239,7 +407,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.1,
+          "observed_at": "2026-11-25T08:10:31.787151+00:00",
+          "returns_pct": {
+            "BTC": 0.1247,
+            "ETH": -0.0064,
+            "SOL": -0.0516
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -1287,6 +1471,21 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 65.01,
+          "observed_at": "2026-11-25T08:10:31.787230+00:00",
+          "returns_pct": {
+            "BTC": -0.6691,
+            "ETH": -1.1816,
+            "SOL": -1.4738
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1314,6 +1513,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.4036
+          },
+          "60": {
+            "price": 58846.855,
+            "observed_at": "2026-11-25T08:10:30.311353+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.6691
           }
         }
       }
@@ -4708,6 +4918,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0192
+          },
+          "240": {
+            "price": 58846.855,
+            "observed_at": "2026-11-25T08:10:30.311353+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.4837
           }
         }
       }
