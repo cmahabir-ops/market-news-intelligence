@@ -3,7 +3,7 @@ import requests
 from datetime import datetime,timezone,timedelta,time
 from zoneinfo import ZoneInfo
 CRYPTO={'BTC','ETH','SOL','XRP','ADA','DOGE'}
-STOCKS={'NVDA','AMD','AAPL','MSFT','TSLA','COIN','MSTR','SPY','QQQ'}
+STOCKS={'NVDA','AMD','AAPL','MSFT','TSLA','COIN','MSTR','SPY','QQQ','SMH','XLK'}
 def quote(asset):
     try:
         now=datetime.now(timezone.utc)

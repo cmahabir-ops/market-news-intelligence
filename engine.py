@@ -15,6 +15,7 @@ from attribution import attribute
 from catalysts import classify
 from intelligence import enrich
 from validation import benchmark_for
+from impact import basket as impact_basket, update as update_impact
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data" / "events.json"
@@ -213,7 +214,14 @@ def run():
         for e in fresh: e['alert_status'] = 'first_run_suppressed'
     # Record only actual observation-time prices. Do not claim historical publication-time quotes.
     targets = sorted({a for e in combined[:300] for a in e.get('assets', []) if a in ASSETS} | {e.get('primary_asset') for e in combined[:300] if e.get('primary_asset')} | {'SPY','QQQ','BTC'})
+    # V3.5 observational baskets: limit to recently detected events to bound requests.
+    recent_impact = [e for e in combined[:100] if impact_basket(e) and
+                     (utcnow() - datetime.fromisoformat(e['detected_at'])).total_seconds() <= 90 * 60]
+    impact_assets = {a for e in recent_impact for a in impact_basket(e)}
+    targets = sorted(set(targets) | impact_assets)
     quotes = {a: quote(a) for a in targets}
+    for e in recent_impact:
+        update_impact(e, quotes, utcnow())
     horizons = [15, 60, 240, 1440]
     for e in combined[:300]:
         reactions = e.setdefault('price_reactions', {})

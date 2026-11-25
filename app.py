@@ -154,3 +154,24 @@ if quality_rows:
     st.caption('Repeated headlines sharing a quote window are clustered. Benchmark-adjusted returns are shown only where available.')
 else:
     st.info('No eligible V3.4 price windows. The funnel above identifies the exclusion reasons.')
+
+
+st.subheader('V3.5 — Cross-market impact observations')
+st.caption('Scan-time snapshots only, not exchange-synchronized event studies. Five-minute windows require a scan within 5–7 minutes of baseline. Missing windows are not interpolated. Correlation does not establish news causality.')
+from impact import rows as impact_rows
+impact_events = [e for e in events if e.get('cross_market_impact')]
+i1,i2,i3 = st.columns(3)
+i1.metric('Events tracked for cross-market impact', len(impact_events))
+impact_data = impact_rows(events)
+i2.metric('Observed windows', sum(r['Status']=='observed' for r in impact_data))
+i3.metric('Missed windows', sum(r['Status']=='missed_window' for r in impact_data))
+if impact_data:
+    impact_df = pd.DataFrame(impact_data)
+    choices = ['All'] + sorted(impact_df['Horizon (min)'].unique().tolist())
+    chosen = st.selectbox('Impact horizon (minutes)', choices, key='v35_horizon')
+    if chosen != 'All':
+        impact_df = impact_df[impact_df['Horizon (min)']==chosen]
+    st.dataframe(impact_df.sort_values('Detected UTC', ascending=False), hide_index=True, use_container_width=True)
+else:
+    st.info('Awaiting newly detected V3.5-eligible single-asset or macro-context events. Older events are not reclassified.')
+st.warning('Market-data providers are indicative; stock quotes may be delayed or unavailable outside regular trading hours. No five-minute impact is claimed without an eligible observed window.')
