@@ -495,6 +495,21 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.01,
+          "observed_at": "2026-11-25T18:20:27.371882+00:00",
+          "returns_pct": {
+            "ETH": 0.9102,
+            "BTC": 0.5001,
+            "SOL": 0.7784
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.4101,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -511,7 +526,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1691.195,
+            "observed_at": "2026-11-25T18:20:26.298754+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.9102,
+            "benchmark_return_pct": 0.5001,
+            "excess_return_pct": 0.4101
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 59575.8,
@@ -618,6 +647,21 @@
           },
           "benchmark": "BTC",
           "primary_excess_return_pct": 0.0002,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.01,
+          "observed_at": "2026-11-25T18:20:27.371918+00:00",
+          "returns_pct": {
+            "XRP": 0.5848,
+            "BTC": 0.5001,
+            "ETH": 0.9102
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0847,
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
