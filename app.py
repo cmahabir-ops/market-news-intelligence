@@ -134,3 +134,23 @@ if v33:
     st.dataframe(audit.sort_values('Detected UTC',ascending=False),hide_index=True,use_container_width=True)
 else:
     st.info('Awaiting first V3.3 scan. Existing events are intentionally unchanged.')
+
+
+st.subheader('V3.4 — Reaction validation quality audit')
+st.caption('Descriptive quote observations only. No causal inference, predictive accuracy, or trading profitability is established.')
+from validation import validation_funnel, independent_clusters
+funnel=validation_funnel(events)
+st.dataframe(pd.DataFrame(funnel),hide_index=True,use_container_width=True)
+quality_rows=completed_rows(events)
+if quality_rows:
+    selected_horizon=st.selectbox('V3.4 horizon (minutes)',sorted({r['horizon_min'] for r in quality_rows}))
+    selected_rows=[r for r in quality_rows if r['horizon_min']==selected_horizon]
+    unique_rows,conflicts=independent_clusters(selected_rows)
+    a,b,c=st.columns(3)
+    a.metric('Eligible headline windows',len(selected_rows))
+    b.metric('Nonconflicting quote clusters',len(unique_rows))
+    c.metric('Conflicting clusters excluded',conflicts)
+    st.dataframe(pd.DataFrame(unique_rows),hide_index=True,use_container_width=True)
+    st.caption('Repeated headlines sharing a quote window are clustered. Benchmark-adjusted returns are shown only where available.')
+else:
+    st.info('No eligible V3.4 price windows. The funnel above identifies the exclusion reasons.')
