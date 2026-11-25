@@ -1,5 +1,282 @@
 [
   {
+    "id": "db00e289a27eaee2e663",
+    "title": "Bitcoin falls below $59,000 as November ETF outflows approach $5 billion - StreetInsider",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR3VQYjlmODFYTGl6R01NUXpuRXoxUnhFekJpbERvYWx4U2J1c0l0Q3lJTWNRdDRsdXBkQi1mSHpDUXNzS3NqdFdwZTRhMjRONVJpc01zWG1IRllqc0F6MGdXdWFPLVR6MUFVVEhjeXBtbFA3ZmFwYXBCSDhWUGw1WnBTVkRFOTd0UjNhTTBFUm05bEprZ2dScVJXbzV1b21qeV9HN0VNMmpaRlMxUml5a0NMY0ZGT0w3cU5rLUJzWHdmLVFqdmRYOU9adW0?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T11:08:36+00:00",
+    "detected_at": "2026-11-25T11:15:30.124112+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 4,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 6.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58715.055,
+          "observed_at": "2026-11-25T11:15:30.688649+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1645.2,
+          "observed_at": "2026-11-25T11:15:30.851995+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.675,
+          "observed_at": "2026-11-25T11:15:31.441072+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58715.055,
+          "observed_at": "2026-11-25T11:15:30.688649+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-25T11:15:32.131995+00:00",
+    "alert_last_attempt_at": "2026-11-25T11:15:32.132011+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "21acd4e89a82fe65d0c0",
+    "title": "Why is Bitcoin Dropping? - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PMTBpTElJX3dKT1NuMWlBdElYZS1KdFNteV91NVhXZWxjYmM5QUdQdVYwcFQ4SVhHS09BMDY0NktFQVdIOTB4ZkZuanROMUdiNDc3M1ZRQjVNaVYybXduRG8xMUJtVEFiSnRJZl9ZeErSAXZBVV95cUxNMTJMT3o5Q1dPYXlXQTVkS0toa051MXJ4aTdqNXVRdFNzaVFfN2dnTFZ3a0tJV1hwOHFYdzBZcHd2dGxZajVaVHIzd0hsTUEtdDVDRnJHV2UwOGNYMVBiaVV3V3Z5RDlTcGNzb2YxRC1aUkN3cXBn?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T11:04:53+00:00",
+    "detected_at": "2026-11-25T11:15:30.121683+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 10.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58715.055,
+          "observed_at": "2026-11-25T11:15:30.688649+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1645.2,
+          "observed_at": "2026-11-25T11:15:30.851995+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.675,
+          "observed_at": "2026-11-25T11:15:31.441072+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58715.055,
+          "observed_at": "2026-11-25T11:15:30.688649+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "36661d0431f1b4a74d20",
+    "title": "3 Stocks With Broker Rating Upgrades to Ride Out Market Turbulence - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd1g3Mllwa1R6OXNreWQtNXlWb3VZVDZnb1h6U1FmTjFKY0lJR25RQTRka1BOZG9FVk1ZZ3dVRmY0ZlBja0dfdEVHVE95bzd2NFc4c3Bpb0RyUl96NVFhOUZxT1VZcHBHbDZ4YzZpQmFPNzBLa0QwNzZld1NVX3pfVVA2VmlEWVd0WkEtV1lhd2l2dVkwMnNsb1BPWlhrRjltNWtJTzY2ZXdJRjdvY1VKMHJSdkMwVjJrLTVmR1BEVQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T12:09:00+00:00",
+    "detected_at": "2026-11-25T11:15:29.648588+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 1386.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "9b89528d2d6a270ab67f",
+    "title": "Fed policymakers at odds over causes of high inflation - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Vtdjdia2xUaVF5bWxRSVlPUTZjc1JmWG9Uam1QSHpNcXZuREdQVmRyX2hkNEtMbWhFd1VFb3l6QVJGYkJHZlZXUDJLVlM4cDdDR0RSVTRPMmZaUHAtMlhtSDlQeFF4UGJadUhrQmhlaWlJT1cwSG9IRnF1cC1COEtKdTBsUWVsXzhkYWhUWHNKTjJsUVJuNw?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T11:02:09+00:00",
+    "detected_at": "2026-11-25T11:15:29.647991+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 13.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "090e9a527f183396be84",
     "title": "Crypto Today: Are recovery hopes fading for Bitcoin, Ethereum and XRP? - www.tmgm.com",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTFQtV05ZaTFRb2lMenJvblNUZHRkQ1VqWkxXNkxSVUluMDY4OGVHeFhUSktLckt5TmUycHkxOGVBckVCLW9SWjJlQWxNNnBFeWJKTlJteUpUQUdtQ05Ed1hrZDRtMFZ0ZjhwR1FqWGtjR3ZjSnNGYk1fTHl3ckZVbWlLOHJUaUtwLThMNVlqSU5YQXJ1NDc1clJKVi00UEFBTkVVQVZYZXhMUDlHWXFUVVNtUlNtcEk2VVAwQkx4bGo1YVNtQ2JnSTU4em9mZzhHcVk4?oc=5",
@@ -1686,6 +1963,21 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.12,
+          "observed_at": "2026-11-25T11:15:31.902748+00:00",
+          "returns_pct": {
+            "BTC": -0.3048,
+            "ETH": 0.2098,
+            "SOL": 0.1702
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1713,6 +2005,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0717
+          },
+          "60": {
+            "price": 58715.055,
+            "observed_at": "2026-11-25T11:15:30.688649+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3048
           }
         }
       }
@@ -1800,6 +2103,19 @@
           "observed_at": "2026-11-25T10:30:36.471455+00:00",
           "returns_pct": {
             "BTC": -0.0717
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.12,
+          "observed_at": "2026-11-25T11:15:31.902785+00:00",
+          "returns_pct": {
+            "BTC": -0.3048
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
