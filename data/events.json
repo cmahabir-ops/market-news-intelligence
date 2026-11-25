@@ -1,5 +1,55 @@
 [
   {
+    "id": "d9aac1782685c5a486c7",
+    "title": "Crypto Price Analysis, BTC, XRP, ZEC, HYPE and SKY, Nov. 25: Bitcoin Closes Below $60,000, XRP Falls Below $0.93, as Zcash Gives Back Most... - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YZjExMm1vUy13dW9yN3ZDODdneXJ0dkdXOEFvbENQX0EtZWlDWFlaWWw5OXZKdEJmcWNOU3ZhUlBsN2pvVUd4MFRYZzNPQVJEQlY2RTV1WlJUWlE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T16:43:32+00:00",
+    "detected_at": "2026-11-25T16:50:25.254925+00:00",
+    "assets": [
+      "BTC",
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "XRP"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 6.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-25T16:50:26.797666+00:00",
+    "alert_last_attempt_at": "2026-11-25T16:50:26.797678+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "58c8eafb800a6e1e9124",
     "title": "Why is Crypto Down Today? BTC Under $60K: How Low Will It Go? - Cryptonews",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQenUzR3VKcDl2QmNjTWl3Zk9mYnVfWmpDVV9SanEwZnlkVEhoY3Z2S2tFeWd4NUtvVmwtUF9QTkh2eFk2YjZSZ19WSUMyS2JfVmRHeFZkTlZJUjNqWlRTeng2STBFRHZ2OHZLVGx5M0t5c1Z2bHFkQXdTUGotNzFzRFNFT0Z1YUtmV2c4Vkdmdw?oc=5",
@@ -524,7 +574,12 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 9.9
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -634,7 +689,12 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 9.9
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -1016,6 +1076,21 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 19.89,
+          "observed_at": "2026-11-25T16:50:26.244667+00:00",
+          "returns_pct": {
+            "ETH": -0.7202,
+            "BTC": -0.6606,
+            "SOL": -0.5824
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0596,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1032,7 +1107,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1633.605,
+            "observed_at": "2026-11-25T16:50:25.853706+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.7202,
+            "benchmark_return_pct": -0.6606,
+            "excess_return_pct": -0.0596
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 58625.325,
@@ -1142,6 +1231,21 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 19.89,
+          "observed_at": "2026-11-25T16:50:26.244691+00:00",
+          "returns_pct": {
+            "BTC": -0.6606,
+            "ETH": -0.7202,
+            "SOL": -0.5824
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1158,7 +1262,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 58238.065,
+            "observed_at": "2026-11-25T16:50:25.680515+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.6606
+          }
+        }
       }
     }
   },
