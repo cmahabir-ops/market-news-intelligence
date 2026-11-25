@@ -1,5 +1,81 @@
 [
   {
+    "id": "5e5f237f6c405329da55",
+    "title": "US stock futures extend losses after economic data - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVGtHS2xNZUZVWXRDUmo3ZDhGTzRwM3FZWnlTMlNxNldBeWVjWE9mcy0zQTltTlBZY3k4OWdYOWV2X0pBblphd1ZJNV9GMnJkeEdZX043ZWg3VHhBdzN0eVp3WnBYZ1FXeHZ5TzB6TjEzS0cxUXk2eENkdVBuMi1GM19yV0h2cHFBUEJlN01uNVVMVXQwZFhqc2tfRQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T13:42:32+00:00",
+    "detected_at": "2026-11-25T14:00:35.504719+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 18.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "a0f5f587a8d7551971e7",
+    "title": "Stock Market Today: Dow, S&P 500, Nasdaq Futures Fall as Traders Bet on December Fed Hike; Trump Tells Hu - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNMzFGWHF5OVhuNTdCU2FNeHdKNXdGWklxaXpGMVlDNUp0TVJLbHM4RGZ0aElBbnF6dVJRTVZ5cnFDZ3FRZWg1b3Y4cGNRcWM5MnBROFFkWjBfRThmSmtad0JjcW5HNFRLLXhRLUdCWlRNQ2Q2bU16QjB0Rmg5ejBFSjd5MW04S3M2a00zQzhYbGI0Tkd4Vk9wTXJTUGc5bUZnOHdxNjU3TUJmTnR6NURUbElnZF9pbVduYmNWdFZac0wyTnRVWmVWX2t2ZUVUYVQwWUpuTkdPMEprZ2dEWkxXQ0VCbUdVOEhHNm05bTJaQzRUYzBwWElDbDJocVRrU0czUTVSd1FhQk5sWDZhdkJIZWdtQV90Y0VUU29EZzJsOU9rZGdaQTVnVUFxZ05vdkk?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T13:41:00+00:00",
+    "detected_at": "2026-11-25T14:00:35.504493+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 19.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": "f8d1062890f29bb0fdee",
+    "duplicate_status": "possible_duplicate",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "119a1f0de05b1dd22fa7",
     "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise - Decrypt",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMFo3YnMyS29fazdEVS1RUlllN1pza2NmYkMySkhwbVdZSEZ3RzNsbkQ2RHhQNUUwdjdnWC03RVJZZzZ3bWN0S3lqdHBsQklHb3VmV1J4SkZyQXd1SXh1YVE1OFA5dUVQVjdlS0RPNUl0NTFlR1FNaDVkTGRBNENHYTBiczZnSXFPRmpPeTMzRVpPZw?oc=5",
@@ -79,7 +155,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.09,
+          "observed_at": "2026-11-25T14:00:37.807911+00:00",
+          "returns_pct": {
+            "ETH": -0.2731,
+            "BTC": -0.2048,
+            "SOL": -0.3139
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0683,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -193,7 +285,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.09,
+          "observed_at": "2026-11-25T14:00:37.807976+00:00",
+          "returns_pct": {
+            "BTC": -0.2048,
+            "ETH": -0.2731,
+            "SOL": -0.3139
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -292,7 +400,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.09,
+          "observed_at": "2026-11-25T14:00:37.808004+00:00",
+          "returns_pct": {
+            "BTC": -0.2048,
+            "ETH": -0.2731,
+            "SOL": -0.3139
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -373,7 +497,12 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 10.04
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {}
@@ -8924,6 +9053,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.3523
+          },
+          "240": {
+            "price": 57966.215,
+            "observed_at": "2026-11-25T14:00:36.575311+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -1.757
           }
         }
       }
@@ -9099,6 +9239,19 @@
             "change_pct": 0.1503,
             "benchmark_return_pct": -0.3523,
             "excess_return_pct": 0.5026
+          },
+          "240": {
+            "price": 1628.5,
+            "observed_at": "2026-11-25T14:00:36.886797+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.8937,
+            "benchmark_return_pct": -1.757,
+            "excess_return_pct": 0.8633
           }
         },
         "benchmark_asset": "BTC",
