@@ -2,7 +2,7 @@
 import requests
 from datetime import datetime,timezone,timedelta,time
 from zoneinfo import ZoneInfo
-CRYPTO={'BTC','ETH','SOL'}
+CRYPTO={'BTC','ETH','SOL','XRP','ADA','DOGE'}
 STOCKS={'NVDA','AMD','AAPL','MSFT','TSLA','COIN','MSTR','SPY','QQQ'}
 def quote(asset):
     try:

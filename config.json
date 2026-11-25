@@ -1,13 +1,40 @@
 {
   "feeds": [
-    {"name":"Google News - Markets", "url":"https://news.google.com/rss/search?q=stock+market+OR+earnings+OR+Federal+Reserve+when%3A1d&hl=en-US&gl=US&ceid=US:en"},
-    {"name":"Google News - Crypto", "url":"https://news.google.com/rss/search?q=bitcoin+OR+ethereum+OR+cryptocurrency+OR+SEC+crypto+when%3A1d&hl=en-US&gl=US&ceid=US:en"},
-    {"name":"Federal Reserve Press Releases", "url":"https://www.federalreserve.gov/feeds/press_all.xml"},
-    {"name":"SEC Press Releases", "url":"https://www.sec.gov/news/pressreleases.rss"}
+    {
+      "name": "Google News - Markets",
+      "url": "https://news.google.com/rss/search?q=stock+market+OR+earnings+OR+Federal+Reserve+when%3A1d&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News - Crypto",
+      "url": "https://news.google.com/rss/search?q=bitcoin+OR+ethereum+OR+cryptocurrency+OR+SEC+crypto+when%3A1d&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Federal Reserve Press Releases",
+      "url": "https://www.federalreserve.gov/feeds/press_all.xml"
+    },
+    {
+      "name": "SEC Press Releases",
+      "url": "https://www.sec.gov/news/pressreleases.rss"
+    }
   ],
-  "watchlist": ["BTC", "ETH", "SOL", "NVDA", "AMD", "AAPL", "MSFT", "TSLA", "COIN", "MSTR"],
+  "watchlist": [
+    "BTC",
+    "ETH",
+    "SOL",
+    "NVDA",
+    "AMD",
+    "AAPL",
+    "MSFT",
+    "TSLA",
+    "COIN",
+    "MSTR",
+    "XRP",
+    "ADA",
+    "DOGE"
+  ],
   "max_events": 2000,
   "max_age_hours": 48,
   "alert_on_first_run": false,
-  "alert_min_score": 3
+  "alert_min_score": 3,
+  "v32_max_detection_delay_minutes": 120
 }

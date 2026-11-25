@@ -1,6 +1,6 @@
 """Descriptive event outcomes only; no claim of predictive or causal validity."""
 from datetime import datetime,timezone
-BENCHMARK={'NVDA':'QQQ','AMD':'QQQ','AAPL':'QQQ','MSFT':'QQQ','TSLA':'SPY','COIN':'SPY','MSTR':'SPY','ETH':'BTC','SOL':'BTC'}
+BENCHMARK={'NVDA':'QQQ','AMD':'QQQ','AAPL':'QQQ','MSFT':'QQQ','TSLA':'SPY','COIN':'SPY','MSTR':'SPY','ETH':'BTC','SOL':'BTC','XRP':'BTC','ADA':'BTC','DOGE':'BTC'}
 def benchmark_for(asset): return BENCHMARK.get(asset)
 def completed_rows(events):
     rows=[]
@@ -8,6 +8,7 @@ def completed_rows(events):
         if e.get('attribution_method')!='headline_mentions_v3':continue
         asset=e.get('primary_asset')
         if not asset or e.get('direction') not in ('Potentially bullish','Potentially bearish'):continue
+        if e.get('catalyst_method') == 'headline_rules_v3_2' and e.get('hypothesis_status') != 'candidate':continue
         # Avoid treating a delayed next-session baseline as a response to old news.
         try:
             detected=datetime.fromisoformat(e['detected_at'])

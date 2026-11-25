@@ -5,8 +5,10 @@ PATTERNS = {
  'SOL':[r'\bsolana\b',r'\bsol\b'], 'NVDA':[r'\bnvidia\b',r'\bnvda\b'],
  'AMD':[r'\badvanced micro devices\b',r'\bamd\b'], 'AAPL':[r'\bapple\b',r'\baapl\b'],
  'MSFT':[r'\bmicrosoft\b',r'\bmsft\b'], 'TSLA':[r'\btesla\b',r'\btsla\b'],
+ 'XRP':[r'\bxrp\b',r'\bripple(?: labs)?\b'], 'ADA':[r'\bcardano\b',r'\bada\b'],
+ 'DOGE':[r'\bdogecoin\b',r'\bdoge\b'],
  'COIN':[r'\bcoinbase\b'], 'MSTR':[r'\bmicrostrategy\b',r'\bstrategy inc\b',r'\bmstr\b']}
-CRYPTO={'BTC','ETH','SOL'}
+CRYPTO={'BTC','ETH','SOL','XRP','ADA','DOGE'}
 def attribute(title, summary, watchlist):
     # Headlines are treated as stronger evidence than summaries; no claim of causality.
     title_matches=[]

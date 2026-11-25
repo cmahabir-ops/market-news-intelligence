@@ -98,3 +98,22 @@ st.caption('Diagnostics include legacy records for transparency. No existing rec
 v3_events = [e for e in events if e.get('attribution_method') == 'headline_mentions_v3']
 if v3_events:
     st.dataframe(pd.DataFrame([{'Detected UTC':e.get('detected_at'), 'Headline':e.get('title'), 'Primary asset':e.get('primary_asset'), 'Direction':e.get('direction'), 'Exclusion / status':reason(e)} for e in v3_events]).sort_values('Detected UTC', ascending=False), hide_index=True, use_container_width=True)
+
+
+st.subheader('V3.2 — Catalyst quality and freshness')
+st.caption('Only newly collected V3.2 headlines are assessed. A candidate is a rule-based hypothesis, not a verified prediction.')
+v32 = [e for e in events if e.get('catalyst_method') == 'headline_rules_v3_2']
+if v32:
+    v32df = pd.DataFrame([{'Detected UTC':e.get('detected_at'), 'Headline':e.get('title'),
+      'Asset':e.get('primary_asset'), 'Catalyst':e.get('catalyst_type'),
+      'Status':e.get('hypothesis_status'), 'Freshness':e.get('freshness_status'),
+      'Delay (min)':e.get('detection_delay_minutes'), 'Hypothesis':e.get('hypothesis_direction'),
+      'Validation':reason(e)} for e in v32])
+    k1,k2,k3=st.columns(3)
+    k1.metric('V3.2 headlines',len(v32df))
+    k2.metric('Catalyst candidates',int((v32df['Status']=='candidate').sum()))
+    k3.metric('Valid directional windows',sum(1 for e in v32 if reason(e)=='Eligible for directional analysis'))
+    st.dataframe(v32df['Status'].value_counts().rename_axis('Status').reset_index(name='Events'),hide_index=True)
+    st.dataframe(v32df.sort_values('Detected UTC',ascending=False),hide_index=True,use_container_width=True)
+else:
+    st.info('Awaiting first V3.2 scan. Existing V3 and legacy events are intentionally unchanged.')

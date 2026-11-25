@@ -12,6 +12,7 @@ import feedparser
 import requests
 from prices import quote
 from attribution import attribute
+from catalysts import classify
 from validation import benchmark_for
 
 ROOT = Path(__file__).resolve().parent
@@ -30,8 +31,11 @@ ASSETS = {
     "TSLA": [r"\btesla\b", r"\btsla\b"],
     "COIN": [r"\bcoinbase\b", r"\bcoin\b"],
     "MSTR": [r"\bmicrostrategy\b", r"\bstrategy inc\b", r"\bmstr\b"],
+    "XRP": [r"\bxrp\b", r"\bripple(?: labs)?\b"],
+    "ADA": [r"\bcardano\b", r"\bada\b"],
+    "DOGE": [r"\bdogecoin\b", r"\bdoge\b"],
 }
-CRYPTO = {"BTC", "ETH", "SOL"}
+CRYPTO = {"BTC", "ETH", "SOL", "XRP", "ADA", "DOGE"}
 BULL = [r"\bapproval\b", r"\bapproved\b", r"\bbeat(s)? expectations\b", r"\brecord (revenue|profit)\b", r"\bpartnership\b", r"\bupgrade\b", r"\brate cut\b", r"\betf inflows?\b", r"\bbuyback\b", r"\bpositive guidance\b"]
 BEAR = [r"\bhack(ed)?\b", r"\bbreach\b", r"\blawsuit\b", r"\bcharged\b", r"\bfine(d)?\b", r"\bdowngrade\b", r"\bmiss(es|ed)? expectations\b", r"\blayoffs?\b", r"\bban(ned)?\b", r"\brate hike\b", r"\betf outflows?\b", r"\bbankrupt(cy)?\b", r"\brestrictions?\b"]
 HIGH = [r"\bfederal reserve\b", r"\bsec\b", r"\binterest rates?\b", r"\betf\b", r"\bearnings\b", r"\bregulat", r"\bexport controls?\b", r"\bliquidat"]
@@ -131,6 +135,8 @@ def send_discord(event):
         f"**{event['title'][:240]}**\n"
         f"Market: {event['market']} | Assets: {', '.join(event['assets']) or 'Unspecified'}\n"
         f"Significance: {event['significance_score']}/5 (not a probability)\n"
+        f"Catalyst: {event.get('catalyst_type') or 'Not confirmed'} | "
+        f"Hypothesis: {event.get('hypothesis_status') or 'Legacy / unassessed'}\n"
         f"Published UTC: {event['published_at']}\n"
         f"Detected UTC: {event['detected_at']}\n"
         f"Source: {event['source']}\n"
@@ -176,7 +182,14 @@ def run():
                 details = analyze(title, summary, cfg.get("watchlist", []))
                 attribution = attribute(title, summary, cfg.get("watchlist", []))
                 details.update(attribution)
-                e = {"id": key, "title": title, "url": url, "source": feed["name"], "published_at": dt.isoformat(), "detected_at": utcnow().isoformat(), **details}
+                detected = utcnow().isoformat()
+                hypothesis = classify(title, attribution['primary_asset'], dt.isoformat(), detected,
+                                      max_delay_minutes=cfg.get('v32_max_detection_delay_minutes',120))
+                # Retain original keyword direction for audit, but validate only V3.2 hypotheses.
+                details['legacy_keyword_direction'] = details['direction']
+                details['direction'] = hypothesis['hypothesis_direction'] or 'Unclear / mixed'
+                details.update(hypothesis)
+                e = {"id": key, "title": title, "url": url, "source": feed["name"], "published_at": dt.isoformat(), "detected_at": detected, **details}
                 fresh.append(e)
                 known.add(key)
             print(f"{feed['name']}: fetched {len(parsed.entries)} entries")
