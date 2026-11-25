@@ -1,5 +1,55 @@
 [
   {
+    "id": "7337ea21fb5b02656fce",
+    "title": "Bitcoin, ethereum gain ground under new CFTC rules - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWi1IVERtcWROck82RHpmQmt5bWszWXBTUTVVaktIaExydmZUZEd2d1AxNjRRTnN4dmFLU0xvNlFmRm90bC10ZmZjc2dqTHhDei1rTHVlM2Q3bFkzVEN3dzhReklYWTdwUGtuTktPclZUQ0Ffb1hrLW94SjBnaEdaVUdrREw4MWRMeGdhb2lhcUZfc01vbGhWLWVjZUg?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T16:41:57+00:00",
+    "detected_at": "2026-11-25T04:50:28.114468+00:00",
+    "assets": [
+      "BTC",
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 728.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-25T04:50:30.450894+00:00",
+    "alert_last_attempt_at": "2026-11-25T04:50:30.450908+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "9207f3ac95c5b1600fb5",
     "title": "Bitcoin jumps to $65k on NVDA rally then reverses – Trap or bear warning? - Cryptonews.net",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxZm83anlhS3VTMW8zeHQ3bG5rYnI2TFcwQXNMa2dRVGpjNktDSGpPQUl4RHBHdmNaYTBRZ0oxTVZJa0xrX3lQME9EZTdLcldYOTVJVWRoRlk?oc=5",
@@ -129,7 +179,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.01,
+          "observed_at": "2026-11-25T04:50:30.137841+00:00",
+          "returns_pct": {
+            "BTC": -0.1145,
+            "ETH": -0.0611,
+            "SOL": -0.2695
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
