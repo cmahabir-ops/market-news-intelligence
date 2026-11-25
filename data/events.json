@@ -1,5 +1,81 @@
 [
   {
+    "id": "7a8543cae7328fe3d04c",
+    "title": "FTX Founder SBF May Return to Crypto After Prison - Kriptofoni",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuUXVLVWdqSk9xbHVSVlllc3EwOE5wVnQwaC1TSjVIM09sQkVhVHpNbWNwRDRuNk94bUdYVnNpS29keHlpYUJlUXVFRVdTU0RFYXhjWWp3TXhNb0x0d1ZlMURGQjVnTTREc0tpTktRNDcteFdqRm45N2t1SzI?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T06:37:00+00:00",
+    "detected_at": "2026-11-25T08:45:33.232491+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 128.6,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "c054c1829a6e97df0de2",
+    "title": "Anthropic shares fall below IPO price amid heightened scrutiny of AI firms - www.equiti.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcFk3cGE3aHdOVkxKUks5QlM1YUFNT2RtSGhIR290MUxhNlFzbGVHaFhRbmE2YllvZTVjZURzalZkSmR1WnJYMmdHRm5vSVMtMlZHbFhVa3RfWkZkT1oxcHRHVUJBR3BqSUZPaGRvRjh5QndBcHFadmJTT05zMkp0WVBBYTFKZFNuMU01WWlWTk4yY3Rrem8yaFJ2Yk9HVU0yNnRMS2JabFNMMjBzMGlnaHBtOWJfY085Q2NFeV9ZZDU?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T07:47:24+00:00",
+    "detected_at": "2026-11-25T08:45:32.751538+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 58.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "5adcab486f8cbec218d7",
     "title": "Ripple Partners With Turkish Banking Giant Yapı Kredi to Advance Crypto Custody - CoinGape",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNazJub09YWjREZm05bll6cXg4SFNBcmV2OWpodlVMZDQwX3NBdC1DVy1kbDRHd0FrNnpaSENFUlhsYnNPRkM4dy0yZlJXTnZoaFVKVmQ5TVc0bnc0NWxOdnBzX3k3TkRHRlh5bnBZNEtmRFBNTEZ1S0xDRy1vaHBFcVpadGFzeFgwYWJHSmc0S2E3a2ctZmRoTjNTYVdsQlVpck1J?oc=5",
@@ -79,7 +155,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.1,
+          "observed_at": "2026-11-25T08:45:34.145077+00:00",
+          "returns_pct": {
+            "XRP": -0.2708,
+            "BTC": -0.0239,
+            "ETH": 0.013
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.2469,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -189,7 +281,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.1,
+          "observed_at": "2026-11-25T08:45:34.145157+00:00",
+          "returns_pct": {
+            "XRP": -0.2708,
+            "BTC": -0.0239,
+            "ETH": 0.013
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.2469,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -5238,6 +5346,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0729
+          },
+          "240": {
+            "price": 59159.315,
+            "observed_at": "2026-11-25T08:45:33.527731+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.3097
           }
         }
       }
