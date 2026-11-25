@@ -1,5 +1,223 @@
 [
   {
+    "id": "4c823762a7b0c7f2224c",
+    "title": "French Senate refuses to tighten oversight of wealthy crypto holders - Traders Union",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYjJqMVhSTVVGTG1FY2VBWjk1N0xxNmI1YVdUNzVxbF92MXEtQ01EUmlJNEw0eFNyVThCZUtBWENVSjgtbjdVdFE3SWxhTUVLd3BQSjQ1aVhBWnJyTzA2S0JVN2pCYkRXT2VMVnBLMGNhZzFOYl9ycktvRy03TlpJLS13UnBSaEhfc0NsdW5jQnNCUXFjdkZyQ2k5eUs?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T06:56:45+00:00",
+    "detected_at": "2026-11-25T07:25:26.531497+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 28.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "e93efff12c53f58f28f8",
+    "title": "Bitcoin Slips Back Below $60,000 as Tech Stocks Retreat - www.trendingtopics.eu",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UYnF6cjc5alNmY3gxRkxleG5HMU5lX3B6amdieG5fRVJKX3kxdHk5S2h4ZEEzWW5QRzdJS181STdaVkxDVHpKNzEyTDlIQVpMYWtSUTh4bVhnbXNzYlhNdnpEV1R0a3hPOGpFTGotbHdxcEhmQXA1eEhR?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T07:14:40+00:00",
+    "detected_at": "2026-11-25T07:25:26.529699+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 10.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59004.105,
+          "observed_at": "2026-11-25T07:25:26.839969+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1653.74,
+          "observed_at": "2026-11-25T07:25:26.967135+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 68.525,
+          "observed_at": "2026-11-25T07:25:27.279019+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59004.105,
+          "observed_at": "2026-11-25T07:25:26.839969+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "2e2bc7cff0533a0cdb68",
+    "title": "Nvidia’s Comeback Meets a Wall of Shrinking Liquidity - The Dark Side Of The Boom",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU3MtOHoycTlfOUNwOGJqWGM1UzFXYkhodjJXcDBSNlgwZWFfQzZvX05rSmxGb3VienZxSFEwcnZ0N1JtdkREQ2dLMU1xbFppTkY4dmVCUWFrMzF4TmtBQ2R5SzhEUWlvSnl1dFdEUF9ZaEdoRmpGMFU1amJuTGtLZlZn?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T07:16:04+00:00",
+    "detected_at": "2026-11-25T07:25:26.072006+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "NVDA",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "NVDA": "Stocks"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 9.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "NVDA",
+        "AMD",
+        "SMH",
+        "QQQ",
+        "SPY"
+      ],
+      "status": "awaiting_baseline",
+      "baseline": {},
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "NVDA": {
+        "baseline": {
+          "price": 155.38,
+          "observed_at": "2026-11-25T07:25:27.120800+00:00",
+          "quote_at": "2026-11-24T21:00:01+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        },
+        "followups": {},
+        "benchmark_asset": "QQQ",
+        "benchmark_baseline": {
+          "price": 638.1,
+          "observed_at": "2026-11-25T07:25:27.183402+00:00",
+          "quote_at": "2026-11-24T21:00:00+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        }
+      }
+    }
+  },
+  {
     "id": "9dd5c78a4a95b2ab57f3",
     "title": "Federal Reserve Rate Expectations Shift as Markets Reprice the Policy Path - kalkine.co.uk",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWVLRnlLZGZtVmEyNERnRFIwM3RDZzMtb05pMkRCX3Y3elpNb0podm1lYjBwdXdMVHpnSlAzSHpRRmpWQk9rVXVscEVHOUNVSHNiYVFtN1FKLWN3MVh1SkdwZzdiZ3ViM2NVMmpjUVBRZFhSTHhKdkRmM011VmVtTEpaNkx0NXJvTDZyZ1g2TWZQUzU4eWQ0aUZnVFRfRDdkX25CeERndi1xLUNpTUhoekNUTUk?oc=5",
@@ -235,6 +453,21 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 10.09
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 19.94,
+          "observed_at": "2026-11-25T07:25:27.368995+00:00",
+          "returns_pct": {
+            "BTC": -0.4036,
+            "ETH": -0.4335,
+            "SOL": -0.5009
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -251,7 +484,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59004.105,
+            "observed_at": "2026-11-25T07:25:26.839969+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.4036
+          }
+        }
       }
     }
   },
@@ -900,6 +1145,21 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 64.96,
+          "observed_at": "2026-11-25T07:25:27.369077+00:00",
+          "returns_pct": {
+            "XRP": 0.2948,
+            "BTC": -0.2607,
+            "ETH": -0.2256
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.5555,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -929,6 +1189,19 @@
             "change_pct": 0.142,
             "benchmark_return_pct": -0.3271,
             "excess_return_pct": 0.4691
+          },
+          "60": {
+            "price": 0.9185,
+            "observed_at": "2026-11-25T07:25:27.341195+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.2948,
+            "benchmark_return_pct": -0.2607,
+            "excess_return_pct": 0.5555
           }
         },
         "benchmark_asset": "BTC",
