@@ -1,5 +1,86 @@
 [
   {
+    "id": "57fb935c7b738e61601e",
+    "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdHE2TDNWN3laclNORjV2UGlrdUNhM09lUHBYZWc0T0xrUWE4a0hzYmEyRXFDZDNCQzdRWlpUVjZsUEhyZHUtbEMwOG01MEZpanBSc2gtVzF4aDNqUGgtS3BzdWFSZlFTcC1aclVjQ1FOS1dZNlQ5MXlmMDZhTnZ6VUdnQm45Y2lBVU9Gdmp6ZlhuWG41VlNlcXFPVFcxYnNKcEJTdg?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T04:57:00+00:00",
+    "detected_at": "2026-11-25T05:00:34.972991+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "NVDA",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "NVDA": "Stocks"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 3.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "NVDA",
+        "AMD",
+        "SMH",
+        "QQQ",
+        "SPY"
+      ],
+      "status": "awaiting_baseline",
+      "baseline": {},
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "NVDA": {
+        "baseline": {
+          "price": 155.38,
+          "observed_at": "2026-11-25T05:00:35.872580+00:00",
+          "quote_at": "2026-11-24T21:00:01+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        },
+        "followups": {},
+        "benchmark_asset": "QQQ",
+        "benchmark_baseline": {
+          "price": 638.1,
+          "observed_at": "2026-11-25T05:00:35.928165+00:00",
+          "quote_at": "2026-11-24T21:00:00+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        }
+      }
+    }
+  },
+  {
     "id": "2139b1ee64e7a435119b",
     "title": "Czech central bank apparently bought $1 million of bitcoin, yet directly holds no BTC - CoinDesk",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYktuN2dKb0llbUdVcTNEX21XZ1lXX1lBbkJIemphU2E2X1d5Z0d4bTZDZDdNMFNxeWJPaGtjU21nanBSSzdBQXdUN1VZeWNDR1AzVC1iS0Mwb1JVekRXcm9tcGtnVll2MDNWSDlGQi1pcHkyaFBsQV83YzZmd002YkRGaFZUaFM3ckhwdFpycldDU1lYS1JWMnFkS0wtcEtqX2lHOS1tQm1adlUwZlhrTS1kMy1BR2c?oc=5",
@@ -79,7 +160,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.14,
+          "observed_at": "2026-11-25T05:00:36.545688+00:00",
+          "returns_pct": {
+            "BTC": 0.2658,
+            "ETH": 0.1932,
+            "SOL": 0.0509
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -293,6 +390,21 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.12,
+          "observed_at": "2026-11-25T05:00:36.545741+00:00",
+          "returns_pct": {
+            "BTC": 0.3428,
+            "ETH": 0.3602,
+            "SOL": 0.1238
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -309,7 +421,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59178.81,
+            "observed_at": "2026-11-25T05:00:35.433959+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.3428
+          }
+        }
       }
     }
   },
@@ -962,6 +1086,21 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.02,
+          "observed_at": "2026-11-25T05:00:36.545805+00:00",
+          "returns_pct": {
+            "ETH": -0.096,
+            "BTC": -0.1951,
+            "SOL": -0.6576
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0991,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -991,6 +1130,19 @@
             "change_pct": 0.0205,
             "benchmark_return_pct": -0.1394,
             "excess_return_pct": 0.1599
+          },
+          "60": {
+            "price": 1659.37,
+            "observed_at": "2026-11-25T05:00:35.669160+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.096,
+            "benchmark_return_pct": -0.1951,
+            "excess_return_pct": 0.0991
           }
         },
         "benchmark_asset": "BTC",
@@ -1106,6 +1258,21 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.02,
+          "observed_at": "2026-11-25T05:00:36.545827+00:00",
+          "returns_pct": {
+            "BTC": -0.1951,
+            "ETH": -0.096,
+            "SOL": -0.6576
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1133,6 +1300,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1394
+          },
+          "60": {
+            "price": 59178.81,
+            "observed_at": "2026-11-25T05:00:35.433959+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1951
           }
         }
       }
