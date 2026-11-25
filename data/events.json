@@ -1,5 +1,35 @@
 [
   {
+    "id": "3113f5015be5b71cff27",
+    "title": "A guide to blockchain and cryptocurrency laws and regulations 2027: Bermuda (GLI chapter) - JD Supra",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rbVJabEE0a1p5UVVuTTNOXzdxaTRWTkNDY1p0b3ZBbUdZU1h0YnN1MFhTMmNYbGZKTVFnd2lKZWdXQnRoYS1pWmluR045eWR0T2E2R2FFMDJ6Q3QxemVpZFlYZWZqN0FXZ3N0REdULVR0bUJQVVA0?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T19:07:44+00:00",
+    "detected_at": "2026-11-25T01:10:29.100231+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "e07136a72c1a362382de",
+    "title": "Stock market hours Thanksgiving 2026 and holiday closures - qz.com",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5scDVCVFlzM20za1IzdUJBcVJ1allIS1JVUzliTHBFRHBGWW5maTVMTExXMjlIN0JIRnhNYzVXeUVWdzNwem5aTzA1bTEtaXRfYWwxWl9JU1BuWWo5UmZfYm9rNF9LaGJaN1k0ag?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T20:59:05+00:00",
+    "detected_at": "2026-11-25T01:10:28.582994+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "ac8978937eb11b9f68fc",
     "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data - CoinDesk",
     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5HX2lzR3d1S0x4Zm90S3J3alZlWnVhdG5ZTWRFUlBuNmJzakZZaVBGdWd5MVo5UHRpLU5iZzVB?oc=5",
@@ -23,7 +53,15 @@
           "source": "Coinbase public spot indicative USD",
           "currency": "USD"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59413.915,
+            "observed_at": "2026-11-25T01:10:29.550486+00:00",
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "change_pct": -0.1963
+          }
+        }
       },
       "ETH": {
         "baseline": {
@@ -32,7 +70,15 @@
           "source": "Coinbase public spot indicative USD",
           "currency": "USD"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 1664.94,
+            "observed_at": "2026-11-25T01:10:29.895454+00:00",
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "change_pct": -0.3119
+          }
+        }
       }
     },
     "alert_delivered_at": "2026-11-25T00:55:26.997817+00:00",
