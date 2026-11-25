@@ -254,7 +254,12 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 9.78
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
