@@ -1,5 +1,43 @@
 [
   {
+    "id": "8f1abb153d7a8bda1a8f",
+    "title": "Stock Market Today: Why the Nasdaq Dropped 2.52% at Midday While the Dow Held Steady - JournalArta",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU2xIUVRzbGtiSEV5NFc5SG1ibjZvTUUzcGpkdk9LSzBZTEFQSnZ6RzlDcXlSMmgtdkk1azNRek5WRlIteEFjS0x4QnRqeVZwUDVyX05zaEtyVGxKM0hHR2pWNkg5UXJxdFdUWFUzNUViXzdwZVcyY2ppTmtiekIxckRsV2RzcmtpT1ZmYmlrdWQtNURXbno5MzJSZHI0UTJzNHZMZGpaRTBXaHJWdklLQlpEVkhVUzRFeG1YcjF3?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T17:34:10+00:00",
+    "detected_at": "2026-11-25T19:20:28.575633+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 106.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "7228d254f8eea0e4403c",
     "title": "Bitcoin miners' AI pivot fails to yield results amid broader tech, crypto rout (RIOT:NASDAQ) - Seeking Alpha",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONU5oWHNES3ZvRFlXTmlYd2pRajNDRUVldFNxVTdMaFJ6Rzh1VzU3S1drb09UZzJ6UmJNTUhYaURYbnI4Ujh2Y1RoOExqanl1eEd2VTBRcGs0OV9NbDRiMVE5SVJpUkxSNFR5NnZ1Vjh3Nm5vSmNFUU5SbG5FZ3U4VDc5UHd1MTMya2ltVlNieTVOb2N2RXVYTG11R2FBdUdzazVFTVNzaWpFRE1NYVlRMGNfSGc?oc=5",
@@ -79,7 +117,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.07,
+          "observed_at": "2026-11-25T19:20:30.182307+00:00",
+          "returns_pct": {
+            "BTC": 0.3129,
+            "ETH": 0.163,
+            "SOL": 0.6497
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -297,6 +351,21 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 9.69
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 19.73,
+          "observed_at": "2026-11-25T19:20:30.182388+00:00",
+          "returns_pct": {
+            "BTC": 0.6315,
+            "ETH": 0.5428,
+            "SOL": 1.1915
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -313,7 +382,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60022.165,
+            "observed_at": "2026-11-25T19:20:29.476566+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.6315
+          }
+        }
       }
     }
   },
@@ -1065,6 +1146,21 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 64.9,
+          "observed_at": "2026-11-25T19:20:30.182423+00:00",
+          "returns_pct": {
+            "BTC": 0.6017,
+            "ETH": 0.4854,
+            "SOL": 1.3515
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1092,6 +1188,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1915
+          },
+          "60": {
+            "price": 60022.165,
+            "observed_at": "2026-11-25T19:20:29.476566+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.6017
           }
         }
       }
@@ -1257,6 +1364,23 @@
           "primary_excess_return_pct": null,
           "positive_assets": 4,
           "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 64.9,
+          "observed_at": "2026-11-25T19:20:30.182446+00:00",
+          "returns_pct": {
+            "SPY": 0.6605,
+            "QQQ": 1.2033,
+            "SMH": 2.0137,
+            "XLK": 1.4129,
+            "BTC": 0.6017
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 5,
+          "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -9910,6 +10034,19 @@
             "change_pct": 1.0878,
             "benchmark_return_pct": 1.5011,
             "excess_return_pct": -0.4133
+          },
+          "240": {
+            "price": 1687.3,
+            "observed_at": "2026-11-25T19:20:29.620922+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 3.3476,
+            "benchmark_return_pct": 3.6789,
+            "excess_return_pct": -0.3313
           }
         },
         "benchmark_asset": "BTC",
@@ -10078,6 +10215,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 1.5011
+          },
+          "240": {
+            "price": 60022.165,
+            "observed_at": "2026-11-25T19:20:29.476566+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 3.6789
           }
         }
       }
@@ -10235,6 +10383,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 1.5011
+          },
+          "240": {
+            "price": 60022.165,
+            "observed_at": "2026-11-25T19:20:29.476566+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 3.6789
           }
         }
       }
