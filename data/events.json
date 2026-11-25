@@ -1,5 +1,225 @@
 [
   {
+    "id": "5adcab486f8cbec218d7",
+    "title": "Ripple Partners With Turkish Banking Giant Yapı Kredi to Advance Crypto Custody - CoinGape",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNazJub09YWjREZm05bll6cXg4SFNBcmV2OWpodlVMZDQwX3NBdC1DVy1kbDRHd0FrNnpaSENFUlhsYnNPRkM4dy0yZlJXTnZoaFVKVmQ5TVc0bnc0NWxOdnBzX3k3TkRHRlh5bnBZNEtmRFBNTEZ1S0xDRy1vaHBFcVpadGFzeFgwYWJHSmc0S2E3a2ctZmRoTjNTYVdsQlVpck1J?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T08:33:49+00:00",
+    "detected_at": "2026-11-25T08:40:27.440212+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 6.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.9233,
+          "observed_at": "2026-11-25T08:40:29.280165+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59173.475,
+          "observed_at": "2026-11-25T08:40:27.882754+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1647.545,
+          "observed_at": "2026-11-25T08:40:28.118353+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.9233,
+          "observed_at": "2026-11-25T08:40:29.280165+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59173.475,
+          "observed_at": "2026-11-25T08:40:27.882754+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "4670d89061b0ad8cda33",
+    "title": "Ripple partners with Turkish banking giant Yapı Kredi to expand crypto custody services - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9odksyeEg2bWQ3MXlWajZzRTVnWGZOTkxhVkE0Qnc3Y1JrUE5haXZtQmFZRllwZlVDVjZsWENGdzRvS3NSaFdnWHoxN0hHM29jWGNDd2ttSmJSUk12bWdyQmpNUUVTRzNMQVBWUmp4RG9hVDd1UmVld0JtMHg?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T08:37:08+00:00",
+    "detected_at": "2026-11-25T08:40:27.438876+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 3.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.9233,
+          "observed_at": "2026-11-25T08:40:29.280165+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59173.475,
+          "observed_at": "2026-11-25T08:40:27.882754+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1647.545,
+          "observed_at": "2026-11-25T08:40:28.118353+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.9233,
+          "observed_at": "2026-11-25T08:40:29.280165+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59173.475,
+          "observed_at": "2026-11-25T08:40:27.882754+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
     "id": "928e580cc7c80b98cdf3",
     "title": "Memory outlook dims and rate hike fears mount, putting Korean stocks on edge - 머니투데이",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OZmJaOGt6YmhScDFBQXdhSkRBZ2RtODBEQWtYbllqVUZRZEdhWFd0ckR6UUY1MnNWR25TaWpBcDQ1d3NuQ0dPSTBOcTFuVTlqMDZkeEVhbnVKSFBUYXprRVhxbzQxdV8xU1UwUw?oc=5",
@@ -1380,6 +1600,21 @@
         "15": {
           "status": "missed_window",
           "elapsed_min": 20.03
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 65.01,
+          "observed_at": "2026-11-25T08:40:29.370514+00:00",
+          "returns_pct": {
+            "BTC": 0.3997,
+            "ETH": -0.2793,
+            "SOL": -0.6209
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1407,6 +1642,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.5552
+          },
+          "60": {
+            "price": 59173.475,
+            "observed_at": "2026-11-25T08:40:27.882754+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.3997
           }
         }
       }
