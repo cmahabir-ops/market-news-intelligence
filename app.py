@@ -157,7 +157,7 @@ else:
 
 
 st.subheader('V3.5 — Cross-market impact observations')
-st.caption('Scan-time snapshots only, not exchange-synchronized event studies. Five-minute windows require a scan within 5–7 minutes of baseline. Missing windows are not interpolated. Correlation does not establish news causality.')
+st.caption('Scan-time snapshots only, not exchange-synchronized event studies. V3.5.1 new events allow actual per-asset receipt intervals of 4.5–7 minutes for the nominal five-minute horizon; legacy records retain their original labels. Missing windows are not interpolated. Correlation does not establish news causality.')
 from impact import rows as impact_rows
 impact_events = [e for e in events if e.get('cross_market_impact')]
 i1,i2,i3 = st.columns(3)
@@ -175,3 +175,10 @@ if impact_data:
 else:
     st.info('Awaiting newly detected V3.5-eligible single-asset or macro-context events. Older events are not reclassified.')
 st.warning('Market-data providers are indicative; stock quotes may be delayed or unavailable outside regular trading hours. No five-minute impact is claimed without an eligible observed window.')
+
+
+st.subheader("V3.5.1 — Observation timing audit")
+if impact_data:
+    audit = pd.DataFrame(impact_data)
+    st.dataframe(audit.groupby(["Method", "Horizon (min)", "Status"], dropna=False).size().reset_index(name="Windows"), hide_index=True)
+    st.caption("Nominal horizons are not exact exchange-time returns. Actual per-asset elapsed times are recorded for new observations.")

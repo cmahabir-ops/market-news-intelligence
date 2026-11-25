@@ -85,7 +85,7 @@ def update(event, quotes, now):
     if not now or not detected:
         return
     state = event.setdefault('cross_market_impact', {
-        'method': 'scan_snapshots_v3_5', 'assets': list(assets),
+        'method': 'scan_snapshots_v3_5_1', 'assets': list(assets),
         'status': 'awaiting_baseline', 'baseline': {}, 'windows': {},
         'detection_delay_eligible': valid_delay(event),
     })
@@ -108,12 +108,15 @@ def update(event, quotes, now):
         key = str(horizon)
         if key in state['windows']:
             continue
-        if elapsed < horizon:
+        # Use actual per-asset receipt times, with a disclosed 30-second early tolerance.
+        early = 0.5 if state.get('method') == 'scan_snapshots_v3_5_1' else 0
+        if elapsed < horizon - early:
             continue
-        if elapsed > horizon + grace:
+        if elapsed > horizon + grace + 2:
             state['windows'][key] = {'status': 'missed_window', 'elapsed_min': round(elapsed, 2)}
             continue
         returns = {}
+        asset_elapsed = {}
         for a, base in baseline.items():
             current = quotes.get(a)
             if not positive_quote(current):
@@ -122,16 +125,24 @@ def update(event, quotes, now):
             # Must be a fresh scan quote near the window, not an old provider observation.
             if abs((now - observed).total_seconds()) > 120:
                 continue
+            age = (observed - parse_dt(base['observed_at'])).total_seconds() / 60
+            if age < horizon - early:
+                continue
+            if age > horizon + grace:
+                continue
+            asset_elapsed[a] = round(age, 4)
             ret = 100 * (float(current['price']) / float(base['price']) - 1)
             if isfinite(ret):
                 returns[a] = round(ret, 4)
+        if not returns:
+            continue
         primary = event.get('primary_asset')
         benchmark = 'BTC' if primary in {'ETH','SOL','XRP','ADA','DOGE'} else 'QQQ' if primary in {'NVDA','AMD','AAPL','MSFT','TSLA','COIN','MSTR'} else None
         excess = round(returns[primary] - returns[benchmark], 4) if primary in returns and benchmark in returns else None
         state['windows'][key] = {
             'status': 'observed' if returns else 'missing_valid_quotes',
             'elapsed_min': round(elapsed, 2), 'observed_at': now.isoformat(),
-            'returns_pct': returns, 'benchmark': benchmark,
+            'returns_pct': returns, 'asset_elapsed_min': asset_elapsed, 'benchmark': benchmark,
             'primary_excess_return_pct': excess,
             'positive_assets': sum(v > 0 for v in returns.values()),
             'negative_assets': sum(v < 0 for v in returns.values()),
@@ -156,5 +167,7 @@ def rows(events):
                 'Excess return (%)': window.get('primary_excess_return_pct'),
                 'Positive assets': window.get('positive_assets'), 'Negative assets': window.get('negative_assets'),
                 'Fresh event': state.get('detection_delay_eligible', False),
+                'Method': state.get('method'), 'Assets observed': len(window.get('returns_pct', {})),
+                'Asset elapsed (min)': str(window.get('asset_elapsed_min', {})),
             })
     return result
