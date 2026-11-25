@@ -48,7 +48,7 @@
         "QQQ",
         "SPY"
       ],
-      "status": "awaiting_baseline",
+      "status": "baseline_missed",
       "baseline": {},
       "windows": {},
       "detection_delay_eligible": false
