@@ -1,5 +1,348 @@
 [
   {
+    "id": "bf225ebe571374f5e4b3",
+    "title": "Ethereum Price Forecast: Tariff Concerns Push ETH Below $1,700 as Crypto Comes Under Pressure - www.tmgm.com",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVWZsdGx3X3Rqb3V4SHNGNDNpTmpvM1FVeG1jbDBHaEtkVm5wSWVxUDJvY0ViN0FQamduR2JvMEs1cnRxblRGLU5YaEszMDNwY0V4MnR5eDZvMlhtclRreEhjN1RROFh4RmJKOUFvVXIxZnhRTkxNNU85SGNCOURZdEc2dWRMTWRVMDBnSUVRSGI2dUl0Z2JiQ2NuR2F0N01acTI2QWktYWxfdGcxQ1BXRVJGa0Y3czl0THBtTnlqc3ptS2x3M2lLMlJjRi05b1BPcU9MMkNRU3JnWlE5RWh3?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-24T21:56:30+00:00",
+    "detected_at": "2026-11-25T04:00:34.929189+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 364.1,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1660.965,
+          "observed_at": "2026-11-25T04:00:35.517881+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59294.495,
+          "observed_at": "2026-11-25T04:00:35.378722+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 69.195,
+          "observed_at": "2026-11-25T04:00:35.871864+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1660.965,
+          "observed_at": "2026-11-25T04:00:35.517881+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59294.495,
+          "observed_at": "2026-11-25T04:00:35.378722+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "1aa375c5c9416889e464",
+    "title": "CleanSpark posts $987 million fiscal 2026 loss, holds 11,720 Bitcoin - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrR0drS2lBT2FCY2lIWWpBMUNZR0tGREJyY3FmR2tlbnAyS1QweW5hYVl4MTV5VjNZZVpWd1JDS3hrM2U0bEtsSldZMXVodmtLNWhSVUc5dm52Z001NjQ0N0Y3aTlWSFJLNjlIUE9YUWJ5dW1DOWNR?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T03:55:42+00:00",
+    "detected_at": "2026-11-25T04:00:34.928117+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 4.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59294.495,
+          "observed_at": "2026-11-25T04:00:35.378722+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1660.965,
+          "observed_at": "2026-11-25T04:00:35.517881+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 69.195,
+          "observed_at": "2026-11-25T04:00:35.871864+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59294.495,
+          "observed_at": "2026-11-25T04:00:35.378722+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "01301bd865ad26372aa9",
+    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP extend losses as oversold crypto market eyes yearly lows - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWkYzSE9Mb0p2NXA2OXdCb1U3UzF5cFdlT2dZZFJpd3B3NUtwWDZtX2tJTHdMbng3SmFIWEJ6S0lRTUptbjhvNDU4VVpIc1NITXVNMFladHpkUXRmUHVoT0FoSDZlOUxoWHRVVmVfZWlPb3dwSTB5cE0zQ2dmUkdRMWlJVDVkSDROOTlwNktzckdLektyNE5RY3N3RnVtUVNxanEwZG5WM1dSSHc1VFQyQ0xLU29WbzJSOFo4OVJjWXdQZ0VrcnVjNWRIV1luNnF6QXY2SjR0MTVCUnlRbEpiaG1fakNYZDlweU8zSmRBcXZfQ0IweWtRdGlYMlhuUHllUG5wbnZTUE5PS00?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T03:56:43+00:00",
+    "detected_at": "2026-11-25T04:00:34.927186+00:00",
+    "assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto",
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 3.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-25T04:00:36.551196+00:00",
+    "alert_last_attempt_at": "2026-11-25T04:00:36.551209+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "6453838c68d896c83390",
+    "title": "Jensen Huang's Comeback Rally Proves Short-Lived as Nvidia Plunges Nearly 6%, Erasing $250 Billion in Market Value - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SODlfelZWeUZsT2JsSzdQX01QSnlaMWV5Vmd3RU1Fclpxa1pHQjZWdmV0WDJSdWxZRXcwMWw4V3VtUmxfMVF0V05EdGF5YzlLcE9TeXJUNnBtUWdNZGUwcnhhYUp6ZTc4OFI3ZGVPRnJXdnR2eUE?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T15:55:00+00:00",
+    "detected_at": "2026-11-25T04:00:34.382650+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "NVDA",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "NVDA": "Stocks"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 725.6,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "NVDA",
+        "AMD",
+        "SMH",
+        "QQQ",
+        "SPY"
+      ],
+      "status": "awaiting_baseline",
+      "baseline": {},
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "NVDA": {
+        "baseline": {
+          "price": 155.38,
+          "observed_at": "2026-11-25T04:00:35.698654+00:00",
+          "quote_at": "2026-11-24T21:00:01+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        },
+        "followups": {},
+        "benchmark_asset": "QQQ",
+        "benchmark_baseline": {
+          "price": 638.1,
+          "observed_at": "2026-11-25T04:00:35.727348+00:00",
+          "quote_at": "2026-11-24T21:00:00+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        }
+      }
+    }
+  },
+  {
     "id": "863b6f5c881ebfdc42ef",
     "title": "Top 10 Cryptocurrencies In Canada For November 24, 2026 - Forbes",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORVhLM2VTLWhXSUxlUTBxZ2ROZGZHVGpKaGZkZDdmalVjNjlFZTl3RjI1aENtSEhYNEVPQ1JaZ0FBeFF0U1VHbUhUaTlvcmJESW5zZWZnQ1d4UGYwak8yVmRVSEhOcE9GYWNWaVp1cklHRFpJZEFyUE5sdFRvSDdVRjIyNG15WkFvemVB?oc=5",
