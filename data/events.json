@@ -1,5 +1,203 @@
 [
   {
+    "id": "1334ac294bcac82fa0af",
+    "title": "Bitcoin falls below $58,000 as CoinShares' Butterfill sees 'tail end of the bear market' - The Block",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWjB0TmtZa21tVTJsM3RoOUw2QjBzQ0VzZURnQ0YyTlVwRlAxemFKcmwwdHRYeW52RkdiWGlFZnBld0VMdmpmNkl2M3pZRGdqSjUyZUV1VkpvbXdxUWRicGV5b2JjUXQydVk2UFVRdVJpSmN3QjVlVnp3bUZUTC1iZkd2dnBLTndEVGpnWnh0dlZfSkRkbTR5TnFDOVlINllVUFFGM0c4bW10UGZEV0Y5UlpsQzFhaXRHejVuLUJsaG81emdxN0Y0?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T17:26:00+00:00",
+    "detected_at": "2026-11-25T17:30:27.876413+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 4.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59099.675,
+          "observed_at": "2026-11-25T17:30:28.804494+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1658.245,
+          "observed_at": "2026-11-25T17:30:29.107504+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 68.58,
+          "observed_at": "2026-11-25T17:30:29.653963+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59099.675,
+          "observed_at": "2026-11-25T17:30:28.804494+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "6f07f25be72723397e4e",
+    "title": "Bitcoin Faces the ‘Worst Combination for Crypto’ as Rates and Dollar Stay High - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONG1nSkQwdFJjQ1JrbDFLazVJNTg4YXJ2SklHdUMwbVNqbkNjVWpqZk1VWVBkeGtkbTkwU2dyemdEUjhWTjVDN18yOGN2RlZGUFpaUEtyc29tdThNQmN3QkhOc1kydGhFWFVfOThiRUxGZ2FpVklGUC1HOG1NZEVqX2I5Znp0aDAxbUsxQVZBS2pzX3ozMGphMTh0blZYYVNPazZ2TTV2ZUJXVUNTeUdULVQ0MmstcEgyYkd4Q2JMaE95elYzdTFVZTBNUGtGVjNGOXZ1RQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T17:23:06+00:00",
+    "detected_at": "2026-11-25T17:30:27.875091+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 7.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59099.675,
+          "observed_at": "2026-11-25T17:30:28.804494+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1658.245,
+          "observed_at": "2026-11-25T17:30:29.107504+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 68.58,
+          "observed_at": "2026-11-25T17:30:29.653963+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59099.675,
+          "observed_at": "2026-11-25T17:30:28.804494+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "7e7a0a30da6c1c45c384",
     "title": "Why Is Hedera (HBAR) Falling More Than XRP This Month? - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV1FrSkNaTGptN0FNQWlXa1VuYmV5b2hzMFluYmpaNWpSeUdTOFNKTWVoSHk3SGYwVEJDQTkydGNHT3NmUXFtVzAyMi1RYWlsZGhZY2haVHprTWxJckdnOFl2R2g5aVFLeUo4OHZEZmtaM0xCYmg2TzBaMjc0QlB5bHZaeXZHVTlBU25mSWZlRFZJSFF5M1dDLVAyZHhyb3RZZkU2UjEyRjhsNFNTSHlJ?oc=5",
@@ -281,6 +479,21 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 9.93
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 19.8,
+          "observed_at": "2026-11-25T17:30:29.974460+00:00",
+          "returns_pct": {
+            "BTC": -0.2385,
+            "ETH": -0.1027,
+            "SOL": 0.1533
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -297,7 +510,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59099.675,
+            "observed_at": "2026-11-25T17:30:28.804494+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.2385
+          }
+        }
       }
     }
   },
