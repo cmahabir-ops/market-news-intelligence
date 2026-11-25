@@ -180,5 +180,12 @@ st.warning('Market-data providers are indicative; stock quotes may be delayed or
 st.subheader("V3.5.1 — Observation timing audit")
 if impact_data:
     audit = pd.DataFrame(impact_data)
-    st.dataframe(audit.groupby(["Method", "Horizon (min)", "Status"], dropna=False).size().reset_index(name="Windows"), hide_index=True)
+    if "Method" not in audit.columns:
+        audit["Method"] = "Unknown / legacy schema"
+        st.warning("Impact module is not reporting method labels. Verify impact.py is updated and restart the app.")
+    required = ["Method", "Horizon (min)", "Status"]
+    if all(c in audit.columns for c in required):
+        st.dataframe(audit.groupby(required, dropna=False).size().reset_index(name="Windows"), hide_index=True)
+    else:
+        st.warning("Timing audit unavailable: observation columns are missing.")
     st.caption("Nominal horizons are not exact exchange-time returns. Actual per-asset elapsed times are recorded for new observations.")
