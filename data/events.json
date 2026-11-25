@@ -1,5 +1,55 @@
 [
   {
+    "id": "08dcf8f8818289921640",
+    "title": "US Moves to Recover $1.1 Billion From Binance Hack, Saylor's Strategy Buys 457 BTC, XRP Briefly Reclaims $1 — U.Today Crypto Digest - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53S29lLVhKRGRUd2tRTnAyQjd2R3JicHNTYWN1UmQ2Q0NkYk9jUmRTa08yRmJsOUl1T2lna3JocWVfRzVYbXppYXQ4SFpPVFVaWW5ORWNvRWQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T03:56:19+00:00",
+    "detected_at": "2026-11-25T04:05:31.822262+00:00",
+    "assets": [
+      "BTC",
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 4,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "XRP"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 9.2,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-25T04:05:33.861478+00:00",
+    "alert_last_attempt_at": "2026-11-25T04:05:33.861496+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "bf225ebe571374f5e4b3",
     "title": "Ethereum Price Forecast: Tariff Concerns Push ETH Below $1,700 as Crypto Comes Under Pressure - www.tmgm.com",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVWZsdGx3X3Rqb3V4SHNGNDNpTmpvM1FVeG1jbDBHaEtkVm5wSWVxUDJvY0ViN0FQamduR2JvMEs1cnRxblRGLU5YaEszMDNwY0V4MnR5eDZvMlhtclRreEhjN1RROFh4RmJKOUFvVXIxZnhRTkxNNU85SGNCOURZdEc2dWRMTWRVMDBnSUVRSGI2dUl0Z2JiQ2NuR2F0N01acTI2QWktYWxfdGcxQ1BXRVJGa0Y3czl0THBtTnlqc3ptS2x3M2lLMlJjRi05b1BPcU9MMkNRU3JnWlE5RWh3?oc=5",
@@ -310,7 +360,7 @@
         "QQQ",
         "SPY"
       ],
-      "status": "awaiting_baseline",
+      "status": "baseline_missed",
       "baseline": {},
       "windows": {},
       "detection_delay_eligible": false
