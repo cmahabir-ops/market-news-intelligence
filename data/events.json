@@ -1,5 +1,231 @@
 [
   {
+    "id": "e858e4d59f9859723a9a",
+    "title": "Is XRP a Good Investment for Building Wealth by 2035? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMlE5d0xpbzdfTW93cXZkbmhFbWZ2M1B1bkNRalFSNS1UbExNdm5IX1VqZFk0ZGc0eFdDRzlZblV6OWxrMUVaQ0ZzWFJWOEYxbVRqemFCOTJoOU5Xd1NndjNocnRkQUxEMTRJWGpjM3pnbm5rd3J4ZGdlaUphOUtUUzk1c2VTTGtaMmpEVldyRHJUcEpOMFJnbWN5TEFYRGNVT0lvLUVyaXgzRmFJTTIteg?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T23:42:00+00:00",
+    "detected_at": "2026-11-25T23:45:30.595162+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 3.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 3.51,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.9357,
+          "observed_at": "2026-11-25T23:45:31.972007+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 60306.185,
+          "observed_at": "2026-11-25T23:45:31.547595+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1690.74,
+          "observed_at": "2026-11-25T23:45:31.690334+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.9357,
+          "observed_at": "2026-11-25T23:45:31.972007+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 60306.185,
+          "observed_at": "2026-11-25T23:45:31.547595+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "671bfd095aa38ab7d281",
+    "title": "3 Cryptos Down More Than 90% That Could Still Recover in 2027 - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaV9BOGF3S2Q4NHprN2YwZFlNREpDRkItaU8tOXRZTHFxQ1ZkREtyeVkwZFU5X1NMMzRBYll0ZDhOLUVpSE5hX2RpQ2FTZm9YeDdZTWRaUXY2UnZuWWhkVHNaVU5GT1R3VS0yM3QzM2NaT01lTGFSRUNlZWZHb1hrbjlfQkhzR3V0Q0pfQk5kS1BaVkprRFJ6OUxpYnpCUDNhMWtVMTNhUHZmdDNTdktWUnd5eThqRGJNb2kw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T23:39:00+00:00",
+    "detected_at": "2026-11-25T23:45:30.593891+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 6.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 6.51,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "5f1c3548a2d509732967",
+    "title": "GLOBAL MARKETS-World stocks tumble as Trump tariffs rattle markets, AI rally fades - Devdiscourse",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbEFmX3dIZS1vVVM2VG1zRGd0YnA3Ql8xcjViQl83dEN6akpWeWlYUVFaWGV5SkdBVGx2MzFFUkZlS2xiS0FCdU1BZUtRVGJXSUJvTnlkQklpYjQwWUdvZ3lpeEVXRDMzUXpaRlZoSHdYX1JWY2NGV05XT0NkWENnWUJyT2dCdFo4OC02MEdfc3JLQzlXa21PZUd4bzFUNU82ZVlLb0FUQzA5TDUzMHhJYlhCaV9mamozMndaWms5VUpxU1dFNE1QVndRV3BwZl9JV0xQVkRXa0tFSTdv0gHcAUFVX3lxTFBsQWZfd0hlLW9VUzZUbXNEZ3RicDdCXzFyNWJCXzd0Q3pqSlZ5aVhRUVpYZXlKR0FUbHYzMUVSRmVLbGJLQUJ1TUFlS1FUYldJQm9OeWRCSWliNDBZR29neWl4RVdEMzNRelpGVmhId1hfUlZjY0ZXTldPQ2RYQ2dZQnJPZ0J0Wjg4LTYwR19zcktDOVdrbU9lR3hvMVQ1TzZlWUtvQVRDMDlMNTMweEliWEJpX2ZqajMyd1paazlVSnFTV0U0TVBWd1FXcHBmX0lXTFBWRFdrS0VJN28?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T22:12:52+00:00",
+    "detected_at": "2026-11-25T23:45:30.142098+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 92.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 92.64,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "2ca837b853ac5c1d3a01",
     "title": "U.S. Stock Market Today, Wednesday, November 25th, 2026 - STL.News",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XNVFBOG9LSUUweVdURUM0SFBJU3NRQ1VNeFlYUlpHU29QZVpZNW1nQnc5akVZTW9XZFcwQ3QzZmZMcjdHWlpQZEJwb1NPVF9OSFZDTktZblhudFd4d081RTZKQ2FHV2xURHNmaw?oc=5",
@@ -210,6 +436,26 @@
             "BTC": 4.9434,
             "ETH": 4.9452,
             "SOL": 4.9476
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.96,
+          "observed_at": "2026-11-25T23:45:32.003306+00:00",
+          "returns_pct": {
+            "BTC": 0.3296,
+            "ETH": 0.1644,
+            "SOL": 0.1495
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9508,
+            "ETH": 14.9505,
+            "SOL": 14.9465
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
@@ -861,6 +1107,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.92,
+          "observed_at": "2026-11-25T23:45:32.003377+00:00",
+          "returns_pct": {
+            "BTC": 0.2994,
+            "ETH": 0.2993,
+            "SOL": -0.0497
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9127,
+            "ETH": 59.9115,
+            "SOL": 59.9118
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1073,6 +1339,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.2788
+          },
+          "60": {
+            "price": 60306.185,
+            "observed_at": "2026-11-25T23:45:31.547595+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.2898
           }
         }
       }
