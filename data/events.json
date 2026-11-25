@@ -1,5 +1,154 @@
 [
   {
+    "id": "9207f3ac95c5b1600fb5",
+    "title": "Bitcoin jumps to $65k on NVDA rally then reverses – Trap or bear warning? - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxZm83anlhS3VTMW8zeHQ3bG5rYnI2TFcwQXNMa2dRVGpjNktDSGpPQUl4RHBHdmNaYTBRZ0oxTVZJa0xrX3lQME9EZTdLcldYOTVJVWRoRlk?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T04:32:05+00:00",
+    "detected_at": "2026-11-25T04:45:29.387138+00:00",
+    "assets": [
+      "BTC",
+      "NVDA"
+    ],
+    "market": "Both",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "NVDA"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "NVDA": "Stocks"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 13.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-25T04:45:30.502532+00:00",
+    "alert_last_attempt_at": "2026-11-25T04:45:30.502548+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "19b563d5ce562746ffef",
+    "title": "Kevin O’Leary Says ‘Nothing Has Outperformed’ These Alternative Assets: Here’s How Bitcoin and the S&P 50 - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdTlUWDlpQkFMVFNfN3NpVWdJdmV1WkJINkZYbnRjeDBwQ04zMXVtYTQ5Y3JzQk45LWNFaGNtMW9FNU5lYVczZDhmU3YtX21kWWhwY1ZNaFRZcGdVcmFjamtXSTM2MHkybHVyN05FRUk1bE1wOEVDZUZxNlZrRXhCaS1yNExUWlRPc1V4WkdBQ1dLQWliUUZIRGRYSWVQaktzd0dDMnBEczE0SzdHWC1CVG43ZVMxY1N2WDJGZmhsYlVNZw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T04:38:56+00:00",
+    "detected_at": "2026-11-25T04:45:29.385180+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 6.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58976.655,
+          "observed_at": "2026-11-25T04:45:29.605566+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1653.415,
+          "observed_at": "2026-11-25T04:45:29.696159+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 68.655,
+          "observed_at": "2026-11-25T04:45:29.915318+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58976.655,
+          "observed_at": "2026-11-25T04:45:29.605566+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "9f9a7d404d6e2debd602",
     "title": "Top Crypto Losers: crypto currencies posting the largest losses today - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3elh2eWwxQWxzWXVIdW50cm0wd3dvZXJlQUhoT25OcVcxdGs1eVJ1eFNGYmJOMjZOSVl2MER3anB3RzNKWXNienVtVFlFT0VDT3NtR0FQLWh6VnIz?oc=5",
