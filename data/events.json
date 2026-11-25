@@ -1,5 +1,76 @@
 [
   {
+    "id": "65de51f9ba4f3dc0fc33",
+    "title": "[Today’s Key Economic and Crypto Events] US October PCE Inflation Data Due - bloomingbit",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1STmkyM1NKWVBLZ2FNdEN6dWJpeTFoY0JWMkhYY2NUd0ZQekRwSzVidlpaeHFZS1JKVDIySy1GNmlGMXB6eEl6d2Y3OXl2VDlJRkZrNg?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T00:06:53+00:00",
+    "detected_at": "2026-11-25T01:40:34.233108+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "e4ed2f1931c907fd10a1",
+    "title": "Trump made up to $15m on Nvidia stock after Huang’s return - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRUF3TVZCQlVITFBZeEFsTjRHODhTQ3p5cXBUT0FQRUhNaUg0NmxqTEh1MThHY3RLTXREZmtVZ01TVzM5SUptSnNNZlNJOVNnNXJsOGVHUmZMNkRvT09GaERueHk4NjR0bDJYUUY5Y2hZODA0QzJXQmV6dU9sSW1nbXBZNkFIcDlsdThzWFI5RWY4LXhSN2pTdFdTLVpweV9aeGJuOA?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T08:18:00+00:00",
+    "detected_at": "2026-11-25T01:40:34.232744+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "NVDA",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "NVDA": "Stocks"
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {
+      "NVDA": {
+        "baseline": {
+          "price": 155.38,
+          "observed_at": "2026-11-25T01:40:35.038053+00:00",
+          "quote_at": "2026-11-24T21:00:01+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        },
+        "followups": {},
+        "benchmark_asset": "QQQ",
+        "benchmark_baseline": {
+          "price": 638.1,
+          "observed_at": "2026-11-25T01:40:35.099935+00:00",
+          "quote_at": "2026-11-24T21:00:00+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        }
+      }
+    }
+  },
+  {
     "id": "fa44aa427a9bb9d70eb1",
     "title": "SEC staff issue Molecule no-action letter on biotech tokens - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vWGY0d0JGZWMwMlRjQ2pjaERNUVlhTXJkTnQzeE1hSmFaci1ZV2xpME53M3dDOXhVNzBwUk92c0Z5NmxzOUYyRTY2M1NIOVFMa0pmZ1ZBdGlVV2ZJaV9mOXJGOGdKbXNZbnB3aFgxeWxtNEU?oc=5",
