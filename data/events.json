@@ -1,5 +1,104 @@
 [
   {
+    "id": "445e7c4025f074d56956",
+    "title": "Monad Falls 22% as First Insider Unlock Sends MON to Record Low - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSWc5UTFyaG9qRFl3YjdxZWE5dE05MlgtVzZJOXNOZkZYOUdwMTUxWTZkREZNTGNUblZpZnpIclFseHB1T25GbW1ZcFl6SkJaZ0I4cFMwaVl4OHpoRURZUGx1WHRMY21tclJEZlV4WlRTbDVzZElhaDlMaTNiSGRyalhTdEJmREhWdkVIRTRNckItWHBQWGJBLWxidlJnaVBQWWsyM25sanY2LWs?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T09:02:53+00:00",
+    "detected_at": "2026-11-25T15:05:30.900821+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 362.6,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58442.6,
+          "observed_at": "2026-11-25T15:05:31.456393+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1657.935,
+          "observed_at": "2026-11-25T15:05:31.713500+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.645,
+          "observed_at": "2026-11-25T15:05:31.934349+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58442.6,
+          "observed_at": "2026-11-25T15:05:31.456393+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "d299e43452168c871c22",
     "title": "CFTC Proposes Stricter Prediction Market Rules, Targeting User Identities and Large Traders - CCN.com",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdnYtLWNXVmJ3S1hrQzAzMTl6WnVTMFI1N1dFd09ESFk2UEZpVjRHUjlJeXVSVS1QU2N2UFJDc1ZldnhSeDlKVFpNXzhEWjRNQ0FmRFFjd0g0ajB1aFVzVXZoU1JmdmlCbDAzdWRzLTlCWkRHUmNxbS11YnQxUG9MNExjUk9qUQ?oc=5",
@@ -743,6 +842,23 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 10.07
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.0,
+          "observed_at": "2026-11-25T15:05:32.290877+00:00",
+          "returns_pct": {
+            "NVDA": 1.8267,
+            "AMD": 1.2586,
+            "SMH": 1.7657,
+            "QQQ": 1.3172,
+            "SPY": 1.0359
+          },
+          "benchmark": "QQQ",
+          "primary_excess_return_pct": 0.5095,
+          "positive_assets": 5,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
