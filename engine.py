@@ -10,6 +10,7 @@ from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 
 import feedparser
 import requests
+from prices import quote
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data" / "events.json"
@@ -180,14 +181,49 @@ def run():
     fresh.sort(key=lambda x: x["published_at"])
     # Save before sending; GitHub Actions commit preserves dedup across runs.
     combined = sorted(existing + fresh, key=lambda x: x["detected_at"], reverse=True)[:cfg.get("max_events", 2000)]
+    # Preserve delivery status across scans; retry unsuccessful eligible notifications.
+    for e in combined:
+        if 'alert_status' not in e:
+            e['alert_status'] = 'pending' if e['significance_score'] >= cfg.get('alert_min_score', 3) else 'below_threshold'
+    if initial and not cfg.get('alert_on_first_run', False):
+        for e in fresh: e['alert_status'] = 'first_run_suppressed'
+    # Record only actual observation-time prices. Do not claim historical publication-time quotes.
+    targets = sorted({a for e in combined[:300] for a in e.get('assets', []) if a in ASSETS})
+    quotes = {a: quote(a) for a in targets}
+    horizons = [15, 60, 240, 1440]
+    for e in combined[:300]:
+        reactions = e.setdefault('price_reactions', {})
+        for a in e.get('assets', []):
+            if not quotes.get(a): continue
+            record = reactions.setdefault(a, {'baseline': quotes[a], 'followups': {}})
+            baseline = record.get('baseline', {})
+            try:
+                start = datetime.fromisoformat(baseline['observed_at'])
+                elapsed = (utcnow()-start).total_seconds()/60
+                for minutes in horizons:
+                    key = str(minutes)
+                    if elapsed >= minutes and key not in record.setdefault('followups', {}):
+                        current = dict(quotes[a]); current['change_pct'] = round(100*(current['price']/float(baseline['price'])-1), 4)
+                        record['followups'][key] = current
+            except (KeyError,TypeError,ValueError,ZeroDivisionError): pass
     save_events(combined)
     alerts = 0
-    for e in fresh:
-        if (not initial or cfg.get("alert_on_first_run", False)) and e["significance_score"] >= cfg.get("alert_min_score", 3):
-            try:
-                alerts += int(send_discord(e))
-            except Exception as ex:
-                print(f"ALERT ERROR for {e['id']}: {type(ex).__name__}: {ex}")
+    attempted = failed = 0
+    for e in combined:
+        if e.get('alert_status') not in ('pending', 'failed'): continue
+        attempted += 1
+        try:
+            if send_discord(e):
+                e['alert_status'] = 'delivered'; e['alert_delivered_at'] = utcnow().isoformat(); alerts += 1
+            else:
+                e['alert_status'] = 'failed'; failed += 1
+        except Exception as ex:
+            e['alert_status'] = 'failed'; failed += 1
+            print(f"ALERT ERROR for {e['id']}: {type(ex).__name__}: {ex}")
+        e['alert_last_attempt_at'] = utcnow().isoformat()
+        e['alert_attempts'] = e.get('alert_attempts', 0) + 1
+        save_events(combined)
+    print(f"Discord attempted: {attempted}; failed: {failed}")
     print(f"New events: {len(fresh)}; Discord alerts: {alerts}; total stored: {len(combined)}")
 
 

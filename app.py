@@ -45,3 +45,21 @@ if len(filtered):
     st.write(e["rationale"])
     st.markdown(f"[Read source]({e['url']})")
 st.button("Refresh dashboard", on_click=st.rerun)
+
+st.subheader('Discord delivery audit')
+if 'alert_status' in df.columns:
+    st.dataframe(df['alert_status'].fillna('legacy / unknown').value_counts().rename_axis('Status').reset_index(name='Events'),hide_index=True)
+else:
+    st.info('Legacy events have no delivery audit. Audit begins after the first Version 2 scan.')
+st.subheader('Observed market reactions')
+st.caption('Indicative USD snapshots captured by the scanner. Baseline is first observed quote, not the price at publication. Follow-ups are first scan at or after each horizon; stocks may be stale outside market hours.')
+reaction_rows=[]
+for event in events:
+    for symbol, record in event.get('price_reactions', {}).items():
+        base=record.get('baseline', {})
+        for horizon, followup in record.get('followups', {}).items():
+            reaction_rows.append({'Event':event.get('title','')[:90], 'Asset':symbol,'Horizon (minutes)':int(horizon),'Baseline USD':base.get('price'),'Follow-up USD':followup.get('price'),'Change %':followup.get('change_pct'),'Observed UTC':followup.get('observed_at'),'Source':followup.get('source')})
+if reaction_rows:
+    st.dataframe(pd.DataFrame(reaction_rows).sort_values('Observed UTC',ascending=False),hide_index=True,use_container_width=True)
+else:
+    st.info('No completed observation windows yet. Price measurements appear after subsequent scans.')
