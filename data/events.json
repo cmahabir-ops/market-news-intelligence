@@ -1,5 +1,115 @@
 [
   {
+    "id": "8a1fdd85077fd99856d6",
+    "title": "Ethereum price predictions for November 24: Live Odds - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3QtZUZOcENtdlRpNmNodmJyLURSSEpMSlA2X19FNFExZC1JVDV3d1dCTVF2QWNoZnZxS2N2RlZralhWblNXMnRBUW8tY3FNV1MwNGF4YmNseHRJRHRqSE93MU9zTlY3bEU1STBJTHBJdnpSUTlySVJWbVVIQ0lHS2QyenY4cG8?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T03:35:48+00:00",
+    "detected_at": "2026-11-25T05:05:28.819874+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 89.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1657.315,
+          "observed_at": "2026-11-25T05:05:29.446088+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59143.23,
+          "observed_at": "2026-11-25T05:05:29.251175+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 68.62,
+          "observed_at": "2026-11-25T05:05:30.061384+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1657.315,
+          "observed_at": "2026-11-25T05:05:29.446088+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59143.23,
+          "observed_at": "2026-11-25T05:05:29.251175+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
     "id": "57fb935c7b738e61601e",
     "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive - CoinDesk",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdHE2TDNWN3laclNORjV2UGlrdUNhM09lUHBYZWc0T0xrUWE4a0hzYmEyRXFDZDNCQzdRWlpUVjZsUEhyZHUtbEMwOG01MEZpanBSc2gtVzF4aDNqUGgtS3BzdWFSZlFTcC1aclVjQ1FOS1dZNlQ5MXlmMDZhTnZ6VUdnQm45Y2lBVU9Gdmp6ZlhuWG41VlNlcXFPVFcxYnNKcEJTdg?oc=5",
@@ -48,7 +158,7 @@
         "QQQ",
         "SPY"
       ],
-      "status": "awaiting_baseline",
+      "status": "baseline_missed",
       "baseline": {},
       "windows": {},
       "detection_delay_eligible": true
