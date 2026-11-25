@@ -1,5 +1,81 @@
 [
   {
+    "id": "af5cefd1ff7b859df445",
+    "title": "Top 4 reasons the S&P 500 Index and ETFs like VOO, SPY, IVV are set to rebound - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb243TTY3b3hjdExfd2pHQXB6ZV9keUdOc0FYUTdlMFg1d0U5YURtY1dvYUtGU0J0MU9YcEVPZDl5aXNOLTBDWTdseFYwbHk3cnBsSUdVZUVhd1NQd0xMem9BWDhoRUVuUVdxbTNLRmQ3dE1SV1VVLWdCR0FHRTRmWV9JcFVRLVFlMkdVQktMeGVlTFY5ZmxEdHA0UUhmR0kxa2lxQ2Q2QXNfclJUc19GS2I1Q0VadnlhR3Jwb09heldlUzdoRTZQZ1dFbkxVdw?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T19:21:31+00:00",
+    "detected_at": "2026-11-25T19:55:42.165012+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 34.2,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "8c97d0845132d87493a3",
+    "title": "Gold, silver remain under pressure as strong GDP, sticky inflation reinforce Fed hike bets - Kitco AM Report - Kitco",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMHlZajVKekE3OWVDWV9BSndmOXNXRGVSdjFnQmwxNnhtaFktelk2OTJpcGx1TXJUM3VjZmVFSXZjcGZMbmVnNUJ3STlsNE1TWmZzTHBYb0QyalB1eFRsbHBNMDRDSkltT09fazNnanNCbGlfOEhoMXNSMnR0TndWMXVWX1ptYm1KS2JOYVBrOENvWDhfVko2Wk5DbXhSb0szZGN6LVFmbXRxbkZyNDItVzYzSWpkWXQ1d0hwMmRn?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T14:01:45+00:00",
+    "detected_at": "2026-11-25T19:55:42.164698+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 354.0,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "d659ddd91ac4da397c01",
     "title": "Can AI Bitcoin Trading Beat Buy and Hold? - Securities.io",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLcG4wbU52d0JiTmxsY2Z3YXYtOEIweFBwdjZRbEFGd0pHTUlQZUJRN3J0STZlcVJ6WkFXWWk2ZUdEbzZ4RU9CUHBJWkJHLTAwamt6NHc3aHBNcGdQaUtBS1N0VEpjN3NfNHd3VEdzVk0?oc=5",
@@ -79,7 +155,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.28,
+          "observed_at": "2026-11-25T19:55:43.719918+00:00",
+          "returns_pct": {
+            "BTC": 0.1987,
+            "ETH": 0.2371,
+            "SOL": 0.1707
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -394,6 +486,23 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 9.96
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.21,
+          "observed_at": "2026-11-25T19:55:43.719996+00:00",
+          "returns_pct": {
+            "SPY": -0.0056,
+            "QQQ": 0.0825,
+            "SMH": 0.1331,
+            "XLK": 0.0,
+            "BTC": -0.0645
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1882,6 +1991,21 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.13,
+          "observed_at": "2026-11-25T19:55:43.720137+00:00",
+          "returns_pct": {
+            "ETH": 0.3241,
+            "BTC": 0.4146,
+            "SOL": 0.8449
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0905,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1911,6 +2035,19 @@
             "change_pct": 0.1835,
             "benchmark_return_pct": 0.1596,
             "excess_return_pct": 0.0239
+          },
+          "60": {
+            "price": 1686.92,
+            "observed_at": "2026-11-25T19:55:43.324005+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.3241,
+            "benchmark_return_pct": 0.4146,
+            "excess_return_pct": -0.0905
           }
         },
         "benchmark_asset": "BTC",
@@ -9473,6 +9610,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2085
+          },
+          "240": {
+            "price": 59987.275,
+            "observed_at": "2026-11-25T19:55:43.093826+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 3.1405
           }
         }
       }
@@ -9630,6 +9778,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2085
+          },
+          "240": {
+            "price": 59987.275,
+            "observed_at": "2026-11-25T19:55:43.093826+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 3.1405
           }
         }
       }
