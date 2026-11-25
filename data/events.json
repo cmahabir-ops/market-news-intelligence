@@ -1,5 +1,209 @@
 [
   {
+    "id": "1b617dd82b88f0703566",
+    "title": "Bitcoin ETF Divergence: Investment Advisors Add 57,500 BTC - Kriptofoni",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMTBzaXBoenBzLURManFIZTdjM0g1LS1QUXdpN0dsTUxUVzZyTHJfWWQ2WktKckozNk85b3dPX29ycEhxTEFiMkoxUXU2bzZCYW80OGlEclluUEhWcDlXZ2J3SzhZcnFSRXdQM3FjWjd3UHJxOHlMcGRfb3Z4aUVGRjZTbE90dw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T07:30:00+00:00",
+    "detected_at": "2026-11-25T08:15:30.898851+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 45.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58834.155,
+          "observed_at": "2026-11-25T08:15:31.485244+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1639.595,
+          "observed_at": "2026-11-25T08:15:31.734183+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.795,
+          "observed_at": "2026-11-25T08:15:32.374617+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58834.155,
+          "observed_at": "2026-11-25T08:15:31.485244+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-25T08:15:33.093353+00:00",
+    "alert_last_attempt_at": "2026-11-25T08:15:33.093370+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "5797e9a90eb62cc65b24",
+    "title": "Trump Tariffs Hit Bitcoin, IBIT ETF Outflows Near $5B - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX1ZwTXRvb3dnRHd6M3Zhc3hwT3ltcS1KcWtBT013aUIwdFZtODkyNGxDTDFFWHRpRmExNnhuR0hKT0U4eWlGNFFWX1B5RGR4SndfVGFKWmJmTlkwU29pM1Q1aV9oeWtwWVdYeENHcTN2eHdNZFBXQUZ3TWNGMTNYM29aaVZKVzg?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T08:05:23+00:00",
+    "detected_at": "2026-11-25T08:15:30.896705+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 4,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 10.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58834.155,
+          "observed_at": "2026-11-25T08:15:31.485244+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1639.595,
+          "observed_at": "2026-11-25T08:15:31.734183+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.795,
+          "observed_at": "2026-11-25T08:15:32.374617+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58834.155,
+          "observed_at": "2026-11-25T08:15:31.485244+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-25T08:15:33.360211+00:00",
+    "alert_last_attempt_at": "2026-11-25T08:15:33.360227+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "e0cde5097858fc5602cd",
     "title": "3 Top Crypto Price Predictions: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP deepen losses as oversold market looks towards yearly lows - www.tmgm.com",
     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQX0dTMGFONFZRcDVoeEo5V21XTkx1bndBRXRnQWRzbzJHY0JfcXNRNmZSRE5Rc0tDZ3gwVEpnV1hmZndzYmVyek03a1N1S3ZPVHAwa29kVExUVjktY0tFMWxORm9vcWxFNjl6dFlieUMyZ1dKUm1qUFpBQjJHaGlBYXNtN2dzbnQ3YXNad2dvZ0JadVQxYkZWRUNrU0FWUHVYTWRmR2Q5ME9zeWNxWnZFNkZRei1JUkhDbGw0NkxuN0lESHpoT0hXWG9tUnR3UlBmN1hZNE10SFBPODRKVlQ0WXFqdnVyaWRZQUdlSnlsQXFSNUJ4ZnZ3M0h2ZHE3VjhJT0cyaXduMnlyZzlBQlJyU1FTcl8?oc=5",
@@ -132,7 +336,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.04,
+          "observed_at": "2026-11-25T08:15:32.801351+00:00",
+          "returns_pct": {
+            "BTC": -0.0216,
+            "ETH": -0.1048,
+            "SOL": -0.0884
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
