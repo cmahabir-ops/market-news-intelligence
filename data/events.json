@@ -1,5 +1,155 @@
 [
   {
+    "id": "004751f522dcf7d39f01",
+    "title": "Ethereum Treasury Firm Bit Digital Sells 29,825 ETH to Cut Debt by 50% - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPSnJJZGtWbFlxaEpUeFJOczg2YUdDUnJ4WjZpcF8tdUhGbW51OFY2YmUxc0RDV1lWNWFSb2Zia2pmcm1rdTlYbVNMUzVIcUdJeVVZVEE1Q3JSR19ZSHdKVlhzeDU1YTlEaEVWTnJXM0p6a3FKanVMMl9SVQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T12:59:45+00:00",
+    "detected_at": "2026-11-25T13:05:24.365373+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1646.025,
+          "observed_at": "2026-11-25T13:05:25.004711+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 58638.765,
+          "observed_at": "2026-11-25T13:05:24.854638+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.83,
+          "observed_at": "2026-11-25T13:05:25.545221+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1646.025,
+          "observed_at": "2026-11-25T13:05:25.004711+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 58638.765,
+          "observed_at": "2026-11-25T13:05:24.854638+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "360dedfddb4985a84388",
+    "title": "Citadel Warns of Further US Stock Losses as 2018 Fears Resurface - Coin Edition",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM21YN2RfWHEwQUplOVdCdWxwaTVGdFdPdzNPU1Zxd05vemt0NmxTSDVXb0pjdnRqSmVHOUVfbjlHTmdpZkJEX2hsUUg3SWJRWjBHMzNvcThub3l3ZEMxRURIaG5MRFhhQmFVVEZYSnNzanRsR2N1aVNLM0NRSnl2VnQ5WHg0bkZfYzVwRFpuMWVSVWs?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T12:56:37+00:00",
+    "detected_at": "2026-11-25T13:05:23.899645+00:00",
+    "assets": [
+      "COIN"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 8.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "ee671f0e2e03b6a392a8",
     "title": "Nvidia shares fall 35% amid CEO exit and SEC probe - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdExsQ0FwQ01qNnJjVFNFcmQwbVduWWR3ZDQyS1BwcmxoWGlDaUtMcVFPNFRyekRyVFZLRHhvWm5IS0loa2d3VEZPRUowUkdDaTg1TVhPLWxQYUdfTmVZQVJiT1pBNVEybUhURnl0YlZZR3doYnNNSHRENjZrR1dETVdHVQ?oc=5",
@@ -48,7 +198,7 @@
         "QQQ",
         "SPY"
       ],
-      "status": "awaiting_baseline",
+      "status": "baseline_missed",
       "baseline": {},
       "windows": {},
       "detection_delay_eligible": true
