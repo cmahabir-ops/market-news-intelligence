@@ -63,3 +63,27 @@ if reaction_rows:
     st.dataframe(pd.DataFrame(reaction_rows).sort_values('Observed UTC',ascending=False),hide_index=True,use_container_width=True)
 else:
     st.info('No completed observation windows yet. Price measurements appear after subsequent scans.')
+
+st.subheader('V3 — Directional validation (experimental)')
+st.caption('Only new V3 events with one headline-attributed primary asset and valid completed quote windows are included. Descriptive agreement is not trading accuracy or evidence of causality.')
+from validation import completed_rows
+vrows=completed_rows(events)
+if vrows:
+    vdf=pd.DataFrame(vrows)
+    horizon=st.selectbox('Validation horizon (minutes)',sorted(vdf['horizon_min'].unique().tolist()))
+    subset=vdf[vdf['horizon_min']==horizon]
+    # One observation cluster is one sample; conflicting articles sharing a quote are excluded.
+    clusters=[]
+    for _,grp in subset.groupby('cluster'):
+        if grp['direction'].nunique()!=1: continue
+        clusters.append(grp.iloc[0])
+    independent=pd.DataFrame(clusters) if clusters else pd.DataFrame()
+    x,y,z=st.columns(3)
+    x.metric('Eligible headline-event rows',len(subset))
+    y.metric('Distinct nonconflicting price clusters',len(independent))
+    z.metric('Directional agreement',f"{independent['direction_match'].mean():.1%}" if len(independent) else 'N/A')
+    if len(independent):
+        st.dataframe(independent[['asset','direction','return_pct','benchmark_return_pct','excess_return_pct','direction_match','followup_at']],hide_index=True,use_container_width=True)
+    st.warning('Sample sizes may be small or correlated. These metrics exclude neutral classifications and do not account for trading costs, slippage, news arrival latency or selection bias. No causal or profitable-trading claim is implied.')
+else:
+    st.info('No eligible V3 observation windows yet. New V3 events need a valid baseline and a subsequent eligible quote.')

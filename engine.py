@@ -11,6 +11,8 @@ from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 import feedparser
 import requests
 from prices import quote
+from attribution import attribute
+from validation import benchmark_for
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data" / "events.json"
@@ -172,6 +174,8 @@ def run():
                     continue
                 summary = html.unescape(re.sub(r"<[^>]+>", " ", entry.get("summary", "")))[:600]
                 details = analyze(title, summary, cfg.get("watchlist", []))
+                attribution = attribute(title, summary, cfg.get("watchlist", []))
+                details.update(attribution)
                 e = {"id": key, "title": title, "url": url, "source": feed["name"], "published_at": dt.isoformat(), "detected_at": utcnow().isoformat(), **details}
                 fresh.append(e)
                 known.add(key)
@@ -188,22 +192,32 @@ def run():
     if initial and not cfg.get('alert_on_first_run', False):
         for e in fresh: e['alert_status'] = 'first_run_suppressed'
     # Record only actual observation-time prices. Do not claim historical publication-time quotes.
-    targets = sorted({a for e in combined[:300] for a in e.get('assets', []) if a in ASSETS})
+    targets = sorted({a for e in combined[:300] for a in e.get('assets', []) if a in ASSETS} | {'SPY','QQQ','BTC'})
     quotes = {a: quote(a) for a in targets}
     horizons = [15, 60, 240, 1440]
     for e in combined[:300]:
         reactions = e.setdefault('price_reactions', {})
-        for a in e.get('assets', []):
+        for a in ([e['primary_asset']] if e.get('attribution_method') == 'headline_mentions_v3' and e.get('primary_asset') else ([] if e.get('attribution_method') == 'headline_mentions_v3' else e.get('assets', []))):
             if not quotes.get(a): continue
             record = reactions.setdefault(a, {'baseline': quotes[a], 'followups': {}})
+            if e.get('attribution_method') == 'headline_mentions_v3':
+                bm=benchmark_for(a)
+                if bm and quotes.get(bm) and 'benchmark_baseline' not in record:
+                    record['benchmark_asset']=bm
+                    record['benchmark_baseline']=dict(quotes[bm])
             baseline = record.get('baseline', {})
             try:
                 start = datetime.fromisoformat(baseline['observed_at'])
                 elapsed = (utcnow()-start).total_seconds()/60
                 for minutes in horizons:
                     key = str(minutes)
-                    if elapsed >= minutes and key not in record.setdefault('followups', {}):
+                    if elapsed >= minutes and key not in record.setdefault('followups', {}) and quotes[a].get('valid_for_reaction') and baseline.get('valid_for_reaction'):
                         current = dict(quotes[a]); current['change_pct'] = round(100*(current['price']/float(baseline['price'])-1), 4)
+                        bm=record.get('benchmark_asset'); bb=record.get('benchmark_baseline',{})
+                        if bm and quotes.get(bm) and bb.get('valid_for_reaction') and quotes[bm].get('valid_for_reaction') and bb.get('price'):
+                            bmret=100*(quotes[bm]['price']/float(bb['price'])-1)
+                            current['benchmark_return_pct']=round(bmret,4)
+                            current['excess_return_pct']=round(current['change_pct']-bmret,4)
                         record['followups'][key] = current
             except (KeyError,TypeError,ValueError,ZeroDivisionError): pass
     save_events(combined)
