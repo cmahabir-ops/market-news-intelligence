@@ -1,5 +1,120 @@
 [
   {
+    "id": "763283c569f86b3e887e",
+    "title": "Crypto News Today: SEC Greenlights Token Sale as Bitcoin Tops $60K - CoinMarketCap",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1cXRZTTVGbllSSXF3aDBGQmd5RkxnazZUcGFGR05oOERvdmFWMERFQW85Z0FScmRsczRNSXFNVWlhSVdCMWJ3RDJoRmNJRk9xMTVWeTJVMnJ1bEdEWi0xemxZTEdVRHVEc0MwSy1pX2FRU1FpdkpWZDRwaw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T22:03:57+00:00",
+    "detected_at": "2026-11-25T22:10:32.921046+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 6.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 6.6,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60108.185,
+          "observed_at": "2026-11-25T22:10:35.585690+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1682.845,
+          "observed_at": "2026-11-25T22:10:35.784783+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.52,
+          "observed_at": "2026-11-25T22:10:36.047006+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60108.185,
+          "observed_at": "2026-11-25T22:10:35.585690+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-25T22:10:36.736236+00:00",
+    "alert_last_attempt_at": "2026-11-25T22:10:36.736250+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "7021eb5620d760820e5d",
     "title": "Dow Jones Industrial Average erases its drop as AI stocks fall - www.tmgm.com",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONUs5YTdocjl2SDJ4TGpmaGdicERDUkI5aDBxNGdvcXRaQ2I0LXlVby1ia0ZnbGhfN3RLejl0cDV1WDNoMnQycUJvRjg5VkI1ejZZQktoM0dnYmpXMEhQd0N5Wm9WYVMxWEhXdUVsbmtJR2tFWklORUFHZEFnNm5lcGFZN0RKUmhHLWFEdU1hTkxMV2RBYWI2TjNZSlBpT2psUV8yQ1ItVno1Q1J3eVVPSm9Sdi1tTHNrWEFDX3NJMUdFa2JscmFR?oc=5",
@@ -831,6 +946,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.05,
+          "observed_at": "2026-11-25T22:10:36.253576+00:00",
+          "returns_pct": {
+            "BTC": -0.0672,
+            "ETH": -0.1184,
+            "SOL": 0.2345
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0409,
+            "ETH": 60.0417,
+            "SOL": 60.0423
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -858,6 +993,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0615
+          },
+          "60": {
+            "price": 60108.185,
+            "observed_at": "2026-11-25T22:10:35.585690+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0672
           }
         }
       }
@@ -1082,6 +1228,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.3875
+          },
+          "60": {
+            "price": 60108.185,
+            "observed_at": "2026-11-25T22:10:35.585690+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.4619
           }
         }
       }
@@ -6215,6 +6372,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.1694
+          },
+          "240": {
+            "price": 60108.185,
+            "observed_at": "2026-11-25T22:10:35.585690+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.6268
           }
         }
       }
