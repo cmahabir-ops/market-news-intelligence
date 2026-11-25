@@ -1,5 +1,107 @@
 [
   {
+    "id": "633e478f928e5c62e45c",
+    "title": "Binance Adds 5 New Assets to Margin Trading: Bitcoin ETF Included - Kriptofoni",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10cFVQR1VLdUJoenNnbXp6X1FrX0R6V014WGJCT1Y3elRuNEZJeXJJQTgyLXFZdDNUR3dKSjRnY2gzMjV5cHY2MVVOd0RDbEZyc1o3SGNnYmdydEtQbkh3NEEyM0gxWjZsQWszclkyU1k?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T05:20:00+00:00",
+    "detected_at": "2026-11-25T06:30:30.160449+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 70.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58952.555,
+          "observed_at": "2026-11-25T06:30:30.410098+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1653.185,
+          "observed_at": "2026-11-25T06:30:30.531306+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 68.48,
+          "observed_at": "2026-11-25T06:30:30.712378+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58952.555,
+          "observed_at": "2026-11-25T06:30:30.410098+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-25T06:30:31.051761+00:00",
+    "alert_last_attempt_at": "2026-11-25T06:30:31.051775+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "8d785ae4949fbafa6802",
     "title": "Ripple news: Ten accounts drove all of the XRP Ledger's trading growth last quarter - CoinDesk",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYTNPTTdKaGNsdTM3V0ZnakhKamwzdE5pNmszWGFtZzRTRmRPM0RCUlpWTUVaLUVMZTVsRGwwcFE1UHg2eWFUVng5ZUVzbHFlMnRDWHIyZmpQWkE2andUSUNzRkh2cDhIOHpMdy1odFZOWERaaDljMWthbHhJN19OMXd0QkpIU0t6SGt6NklKY3FtUU1KMEpra2NvV1pHcHl4MnhFSUJvZ1YzRkVXSmRwaW5kUms?oc=5",
