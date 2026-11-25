@@ -1,5 +1,57 @@
 [
   {
+    "id": "1f80f96f99b6d4fddf55",
+    "title": "Stocks Swoon as AI Fears Spur Rush to Treasuries: Markets Wrap - Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T20:02:34+00:00",
+    "detected_at": "2026-11-25T21:20:37.401713+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 78.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 78.06,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "109d6f7dd53716074b10",
     "title": "Bitcoin Sinks to $57,500 as US Proposes Tariffs on 14 Economies - Bitbo",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sM041WTYtVnlyM053VFpLbnowRGVzdnoxU3hhTzVnZEpqTTJiYmVmQk1SZ25ROU56MjUzYkFYd2N5bVQzSGpyZlZ6bFBfdEx6TjNKTk5DdjVHZEZVS0JlaExR?oc=5",
@@ -92,7 +144,12 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 10.1
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -263,6 +320,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.03,
+          "observed_at": "2026-11-25T21:20:39.144960+00:00",
+          "returns_pct": {
+            "BTC": -0.3875,
+            "ETH": -0.2409,
+            "SOL": -0.1346
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0175,
+            "ETH": 15.0154,
+            "SOL": 15.0122
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -279,7 +356,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60153.135,
+            "observed_at": "2026-11-25T21:20:38.455382+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3875
+          }
+        }
       }
     }
   },
@@ -469,6 +558,10 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 10.22
+        },
+        "15": {
+          "status": "missed_window",
+          "elapsed_min": 25.22
         }
       },
       "detection_delay_eligible": false
@@ -1607,6 +1700,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 65.15,
+          "observed_at": "2026-11-25T21:20:39.145089+00:00",
+          "returns_pct": {
+            "BTC": 0.3502,
+            "ETH": 0.1539,
+            "SOL": 0.1563
+          },
+          "asset_elapsed_min": {
+            "BTC": 65.1347,
+            "ETH": 65.1347,
+            "SOL": 65.1361
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1634,6 +1747,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1767
+          },
+          "60": {
+            "price": 60153.135,
+            "observed_at": "2026-11-25T21:20:38.455382+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.3502
           }
         }
       }
@@ -1727,6 +1851,26 @@
         "15": {
           "status": "missed_window",
           "elapsed_min": 20.0
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 70.1,
+          "observed_at": "2026-11-25T21:20:39.145116+00:00",
+          "returns_pct": {
+            "BTC": 0.427,
+            "ETH": 0.2206,
+            "SOL": 0.1919
+          },
+          "asset_elapsed_min": {
+            "BTC": 70.0881,
+            "ETH": 70.0856,
+            "SOL": 70.0839
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -7771,6 +7915,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.7126
+          },
+          "240": {
+            "price": 60153.135,
+            "observed_at": "2026-11-25T21:20:38.455382+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 1.5397
           }
         }
       }
