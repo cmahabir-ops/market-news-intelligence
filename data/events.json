@@ -1,5 +1,43 @@
 [
   {
+    "id": "83d4878c6c5a86fd00f7",
+    "title": "Marex Group (MRX) Is Reportedly Discussing A Cryptocurrency Unit Acquisition - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd01mMEMzcmJWM3NCNjdyeXh0NXdLOHQwaTN0Z0ZwckhqLTZpcTk1SGwxR1ZfWFBpOTBraTgtX0tYREhqQllOZFdqWDluMTBoOGttU1hFbFU1ME1IaUhLUlVwWFBIVndsVlhLX1FvZWNnQTBVakM2Z0YxbXVVTWprVU1abUlfVkdyQ2lJcGZheDlXLUZUMWJaM2kzN1VCNDJlclNINA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T04:30:00+00:00",
+    "detected_at": "2026-11-25T05:30:33.732403+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 60.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "faad725c694810b5f9a2",
     "title": "Ray Dalio Explains Why Gold Beats Crypto While Holding Some Bitcoin - Mitrade",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGlSUzRSTlgzNGJVYTh5NjJBWE8xMXVkbnotVWQtaW1FU0paWW0ybnp1NWZ3R0tyX2ZqclhRZndjb1FmNjZqYVdmWjRiY3FKNFRfdVRldU5NWlpRaktkOHBWVjNkREpDTEU2Wl9qcVhZTDdSTnFsaVgwZmRIRWxCZ1FiaTZMOGx3SEwxM09TbGxRSkNya1NMVzBkRDBwWW80dGc?oc=5",
@@ -79,7 +117,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.16,
+          "observed_at": "2026-11-25T05:30:34.822368+00:00",
+          "returns_pct": {
+            "BTC": -0.0992,
+            "ETH": -0.1542,
+            "SOL": -0.1896
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -284,6 +338,10 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "missed_window",
+          "elapsed_min": 20.06
         }
       },
       "detection_delay_eligible": true
@@ -300,7 +358,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59021.375,
+            "observed_at": "2026-11-25T05:30:34.002613+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.2077
+          }
+        }
       }
     }
   },
@@ -1072,6 +1142,21 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 65.08,
+          "observed_at": "2026-11-25T05:30:34.822503+00:00",
+          "returns_pct": {
+            "BTC": -0.2933,
+            "ETH": -0.3406,
+            "SOL": -0.9192
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1099,6 +1184,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.3249
+          },
+          "60": {
+            "price": 59021.375,
+            "observed_at": "2026-11-25T05:30:34.002613+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.2933
           }
         }
       }
@@ -1186,6 +1282,19 @@
           "observed_at": "2026-11-25T04:40:31.206650+00:00",
           "returns_pct": {
             "BTC": -0.3249
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 65.08,
+          "observed_at": "2026-11-25T05:30:34.822529+00:00",
+          "returns_pct": {
+            "BTC": -0.2933
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
