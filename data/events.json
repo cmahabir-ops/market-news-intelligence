@@ -1,5 +1,214 @@
 [
   {
+    "id": "a60f6a6b37b9a6bc2ba9",
+    "title": "Anthropic Stock Has 121,000 Holders on Solana: Is It Taking Buyers From SOL? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYmZUYW1MeUlxWTNEOFZVVE5TNFlFN293UHZZdDEtZl94QVNCU2JDYmZ3RmhJU2lZX0NWd2NnQWRIMHFhNFFCLUdxMm9pUlZjcEdqV0pCaUEyYnZ5X2NWcXdRQjRNM0FRbV9wNUs5cm9XdEZ3Z3VHX0c5TTFXZEZDdHZvNU1NYXpnMWg3TVZLRWdMUkIxcUFrTFItQkZuX0tQMy16Zi1CRDdka0JWbVFaY1lsbFBVeDRQdGxPRmVpU3IyS2h3TGRWaVQ1Z0c?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T16:58:00+00:00",
+    "detected_at": "2026-11-25T17:05:30.417774+00:00",
+    "assets": [
+      "SOL"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "SOL",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "SOL": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 7.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "SOL",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "SOL": {
+          "price": 68.06,
+          "observed_at": "2026-11-25T17:05:31.298636+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 58678.345,
+          "observed_at": "2026-11-25T17:05:30.843012+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1649.365,
+          "observed_at": "2026-11-25T17:05:31.041637+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "SOL": {
+        "baseline": {
+          "price": 68.06,
+          "observed_at": "2026-11-25T17:05:31.298636+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 58678.345,
+          "observed_at": "2026-11-25T17:05:30.843012+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "c16bf80d10fa24f6a56e",
+    "title": "Braiins uncovers Bitcoin hashrate theft via BGP hijacking - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhZzdab3JwSGh5eHBQSTVVYnR1cUlSLVJIX2NIUDlBaElIVXNFNEw1Zk1heXV4THJEWkNhM3dYZktRb3J3OEh4MVYyVTl4UXJFNWlQR2FraU0wUkRZMTBxaTIyZkRQMVdRVlpwT1FZU1BkcmhZLVRDQldKakk?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T16:49:24+00:00",
+    "detected_at": "2026-11-25T17:05:30.416007+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 16.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58678.345,
+          "observed_at": "2026-11-25T17:05:30.843012+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1649.365,
+          "observed_at": "2026-11-25T17:05:31.041637+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 68.06,
+          "observed_at": "2026-11-25T17:05:31.298636+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58678.345,
+          "observed_at": "2026-11-25T17:05:30.843012+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "af1e7bdc3532859209c7",
     "title": "Bitcoin stuck below $60,000 as inflation picks up, ETF outflows near $5 billion - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WcllfZGdfbnFteGFTeFRFdHBTS0IxMFZJZW13eDRhcXpraWR5cjhwb2IwelAzOUpKTXJCNnR4NkJrSUEtek9SdUo5eDU2RmhkdGRNWThZVUlPeFZnYVVMRUdRcnZrdw?oc=5",
@@ -10945,6 +11154,19 @@
             "change_pct": -1.0656,
             "benchmark_return_pct": -1.0901,
             "excess_return_pct": 0.0245
+          },
+          "240": {
+            "price": 1649.365,
+            "observed_at": "2026-11-25T17:05:31.041637+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.2029,
+            "benchmark_return_pct": 0.0675,
+            "excess_return_pct": 0.1354
           }
         },
         "benchmark_asset": "BTC",
