@@ -1,5 +1,43 @@
 [
   {
+    "id": "db37a1f8f6b1044ba815",
+    "title": "Jensen Huang’s return sparks a one-day rally! Wall Street warns: oil prices, inflation, and a hawkish Federal Reserve remain unresolved. - 富途牛牛",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlRqdEJyN2czVTh1X0g2SmhYWnl1SEJtTHRBeHJzMXd2d3lkUHlIZkFZOTB2NXc0clo2N0ZfWVVNV3BvUklLb1FQRHlKY0JhM1VOVVV1YlEtRWdFa1ZrV0xwa1J4ME8yVW43UE1NbDZ4dG5adi1BS1phU3ZFSWVBM2p0RkhGU2JkUDM2Rk5YRVl5QUl4bkRZ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T23:03:00+00:00",
+    "detected_at": "2026-11-25T08:20:32.347395+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 557.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "1b617dd82b88f0703566",
     "title": "Bitcoin ETF Divergence: Investment Advisors Add 57,500 BTC - Kriptofoni",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMTBzaXBoenBzLURManFIZTdjM0g1LS1QUXdpN0dsTUxUVzZyTHJfWWQ2WktKckozNk85b3dPX29ycEhxTEFiMkoxUXU2bzZCYW80OGlEclluUEhWcDlXZ2J3SzhZcnFSRXdQM3FjWjd3UHJxOHlMcGRfb3Z4aUVGRjZTbE90dw?oc=5",
@@ -79,7 +117,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.04,
+          "observed_at": "2026-11-25T08:20:33.766075+00:00",
+          "returns_pct": {
+            "BTC": 0.0561,
+            "ETH": 0.0921,
+            "SOL": 0.1033
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -181,7 +235,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.04,
+          "observed_at": "2026-11-25T08:20:33.766143+00:00",
+          "returns_pct": {
+            "BTC": 0.0561,
+            "ETH": 0.0921,
+            "SOL": 0.1033
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -466,6 +536,21 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.14,
+          "observed_at": "2026-11-25T08:20:33.766218+00:00",
+          "returns_pct": {
+            "XRP": 0.153,
+            "BTC": 0.1593,
+            "ETH": -0.0192
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0063,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -482,7 +567,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 0.91665,
+            "observed_at": "2026-11-25T08:20:33.735146+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.153,
+            "benchmark_return_pct": 0.1593,
+            "excess_return_pct": -0.0063
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 58773.545,
@@ -642,6 +741,21 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.14,
+          "observed_at": "2026-11-25T08:20:33.766250+00:00",
+          "returns_pct": {
+            "BTC": 0.1593,
+            "ETH": -0.0192,
+            "SOL": -0.0368
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -658,7 +772,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 58867.155,
+            "observed_at": "2026-11-25T08:20:33.140856+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1593
+          }
+        }
       }
     }
   },
