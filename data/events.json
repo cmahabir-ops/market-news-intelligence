@@ -1,5 +1,221 @@
 [
   {
+    "id": "6978bf451c903a3e1eef",
+    "title": "Ethereum Whale Sells $63.53 Million Worth of ETH: Binance and Coinbase Involved - Kriptofoni",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zTU5VanFKa3dWNjN3WUhpUl9qN1BKY0RfLTVGNzFlVERVeUpkMXFtRVRiM01fZ3dxUHVTSE1oQkx6ZmpZYzBxR3ZoSFZzWVB2R1p5dTljSmFCYzJfbUtmZXpGMEFOT1ZBVHpWS29n?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T13:33:00+00:00",
+    "detected_at": "2026-11-25T14:20:28.888593+00:00",
+    "assets": [
+      "ETH",
+      "COIN"
+    ],
+    "market": "Both",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "ETH",
+      "COIN"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto",
+      "COIN": "Stocks"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 47.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-25T14:20:31.462616+00:00",
+    "alert_last_attempt_at": "2026-11-25T14:20:31.462630+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "566a9e89e7528b468ff6",
+    "title": "Bitcoin Price Crash: BTC Could Hit $48K in the Next 7–10 Days - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWhQQ19acVAtMFNpZGhhdldlWVMwSHphWEdmN0I2SEdSUmFGNVk2MHM1V19RMDdnczhnTllfSWg4dC1LeTFmM2lBMkdqUDJVUHVuVnNyemctS01QRzFOVG5jdG5LNk11OUhVZjRVM0FFLVRxMzF3Q0lPemlYMzFTcDFQMW5WZmNGRHVFa1N3OE5JLVFOdmfSAZYBQVVfeXFMTUloUENfWnFQLTBTaWRoYXZXZVlTMEh6YVhHZjdCNkhHUlJhRjVZNjBzNVdfUTA3Z3M4Z05ZX0loOHQtS3kxZjNpQTJHalAyVVB1blZzcnpnLUtNUEcxTlRuY3RuSzZNdTlIVWY0VTNBRS1UcTMxd0NJT3ppWDMxU3AxUDFuVmZjRkR1RWtTdzhOSS1RTnZn?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T14:17:26+00:00",
+    "detected_at": "2026-11-25T14:20:28.887663+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 3.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58260.43,
+          "observed_at": "2026-11-25T14:20:29.524860+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1635.115,
+          "observed_at": "2026-11-25T14:20:29.735248+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.01,
+          "observed_at": "2026-11-25T14:20:30.226589+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58260.43,
+          "observed_at": "2026-11-25T14:20:29.524860+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "85882f4a06b5738b6435",
+    "title": "SPDR Gold Shares (GLD) falls toward 52-week low as Fed rate hike bets rise - Beinsure",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ1pHY2RsZ0JPV3VxQTlBMzZsSzhDZDZPVnR1NzBKVEpvcDNhcTV6Mm5RWmVSZDV3eWc3LThDSm0zRm1pUExvQWRJMUt5SENkVzMtbm9BRFhrWmIydnRvcjI0YXdZOGwwQ0NaV1FweW1UZGxSR1kyMTBRcldQZjhQb1NUR2J0QmVXd2dESDJWRjZTbnNyX25RRmx5Z2EzYWNj?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T13:48:32+00:00",
+    "detected_at": "2026-11-25T14:20:28.408986+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 31.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": "central_bank_rate_decision",
+    "macro_status": "candidate_context",
+    "macro_benchmarks": [
+      "SPY",
+      "QQQ",
+      "BTC"
+    ],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "SPY",
+        "QQQ",
+        "SMH",
+        "XLK",
+        "BTC"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58260.43,
+          "observed_at": "2026-11-25T14:20:29.524860+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {}
+  },
+  {
     "id": "6ba05a983763f0c8de67",
     "title": "South Korea sets Dec. 3 hearing for landmark digital asset bill - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONmx2TnI0ME9tUWY2NjNkaGVXaDJMbGhwTjdCazExbW9XeC1acnkxczFReWp2U3RUVzIzaVNjMlQ1MExoTVJ4RlQwa19BMFVUNTV2R3Y2VHRldnNwSllIM3FaUFZkSE5uckN2ejluLXhDeW1TbnVqcVVmVWE3bWZHMGJOal9GR3hoNG1V?oc=5",
