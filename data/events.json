@@ -1,5 +1,154 @@
 [
   {
+    "id": "12b537687733826672ff",
+    "title": "Bitcoin (BTC) isn't rewarding holders for the risk it carries, and now nor is gold - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX0hMRV9rSUtRVllrR3RmdGNmVkJQTm12NkV6YU5mLVlaeVpHN2JYZi1uaThyUTc1Q2NBYUVFbzZmNmxfNkFlU1F0S1dzRGxka0UwdlJ3Q3hxSzRYalRGRVBMcXpwOHp2OW0yWnRBY0VUdG9hbG9JTWZEek5MeW9lc0RxdUVZV0hyM2pkTzVQYk5NaUNZaDdVcmh4UWt1VG1sYk50R0xzbzJydTlTc1BiMk96S3luR004VDZMOHZ6VFVwSlpCS01oQmlR?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T11:30:32+00:00",
+    "detected_at": "2026-11-25T11:50:35.731025+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 20.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 58654.905,
+          "observed_at": "2026-11-25T11:50:36.283726+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1642.395,
+          "observed_at": "2026-11-25T11:50:36.374786+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 67.655,
+          "observed_at": "2026-11-25T11:50:36.662780+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 58654.905,
+          "observed_at": "2026-11-25T11:50:36.283726+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "fe0a175c0eaf6032d184",
+    "title": "ETH Price Prediction: 70% Crash Below $1,383 - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOW9tOWktM3FaTG1MWnJtdzNVMWQ5czZIaFNDRk84MTEzV2lIMzc2WUFUSkpqUXloZlppSGhBNERIR2NZdnk1N29tYS1tVUpuT3k3enN3aXdRQzVvUzI1MnRmU2RVZnRiUkhHRFEzOUh1YU5KY011MVBrV3hESTJFdTdxT0otdVh6YzF1dHZQVFYydzRKdGlacHBEbXQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T11:37:55+00:00",
+    "detected_at": "2026-11-25T11:50:35.730729+00:00",
+    "assets": [
+      "BTC",
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "ETH",
+      "BTC"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto",
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 12.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-25T11:50:37.361121+00:00",
+    "alert_last_attempt_at": "2026-11-25T11:50:37.361138+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "ca7fc7a7d193270bbaf2",
     "title": "World Shares Fall on New U.S. Tariff Threats - Wisevoter",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFA0ZjlCNWpIbkw2Rnp1RU5Qc1RVdzllY2paM2J0dnNDeEs0QU9fdGU0UGJuNG5JTzhtbi1CaDlEaHE5TTUtYTBRbWQybW42MXFNTGJySmF4QUtEbkpnRkIyRHVQZ3ZZTk02bG1ldWhhc29yUi1BZHlYR0h2YVZ5bXY5ZU0?oc=5",
