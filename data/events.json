@@ -1,5 +1,104 @@
 [
   {
+    "id": "91fddfd1782f57789724",
+    "title": "Bitcoin Needs to Return to 'Original Narrative' to Hit $100,000, Bloomberg Analyst Says - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYU1OejZQQm9ZQUs4XzRPd2h4LXNiRFVjeHRoOThwMEp6dmQtcVlVQURENkhKX1RBNEpQWVpQNkhZUklSbHFMV0xZbjIzMVIxbS12c2ZyR0VRRWhjWFl1a256STlLa1FUV2FVc01QZ0JRaVZWVi1md3JXTVUxcDdmWm0wcHZfY1hhU01CUWo1VFBnY3pEcFJWbnNuUU1IQWtnWGM5cVI2Ny1Ta1ZmMU1NNnc4LTlnYUxkTllGNWM1QXVJMjV3eG9IbjB5RGRfQi01ZEd6TFZrMlpDdjA1?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T20:59:06+00:00",
+    "detected_at": "2026-11-25T21:05:36.614376+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 6.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60387.125,
+          "observed_at": "2026-11-25T21:05:37.406182+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1689.465,
+          "observed_at": "2026-11-25T21:05:37.692663+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.58,
+          "observed_at": "2026-11-25T21:05:38.199201+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60387.125,
+          "observed_at": "2026-11-25T21:05:37.406182+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "88298b1f5434cd48370b",
     "title": "AI trade concerns and renewed US tariff fears weigh on Asian stocks - www.tmgm.com",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONjVYTXVPVTZBanZZb01Ta1ZWQmd1RWtDSl9nbWlZZ2N2cWhDTVdpdTE4TTdlVWYxc1hQa1lvNEtVWUZvbHEzMlBqSmJSdFZvNTM0VGRDT0ZJT3RYejFfMHg5clhqY1ZyeXFKbVFaQTRJY3Y1VkxhQVlwb3h6R3NKcGtieW43b2pPc25tZmZHVHh0cjJRQ0RUTng1ZkRGdWpweGFaNi1iSXFfXzNwdk0xSGFHX1lMS2xRZHFkVlpFT1J2RlFzVXM5TXFWOHNwSVlHdURXdGp3?oc=5",
@@ -181,7 +280,12 @@
           "freshness": "recent"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 10.22
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -298,6 +402,26 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 10.09
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.11,
+          "observed_at": "2026-11-25T21:05:38.654603+00:00",
+          "returns_pct": {
+            "BTC": 0.455,
+            "ETH": 0.2507,
+            "SOL": 0.2984
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0852,
+            "ETH": 15.087,
+            "SOL": 15.0914
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -314,7 +438,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60387.125,
+            "observed_at": "2026-11-25T21:05:37.406182+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.455
+          }
+        }
       }
     }
   },
@@ -402,6 +538,26 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 10.09
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.11,
+          "observed_at": "2026-11-25T21:05:38.654658+00:00",
+          "returns_pct": {
+            "BTC": 0.455,
+            "ETH": 0.2507,
+            "SOL": 0.2984
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0852,
+            "ETH": 15.087,
+            "SOL": 15.0914
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -418,7 +574,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60387.125,
+            "observed_at": "2026-11-25T21:05:37.406182+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.455
+          }
+        }
       }
     }
   },
@@ -517,6 +685,22 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 10.09
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.11,
+          "observed_at": "2026-11-25T21:05:38.654693+00:00",
+          "returns_pct": {
+            "BTC": 0.455
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0852
+          },
+          "benchmark": "QQQ",
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1485,6 +1669,26 @@
         "15": {
           "status": "missed_window",
           "elapsed_min": 20.0
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.15,
+          "observed_at": "2026-11-25T21:05:38.654766+00:00",
+          "returns_pct": {
+            "BTC": 0.8918,
+            "ETH": 0.4564,
+            "SOL": 0.3555
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.1296,
+            "ETH": 60.1293,
+            "SOL": 60.1297
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1512,6 +1716,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.1554
+          },
+          "60": {
+            "price": 60387.125,
+            "observed_at": "2026-11-25T21:05:37.406182+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.8918
           }
         }
       }
@@ -7528,6 +7743,19 @@
             "change_pct": 2.3949,
             "benchmark_return_pct": 1.7987,
             "excess_return_pct": 0.5962
+          },
+          "240": {
+            "price": 70.58,
+            "observed_at": "2026-11-25T21:05:38.199201+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 3.7026,
+            "benchmark_return_pct": 2.9121,
+            "excess_return_pct": 0.7905
           }
         },
         "benchmark_asset": "BTC",
@@ -7707,6 +7935,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 1.7987
+          },
+          "240": {
+            "price": 60387.125,
+            "observed_at": "2026-11-25T21:05:37.406182+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 2.9121
           }
         }
       }
@@ -7864,6 +8103,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 1.663
+          },
+          "240": {
+            "price": 60387.125,
+            "observed_at": "2026-11-25T21:05:37.406182+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 3.2334
           }
         }
       }
@@ -8028,6 +8278,19 @@
             "change_pct": 2.0476,
             "benchmark_return_pct": 1.663,
             "excess_return_pct": 0.3846
+          },
+          "240": {
+            "price": 0.1476,
+            "observed_at": "2026-11-25T21:05:37.046991+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 5.3045,
+            "benchmark_return_pct": 3.2334,
+            "excess_return_pct": 2.0711
           }
         },
         "benchmark_asset": "BTC",
