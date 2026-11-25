@@ -304,6 +304,8 @@ def run():
     snapshot(ARCHIVE, combined)
     report.update(completed_at=health_now(), new_events=len(fresh), total_events=len(combined), alert_failures=failed)
     save_health(ROOT / "data" / "scanner_health.json", report)
+    from archive_v362 import write as archive_write
+    archive_write(ARCHIVE, "health", report["started_at"], report)
     print(f"Discord attempted: {attempted}; failed: {failed}")
     print(f"New events: {len(fresh)}; Discord alerts: {alerts}; total stored: {len(combined)}")
 

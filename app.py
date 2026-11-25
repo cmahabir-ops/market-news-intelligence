@@ -242,6 +242,26 @@ def render_dashboard():
         if matches: st.dataframe(pd.DataFrame(matches[:500]),hide_index=True)
         else: st.info("No cross-source event-key matches yet.")
 
+    st.subheader("V3.6.4 — Research candidates and health history")
+    if st.checkbox("Load cross-source review candidates", key="v364_matches"):
+        from matching_v364 import candidates
+        pairs = candidates(path.parent / "research_archive")
+        st.caption("Lexical candidates from up to 2,000 recent arrivals; not semantic verification or causal evidence. Positive gap means source B was detected later.")
+        if pairs: st.dataframe(pd.DataFrame(pairs), hide_index=True)
+        else: st.info("No qualifying cross-source candidates.")
+    if st.checkbox("Load historical source health", key="v364_health"):
+        reports=[]
+        for f in (path.parent / "research_archive" / "health").glob("*/*.json"):
+            try: reports.extend(json.loads(f.read_text(encoding="utf-8"))["feeds"])
+            except (OSError, ValueError, KeyError, TypeError): continue
+        if reports:
+            h=pd.DataFrame(reports)
+            h["ok"] = h["status"].eq("ok")
+            st.dataframe(h.groupby("source").agg(scans=("ok","size"), successful=("ok","sum"), success_fraction=("ok","mean")).reset_index(),hide_index=True)
+        else: st.info("Awaiting historical health reports.")
+        st.caption("Completed archived scans only; not continuous uptime.")
+    st.caption("Local cryptocurrency collector is independent of this hosted dashboard.")
+
     st.subheader("V3.5.4 — News source latency intelligence")
     from latency import summarize
     st.caption("Stored records only: reported feed timestamp to first detection, not original event latency. Publication timestamps may actually be update timestamps. Deduplication and retention limit coverage; these are not provider-wide delivery statistics.")
