@@ -1,5 +1,86 @@
 [
   {
+    "id": "3424d41958bdcf1f36c8",
+    "title": "GLOBAL MARKETS-US Stocks Slide as Nvidia Rally Fizzles Out, Dollar falls - KONTAN",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWs5MUpvc0xKR2RGajQtZXRnNGlBdUtmb3FYOEhEczN3dG84eGlTVllzVGpaM0xYSklNUm1aNmN4aDBoZjZHdi1UY2NETUxXNXRGUTE5QUo1eTFBb2lVV2pHZkQ1SnNrMHVQc0RiT1p6SFhxWk5COHF2cFhtSFFQMFFoOU51bld3LVVwY1ZNRTc3RjVZamtmQ3pNZ2E3dFIzMFJFaDNkRGfSAaMBQVVfeXFMTzR3UUZHZjgwSkxBLUk2RmJBbHdxT1dQdHdfSXFmcUxHdk5FakJUMWc3eTZxSkZVTTZhNFhWV050dTlsdFpjTGFuZEgyNHdtVHpzZU51bjRybThxQXl0R282RmVQUnRIcFh3TmtQeG5tTVRYOENacnUzX05WeDhDcDVjSjhzdGUxRUc4XzFMX0I5TVctRllmNm1yd2w5c2JBNVQzVQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-24T23:13:13+00:00",
+    "detected_at": "2026-11-25T04:15:38.425547+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "NVDA",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "NVDA": "Stocks"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 302.4,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "NVDA",
+        "AMD",
+        "SMH",
+        "QQQ",
+        "SPY"
+      ],
+      "status": "awaiting_baseline",
+      "baseline": {},
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "NVDA": {
+        "baseline": {
+          "price": 155.38,
+          "observed_at": "2026-11-25T04:15:39.402110+00:00",
+          "quote_at": "2026-11-24T21:00:01+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        },
+        "followups": {},
+        "benchmark_asset": "QQQ",
+        "benchmark_baseline": {
+          "price": 638.1,
+          "observed_at": "2026-11-25T04:15:39.467346+00:00",
+          "quote_at": "2026-11-24T21:00:00+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        }
+      }
+    }
+  },
+  {
     "id": "61ef77a58601a2a79135",
     "title": "On the Chain: Bitcoin falls below US$60,000 as record ETF withdrawals deepen crypto sell-off - Proactive financial news",
     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRXB0b0V4WnN4eURDM3dUOFhNQWZJWW9lby1RcVdrSXJZOEdOb2FZdVQ3ci1jT0FmX0hQODlZMG94UFZnYWZydUZ6NEtEd2x4V3JfSy16b1VwdlY3VFhGUHY0UEF5WHgzWHlQM2RZTmM5OHl3SS1Fc1BnRmM5RmVIZGZnZUllTEtraVByRk9oZW5fT1puWHJTbUJ5TjZoYXdjekpuT2FJSHVBaUJXeEVTbTc4TkFuNlNvNlQ2bkhvZDRWZFVaTUkybnNPY3dVdXlxMnY1aWlKS051M3VJZGlWbDB0RGtSakRGM0VLb1B6Um0xOC1S?oc=5",
@@ -79,7 +160,23 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.2,
+          "observed_at": "2026-11-25T04:15:39.928065+00:00",
+          "returns_pct": {
+            "BTC": 0.1335,
+            "ETH": 0.1939,
+            "SOL": 0.2465
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -235,6 +332,21 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 9.92
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.08,
+          "observed_at": "2026-11-25T04:15:39.928117+00:00",
+          "returns_pct": {
+            "ETH": 0.0205,
+            "BTC": -0.1394,
+            "SOL": -0.0723
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.1599,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -251,7 +363,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1661.305,
+            "observed_at": "2026-11-25T04:15:39.292029+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0205,
+            "benchmark_return_pct": -0.1394,
+            "excess_return_pct": 0.1599
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 59294.495,
@@ -350,6 +476,21 @@
         "5": {
           "status": "missed_window",
           "elapsed_min": 9.92
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.08,
+          "observed_at": "2026-11-25T04:15:39.928143+00:00",
+          "returns_pct": {
+            "BTC": -0.1394,
+            "ETH": 0.0205,
+            "SOL": -0.0723
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -366,7 +507,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59211.815,
+            "observed_at": "2026-11-25T04:15:39.101110+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1394
+          }
+        }
       }
     }
   },
