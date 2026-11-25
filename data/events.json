@@ -1,5 +1,104 @@
 [
   {
+    "id": "d34ca82baac1902fcc30",
+    "title": "US Strategic Bitcoin Reserve Bill Advances to House Floor With 20-Year Holding Rule - CoinGape",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWWRhZVJtR0dvLUNiaWlpbGJjZTVZTGlHaGsxMGpPems3WGNpdm9wMXZBTFRSV1lhQk9kRE16bGMyTGZJTEVlTV90UjJyaElEbWtGMy0zcHlDRlluTmk3U2g2enh5N0NqVWF2Z3RKZGlHX0dZOWlmMlAyLVoxay1LQ0lkLUJhMmplczVrNFNkbk9xYnpLTHBjWUlpNkZsa3k5TEZ5UUJuUUU?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T20:10:03+00:00",
+    "detected_at": "2026-11-25T20:15:30.131833+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59943.215,
+          "observed_at": "2026-11-25T20:15:30.376047+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1682.805,
+          "observed_at": "2026-11-25T20:15:30.531519+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.375,
+          "observed_at": "2026-11-25T20:15:30.766151+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59943.215,
+          "observed_at": "2026-11-25T20:15:30.376047+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "0b59263b6e009b6b3f97",
     "title": "Bitcoin Could Take an NFT-Style Hit and Crash to $10,000 According to Bloomberg Analyst - CryptoRank",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXYxenVuOHZGR1FxZjktNWNiaElHU1JIblJoX3poNWc2c1daVlhDLXdfclJTdGI2M0tpeTFuVmlRUmdsWGdnemZ3Rk93QnM0SENVQl9EbHM2UVp1Skl6ellBZFJTdnlfNDBjRjdBNWotNDZiV2tTZFloV0lKV3BZS3ByVzdURV9YNzhmQkJ3bkFZaWNCMmh3NkQzX0o5RUVETFZsRVdBQ2h2WjlnQXpHdGNTSU9hSGpDcTNzbmFJalU?oc=5",
@@ -1741,6 +1840,21 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.08,
+          "observed_at": "2026-11-25T20:15:30.918571+00:00",
+          "returns_pct": {
+            "BTC": 0.181,
+            "ETH": -0.1039,
+            "SOL": 0.4855
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1768,6 +1882,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.5596
+          },
+          "60": {
+            "price": 59943.215,
+            "observed_at": "2026-11-25T20:15:30.376047+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.181
           }
         }
       }
