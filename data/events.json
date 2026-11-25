@@ -1,5 +1,168 @@
 [
   {
+    "id": "02b38fbedb56af2bd102",
+    "title": "How Much of Your Portfolio Should Be in Bitcoin After a 50% Drop? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeTJjQzZhWENWb0szVF9ZbUNZNnB0VDJnTXJ3TzlQT1BjdzNXbXB3OEJRamxmQ1hjMXduZER1TVRNRFJCTU9EZlF1T1cxSXl0Nzc0a0JpNG5jaFU4Y1VxZF9GNlFzcGdKZjZ1Slk2TlJHLXdPeXFaMFYzMndfTzRucTR3ZjlTaWlTNm9uM0h1WGtqVjVyN0dyWVB1UG5lQ05zbGI1RFJRa3VlUlBtLWhadkN1SW1FTC1tbk5BU2pEZw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T22:14:00+00:00",
+    "detected_at": "2026-11-25T22:20:25.789756+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 6.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 6.43,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60011.585,
+          "observed_at": "2026-11-25T22:20:26.955141+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1681.995,
+          "observed_at": "2026-11-25T22:20:27.112089+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.48,
+          "observed_at": "2026-11-25T22:20:27.277941+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60011.585,
+          "observed_at": "2026-11-25T22:20:26.955141+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "03714d7229b9a3a459e1",
+    "title": "Stocks Pare Losses as AI Shares Pull Back Less - Wisevoter",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYmxRSEhVMDF4cm9BRzMyMjNSNW1MWkZ0ZjRLaV9mc3Y4R2xlVFVjN1NvUDg3cjgyUW5QQmtHd29lZTh3UTZwRXY4R2UyZ0FTbUlPbFREVXg5OTE4ZWVaOEgyMDhkajJHNTFiNU9iaTdPeGtwWV9OZzg4OVpqblhxWjJWem5jU2c?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T22:18:07+00:00",
+    "detected_at": "2026-11-25T22:20:25.298063+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 2.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 2.3,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "30b34459100a7a9cac6b",
     "title": "Shiba Inu’s Next 10 Years: Is It One to Buy, Hold or Avoid? - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa0NIYTVWNkxGakdSS1VJWnk0NzdwVDFlamFDdzBncTFITUJ2ZkxxUV93YWV5dE9mTVFrRjFPdnhWX3NITXIxZjdNdTVGSWt2OWp2bGk0MDMxeGk5aXZ1c2hKaUw0YlNPZTZCb2gxUzZVRkVSU3diMm1FM0dYSmlkUXJOTG9IZmg3dlZVMGhvWG83UUllVU1Rb2xXQXF5bkhSeGdZcTR3d1FERE1BZHhDNzVnMGk?oc=5",
@@ -6106,6 +6269,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.6017
+          },
+          "240": {
+            "price": 60011.585,
+            "observed_at": "2026-11-25T22:20:26.955141+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.584
           }
         }
       }
