@@ -1,5 +1,107 @@
 [
   {
+    "id": "e0572aeb8150927c7dce",
+    "title": "Why Is Crypto Tokenization Booming on Wall Street While Bitcoin ETF Demand Shrinks? - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JVXJHYl84OEdoTHlJcDN2ZlBOam0yYnVxU0FETm9zNUJCdm8zUlc1M2lYRXhXUDdySXpMdFphWmRyQWQ4MHdTR0ZxYlZxbmdob0RRS2NoR0w2N1ZvSXVFQlhETG5fS3pCMk1HX3NkdDVObGRLeWVZ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T05:19:40+00:00",
+    "detected_at": "2026-11-25T06:40:25.158905+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 80.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59124.765,
+          "observed_at": "2026-11-25T06:40:25.365529+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1657.555,
+          "observed_at": "2026-11-25T06:40:25.507946+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 68.78,
+          "observed_at": "2026-11-25T06:40:25.617832+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59124.765,
+          "observed_at": "2026-11-25T06:40:25.365529+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-25T06:40:25.970191+00:00",
+    "alert_last_attempt_at": "2026-11-25T06:40:25.970205+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "c5cfb6e3c0d944fa1037",
     "title": "Fidelity Lists 3 More Altcoins: AAVE, LINK and UNI Now Available for Trading - Kriptofoni",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51bGgtUTNkdXRBdm9iVkUtQWNFdl9pYTRhWmRLWjJiWVhBa2lfQjNoNGZ1c2NMMFo5UE9WSGkwNDE4aTRmRXEweUJ5SDZrM2xPakN0OVpma3F5MUhueHpfWXozRzZCWkNYcXJaLWpZRWhvY2FB?oc=5",
