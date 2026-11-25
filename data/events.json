@@ -1,5 +1,162 @@
 [
   {
+    "id": "928e580cc7c80b98cdf3",
+    "title": "Memory outlook dims and rate hike fears mount, putting Korean stocks on edge - 머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OZmJaOGt6YmhScDFBQXdhSkRBZ2RtODBEQWtYbllqVUZRZEdhWFd0ckR6UUY1MnNWR25TaWpBcDQ1d3NuQ0dPSTBOcTFuVTlqMDZkeEVhbnVKSFBUYXprRVhxbzQxdV8xU1UwUw?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T08:04:55+00:00",
+    "detected_at": "2026-11-25T08:30:36.732553+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 25.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "652582569ffc0360d7b7",
+    "title": "Korean Retail Investors Pushed Back to Losses as Nvidia Drops - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOTVDS3NROTB1VTltbGIxV3B0X1NNaEhEZ1VEWGRUUW9Nc2dkSV90ejdza2VIMFZFS0pfbkRjWHE3N0lpN21hbnF0cmpiTlpBS1U1RDVpcmtsMWF2Nm9DbVdEZF9vMXNlVFNTalFqd2c0VFJmMnB3Sy1oV2lKczNOSFRyeGxoQkJfbTdDNlpR?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T00:18:37+00:00",
+    "detected_at": "2026-11-25T08:30:36.730951+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "NVDA",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "NVDA": "Stocks"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 492.0,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5",
+      "assets": [
+        "NVDA",
+        "AMD",
+        "SMH",
+        "QQQ",
+        "SPY"
+      ],
+      "status": "awaiting_baseline",
+      "baseline": {},
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "NVDA": {
+        "baseline": {
+          "price": 155.38,
+          "observed_at": "2026-11-25T08:30:37.683338+00:00",
+          "quote_at": "2026-11-24T21:00:01+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        },
+        "followups": {},
+        "benchmark_asset": "QQQ",
+        "benchmark_baseline": {
+          "price": 638.1,
+          "observed_at": "2026-11-25T08:30:37.749015+00:00",
+          "quote_at": "2026-11-24T21:00:00+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        }
+      }
+    }
+  },
+  {
+    "id": "93b3effdca00397dfe24",
+    "title": "Gold's retreat deepens as US Fed fears push prices back towards $3,500 - Business Standard",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGoxMlVIUjlKZGo4NnJsNWg0NmowQVcyV3U5OWozWjVZUmFUano0T0JZVzdVWVRzUE04U1JtbktVZVVKbGVlTXVrQkZxT1VXSTV3dExkT1ZCeWlhWUk5WlczbkJLdXdGbUpPR1hxa2IzX3c2Zm9tSm9FTExRNVh6YnpWTFhhTmRDbFRreUdqcm50S01la0lDRF9Zd3RzdjdKMHIxWTUtRGtBMDM5VEFudEpwQ0N0d0xnc21JYzVRQkZ4WDVWWVBMY2ktcEl5ZnNoZ1ZoWnBtTdIB1wFBVV95cUxPNGoxMlVIUjlKZGo4NnJsNWg0NmowQVcyV3U5OWozWjVZUmFUano0T0JZVzdVWVRzUE04U1JtbktVZVVKbGVlTXVrQkZxT1VXSTV3dExkT1ZCeWlhWUk5WlczbkJLdXdGbUpPR1hxa2IzX3c2Zm9tSm9FTExRNVh6YnpWTFhhTmRDbFRreUdqcm50S01la0lDRF9Zd3RzdjdKMHIxWTUtRGtBMDM5VEFudEpwQ0N0d0xnc21JYzVRQkZ4WDVWWVBMY2ktcEl5ZnNoZ1ZoWnBtTQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T07:55:36+00:00",
+    "detected_at": "2026-11-25T08:30:36.730469+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 35.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "db37a1f8f6b1044ba815",
     "title": "Jensen Huang’s return sparks a one-day rally! Wall Street warns: oil prices, inflation, and a hawkish Federal Reserve remain unresolved. - 富途牛牛",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlRqdEJyN2czVTh1X0g2SmhYWnl1SEJtTHRBeHJzMXd2d3lkUHlIZkFZOTB2NXc0clo2N0ZfWVVNV3BvUklLb1FQRHlKY0JhM1VOVVV1YlEtRWdFa1ZrV0xwa1J4ME8yVW43UE1NbDZ4dG5adi1BS1phU3ZFSWVBM2p0RkhGU2JkUDM2Rk5YRVl5QUl4bkRZ?oc=5",
@@ -132,6 +289,21 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.11,
+          "observed_at": "2026-11-25T08:30:38.053744+00:00",
+          "returns_pct": {
+            "BTC": 0.4171,
+            "ETH": 0.4654,
+            "SOL": 0.2876
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -148,7 +320,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59079.525,
+            "observed_at": "2026-11-25T08:30:37.467531+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.4171
+          }
+        }
       }
     },
     "alert_delivered_at": "2026-11-25T08:15:33.093353+00:00",
@@ -250,6 +434,21 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.11,
+          "observed_at": "2026-11-25T08:30:38.053793+00:00",
+          "returns_pct": {
+            "BTC": 0.4171,
+            "ETH": 0.4654,
+            "SOL": 0.2876
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -266,7 +465,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59079.525,
+            "observed_at": "2026-11-25T08:30:37.467531+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.4171
+          }
+        }
       }
     },
     "alert_delivered_at": "2026-11-25T08:15:33.360211+00:00",
@@ -1300,6 +1511,21 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.1,
+          "observed_at": "2026-11-25T08:30:38.053850+00:00",
+          "returns_pct": {
+            "BTC": 0.112,
+            "ETH": -0.4361,
+            "SOL": -0.7445
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1327,6 +1553,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.4516
+          },
+          "60": {
+            "price": 59079.525,
+            "observed_at": "2026-11-25T08:30:37.467531+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.112
           }
         }
       }
