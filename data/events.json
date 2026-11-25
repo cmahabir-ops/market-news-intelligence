@@ -1,5 +1,81 @@
 [
   {
+    "id": "88298b1f5434cd48370b",
+    "title": "AI trade concerns and renewed US tariff fears weigh on Asian stocks - www.tmgm.com",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONjVYTXVPVTZBanZZb01Ta1ZWQmd1RWtDSl9nbWlZZ2N2cWhDTVdpdTE4TTdlVWYxc1hQa1lvNEtVWUZvbHEzMlBqSmJSdFZvNTM0VGRDT0ZJT3RYejFfMHg5clhqY1ZyeXFKbVFaQTRJY3Y1VkxhQVlwb3h6R3NKcGtieW43b2pPc25tZmZHVHh0cjJRQ0RUTng1ZkRGdWpweGFaNi1iSXFfXzNwdk0xSGFHX1lMS2xRZHFkVlpFT1J2RlFzVXM5TXFWOHNwSVlHdURXdGp3?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T05:19:38+00:00",
+    "detected_at": "2026-11-25T21:00:35.874096+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 941.0,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": "0866133fc9aecae94ad6",
+    "duplicate_status": "possible_duplicate",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "2b95b9430c384e0d37b8",
+    "title": "Fed survey shows continued economic growth, sticky inflation in recent weeks - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5vWXNOWWIxaUVxUEVsRDBCWmpwYmd6eWJMLW1tcnJMVmxvR08ybXFaYWlFcVZ2YU1fYk9hbWotWlBXTzVValBHSFFzNjM1QlpyVWNCXzFPTFRZMUtWeHp0SThmaWxRMTVYVXp3UlM2R3pKQnVNS2hiZ1VERU9EVnFGNlA5dGZEa1NtZ1o5REVxM3ZzX2ZpOXRaN0lydzlDZk1VQ2FlS212U3dw?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T20:42:46+00:00",
+    "detected_at": "2026-11-25T21:00:35.872967+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 17.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "1283f93b8461795073f6",
     "title": "Nasdaq-100 nears bear market as futures plunge 3.2%, Nvidia slides amid Fed rate hike concerns | Hindustan Times - Hindustan Times",
     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQejE3UnloTXVKYllqT3RoLWhiX1N6QXJTb2RZSlFFVTBQUllfbHV6dFBtdTZxdE1jWUJJT0pBYkZhWmtqeVlyTGpiRHVYenZIbmw5eWhmYUxMVGs3ZURhU1J2dHlyNVB2eC1CZWF2QTg4QkwtQVZYbG1ZMm5tYUZmYk9iX2lXeDMtLXg0X2QxUlJHamtsNUd0WWRRWEIzbWFLalJLWE8zS0txd2g4WU1Qd3NxM3p3dFp4M3l4WlFNSHQzV3d0NU1HVkQ0RjhaWjB2Sl9zQWV5V1kzUWxJSmc3Rlh3RDdlUmpkMHREWE1BUVZqTVRwWDJTUzl30gH6AUFVX3lxTFB6MTdSeWhNdUpiWWpPdGgtaGJfU3pBclNvZFlKUUVVMFBSWV9sdXp0UG11NnF0TWNZQklPSkFiRmFaa2p5WXJMamJEdVh6dkhubDl5aGZhTExUazdlRGFTUnZ0eXI1UHZ4LUJlYXZBODhCTC1BVlhsbVkybm1hRmZiT2JfaVd4My0teDRfZDFSUkdqa2w1R3RZZFFYQjNtYUtqUktYTzNLS3F3aDhZTVB3c3Ezend0WngzeXhaUU1IdDNXd3Q1TUdWRDRGOFpaMHZKX3NBZXlXWTNRbElKZzdGWHdEN2VSamQwdERYTUFRVmpNVHBYMlNTOXc?oc=5",
@@ -218,7 +294,12 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 10.09
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -317,7 +398,12 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 10.09
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -427,7 +513,12 @@
           "freshness": "recent"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "missed_window",
+          "elapsed_min": 10.09
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
