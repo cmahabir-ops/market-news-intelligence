@@ -1,5 +1,118 @@
 [
   {
+    "id": "8b18e5d1c50996e48fc2",
+    "title": "Bitcoin Price Prediction: Next Rally Timeline, Is $100K Coming or Is a Drop Next? - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPczFUQXYxMlA3WktXMDZFRXI0OG9iY2xyRjFVS3IyRGJGc1A5Y19vLXdLT2ZPcDlodjN4RjJQUE9FX0tTVHZmYmY1aVdlb3plM0FMM1d2X2hZMFdXTVk3QS1qVS03dFFRWV9mSlpqUmdfd3BPWHJKa01rX0x5Y3Z1aFZPX0lYQkRRZWM0eGdlV0szWWdtWUljaTkyN3ZETElxYWZ6eUd2TlQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T19:12:37+00:00",
+    "detected_at": "2026-11-26T19:30:32.620266+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 17.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 17.93,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60551.285,
+          "observed_at": "2026-11-26T19:30:33.566688+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1701.73,
+          "observed_at": "2026-11-26T19:30:33.802601+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.33,
+          "observed_at": "2026-11-26T19:30:33.967835+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60551.285,
+          "observed_at": "2026-11-26T19:30:33.566688+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "cfc22af054eef2bd26d0",
     "title": "Stellar adds $80.4 million in tokenized fund value in a single day - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBucl9IVjhPOG9fT1M2dHB6aFdIYTFnNmJBSXplSGJoeHhJSWZCVVV1cE82SGx5ODVpa0cwNGJxWmt6WDNET3BsMlhsSkZkTnNjUWRtOTNyVEtYZXJFYlRWMGg4UWc5bTdJMF9ObXNTWjFNU2FxUVE?oc=5",
@@ -144,7 +257,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.15,
+          "observed_at": "2026-11-26T19:30:34.048072+00:00",
+          "returns_pct": {
+            "ETH": -0.0261,
+            "BTC": -0.0276,
+            "SOL": -0.07
+          },
+          "asset_elapsed_min": {
+            "ETH": 5.1443,
+            "BTC": 5.1457,
+            "SOL": 5.1402
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0015,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -509,7 +643,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60551.285,
+            "observed_at": "2026-11-26T19:30:33.566688+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1843
+          }
+        }
       }
     }
   },
