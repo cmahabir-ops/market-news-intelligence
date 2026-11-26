@@ -1,5 +1,57 @@
 [
   {
+    "id": "f3c72840f872a06bee06",
+    "title": "US stock futures rise. But is the AI market crisis over? - The Financial Express",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmk3aUY5Q1B6NmhET0g2TGxOQUJmNmw1ZGZ6Ry1qZno5ZzJ1QnAxbVFEYURWcHV1VXpob3BHUkNlb0hQLU5SVkNDcHBpeGEwRjRQeVhWdjNaWmxYcGo4OVNEeWZLNDlRcmh2Y0ZzeUFJSGhTWjZldGgwaXF1ekY3V2lJZUZfN2g1bUZ3NDd6S0htaThqRUxqaVUteXFia1hBYnp1S01LWUwybWd5YnA5UnZaTWJrMlB2UXfSAcABQVVfeXFMTnIyUGN0WS05YzVSQUtqZm1pVWZXbEh3VXpQN3d6X20tTjd6dzJYdTdpNGdHRW5nUzRTNEI2aHY3dU1DY29Yd3NGek8zbHhLeDk1c19ycF9rYThudDEyMXI4VW82NVBTeTlmYWYwVkM5ZlBkdVNBZEpCQjFxZXMzNkNTa25lcnBYbDB5eGlTNVJyd0syVGozNnByNDlzU3haZ0tta3hBV3FmRmdxUDNKb1g0TlYzOFBOQzAyQlpXa05r?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T11:49:19+00:00",
+    "detected_at": "2026-11-26T23:30:35.918892+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 701.3,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 701.28,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "faf51ce2725998e1e221",
     "title": "USDT supply suffers largest contraction since 2022 as Bitcoin struggles near $60K - www.tmgm.com",
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcHNqaVNCakdicEhuOFZJNVFZV0RjcE8xY0JUcnhjb3JvbTg1OGNacUZGYXo2UzlHUWtONUFod010OEowQmpqaHQ1V21JRzg2VkthRkJ6TUNwSmNLbHZVVVJJYVVJU1hlajgtSGk1RzNBbFJlYUZnUGV2T2gzdFpCMUIzT1pPc01lUDczUF9TMGpvbnI1azBvUnExSFhrMVFqSy1SX0tTT3ItZUJLVGNLNzc4dU9zcE9kb1BlNWpMR3JuRUt6ZzlPZ1huaVNsenZWZzNDVHVtNU5kV3N1MTdmNGFobw?oc=5",
@@ -676,6 +728,19 @@
             "change_pct": -0.1842,
             "benchmark_return_pct": 0.0436,
             "excess_return_pct": -0.2278
+          },
+          "60": {
+            "price": 0.9417,
+            "observed_at": "2026-11-26T23:30:38.272943+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.8945,
+            "benchmark_return_pct": -0.2345,
+            "excess_return_pct": -0.66
           }
         },
         "benchmark_asset": "BTC",
@@ -4817,6 +4882,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2053
+          },
+          "240": {
+            "price": 60397.485,
+            "observed_at": "2026-11-26T23:30:37.760584+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.254
           }
         }
       }
