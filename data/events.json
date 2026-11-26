@@ -1,5 +1,109 @@
 [
   {
+    "id": "da436ad6e99931f69251",
+    "title": "Overseas Overnight Trading: 8 Powerful Market Gains - STL.News",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KcE40MHRhRXg5dmVIMVRrNl84dnVVZnY5NHg0X1BOajl1WGVQellvTGNzYUdnUnlNQm1URWx2RlJGM0VlTW95WDZtdDdmcEFLaVAtUkVHT1RXZmFTRXpUdzhvaUZtYW9oc21UeUpsTW9kOHc?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T15:00:25+00:00",
+    "detected_at": "2026-11-26T21:05:32.818559+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 365.1,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 365.13,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "38ff15a21edc81abce02",
+    "title": "Economist Robin Brooks blames Fed for stock market correction - Investorsobserver",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWG93bUFHLVpEOXZ6YVpJcTMxVjk1TzVRT2lid3hXSGhRWmF0NWIzZEdNVERPZkZiS0ZoZEhNVHpWNWpjV1ZuNW8yTmxEX1lEVFZXLXJSR0VIMC1hbW4zbjUxR3M0NUV4dlVlSjZnSnAyMlFUWFhUbEg1QUhpNnlqU21YTGtrcjNqNmY4MXVIQU81d2tKZmRlWEM5aUZTQQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T13:48:53+00:00",
+    "detected_at": "2026-11-26T21:05:32.817055+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 436.7,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 436.66,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "9ec1a5bea333ff499e6c",
     "title": "[26 November 2026] The Liquidity Drain: USDT Supply Shrinks - CryptoQuant",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZmZYTFVwRjg2cjhEQ201a1drYnBNMklObkJmUmFGbE9hNUNjVGhUY0ZWV1YzLWsyQnItb1FEX3R2TS1Rc1hqWlE2aXlBV1JNR2RfM0FBTzVHOF9wdlhzM0I5aXptMFVrWWh4anR2OXZKbFFoWE1TNEtwVHkwMjgtU0xBMER4WTZ1bjhJVzRVYzhVVUdySE4zVlMxc0tVSWRUUGxZVDByTlk0NDI2Z0NIQklQRngxV0Z0aVZZcFdBNGI?oc=5",
@@ -429,6 +533,26 @@
           "primary_excess_return_pct": 0.0947,
           "positive_assets": 2,
           "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.99,
+          "observed_at": "2026-11-26T21:05:34.344997+00:00",
+          "returns_pct": {
+            "XRP": 0.0421,
+            "BTC": 0.0378,
+            "ETH": 0.0035
+          },
+          "asset_elapsed_min": {
+            "XRP": 14.9759,
+            "BTC": 14.9781,
+            "ETH": 14.9772
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0043,
+          "positive_assets": 3,
+          "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -1661,6 +1785,22 @@
           "positive_assets": 1,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.0,
+          "observed_at": "2026-11-26T21:05:34.345067+00:00",
+          "returns_pct": {
+            "BTC": 0.1276
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9875
+          },
+          "benchmark": "QQQ",
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1824,6 +1964,26 @@
           "primary_excess_return_pct": -0.0239,
           "positive_assets": 2,
           "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.0,
+          "observed_at": "2026-11-26T21:05:34.345079+00:00",
+          "returns_pct": {
+            "ADA": 0.2193,
+            "BTC": 0.1276,
+            "ETH": 0.0658
+          },
+          "asset_elapsed_min": {
+            "ADA": 59.989,
+            "BTC": 59.9875,
+            "ETH": 59.9865
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0917,
+          "positive_assets": 3,
+          "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
