@@ -1,5 +1,108 @@
 [
   {
+    "id": "33a1bd8aafc08fdb4d9b",
+    "title": "Switzerland sets 2028 timeline for crypto tax data sharing with 57 potential partners - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvNWZKeTVfcU9EYlBQeVp2LUVIWTE5MDJLejZETXpEeTRPeWVRT1J6SmRXMk5RVWJsLTdPNFRIZjRGT2NuZzlKcnBkYjRuMmFHODhRYmZpZS16Nl8wQnhwN2xFUEI0SzZzaUNOQUZTbEtLa0RQOHBGNXVEMFNqdw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T13:35:40+00:00",
+    "detected_at": "2026-11-26T13:40:26.391452+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 4.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 4.77,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "8e7aa051357e04d747ef",
+    "title": "Onondaga County victim part of $670,000 Cryptocurrency scam - WSYR",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNXpPYU1aVFZSTS1QVnlxMUR0VURHQWw4bWhUN2tGMTFVVzFONkJfd0ViSHpPOHNYWHdkUFB5OEI3NTR2cGZYdkFwNmx5NDlVZDkzejJCVkpPM053VVFRbGRRQ2xBU0ZjWlJiWlp3eHJfSkxGZlY3UnREOU9fZHY5RzhyN0NXY0tQLUY4bVBvczY5TEsxU2o2T002V3BvTFZB0gGmAUFVX3lxTFA2MVBmWUdseDZCRjQ4WEdESE12SExzSzVjTFZWMDBQLVRXOGljMUx1LWxaMFpSUVFsZUV1MkZEQ2FnWV9STlBqd0tJMm9UQzV0LWlMdzhfbDYxVDJMT0ZRRWpwUHg2MFZpZGh2X3dKWUpyNUtBX0lKSml4OGd5Qmozb21NZTgzSURWYkVDdU96Ul9ZMkNkT2xXQnB1RkpXZTVpdnVhV0E?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T11:15:00+00:00",
+    "detected_at": "2026-11-26T13:40:26.390019+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 145.4,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 145.44,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "969f102da419bdd40bc2",
     "title": "Big Move Expected in Bitcoin (BTC) Price! Could the Spark for a $100,000 Rise Be Ignited? CryptoQuant CEO Explains! - Cryptonews.net",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wQ3Q4NXlQNHl1R0ZURDJ1WUQwaWh0WnM0Y2VMWlNLMkM4eTVGNEU5TVNrdENHdXBNdDFGbkZ5RlJkRXNVdTI1eTVjOUJ1dHhvU1JqZkE4eEk?oc=5",
@@ -92,7 +195,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.06,
+          "observed_at": "2026-11-26T13:40:29.038621+00:00",
+          "returns_pct": {
+            "BTC": -0.0344,
+            "ETH": -0.0981,
+            "SOL": -0.0424
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0467,
+            "ETH": 5.0464,
+            "SOL": 5.0456
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -205,7 +329,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.06,
+          "observed_at": "2026-11-26T13:40:29.038690+00:00",
+          "returns_pct": {
+            "XRP": -0.0368,
+            "BTC": -0.0344,
+            "ETH": -0.0981
+          },
+          "asset_elapsed_min": {
+            "XRP": 5.0453,
+            "BTC": 5.0467,
+            "ETH": 5.0464
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0024,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -414,6 +559,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 2,
           "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.95,
+          "observed_at": "2026-11-26T13:40:29.038726+00:00",
+          "returns_pct": {
+            "BTC": -0.0131,
+            "ETH": -0.2013,
+            "SOL": -0.0635
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9382,
+            "ETH": 14.9396,
+            "SOL": 14.9407
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -648,7 +813,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60761.165,
+            "observed_at": "2026-11-26T13:40:28.308050+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.002
+          }
+        }
       }
     }
   },
@@ -2438,6 +2615,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.96,
+          "observed_at": "2026-11-26T13:40:29.038812+00:00",
+          "returns_pct": {
+            "XRP": -0.1524,
+            "BTC": -0.0246,
+            "ETH": -0.1544
+          },
+          "asset_elapsed_min": {
+            "XRP": 59.9484,
+            "BTC": 59.9451,
+            "ETH": 59.9466
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.1278,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -2616,6 +2813,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 3,
           "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.96,
+          "observed_at": "2026-11-26T13:40:29.038833+00:00",
+          "returns_pct": {
+            "BTC": -0.0246,
+            "ETH": -0.1544,
+            "SOL": -0.0706
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9451,
+            "ETH": 59.9466,
+            "SOL": 59.9473
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
