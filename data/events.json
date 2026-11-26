@@ -1,5 +1,121 @@
 [
   {
+    "id": "32a6ce294cdf78b68f2e",
+    "title": "Europe's Only Bitcoin ETF Begins Trading In Switzerland - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0RZbG1TMkM2Q1VELUVsSmd3MUlrTzgwS2VPRjd5bUZGVXNXbDNKRHMzQ2habE90ZlY0cjY0RW42VE1RNVViSWp2X05DNUFEcml2U0JNdVFodlhvelQ1Z2otaUdNeHNSYWhFdXBJNmlaeHJXc18xMjRmbldsSkMzeXhFS2JmbkVvNXpMeklMc2I0aDZQWDhiUWcwaVE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T14:37:00+00:00",
+    "detected_at": "2026-11-26T14:50:34.833697+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 13.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 13.58,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60740.745,
+          "observed_at": "2026-11-26T14:50:36.369736+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1698.545,
+          "observed_at": "2026-11-26T14:50:36.510901+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.15,
+          "observed_at": "2026-11-26T14:50:36.724391+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60740.745,
+          "observed_at": "2026-11-26T14:50:36.369736+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-26T14:50:37.713157+00:00",
+    "alert_last_attempt_at": "2026-11-26T14:50:37.713173+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "2959441a63b35ff1d9f9",
     "title": "Why Is Bitcoin Dropping So Much? 5 Reasons Behind Its Worst Month Since 2022 - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNi0xSDhQaU51WHJVZkZzTm85SmVnb1lVY0RlbUxZWHl2WVBiQk45T0FhUC1ESGl6OTdFTkZmQ0VkZ1Vwa1RHRmFmR3BhbFpwOXlncGVIRXRnd3ZjdUMwNEJnVHQwN0ttZ0JOaXU5S2RzanQtRGFBLTBqWVhqTEN4cE83ZzdKNjRsZUtqd1Nrc3ptcG1vdS1JWnVwcXFpZ3JzNjVxQ3hUMVVCRng0b0FhaFhBc3ctbDh3QnkwMkQ0UkRYdEd4ZUI0X0luWG1ZUUk?oc=5",
@@ -92,7 +208,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.04,
+          "observed_at": "2026-11-26T14:50:36.845580+00:00",
+          "returns_pct": {
+            "BTC": 0.0823,
+            "ETH": 0.0539,
+            "SOL": -0.0492
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0275,
+            "ETH": 5.0275,
+            "SOL": 5.0281
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -276,6 +413,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.05,
+          "observed_at": "2026-11-26T14:50:36.845621+00:00",
+          "returns_pct": {
+            "BTC": -0.0597,
+            "ETH": -0.1763,
+            "SOL": -0.1404
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0376,
+            "ETH": 15.0364,
+            "SOL": 15.0364
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -292,7 +449,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60740.745,
+            "observed_at": "2026-11-26T14:50:36.369736+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0597
+          }
+        }
       }
     }
   },
@@ -409,6 +578,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.05,
+          "observed_at": "2026-11-26T14:50:36.845651+00:00",
+          "returns_pct": {
+            "BTC": -0.0597,
+            "ETH": -0.1763,
+            "SOL": -0.1404
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0376,
+            "ETH": 15.0364,
+            "SOL": 15.0364
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -425,7 +614,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60740.745,
+            "observed_at": "2026-11-26T14:50:36.369736+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0597
+          }
+        }
       }
     }
   },
@@ -578,7 +779,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60740.745,
+            "observed_at": "2026-11-26T14:50:36.369736+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1207
+          }
+        }
       }
     }
   },
