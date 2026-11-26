@@ -1,5 +1,341 @@
 [
   {
+    "id": "96b06c1438bdfbf1e6f2",
+    "title": "Bitcoin Bears May Be Walking Into a Trap as $16B Short Squeeze Builds - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdEY3T2ZlVDAtRUtWYVNnY2dQMEJOdVJmZV9zSlFmSzdNeGNuVkVXNEREamFEZjNXY0ZaSmNuVkJNYmRHTXVoZUYwMENJOV82UnkyazB5ZXZNdTZkVWl3ZmJfbG05bl9hODF5ZlRKMHUtV01IX0dNWnU0c0NtNFRkeFJGTS1USExkQUJGV3pDU0ZUTm5CV3ZuRnF1dDRqbHlYVC1lVkMtSnBkUQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T08:56:52+00:00",
+    "detected_at": "2026-11-26T09:00:32.909351+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 3.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 3.68,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60807.715,
+          "observed_at": "2026-11-26T09:00:34.693654+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1698.945,
+          "observed_at": "2026-11-26T09:00:35.050042+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.95,
+          "observed_at": "2026-11-26T09:00:35.659270+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60807.715,
+          "observed_at": "2026-11-26T09:00:34.693654+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "86404f98c7aa43bdffe9",
+    "title": "US Inflation October 2026 Hits 3.8% Before Fed Meeting - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTDJaTzByRTh6YjllQW00YUpoZVd0U3J2WTdGRDNxcE9pbWowUVgweWFaRW4zQ09wd09PTm9lc3NZajQybkllNmlCdVE5QnMyUnJUV0RCWUpRd21rNEZHVXlMMTJBSG82ZVUtZWVMRXRXTGpyc1Q2dGRQRE1HRlVyQWhBbjVLX1hJWVZpWmJQY1I5bG8wNURGVW5kNkpwMnRLMG0yM0p3?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T08:59:01+00:00",
+    "detected_at": "2026-11-26T09:00:32.907219+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 1.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 1.53,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60807.715,
+          "observed_at": "2026-11-26T09:00:34.693654+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1698.945,
+          "observed_at": "2026-11-26T09:00:35.050042+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.95,
+          "observed_at": "2026-11-26T09:00:35.659270+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60807.715,
+          "observed_at": "2026-11-26T09:00:34.693654+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "f5b19eccc3b3c3c40280",
+    "title": "BTC Price Prediction: $7B Options Expiry Draws Hedges - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM25Pd21vVmN2TlJkU0pHQlBGc1NlQXJxWnU0RjBrdWwxcmZfLVVkZzZjeE80NGVwN3J4bTgzei15WFNwa0Y0Y3o4OWQwMUdpSjFqU0I3VFJfZ3Y3NHY4RHZlRGhKWjRPZ1NoVjdWeTAtbWxoOFRVQVJLY1huSnRJalNzcGNmR3h2UFJ2VTRsWFNjVVgwMTd5QTljTkJ5bkk4dWdfTm1KREw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T08:59:00+00:00",
+    "detected_at": "2026-11-26T09:00:32.906282+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 1.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 1.55,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60807.715,
+          "observed_at": "2026-11-26T09:00:34.693654+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1698.945,
+          "observed_at": "2026-11-26T09:00:35.050042+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.95,
+          "observed_at": "2026-11-26T09:00:35.659270+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60807.715,
+          "observed_at": "2026-11-26T09:00:34.693654+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "dc1e84795130d46a57eb",
     "title": "Spot bitcoin ETFs on track for worst month on record as bear market drags on - The Block",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTzFackFnbjJpN2J1d3lkOFBSWkdQM0pyc2pNLWFlUEtrTDBjQUFpU1BTSy1NVDJLOUp4N3FnVUhabUlXalpIcFgzS0NXaUh6Rl9FSUlUUndQT0tkTzVOVDBuRzR0ZmFtVFZSQzgzQWdmQnpCbHVTenN0SHRXa2MwclZEX1ZsMFpCcmpDdzhnSWZMcFF6QUJudg?oc=5",
@@ -92,7 +428,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.13,
+          "observed_at": "2026-11-26T09:00:36.125200+00:00",
+          "returns_pct": {
+            "BTC": -0.0688,
+            "ETH": 0.1674,
+            "SOL": -0.0775
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.1096,
+            "ETH": 5.1107,
+            "SOL": 5.1143
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -5342,6 +5699,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.3032
+          },
+          "240": {
+            "price": 60807.715,
+            "observed_at": "2026-11-26T09:00:34.693654+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1266
           }
         }
       }
