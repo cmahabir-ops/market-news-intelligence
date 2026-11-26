@@ -1,5 +1,184 @@
 [
   {
+    "id": "1c4b85d2a0915e696e0e",
+    "title": "Bitcoin News: Swiss ETF Debut Meets $7B Options Expiry and US Strategic Reserve Push - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZWxVa0oyMHd0SFp1UFJjWWt4OWFkVm9JbDhoc0U1bklTT1NJdXVZQUZjZFBKNklCb2ZWVG9TUVk3YXBBNjk2Ml9razJUeTNDUDdEQ0RGVFBKSU9WY3ZJal9kOXFVdjZCWExxSUl6bXN0WFRnSTFOYldOUTNkOGJLdmhQUjBSQXA0aHc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T15:38:32+00:00",
+    "detected_at": "2026-11-26T16:20:31.859608+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 42.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 42.0,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60556.665,
+          "observed_at": "2026-11-26T16:20:34.462843+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1687.275,
+          "observed_at": "2026-11-26T16:20:34.724787+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.995,
+          "observed_at": "2026-11-26T16:20:34.967256+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60556.665,
+          "observed_at": "2026-11-26T16:20:34.462843+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-26T16:20:35.683288+00:00",
+    "alert_last_attempt_at": "2026-11-26T16:20:35.683302+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "5af7fd5a3a366f2fe54e",
+    "title": "Israel Discount Bank launches Bitcoin and Ether trading in its app - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mekVKYjRJaFlFTDhna0Z6QmpIWmFvdC1PSnMyOUN2SXc1cHYzQVY2cmN2U3pyYlhiRDR3R0VDbmtHM2t2UWtUeXNCaUtFNExNam5QalFDQnRxT1lBUlFyTEx0MldNcnYydmI4UnA0M3ZHbTUxLUtFX2d2OEI?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T16:15:48+00:00",
+    "detected_at": "2026-11-26T16:20:31.858209+00:00",
+    "assets": [
+      "BTC",
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 4.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 4.73,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-26T16:20:35.979867+00:00",
+    "alert_last_attempt_at": "2026-11-26T16:20:35.979882+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "e413229a1bd058facee5",
     "title": "Exclusive-StanChart's crypto unit Zodia Custody hit by security breach, some client data exposed - Fort Worth Star-Telegram",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BUjBrMEU2cU12SnlsdHRmdzgtUWpWOFNWUUpubHlwLWFXekw5anRIZ2cwZmMxdU1lbS03NGpiMDUwRi1VNE9ESTVCLV9SN1NjVkZsNXN6bHRaRDFZS2FNRzB5V0U5VUNnUTlEVWtINk1FZ1U?oc=5",
@@ -126,7 +305,24 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.11,
+          "observed_at": "2026-11-26T16:20:35.166305+00:00",
+          "returns_pct": {
+            "BTC": 0.0397
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0993
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {}
@@ -1509,6 +1705,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.1407
+          },
+          "60": {
+            "price": 60556.665,
+            "observed_at": "2026-11-26T16:20:34.462843+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.6881
           }
         }
       }
@@ -9446,6 +9653,19 @@
             "change_pct": -0.1841,
             "benchmark_return_pct": 0.277,
             "excess_return_pct": -0.4611
+          },
+          "240": {
+            "price": 0.9497,
+            "observed_at": "2026-11-26T16:20:35.129882+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0999,
+            "benchmark_return_pct": -0.0624,
+            "excess_return_pct": -0.0375
           }
         },
         "benchmark_asset": "BTC",
@@ -9661,6 +9881,19 @@
             "change_pct": 0.2173,
             "benchmark_return_pct": 0.2731,
             "excess_return_pct": -0.0558
+          },
+          "240": {
+            "price": 1687.275,
+            "observed_at": "2026-11-26T16:20:34.724787+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.7585,
+            "benchmark_return_pct": -0.0624,
+            "excess_return_pct": -0.6961
           }
         },
         "benchmark_asset": "BTC",
