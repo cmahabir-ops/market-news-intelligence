@@ -1,5 +1,281 @@
 [
   {
+    "id": "eaafbc20a780be66c7c6",
+    "title": "Bitcoin hashrate hijack hit more than 1,000 mining sites - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3M1pUcVNuVmJfMXJMRzZNdTN4NXl6OHFoTmJMRE1Tajc5cEljelR4ZVd5WmFMQTQwQmhxWDQyTmxmdFZhai1pY3MwS3FHaWVIVXZCU2JXZllTMXlLeFU4c1lZSDE0OEYy?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T16:06:43+00:00",
+    "detected_at": "2026-11-26T16:25:31.469265+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 18.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 18.81,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60420.305,
+          "observed_at": "2026-11-26T16:25:33.227315+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1684.405,
+          "observed_at": "2026-11-26T16:25:33.373839+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.82,
+          "observed_at": "2026-11-26T16:25:33.622268+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60420.305,
+          "observed_at": "2026-11-26T16:25:33.227315+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "71baa54fbcb8e9b05c8b",
+    "title": "JPMorgan says bitcoin 'capitulation' signaled by Strategy's record-low NAV multiple - The Block",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbE9YcXVlMHB3anNpdko5ejdnNWdHTGZZRm54MGxDbnFORUY5dEVobDZKMUdnZUhiaURNRnl0SElmc2wzbU9aR2sxNlM3YUJobDBxWU5ZRngtNjBSenR0NVEwS0dNSDJIWHhfd2xnaUlOXzgxb3dNU2NLbEVyTmEyR29EM0I2Z0ZZY002VEFVcmQ0VVEzcXlJdEJrNmd6QkZIZ2EwZEZnN2NCcnpLVkpj?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T16:18:00+00:00",
+    "detected_at": "2026-11-26T16:25:31.465851+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 7.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 7.52,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60420.305,
+          "observed_at": "2026-11-26T16:25:33.227315+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1684.405,
+          "observed_at": "2026-11-26T16:25:33.373839+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.82,
+          "observed_at": "2026-11-26T16:25:33.622268+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60420.305,
+          "observed_at": "2026-11-26T16:25:33.227315+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "bc495b64ec84624d8fed",
+    "title": "Tom Lee Says U.S. Stocks May Have Bottomed - Wisevoter",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSVhOMEFqeVROeGJVSF9Na3VUT0F4NDVTNkpzQmVONEZZZjc4WmtoUUgxUWt0SE55cWRramhJWGtYanNxZDF1U2xGTG1yWlI2TnRuWE90c1U4YkhWRkROcXNndEdwbEljU2x4cm13RkkxZDZ1ZkRaUmI4bWQtcVZJM2JfOA?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T16:23:17+00:00",
+    "detected_at": "2026-11-26T16:25:31.061198+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 2.2,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 2.23,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "1c4b85d2a0915e696e0e",
     "title": "Bitcoin News: Swiss ETF Debut Meets $7B Options Expiry and US Strategic Reserve Push - Cryptonews",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZWxVa0oyMHd0SFp1UFJjWWt4OWFkVm9JbDhoc0U1bklTT1NJdXVZQUZjZFBKNklCb2ZWVG9TUVk3YXBBNjk2Ml9razJUeTNDUDdEQ0RGVFBKSU9WY3ZJal9kOXFVdjZCWExxSUl6bXN0WFRnSTFOYldOUTNkOGJLdmhQUjBSQXA0aHc?oc=5",
@@ -93,7 +369,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.99,
+          "observed_at": "2026-11-26T16:25:33.908879+00:00",
+          "returns_pct": {
+            "BTC": -0.2252,
+            "ETH": -0.1701,
+            "SOL": -0.2465
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9794,
+            "ETH": 4.9775,
+            "SOL": 4.9776
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -435,6 +732,26 @@
             "BTC": 4.7826,
             "ETH": 4.7816,
             "SOL": 4.7822
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.87,
+          "observed_at": "2026-11-26T16:25:33.908938+00:00",
+          "returns_pct": {
+            "BTC": -0.2696,
+            "ETH": -0.267,
+            "SOL": -0.2114
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.8613,
+            "ETH": 14.8596,
+            "SOL": 14.8599
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
@@ -9337,6 +9654,19 @@
             "change_pct": 0.3273,
             "benchmark_return_pct": 0.3651,
             "excess_return_pct": -0.0378
+          },
+          "240": {
+            "price": 1684.405,
+            "observed_at": "2026-11-26T16:25:33.373839+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.8313,
+            "benchmark_return_pct": -0.211,
+            "excess_return_pct": -0.6203
           }
         },
         "benchmark_asset": "BTC",
