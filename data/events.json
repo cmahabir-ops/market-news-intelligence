@@ -1,5 +1,244 @@
 [
   {
+    "id": "969f102da419bdd40bc2",
+    "title": "Big Move Expected in Bitcoin (BTC) Price! Could the Spark for a $100,000 Rise Be Ignited? CryptoQuant CEO Explains! - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wQ3Q4NXlQNHl1R0ZURDJ1WUQwaWh0WnM0Y2VMWlNLMkM4eTVGNEU5TVNrdENHdXBNdDFGbkZ5RlJkRXNVdTI1eTVjOUJ1dHhvU1JqZkE4eEk?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T13:32:43+00:00",
+    "detected_at": "2026-11-26T13:35:23.771609+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 2.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 2.68,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60782.095,
+          "observed_at": "2026-11-26T13:35:25.505132+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1702.325,
+          "observed_at": "2026-11-26T13:35:25.788825+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.835,
+          "observed_at": "2026-11-26T13:35:26.062324+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60782.095,
+          "observed_at": "2026-11-26T13:35:25.505132+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "4da56c9431ecf84578e3",
+    "title": "Ripple Stock Valued at $90 and $300: SEC Filings Reveal Huge Gap - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkFTazI2aDVoNENhZXZlbmNXVzB0OEtuR1p3T0JxMUFMWHdzd0lQVDJWTFpJLXlIM0lSM0o2MGdKX0tKeE5xaGhwRG80WjVTWGJISWhpLTFoQVJST2lMTHRTSFgyekVsMDZfUjRMbmpMR0RzemZ2T0NuVUdreWJjRkw1cXhJSHJuZFdRMkZ5UU1nV1Jab3dBcE1naUtEaTdEbjRGOHZ6VDBRYWF0ZFJzX2xsaw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T13:20:18+00:00",
+    "detected_at": "2026-11-26T13:35:23.769842+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 15.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 15.1,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.95005,
+          "observed_at": "2026-11-26T13:35:26.227714+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 60782.095,
+          "observed_at": "2026-11-26T13:35:25.505132+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1702.325,
+          "observed_at": "2026-11-26T13:35:25.788825+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.95005,
+          "observed_at": "2026-11-26T13:35:26.227714+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 60782.095,
+          "observed_at": "2026-11-26T13:35:25.505132+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    },
+    "alert_delivered_at": "2026-11-26T13:35:26.678571+00:00",
+    "alert_last_attempt_at": "2026-11-26T13:35:26.678590+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "3c00ff3d29188bf6ede7",
     "title": "Japan’s Biggest Banks Chose Solana: Is It a Bigger Deal Than Ripple’s Bank Wins? - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYmVuWHBuemtWajVFaWVWX2p6cS14R0RZWXNkOGs0Z0d3bHBFMmpUYWxiUzJ4TmJJWl9XT3dScWpoSFM1TjVyUEtPUXFrRTJRRDVReV9ZTVJIMTEyQVU1OXZsbWZNY2JObVl0TXFmRXlJVEpDS0dYa1lYSW9BczB0NmlsazhMYWVCbThOMFNNb2dGZmpscWN1cXhObkJRVlluRmtfR3I3eTM3bU1ackl2TUZFTFpVcVliRGtQcm52QThPUXVzNVVDeE51bnhHS2Vs?oc=5",
@@ -367,6 +606,26 @@
             "BTC": 4.9902,
             "ETH": 4.9854,
             "SOL": 4.9812
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.9,
+          "observed_at": "2026-11-26T13:35:26.324882+00:00",
+          "returns_pct": {
+            "BTC": 0.0325,
+            "ETH": -0.1062,
+            "SOL": -0.0564
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.8817,
+            "ETH": 14.8786,
+            "SOL": 14.8763
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
