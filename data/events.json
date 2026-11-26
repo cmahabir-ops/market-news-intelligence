@@ -1,5 +1,128 @@
 [
   {
+    "id": "159be8fe047f7b75d657",
+    "title": "What Would It Take for XRP to Reach $1,000? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2hHLXJoUjZ0eG1fQkdEOWNLTkg3N0FKaGU1aldUUW1GcS1lU0tSM3NtWV9FWGhaTjNZV1F0ak5sclBnYmt5MWRqMjk5ZXpKNUZjTXh3UmFXS1lSV2xoNnBKSmk2bTg3LUlLN05FcHZyZXNyTThER2F4MEY3cWM2Mm9KNlJBU1BxbGpZcXdSaTFkY0lVNWJBcE0xX21jdG1t?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T22:17:00+00:00",
+    "detected_at": "2026-11-26T22:25:34.116926+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 8.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 8.57,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.9502,
+          "observed_at": "2026-11-26T22:25:36.571598+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 60539.425,
+          "observed_at": "2026-11-26T22:25:36.069863+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1696.54,
+          "observed_at": "2026-11-26T22:25:36.245078+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.9502,
+          "observed_at": "2026-11-26T22:25:36.571598+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 60539.425,
+          "observed_at": "2026-11-26T22:25:36.069863+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
     "id": "a6e2c906960dbbcf054f",
     "title": "Freeze First, Court Later: Spain Lets AML Unit Halt Crypto Accounts Without a Judge - Finance Magnates",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMUhOSGUzVTgtTzFyUzNWOEllaFBkX1o4SEU4OFNPVlRWWlZ5MUZjeVFIeFhQOTV1TlFSdC1DV0M2MGtEN2Y5RVRkNkFvcmZKV2s0c2NGMm5OYXUyWmdnUkhDX01XUE9zVG9fdzVLM0tGTjlfYnA0MjZGaHNqX0FSYlFlbkxqbDdQWGhCcTd5cUNJZFVGRUMyQ2tXbWxUYm5JYlFUZVhublJqQU1lSjlzcnoxRFpRa1A4ajlkVG9Fd0RJSlZUbEZPLQ?oc=5",
