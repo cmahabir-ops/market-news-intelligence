@@ -1,5 +1,118 @@
 [
   {
+    "id": "66b854ec362d38a985fd",
+    "title": "Galaxy Research Warns Bitcoin Could Fall to $28,200 if June Low Breaks - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa05BWm1xNldMZ0V3cXpWd1A4bUIzQ2FSX1VvVjFOdGxUVkd6WHZEdV95RGhYVjVaTXZFT2E1QVdzb1NxT1dhNDUxRXl3MnJYaVhFR1pzVHJtcGxncjdLUndKRi1sQXpZYUwySlVhR0hRdjIyS195YnBVX0w2cFRsTk5sTGtkbWhJT2tkOU81dTBQQjdlRS16cExlRUJfMDJNY2c?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T16:37:00+00:00",
+    "detected_at": "2026-11-26T17:00:34.326782+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 23.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 23.57,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60463.535,
+          "observed_at": "2026-11-26T17:00:35.234863+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1690.635,
+          "observed_at": "2026-11-26T17:00:35.383066+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.905,
+          "observed_at": "2026-11-26T17:00:35.557969+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60463.535,
+          "observed_at": "2026-11-26T17:00:35.234863+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "f009a0e269b2b82645c2",
     "title": "Cryptocurrencies price prediction: XRP, Hedera & Bitcoin – American Wrap 26 November - FXStreet",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN0toX0NjTUR1d1h1MmpoSnZGRUZwZXBEUDBtLW5lWU4zdXNmcVk4czhRT3BvSWVWWW5oaUFiTXRaak9BUVNPS1hhNWxMX1VHSnRLbGFLOWxGNFdCWGpwbmFhM3Q1S0VGdnFlcFBhVE1wXzJhMElsd2FOS2JXYjVrM25rN1dOX2M4X0JNbDBhcnhKSk5RbkhMOTRsc3FQTDh0QVFzM0RtTUVYeXFsWHhZeVZ2clpxbUFlTHBJcmVqMmNUemxKb1FIOUJ1NTV2alpaTUdJeQ?oc=5",
@@ -156,7 +269,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.96,
+          "observed_at": "2026-11-26T17:00:35.716887+00:00",
+          "returns_pct": {
+            "BTC": 0.0164,
+            "ETH": 0.0592,
+            "SOL": 0.0635
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9517,
+            "ETH": 4.9499,
+            "SOL": 4.9491
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
