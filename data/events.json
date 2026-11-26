@@ -1,5 +1,286 @@
 [
   {
+    "id": "10f588e685d193cf33ae",
+    "title": "Fidelity Pushes Beyond Bitcoin With Chainlink ETF Filing - Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHFZWUZ0YUM1cDhlSTl5X0lYM2FwNTJ4Qk4yS2ZmMzM3TVlwSU9iZjVuT2Q0dS1fcDJhdGFxajNrUmFFNWNKUlJ6UF80b0JqY1RZcVZsNUw3VUhRUERhY3lkVkRMQ0RKRnQ1X3hXVEd3SnEzVi14NV9CM0h0RzdRc0h2RngyS2p3OVBqcXVOeWJmcnN3?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T18:51:41+00:00",
+    "detected_at": "2026-11-26T23:40:32.410414+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 288.9,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 288.86,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60356.905,
+          "observed_at": "2026-11-26T23:40:34.747661+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1683.495,
+          "observed_at": "2026-11-26T23:40:35.081064+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.895,
+          "observed_at": "2026-11-26T23:40:35.483630+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60356.905,
+          "observed_at": "2026-11-26T23:40:34.747661+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-26T23:40:36.302136+00:00",
+    "alert_last_attempt_at": "2026-11-26T23:40:36.302153+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "67e404e03443c3efe831",
+    "title": "DOJ Targets Crypto Scams in Largest Cyberfraud Crackdown in History - Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaXExMlc5bnVUQmoweXExaW5VbU9LZURVR1Y0a2N5cHdBUDNhVDVxek1LMTY4SG5jZWxlNWVMaWJOcUN5VDhzem8ta1NVWnNUTk5HeTBaREJrZzRUYWFPS2d4N1oyNXBIWEVBZ2g4OVkwd1lxXzF1c1g3RE5POHVpbmRBZG9tOFF1NlBpT0FmNFM0NS1aQ1ZYWklNQjlzRnQ5dHRPakZuY3RxcWpoMTRwRzB6OVE0cHZTOHNEcFdxTEExc00?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T22:02:48+00:00",
+    "detected_at": "2026-11-26T23:40:32.407181+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 97.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 97.74,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60356.905,
+          "observed_at": "2026-11-26T23:40:34.747661+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1683.495,
+          "observed_at": "2026-11-26T23:40:35.081064+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.895,
+          "observed_at": "2026-11-26T23:40:35.483630+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60356.905,
+          "observed_at": "2026-11-26T23:40:34.747661+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "28dff02074c779473f81",
+    "title": "US Stock Futures Rebound After AI Rout; Traders Brace for a Fed Rate-Hike Replay - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUcFlTR0laRnZ1WE9SanZVVXZXbEs5RzlOTkZ0UXJYdFNrTk5PWGtid3E3bi1PWUtfdWY3SzdIdkFHU2Y1LThUSWtILVkyZjF4cGRwWXRvd0JXM3N6RlVxREJteldkSkJnbE9rbFdMU3paN0hRcWc?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T23:25:00+00:00",
+    "detected_at": "2026-11-26T23:40:31.847981+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 15.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 15.53,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "277bc42c7d279e92c2cc",
     "title": "Should You Tap Ultra-Short-Term Treasury Bond ETFs? - TradingView",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTFKdnZTT29yRWI4UWxuallCV3lKelNSUkhiRjhreE1TdnpTSk5jSWlDem5FWlVuSW1DZWxubkg0NFNWT2JqM1o0dWtIdFVxRDFiZ3hJdVE0Q0VJMkJLZGhMb0ZBbVN6MmJsRlhvRkVmQlFsdVdHMTNhRGhpcENGNzF0Y2xnaWRfaVpaOHBtVDQ0ZzJpR3Y2SlQ1dHBVa0lXamE0SGdma2xUUQ?oc=5",
@@ -252,7 +533,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60356.905,
+            "observed_at": "2026-11-26T23:40:34.747661+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0238
+          }
+        }
       }
     }
   },
@@ -4757,6 +5050,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2228
+          },
+          "240": {
+            "price": 60356.905,
+            "observed_at": "2026-11-26T23:40:34.747661+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3913
           }
         }
       }
