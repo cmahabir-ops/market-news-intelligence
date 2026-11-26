@@ -1,5 +1,229 @@
 [
   {
+    "id": "cad00daf942f0e2495ca",
+    "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zdUx4LWdZU2k4RlhtSzRZV0c1TlAteHpsMVdpb2ZBc3NEbXpQSW5tOHh3Y2NJVEdqLXBodm8xSzQwaU1DQnJGclFnRkUyYWZNYi00a2Ria3Q?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T12:47:01+00:00",
+    "detected_at": "2026-11-26T12:50:28.673334+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 3.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 3.46,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60771.705,
+          "observed_at": "2026-11-26T12:50:30.386510+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1704.16,
+          "observed_at": "2026-11-26T12:50:30.650969+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.835,
+          "observed_at": "2026-11-26T12:50:30.920651+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60771.705,
+          "observed_at": "2026-11-26T12:50:30.386510+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "7c1e6e2a75aba8459d52",
+    "title": "The Bitcoin Reserve Bill Heads to the House Floor: How Much Would It Lock Up? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU1hOSGdYNFBUeENLR192YXNXcjBjWGhGWm5yRXVBWEpuSmRfUTlYaE9pZUxQYS1RUng1SnFXMW9naHlwWDF4eGtzbHJNQWl0M0ZFS2RZa0RjWERRZEFUVjNyOEphV0d5ZkZQdktyb3pURFdWbnJ3dVA4dGpldnY2WjBDVjdObFVHdUM3WWFjRldLN0dVUFlqeVJOaE1wMUtVRTdrQVlUVi02SnJNMmoySDlQSWkyN2tOcV9UZnBLdnpsNkt0bDI0R0t4WThQOVU?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T12:46:00+00:00",
+    "detected_at": "2026-11-26T12:50:28.671011+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 4.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 4.48,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60771.705,
+          "observed_at": "2026-11-26T12:50:30.386510+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1704.16,
+          "observed_at": "2026-11-26T12:50:30.650969+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.835,
+          "observed_at": "2026-11-26T12:50:30.920651+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60771.705,
+          "observed_at": "2026-11-26T12:50:30.386510+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "4f35473c0eeba197ca64",
     "title": "Crypto.com Prediction Market Review: How OG, CDNA & Crypto.com Connect - NEXTPredict",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wSDFoRW51U2lCNE1sTF9RN0c4T2F5MXJ2M19WYUZJaEtyb3M2LXVNV2F6ZkV4NGpTNEdPNU91ajVENkVOM0dGU1I0ZHdlR0hGWldxcHMzWQ?oc=5",
@@ -530,7 +754,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60771.705,
+            "observed_at": "2026-11-26T12:50:30.386510+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.3416
+          }
+        }
       }
     },
     "alert_delivered_at": "2026-11-26T12:30:36.387754+00:00",
@@ -1864,6 +2100,26 @@
             "BTC": 15.0111,
             "ETH": 15.0124,
             "SOL": 15.0128
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.99,
+          "observed_at": "2026-11-26T12:50:31.165182+00:00",
+          "returns_pct": {
+            "BTC": 0.1575,
+            "ETH": 0.2718,
+            "SOL": 0.1485
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.977,
+            "ETH": 59.9781,
+            "SOL": 59.9794
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
