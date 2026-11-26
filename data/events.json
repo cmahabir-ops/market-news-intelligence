@@ -1,5 +1,169 @@
 [
   {
+    "id": "37b9788556d52f2a4dbe",
+    "title": "North Korean launderers route stolen Binance crypto through THORChain - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEbGlCV2UxalZYdXQ5Tk5Ra3BYSWZYUXJ3M1F2UkZBclpRRktsMjhJZkJGTm1raC1EV0NhejQ2SEdmckZvOGc3aV9aRlV1dlZzOVJXMHpXM182NkRsUXlDZDVmNlpxVlBfbmFsT3N4b1IwekJBSXItTUswREdzQQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T19:49:54+00:00",
+    "detected_at": "2026-11-26T19:55:32.190098+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 5.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 5.64,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "caa163b98a39f5828bbc",
+    "title": "BTC News Today: US Bitcoin Strategic Reserve Bill Moves Closer as BTC Reclaims $60K - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUnFMSE5TNzVCUEJtcTVJcDMzTXRJclM0TFlhWVFydWt6V25URThjQ1BUYWJpc2xqeGIweEZnOVoxOVI3aGhTSGR5MzFLd3JaMWdKM2lmM08wYTJ3TW1QV2dybVRkNG9GRUFSUmhDcno2WWpXT3JtN1h5VXNhWnh1NzdsUWlfZmhfNU01emdSd1RDc2Rf?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T16:09:25+00:00",
+    "detected_at": "2026-11-26T19:55:32.186095+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 226.1,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 226.12,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60640.505,
+          "observed_at": "2026-11-26T19:55:34.025675+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1703.41,
+          "observed_at": "2026-11-26T19:55:34.153636+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.26,
+          "observed_at": "2026-11-26T19:55:34.222096+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60640.505,
+          "observed_at": "2026-11-26T19:55:34.025675+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "523cd9be043d7641deb0",
     "title": "Wives of Russian Billionaires Were Among Investors in Pavel Durov’s Telegram Crypto Project - Важные истории",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZE5PZVZjVWNjZWZHakhMeXJqYzFGSURhWTdQMmg0bmE1VW5rV0pfZmJRcTBiZEN5SVVUNXBTbXFaWlZHSFlRXzB3SFRtMTUybEFlWEJzeDg2cHJIS1A3VnRSVi1GeWN5M3NmTmV2b1YyejJPVFd3VzRaWEdnOVhFeXdET3FIRmUwRWtZdy0yVThpYlR0R0NjTHE5VHJ3Z0d5RU5WNUROZ2VtaVJDTjVyOHMwZWJXYUJrQ0hWQzQyX3c5b3d2VDY5X3J0WHY2c0hvY2c?oc=5",
@@ -144,7 +308,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.05,
+          "observed_at": "2026-11-26T19:55:34.362659+00:00",
+          "returns_pct": {
+            "BTC": -0.035,
+            "ETH": -0.105,
+            "SOL": -0.0701
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0437,
+            "ETH": 5.041,
+            "SOL": 5.0367
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -328,6 +513,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.08,
+          "observed_at": "2026-11-26T19:55:34.362708+00:00",
+          "returns_pct": {
+            "BTC": 0.0768,
+            "ETH": -0.0502,
+            "SOL": -0.1121
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0726,
+            "ETH": 15.0705,
+            "SOL": 15.0673
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -344,7 +549,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60640.505,
+            "observed_at": "2026-11-26T19:55:34.025675+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0768
+          }
+        }
       }
     }
   },
