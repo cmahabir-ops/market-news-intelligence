@@ -1,5 +1,255 @@
 [
   {
+    "id": "86cc251d1bd3b51eef41",
+    "title": "Lido tightens Ethereum staking penalties as operators gain access to larger validators - CryptoSlate",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzJBMmlzOHNENklydVVtYThVVE5qRUVPcDA0MG84bzVNeXNOM1FiTDhiTjNtcVNybnVVUml6S1FGUGZUTTNJVE1OWnVmNGttY24yM2pWUW80clVJRGNwdUhIenJOV0xyeFpOUTBIREhaMFl3MW40UTRyNUphLUVUVmp2Wml3dnNqX21kWkVFclcwVm1NdUxfOEM3S2lwNHl1RmF5Z0JiU1JYZlhPNFBWTQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T01:50:00+00:00",
+    "detected_at": "2026-11-26T02:45:33.437319+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 55.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 55.56,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1702.055,
+          "observed_at": "2026-11-26T02:45:34.815143+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 60938.255,
+          "observed_at": "2026-11-26T02:45:34.691154+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.255,
+          "observed_at": "2026-11-26T02:45:35.014810+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1702.055,
+          "observed_at": "2026-11-26T02:45:34.815143+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 60938.255,
+          "observed_at": "2026-11-26T02:45:34.691154+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "711cffac1a4083c435e0",
+    "title": "Ethereum Price Forecast: ETH stays below $1,700 as ETF outflows top $1.2 Billion - www.tmgm.com",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOEZIekxKdWdiWDUxVGkwMnkwNG9WUkQ5ZU5YbVNnWVlwWGdSUGpaUlFhMnVRQVBTRUdqYVUxc21BMXZfem54UTZYYm9zSzBNeWloMHhHQUhhWVdaZTdrNlBtNkdyYzJDSkZnbVI1dnVIUXBaZGdMam42QXBTakxSMWRHYklsTDhtb3ZDN0tyQVVaZEU5UnR4aUVOaFY1TTdTcUhfMkNHUTJiU2k3dDdxTXlnY0plcjNOZkwtUkRWT1Y1ZFRTR1pDZXA2TDVQcDgzbU92VlZGZ1pjaktrdGc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T02:44:40+00:00",
+    "detected_at": "2026-11-26T02:45:33.436159+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 4,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 0.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 0.89,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1702.055,
+          "observed_at": "2026-11-26T02:45:34.815143+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 60938.255,
+          "observed_at": "2026-11-26T02:45:34.691154+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.255,
+          "observed_at": "2026-11-26T02:45:35.014810+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1702.055,
+          "observed_at": "2026-11-26T02:45:34.815143+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 60938.255,
+          "observed_at": "2026-11-26T02:45:34.691154+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    },
+    "alert_delivered_at": "2026-11-26T02:45:35.540066+00:00",
+    "alert_last_attempt_at": "2026-11-26T02:45:35.540080+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "fd638503c9cecd7c32a8",
     "title": "Crypto License Cost Estonia: A Founder's Budget Plan - Global Advisory Experts",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0RJeHhyRzBlTzQyMDY4LWMteTFLbmhjamNqM2pLdkR3N2YxTmVYUEJ3Nk5mZUxEbWthZ2ZrV09rRjZQM0FTZE9McWdsSVZHYzFYckswdlNLX2NIa2kzWWFuZk4weHBBd1I2Tm1ja1BtdUF3akJUQWpKa1dNTG5oenZ0cHVaMVBHa0V2S1RZNTQ?oc=5",
