@@ -1,5 +1,57 @@
 [
   {
+    "id": "b73b2805110b6434cc67",
+    "title": "Fed Beige Book Shows Hot US Economy With Modest Price Growth And Rising Wage Pressure - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNmRrVnI3elZUOFJ5cGZVM0xmNGRjR1dFdUJZQ3VRNnROVEFHYWdaWnNaaTlCRnFmZFJuS3AyOEhhLTc1OVJFV1lJelo2REFteDZ2Nm9weUl5MVhkbEpOWFRBckJUTVlDY2FrWlpTdTh4VHFGVUdGZGlLT3lsVnZHVlFFMXhKdVRQUWpHN0RaVXJDTVYyS0drQzZiblNSRGhEYVpMYXQxN2NxRl82SFIybVR3ZUx5WUk0RG5BR3hRYllpdE9aNlNYV1NCRjBVaENldFFEYWlfaVFUcUZiVk9MbktHcw?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T23:19:00+00:00",
+    "detected_at": "2026-11-26T01:25:24.060709+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 126.4,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 126.4,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "02b10f732ff418a35287",
     "title": "Hyperliquid's HYPE will join bitcoin, ether and more in Franklin Templeton's crypto ETF - The Block",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdDZFNzVlelZVcGlidlNmZkk0eDJRc0VnQ3dHSEVqd1dab2hUYjJid0xVVTZsV094bm9JMkpjZ0ktemtrQS1IaW0ycFA3QUlMZjViNnFRN0tWd05fZ3ktNDQyU2RTd0NFUTRZUFRpTkJBUWlwTF9rR2toaFRtcm9NNThpelF0U21NeHBSYkVIdS1VOTFkVUlYR1QwODgyNVRJVHI2UFYzSQ?oc=5",
@@ -157,7 +209,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.88,
+          "observed_at": "2026-11-26T01:25:27.717138+00:00",
+          "returns_pct": {
+            "BTC": 0.1468,
+            "ETH": 0.1317,
+            "SOL": 0.0916
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.8618,
+            "ETH": 4.8642,
+            "SOL": 4.8658
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
