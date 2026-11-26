@@ -1,5 +1,131 @@
 [
   {
+    "id": "522259360836ef8d6e70",
+    "title": "Two SEC-Registered Funds Value Ripple at $90 and $300. Why the Huge Gap? - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckxUeE1HT2lpVktuVWZlc1JOVWM2SUhkMzZBRm9VeVBLYkI3MEJkOTZIRzcydVgtN1BlQ2J1MG5LRzJyN3VNT3V1Y1FqNW1yekRCbDhJYkFXVkt0RmY3aWJwVGN6RjhtUkpxNXBCWHlpSFRFeXZnNDlRWFVFb0ZWTzI3OGF3dXZGQU5jU2RXZnM1MG84OWNzYzl0bzhZdk1yeGfSAaIBQVVfeXFMTnJMVHhNR09paVZLblVmZXNSTlVjNklIZDM2QUZvVXlQS2JCNzBCZDk2SEc3MnVYLTdQZUNidTBuS0cycjd1TU91dWNRajVtcnpEQmw4SWJBV1ZLdEZmN2licFRjekY4bVJKcTVwQlh5aUhURXl2ZzQ5UVhVRW9GVk8yNzhhd3V2RkFOY1NkV2ZzNTBvODljc2M5dG84WXZNcnhn?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T08:48:34+00:00",
+    "detected_at": "2026-11-26T08:50:30.433012+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 1.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 1.94,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.95745,
+          "observed_at": "2026-11-26T08:50:32.716501+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 60947.455,
+          "observed_at": "2026-11-26T08:50:31.617417+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1699.39,
+          "observed_at": "2026-11-26T08:50:31.979230+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.95745,
+          "observed_at": "2026-11-26T08:50:32.716501+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 60947.455,
+          "observed_at": "2026-11-26T08:50:31.617417+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    },
+    "alert_delivered_at": "2026-11-26T08:50:33.358088+00:00",
+    "alert_last_attempt_at": "2026-11-26T08:50:33.358103+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "fa0c350acfdbbf2beecc",
     "title": "6 Top white label crypto payment gateways for 2027 - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NcE9xQXk2MUVmcER5WElwRVJqUmZqQXVYVXBVc09WVTZmTW5Ia3RVVjNqQ2IyUFMyNm5ETmdxYkxrZkU1RnN3V3Y2S21FVzFVWjIzWnlabWlCbWtvREQ3RlJ0V1dtbGJIRmprcXB3NzQ3bWJleUsta0NXaw?oc=5",
@@ -164,6 +290,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.03,
+          "observed_at": "2026-11-26T08:50:32.824756+00:00",
+          "returns_pct": {
+            "BTC": 0.6017,
+            "ETH": 0.6673,
+            "SOL": 0.4161
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0077,
+            "ETH": 15.0121,
+            "SOL": 15.0159
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -180,7 +326,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60947.455,
+            "observed_at": "2026-11-26T08:50:31.617417+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.6017
+          }
+        }
       }
     }
   },
@@ -297,6 +455,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.03,
+          "observed_at": "2026-11-26T08:50:32.824804+00:00",
+          "returns_pct": {
+            "BTC": 0.6017,
+            "ETH": 0.6673,
+            "SOL": 0.4161
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0077,
+            "ETH": 15.0121,
+            "SOL": 15.0159
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -313,7 +491,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60947.455,
+            "observed_at": "2026-11-26T08:50:31.617417+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.6017
+          }
+        }
       }
     }
   },
@@ -1329,6 +1519,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 2,
           "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.99,
+          "observed_at": "2026-11-26T08:50:32.824883+00:00",
+          "returns_pct": {
+            "BTC": 0.6851,
+            "ETH": 0.5515,
+            "SOL": 0.5153
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9676,
+            "ETH": 59.9666,
+            "SOL": 59.9646
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -5184,6 +5394,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.3417
+          },
+          "240": {
+            "price": 60947.455,
+            "observed_at": "2026-11-26T08:50:31.617417+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0444
           }
         }
       }
@@ -5380,6 +5601,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.35
+          },
+          "240": {
+            "price": 60947.455,
+            "observed_at": "2026-11-26T08:50:31.617417+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0361
           }
         }
       }
