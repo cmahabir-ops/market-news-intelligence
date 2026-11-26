@@ -1,5 +1,132 @@
 [
   {
+    "id": "f1581ff89794b0c1581c",
+    "title": "XRP Becomes the Only Crypto With ETF Inflows as Franklin Templeton Adds $4 Million - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNDF5M0hvZWVPYXdtbFhrUmpqSFNtVnVCUVBVd1dtTjJ4VGhHbFMzNmRlYzNDeDNaWmc3SXh4UFhXb0hjZEZtUWtUclZia0xRWWM1MzJURVJGUFprLTAzOGJaWVJWaFV5alJGdmIwUzVJcWZDSDJjcHB0aklyY0JUSDFXX1o5SFdpNHRMVTBDcVNGMTlVQzZHMFd6SXlqSHBIX2Z5VXBrZGZiZVByX3c?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T13:55:40+00:00",
+    "detected_at": "2026-11-26T14:10:30.538368+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 4,
+    "rationale": "Headline contains potentially positive catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Potentially bullish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 14.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 14.84,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.95135,
+          "observed_at": "2026-11-26T14:10:33.464805+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 60816.475,
+          "observed_at": "2026-11-26T14:10:32.914944+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1702.905,
+          "observed_at": "2026-11-26T14:10:33.139463+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.95135,
+          "observed_at": "2026-11-26T14:10:33.464805+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 60816.475,
+          "observed_at": "2026-11-26T14:10:32.914944+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    },
+    "alert_delivered_at": "2026-11-26T14:10:34.020665+00:00",
+    "alert_last_attempt_at": "2026-11-26T14:10:34.020736+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "bb82054ebf4b0ca25d29",
     "title": "What XRP Did After Its First ETF and What Chainlink Could Do After Fidelity’s - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSTRSZXkzWm1DZDRKRjNTQzZfYjBjZ2h3Rk1pUmdlckhkeDR5V1d2aVhCRUJXeWU4dWhOc0JoSjdCeVlIcW4xWkNnVEJSZG52d2RxQ001TmVlcF9ZanQ2SGhONkdwM0lmUU8xNnFYTzVzOVdLRmFHbjUwc2pNRy05NmExa2xiV05weC1XYXlqQWpUTUNILTJrazFMQktHR0lRZHhra2ZwRHZLdDRYS3hFUHV4NHhSNnZaUkZJREJTNVdvZGxsUS02QTdzdzdFLWhl?oc=5",
@@ -92,7 +219,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.03,
+          "observed_at": "2026-11-26T14:10:33.576373+00:00",
+          "returns_pct": {
+            "XRP": 0.1316,
+            "BTC": 0.0168,
+            "ETH": 0.0023
+          },
+          "asset_elapsed_min": {
+            "XRP": 5.0156,
+            "BTC": 5.017,
+            "ETH": 5.0171
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.1148,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -285,7 +433,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.03,
+          "observed_at": "2026-11-26T14:10:33.576423+00:00",
+          "returns_pct": {
+            "BTC": 0.0168,
+            "ETH": 0.0023,
+            "SOL": 0.2602
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.017,
+            "ETH": 5.0171,
+            "SOL": 5.016
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
