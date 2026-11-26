@@ -1,5 +1,170 @@
 [
   {
+    "id": "0e93d563c333b68619d4",
+    "title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Jd19OU1d0bVZxbkdGakRBTEswWXYzaWlvYmxKeWZXS2NzVTE1ekJoVmpVQmlRSmk2XzJTZnhJaXJMeXFYUTBJZTE2Ujg1eU1YNDJwT04xbVE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T17:07:39+00:00",
+    "detected_at": "2026-11-26T17:15:31.433931+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 7.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 7.87,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60482.085,
+          "observed_at": "2026-11-26T17:15:33.186149+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1692.86,
+          "observed_at": "2026-11-26T17:15:33.426541+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.0,
+          "observed_at": "2026-11-26T17:15:33.702751+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60482.085,
+          "observed_at": "2026-11-26T17:15:33.186149+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "4ac26d86f29f4f2309ef",
+    "title": "Switzerland Approves 57 Jurisdictions for Crypto Tax Data Sharing - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbEFMWndYRFNLZUthcWg0UmNzbnpJWWREcnZNSWxpS1JiRExCSFE3SnJ1YTYyS3hmZWtLeUhqbWEyak81ZVZTTERHVTM0dW5OZmRaSVFzZkREX1hTVFR5bm1ONjJEVVNmVGt2N0ZCZnpBUl95YTdYOTFRRnEzNkdPb3BXR3pDTExQNTF5bXM3WXZfMDJCeXBuN0lKalhKZE9jQk9CbVBhYklJVlZjNlE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T16:14:00+00:00",
+    "detected_at": "2026-11-26T17:15:31.432677+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 61.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": "9fa887950b1ba2e693c2",
+    "duplicate_status": "possible_duplicate",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 61.52,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "possible_duplicate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "74669d9e196e119c9096",
     "title": "Hong Kong-based crypto trading firm Auros is winding down operations - CoinDesk",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRzlGNmgtaWpDalJVRTRaMFRUX0ltV25FVURDSTZHSHlBR3RqMUYzc3I0d1dtQVhnbmVnZ3VtbnJ6V1hMaHZEVXBTbTFMR216U2x0ajNaVFdrdGtUWFpqdHJIVm1wcUNhV2RTOVY5VlZSQXZyVU9MZlA4b0NUTGFZcUVTQ1dxNnBUbG5xRDF5YXhRVFlPd1lUMHFGc3F6RjI3Tzhkemh3Q3l6d0lMSEFv?oc=5",
@@ -211,6 +376,26 @@
             "BTC": 4.9527,
             "ETH": 4.9528,
             "SOL": 4.9532
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.98,
+          "observed_at": "2026-11-26T17:15:34.053590+00:00",
+          "returns_pct": {
+            "BTC": 0.0307,
+            "ETH": 0.1316,
+            "SOL": 0.134
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9659,
+            "ETH": 14.9674,
+            "SOL": 14.9691
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
@@ -450,7 +635,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60482.085,
+            "observed_at": "2026-11-26T17:15:33.186149+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0471
+          }
+        }
       }
     }
   },
@@ -2041,6 +2238,22 @@
           "positive_assets": 0,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.09,
+          "observed_at": "2026-11-26T17:15:34.053723+00:00",
+          "returns_pct": {
+            "BTC": -0.0835
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.078
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -2228,6 +2441,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.4021
+          },
+          "60": {
+            "price": 60482.085,
+            "observed_at": "2026-11-26T17:15:33.186149+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1676
           }
         }
       }
@@ -8814,6 +9038,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0136
+          },
+          "240": {
+            "price": 60482.085,
+            "observed_at": "2026-11-26T17:15:33.186149+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.4573
           }
         }
       }
@@ -9067,6 +9302,19 @@
             "change_pct": 0.3322,
             "benchmark_return_pct": -0.0136,
             "excess_return_pct": 0.3458
+          },
+          "240": {
+            "price": 0.9497,
+            "observed_at": "2026-11-26T17:15:33.941705+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1424,
+            "benchmark_return_pct": -0.4573,
+            "excess_return_pct": 0.5997
           }
         },
         "benchmark_asset": "BTC",
