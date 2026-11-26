@@ -1,5 +1,118 @@
 [
   {
+    "id": "e6fc859d8c0d4c2f33bc",
+    "title": "Anthropic Claude AI Predicts ‘Why Is Crypto Up Today’: BTC to $450K? - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTVdHOWFDWm5TOWlFZC0wWUJDeWE3WFd0TEh5bUtlVFFuNWJ4a1lKZnNfZWVrVDlXaUpfVmdEZ2F4UHJDZTNzWFdLYWdvSnZKbG5uYUJRdDRwVXJYNjk1TlhBUVdDSDRVNFV5T1F6TzZyaFd4clhDRGVkRzc3eE1sMDd6MUVMTFNtZVd6dg?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T17:58:00+00:00",
+    "detected_at": "2026-11-26T18:15:24.376119+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 17.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 17.41,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60430.005,
+          "observed_at": "2026-11-26T18:15:26.121311+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1690.405,
+          "observed_at": "2026-11-26T18:15:26.402703+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.99,
+          "observed_at": "2026-11-26T18:15:26.708867+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60430.005,
+          "observed_at": "2026-11-26T18:15:26.121311+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "bc4bc1a6df8b11c3bb0d",
     "title": "Android fraud malware toolkit targets 182 banks and 38 crypto platforms - Beinsure",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcThMNHZoNl9Sczh3OVo0XzBTSmx3bTFIdC1iaXMwd3NCS3FINlMyZVBSTkI1bFludGpBd2lzUnE2UEVyQzVBTS0yMlFOV3FiQS1DbHk5cTFhSWJ4ZmhlRExZNE1oTDBZd0JNMURjT051dF92ZnVvd0ZSeHl1YldEbTdiQi0wcmlx?oc=5",
@@ -217,6 +330,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 1,
           "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.76,
+          "observed_at": "2026-11-26T18:15:26.966548+00:00",
+          "returns_pct": {
+            "BTC": -0.0514,
+            "ETH": -0.1356,
+            "SOL": -0.0352
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.7424,
+            "ETH": 14.7427,
+            "SOL": 14.7444
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -1341,6 +1474,26 @@
             "BTC": 14.9872,
             "ETH": 14.9876,
             "SOL": 14.9893
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.9,
+          "observed_at": "2026-11-26T18:15:26.966630+00:00",
+          "returns_pct": {
+            "BTC": -0.0861,
+            "ETH": -0.145,
+            "SOL": -0.0141
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.8823,
+            "ETH": 59.8829,
+            "SOL": 59.8834
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
@@ -8154,6 +8307,19 @@
             "change_pct": -1.3402,
             "benchmark_return_pct": -1.1077,
             "excess_return_pct": -0.2325
+          },
+          "240": {
+            "price": 0.95165,
+            "observed_at": "2026-11-26T18:15:26.884159+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0315,
+            "benchmark_return_pct": -0.6355,
+            "excess_return_pct": 0.667
           }
         },
         "benchmark_asset": "BTC",
