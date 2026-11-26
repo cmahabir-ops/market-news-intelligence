@@ -1,5 +1,170 @@
 [
   {
+    "id": "dd8bef5eb766c23c04ed",
+    "title": "MemeCore price surges 12% but can the rally hold through December? - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTF84OEdWSTctWE1BVWRTNzIxUnI2bFBjTXNlUEllZVQ4ZXJMLVR1anExY2F1VFJIMFZYWUxKZzJQVUFsYUdXcFVPbVR6ZnFsV1lNb0otSElMZ1J2UFVFU0kzQzFtUDRpRVZhdzZZSEd3bzd6N0FDd25fUmlrNVM5MlNnMkZaSk5sY1NmMk5B?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T14:46:51+00:00",
+    "detected_at": "2026-11-26T15:15:29.082972+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 28.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 28.63,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "dd642db143929f2227a8",
+    "title": "Bill To Lock-Up U.S. Government Bitcoin For 20 Years Advances In Congress - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWFV0bk9XemhETW5pMFZ5bFd2dnRtelVKS2pSenZuRDliYm5BS2IwRGNVb1hRN1RVdlY0M1Z5LUItVzVpSHBBWV9pRDdhSFMyYXhfZW9VZGNOWkU2T2wyY0tBNlZhbFFNU2c1QTJqZVpWNklvd0kxSGxLcnBQTm1OMEhTT2M0UUJFUkg2eUx5aDZrVjllby12Y0NNNA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T14:18:00+00:00",
+    "detected_at": "2026-11-26T15:15:29.079635+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 57.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 57.48,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60142.795,
+          "observed_at": "2026-11-26T15:15:30.426646+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1677.255,
+          "observed_at": "2026-11-26T15:15:30.788225+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.19,
+          "observed_at": "2026-11-26T15:15:31.206436+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60142.795,
+          "observed_at": "2026-11-26T15:15:30.426646+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "85e144c384e2c9c2a09c",
     "title": "Hawkish Fed poised to raise rates despite stock market turmoil - Financial Times",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
@@ -74,7 +239,24 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.01,
+          "observed_at": "2026-11-26T15:15:31.594595+00:00",
+          "returns_pct": {
+            "BTC": 0.028
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.992
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {}
@@ -450,7 +632,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 0.9386,
+            "observed_at": "2026-11-26T15:15:31.515723+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -1.0907,
+            "benchmark_return_pct": -0.9772,
+            "excess_return_pct": -0.1135
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 60736.315,
@@ -2359,6 +2555,19 @@
             "change_pct": -0.1892,
             "benchmark_return_pct": -0.2449,
             "excess_return_pct": 0.0557
+          },
+          "60": {
+            "price": 0.9386,
+            "observed_at": "2026-11-26T15:15:31.515723+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -1.3402,
+            "benchmark_return_pct": -1.1077,
+            "excess_return_pct": -0.2325
           }
         },
         "benchmark_asset": "BTC",
@@ -9788,6 +9997,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2311
+          },
+          "240": {
+            "price": 60142.795,
+            "observed_at": "2026-11-26T15:15:30.426646+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.5161
           }
         }
       }
@@ -9984,6 +10204,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2311
+          },
+          "240": {
+            "price": 60142.795,
+            "observed_at": "2026-11-26T15:15:30.426646+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.5161
           }
         }
       }
