@@ -1,5 +1,170 @@
 [
   {
+    "id": "9fa887950b1ba2e693c2",
+    "title": "Switzerland Approves 57 Jurisdictions for Crypto Tax Data Sharing in 2028 - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVi1ZbDNudTJTckNzamdxT29qcjc3YzlpTTQ1QUNNdUxsaDUxMWdQSDZQdjdIcm4xdFNrTnhaRWRDRGVKdG83MmNXWnY3UEs4MGQ0RzVHRENxUEc5ZzFyeXVXZkFmSC1qR3BSSlVOcmw0MVlTZlhKRzlwUGFHVkwxUTc1SElTZ2RMRk5LWkozSTJLNkJEdFE0N3NLSjIzd0gzS3FfYnRsYkJ5MXZDT2dqWGtsSnQ0X1NmOUswTw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T13:03:52+00:00",
+    "detected_at": "2026-11-26T13:20:30.941907+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 16.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 16.65,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60762.355,
+          "observed_at": "2026-11-26T13:20:32.605102+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1704.135,
+          "observed_at": "2026-11-26T13:20:33.071655+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.875,
+          "observed_at": "2026-11-26T13:20:33.482887+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60762.355,
+          "observed_at": "2026-11-26T13:20:32.605102+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "26acb7dbfeed714a33fd",
+    "title": "Stocks Could Rebound Sooner Despite AI Selloff - Wisevoter",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSkdyNDZqSmV6aVRvSVF0cGc5aDlVdDE2dmUxUVFSb3V6ZUxzVUFWZV9mdzRnTEFDaWJ0SmV6dzJmNlJ1aGRtNm9ydWpGbzZJX3hqRmUwOFYwWVJoQ2daM09vb1NlMXdzYnVrTGtsOGtfSi1ZdTdKcXhISDNoR2xPWjhDajdFUFF6dGxJNg?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T12:31:50+00:00",
+    "detected_at": "2026-11-26T13:20:30.541899+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 48.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 48.68,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "35630e9c034bef7a484e",
     "title": "Is Pudgy Penguins a Good Buy at Current Prices? - CryptoTicker.io",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVME1vS1Zub3ZtN0VNQ0VxeDFFTFhCaTZCRWhuVEVLeXZRaTVnNjRtRTR4czdOWGRfRENJWEkwUHo5Y1dyWlRGVGprSmdpVjU5eG5YbzVuNXNmazQ5a0FxSnl5VFFiLTJhTUtwd1pqaUwydExjeUxjVVBGR0VPWDQ?oc=5",
@@ -145,7 +310,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.03,
+          "observed_at": "2026-11-26T13:20:33.755744+00:00",
+          "returns_pct": {
+            "BTC": 0.0039,
+            "ETH": 0.0158,
+            "SOL": -0.0564
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0117,
+            "ETH": 5.0173,
+            "SOL": 5.0226
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -310,7 +496,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.03,
+          "observed_at": "2026-11-26T13:20:33.755796+00:00",
+          "returns_pct": {
+            "XRP": 0.058,
+            "BTC": 0.0039,
+            "ETH": 0.0158
+          },
+          "asset_elapsed_min": {
+            "XRP": 5.025,
+            "BTC": 5.0117,
+            "ETH": 5.0173
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0541,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -609,6 +816,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.1,
+          "observed_at": "2026-11-26T13:20:33.755837+00:00",
+          "returns_pct": {
+            "BTC": 0.0479,
+            "ETH": 0.0015,
+            "SOL": 0.0071
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0835,
+            "ETH": 15.0883,
+            "SOL": 15.092
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -625,7 +852,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60762.355,
+            "observed_at": "2026-11-26T13:20:32.605102+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0479
+          }
+        }
       }
     }
   },
@@ -997,7 +1236,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1704.135,
+            "observed_at": "2026-11-26T13:20:33.071655+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0828,
+            "benchmark_return_pct": 0.0506,
+            "excess_return_pct": 0.0322
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 60731.655,
@@ -2528,6 +2781,19 @@
             "change_pct": -0.2104,
             "benchmark_return_pct": -0.0489,
             "excess_return_pct": -0.1615
+          },
+          "60": {
+            "price": 0.9489,
+            "observed_at": "2026-11-26T13:20:33.702373+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1841,
+            "benchmark_return_pct": 0.277,
+            "excess_return_pct": -0.4611
           }
         },
         "benchmark_asset": "BTC",
@@ -8955,6 +9221,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0646
+          },
+          "240": {
+            "price": 60762.355,
+            "observed_at": "2026-11-26T13:20:32.605102+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1576
           }
         }
       }
