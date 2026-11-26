@@ -92,7 +92,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.07,
+          "observed_at": "2026-11-26T00:25:32.978098+00:00",
+          "returns_pct": {
+            "DOGE": -0.3002,
+            "BTC": -0.3331,
+            "ETH": -0.2777
+          },
+          "asset_elapsed_min": {
+            "DOGE": 5.0662,
+            "BTC": 5.0662,
+            "ETH": 5.0659
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0329,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
