@@ -1,5 +1,117 @@
 [
   {
+    "id": "71d315b519defba1e96d",
+    "title": "Skip Black Friday, Buy Bitcoin: Your $488 Shopping Budget Could Become $5,609 by 2030: Here’s Why - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSW9od3ozbzFrZ0VubDhsQ0hsVG80RXNJTjN4OVFJNXZSVlBrWXlIblBEY3k4UHk4VEVBQjREdnE2N2hzQW1WSnpMYnNvdzljc3BueXpTM1l1V0lZZ3QwbnNybFlRZUdqNHRHblFGOFpCaDZ3cnNtSVEyZ1c2aGFwRVFEQ3FSMDM0QVJBUGhBU0J3V2pzejhzWE45SWQ2enFhZ1R4NGJXcWJZTWtqZHRpSHJoa0hPZEpaOFJSOG1B?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T11:45:09+00:00",
+    "detected_at": "2026-11-26T11:50:30.691344+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 5.36,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60676.135,
+          "observed_at": "2026-11-26T11:50:31.765072+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1699.54,
+          "observed_at": "2026-11-26T11:50:31.965557+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.73,
+          "observed_at": "2026-11-26T11:50:32.155592+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60676.135,
+          "observed_at": "2026-11-26T11:50:31.765072+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "6a7f4d63b3e9e1aa6eb8",
     "title": "DeFi Revenue Surges But Valuations Drop, Drawing Parallels With Nasdaq’s Post-Dot-Com Recovery - CCN.com",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTWZvbDRWdEVLTF9OOVlWbEpYbXVoblFuODZ5Vi01MTdRY1MtQmFFejNIU29Qb25jbG9xcGNMTDRLN1VKUTZDSXFYSjJQZWVsejg5WjNYRm1hQS1MU01YTVI4Vm5MMXRlYm1lZ1FoQ1BBN0VnMzNNZjhHZUlMaW5wMFlVVzhCNDNSNmFYUVNEYw?oc=5",
@@ -214,6 +326,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.05,
+          "observed_at": "2026-11-26T11:50:32.325074+00:00",
+          "returns_pct": {
+            "XRP": 0.142,
+            "BTC": 0.1456,
+            "ETH": 0.1051
+          },
+          "asset_elapsed_min": {
+            "XRP": 15.0423,
+            "BTC": 15.0455,
+            "ETH": 15.0436
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0036,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -230,7 +362,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 0.9522,
+            "observed_at": "2026-11-26T11:50:32.287405+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.142,
+            "benchmark_return_pct": 0.1456,
+            "excess_return_pct": -0.0036
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 60587.925,
@@ -358,6 +504,26 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.05,
+          "observed_at": "2026-11-26T11:50:32.325124+00:00",
+          "returns_pct": {
+            "BTC": 0.1456,
+            "ETH": 0.1051,
+            "SOL": 0.0849
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0455,
+            "ETH": 15.0436,
+            "SOL": 15.0419
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -374,7 +540,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60676.135,
+            "observed_at": "2026-11-26T11:50:31.765072+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1456
+          }
+        }
       }
     }
   },
@@ -1716,6 +1894,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0006
+          },
+          "60": {
+            "price": 60676.135,
+            "observed_at": "2026-11-26T11:50:31.765072+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.4092
           }
         }
       }
