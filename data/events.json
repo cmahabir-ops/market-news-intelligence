@@ -1,5 +1,57 @@
 [
   {
+    "id": "ca1c5484d053e9b82f66",
+    "title": "Zodia Custody reportedly hit by breach exposing client data - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNGtsWURILVFrOGtlWWJfZGt5aDRrLXFpbkh6RG1zdmUyOUM3SXQ5ZXBZMTF1YldHM2dRb2s5RlJySjRSY2NKZVNmejdaMjl0T1N5T2tpZmdQUllYd1ZsbklBY1E5dF9qc2hfWjVHbXhad1NYQmhaeEJfTGhnbFhydFNhbTY?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T10:43:06+00:00",
+    "detected_at": "2026-11-26T12:10:31.574039+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 87.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 87.43,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "ddaf9792592ccaa32d38",
     "title": "Not A Bitcoin Believer? Bitmine Sells Ethereum At ~0.84X NAV (NYSE:BMNR) - Seeking Alpha",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDRZNHRJU2djY3dLVm1TYjdrZEtDZ0k1YkRhd1NQUDlwWGFWNjRFWFNGalMxeXRwUl9ZR0toc2FuUC1TTVZkNFRYbTNLbkJ0ci1LbWkyRFU5b3BWR3JQcXBBSlcxYktpYzBwdFRQM1hEYmxSSThwRnVKYkp3RWx0emVESzdEbVVOYTlvRzJvTlR2UDU4YTAtZ2swVzVUQ0l1?oc=5",
@@ -1654,6 +1706,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.86,
+          "observed_at": "2026-11-26T12:10:33.694913+00:00",
+          "returns_pct": {
+            "BTC": 0.4314,
+            "ETH": 0.6721,
+            "SOL": 0.7244
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.851,
+            "ETH": 59.8537,
+            "SOL": 59.8561
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1813,6 +1885,26 @@
             "BTC": 14.7963,
             "ETH": 14.7981,
             "SOL": 14.8004
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.86,
+          "observed_at": "2026-11-26T12:10:33.694993+00:00",
+          "returns_pct": {
+            "BTC": 0.4314,
+            "ETH": 0.6721,
+            "SOL": 0.7244
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.851,
+            "ETH": 59.8537,
+            "SOL": 59.8561
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
@@ -7751,6 +7843,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2298
+          },
+          "240": {
+            "price": 60715.585,
+            "observed_at": "2026-11-26T12:10:32.882473+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1753
           }
         }
       }
