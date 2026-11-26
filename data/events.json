@@ -1,5 +1,109 @@
 [
   {
+    "id": "e6651735e511aca5de98",
+    "title": "Stablecoin Supply Shrinks by $12 Billion in 30 Days as Crypto Liquidity Tightens - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDX0VQQlJRZTd1S1BHTGI1NmVQTXBuRjI2T1VqNlA5NERSVHplNWFlX1ItNFVvNkZvX1RyUFdLek5TX3htSDdORDdaUklNdFhKcDVxQ090R3NtZHFyYTZDRGY1NmowUXFzR3NrSHdSb2JPaHd4Smc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T11:36:00+00:00",
+    "detected_at": "2026-11-26T11:55:29.862963+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 19.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 19.5,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "cc6a718595d99d707f1b",
+    "title": "UK plans strict rules for crypto DeFi sector - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkZqdm02aEhpZDFEMlJkb3RvTTU3SjNoTmtzNTF3cjZQNTR0TzV6RDhFSlZEQVl3OHk1OU5pTEwzZk50MlV0YzlnS2Z0cVlTMjM3a0NiNEVzRWNMQ1A1WURQQkJ0WVRNQXcxZDlEdlFqUnJWc0RpQ2pDSVBGRjBmdGFodWM?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T05:02:28+00:00",
+    "detected_at": "2026-11-26T11:55:29.861512+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 413.0,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 413.03,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "71d315b519defba1e96d",
     "title": "Skip Black Friday, Buy Bitcoin: Your $488 Shopping Budget Could Become $5,609 by 2030: Here’s Why - Benzinga",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSW9od3ozbzFrZ0VubDhsQ0hsVG80RXNJTjN4OVFJNXZSVlBrWXlIblBEY3k4UHk4VEVBQjREdnE2N2hzQW1WSnpMYnNvdzljc3BueXpTM1l1V0lZZ3QwbnNybFlRZUdqNHRHblFGOFpCaDZ3cnNtSVEyZ1c2aGFwRVFEQ3FSMDM0QVJBUGhBU0J3V2pzejhzWE45SWQ2enFhZ1R4NGJXcWJZTWtqZHRpSHJoa0hPZEpaOFJSOG1B?oc=5",
@@ -92,7 +196,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.02,
+          "observed_at": "2026-11-26T11:55:33.216874+00:00",
+          "returns_pct": {
+            "BTC": -0.0706,
+            "ETH": -0.1106,
+            "SOL": 0.0071
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.006,
+            "ETH": 5.0095,
+            "SOL": 5.0125
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -8068,6 +8193,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.5233
+          },
+          "240": {
+            "price": 60633.295,
+            "observed_at": "2026-11-26T11:55:32.127004+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1661
           }
         }
       }
