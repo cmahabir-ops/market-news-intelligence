@@ -1,5 +1,85 @@
 [
   {
+    "id": "85e144c384e2c9c2a09c",
+    "title": "Hawkish Fed poised to raise rates despite stock market turmoil - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T14:58:45+00:00",
+    "detected_at": "2026-11-26T15:10:29.281606+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 11.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": "central_bank_rate_decision",
+    "macro_status": "candidate_context",
+    "macro_benchmarks": [
+      "SPY",
+      "QQQ",
+      "BTC"
+    ],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "A",
+      "kind": "direct_candidate",
+      "delay_min": 11.74,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "SPY",
+        "QQQ",
+        "SMH",
+        "XLK",
+        "BTC"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60125.955,
+          "observed_at": "2026-11-26T15:10:30.908315+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {}
+  },
+  {
     "id": "8222133203f95eee0868",
     "title": "PrimeXBT celebrates 8 years of redefining crypto trading with 50% deposit bonus - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSndidlN3TVAtU2FtaE8wYTRJTGFlVC1wLTliYUM2cjA3MWplVjY2YkZmQk01ajdobDgxVFJWS2NxZmJyS0FDVURlamJ1N2pUQ01TbzBkX1dybWV3cGljY3dheTRiMFZDUkV2c0I0bzZyVUlIaXJsNHJtSjRTSFp4SXFmODhVZ0tqWENhbkxwV0FaS010ekViUXcyN3VpdS1xN0dkYlZuMVI2Zw?oc=5",
@@ -334,6 +414,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.98,
+          "observed_at": "2026-11-26T15:10:31.976301+00:00",
+          "returns_pct": {
+            "XRP": -1.3172,
+            "BTC": -1.0049,
+            "ETH": -1.2807
+          },
+          "asset_elapsed_min": {
+            "XRP": 14.9655,
+            "BTC": 14.9581,
+            "ETH": 14.961
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.3123,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -570,7 +670,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60125.955,
+            "observed_at": "2026-11-26T15:10:30.908315+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -1.0122
+          }
+        }
       }
     },
     "alert_delivered_at": "2026-11-26T14:50:37.713157+00:00",
@@ -2195,6 +2307,26 @@
           },
           "benchmark": "BTC",
           "primary_excess_return_pct": -0.0048,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.98,
+          "observed_at": "2026-11-26T15:10:31.976435+00:00",
+          "returns_pct": {
+            "XRP": -1.5662,
+            "BTC": -1.1354,
+            "ETH": -1.6401
+          },
+          "asset_elapsed_min": {
+            "XRP": 59.9744,
+            "BTC": 59.9666,
+            "ETH": 59.968
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.4308,
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
