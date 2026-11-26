@@ -1,5 +1,318 @@
 [
   {
+    "id": "bc3eaa98c3bddd8c51ca",
+    "title": "When to Sell Audacity Coin in GTA 6: Elevator Cash-Out - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkg3dUlEaURPN1pWb05vWmNYQmw0cy1BTVJITmxldmxXVldRZmNBU21zVUlHeXRvbG5faHVXeVZtVHpRTnFMWF9KODNSUFpZQXJDSHgtTjNiWXVhTXhMcmhLNXM5RWpjUXJTU3lnM3FhNnhBNjU4V3FXTGRpdHRJelhGTWY3UTZSLWVRdk8tQjh6azluYmxmaWtrT0h6YUZfOFVOMnR5V21FWUJqT2c?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T07:13:41+00:00",
+    "detected_at": "2026-11-26T07:25:23.323199+00:00",
+    "assets": [
+      "BTC",
+      "COIN"
+    ],
+    "market": "Both",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 11.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 11.71,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60505.975,
+          "observed_at": "2026-11-26T07:25:25.060929+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1689.715,
+          "observed_at": "2026-11-26T07:25:25.345196+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.975,
+          "observed_at": "2026-11-26T07:25:25.714365+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60505.975,
+          "observed_at": "2026-11-26T07:25:25.060929+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-26T07:25:26.723886+00:00",
+    "alert_last_attempt_at": "2026-11-26T07:25:26.723903+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "447ac2a25a25e597453c",
+    "title": "Ukraine Crypto Regulation and Tax Bill Passes With 271 Votes - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUFZSemFTUXpNdEhQS29NdDAzWEIwZ1o5d0c5MDFmRG9QYWRUWVo1SXVWU1F1MHAxNnZnSXNqMFlRc1RqSW9HcDluUGZELWxLV082b3RQY2RaUlhXcFo1SURtd3ZmNTV1X1BlamZWTGhVa0FGWG9iZWh6MHpUelAyanNsSkVtVmlGOWYzSDNkWDZWVERCdDlmb2FNaE1wQzRBNzh6RDFPOXM?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T07:13:41+00:00",
+    "detected_at": "2026-11-26T07:25:23.321038+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 11.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 11.71,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60505.975,
+          "observed_at": "2026-11-26T07:25:25.060929+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1689.715,
+          "observed_at": "2026-11-26T07:25:25.345196+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.975,
+          "observed_at": "2026-11-26T07:25:25.714365+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60505.975,
+          "observed_at": "2026-11-26T07:25:25.060929+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-26T07:25:26.974998+00:00",
+    "alert_last_attempt_at": "2026-11-26T07:25:26.975015+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "f1f546ea5b652fbc1368",
+    "title": "Newly proposed tariffs raise chances of the Fed keeping interest rates higher for longer - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUVBPbUFTb1h0MEdxOXBWX1N0V0V3MXFNSktwOTJKc25xOWdpczFIbHFSZ0JYalM1QUNGdUtnUVZRSkFOdURVLTROQndxYlZnZUJaaUdpdURidXRtYUF3VnJtS21yQ2ZQd1BzeE9DSjh3X0w4aWZOVFJ1ZVp0VFNyUkVuOHlkWFd5NUlCYmZUc3VXQkd6Rnp3U01kT1Z1cTlSZnhMZ1VFZkFTcm01MDI1TDNuc08zMk1JeDB4NTJiaEU5OEpBQWR2NllWUmxDenB2emFpR2Q5R3k5dno3ODBxVGs0UndyeU0?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T20:39:42+00:00",
+    "detected_at": "2026-11-26T07:25:22.898218+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 645.7,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": "central_bank_rate_decision",
+    "macro_status": "candidate_context",
+    "macro_benchmarks": [
+      "SPY",
+      "QQQ",
+      "BTC"
+    ],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "B",
+      "kind": "indirect_candidate",
+      "delay_min": 645.68,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "SPY",
+        "QQQ",
+        "SMH",
+        "XLK",
+        "BTC"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60505.975,
+          "observed_at": "2026-11-26T07:25:25.060929+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {}
+  },
+  {
     "id": "a8e836c73ca251f77e59",
     "title": "Venice AI faces privacy allegations as VVV drops over 15% - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yVGxKNFN4amhMbGV0UkdlU0t3QjJ2aElvUmRVNjIwMXAtVlFvYXRiV2o3X05PdTdwSFRhNTh5SUZjMGZwbUVZQ3BJelRFbV9PZXp4NUlWWTJtQ2hqLU9FTmdLbUREWGU4N1hMdkdxWTFLU055YVE?oc=5",
@@ -144,7 +457,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.98,
+          "observed_at": "2026-11-26T07:25:26.083862+00:00",
+          "returns_pct": {
+            "BTC": 0.0931,
+            "ETH": 0.1274,
+            "SOL": 0.0776
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9594,
+            "ETH": 4.9621,
+            "SOL": 4.9664
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -276,6 +610,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 2,
           "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.94,
+          "observed_at": "2026-11-26T07:25:26.083904+00:00",
+          "returns_pct": {
+            "BTC": 0.2363,
+            "ETH": 0.2923,
+            "SOL": 0.3606
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9184,
+            "ETH": 14.9191,
+            "SOL": 14.9223
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -411,6 +765,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.94,
+          "observed_at": "2026-11-26T07:25:26.083931+00:00",
+          "returns_pct": {
+            "BTC": 0.2363,
+            "ETH": 0.2923,
+            "SOL": 0.3606
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9184,
+            "ETH": 14.9191,
+            "SOL": 14.9223
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -544,6 +918,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 2,
           "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.94,
+          "observed_at": "2026-11-26T07:25:26.083951+00:00",
+          "returns_pct": {
+            "BTC": 0.2363,
+            "ETH": 0.2923,
+            "SOL": 0.3606
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9184,
+            "ETH": 14.9191,
+            "SOL": 14.9223
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -959,6 +1353,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 0,
           "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.86,
+          "observed_at": "2026-11-26T07:25:26.083969+00:00",
+          "returns_pct": {
+            "BTC": 0.0006,
+            "ETH": 0.1669,
+            "SOL": 0.3109
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.8423,
+            "ETH": 59.8449,
+            "SOL": 59.8486
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
