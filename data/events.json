@@ -1,5 +1,169 @@
 [
   {
+    "id": "3fd7b82741f04210c613",
+    "title": "Switzerland Crypto Tax Data Sharing Starts in 2028 - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVi1ZbDNudTJTckNzamdxT29qcjc3YzlpTTQ1QUNNdUxsaDUxMWdQSDZQdjdIcm4xdFNrTnhaRWRDRGVKdG83MmNXWnY3UEs4MGQ0RzVHRENxUEc5ZzFyeXVXZkFmSC1qR3BSSlVOcmw0MVlTZlhKRzlwUGFHVkwxUTc1SElTZ2RMRk5LWkozSTJLNkJEdFE0N3NLSjIzd0gzS3FfYnRsYkJ5MXZDT2dqWGtsSnQ0X1NmOUswTw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T13:04:06+00:00",
+    "detected_at": "2026-11-26T13:05:26.602147+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 1.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 1.34,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60733.285,
+          "observed_at": "2026-11-26T13:05:27.595017+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1704.11,
+          "observed_at": "2026-11-26T13:05:27.775923+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.87,
+          "observed_at": "2026-11-26T13:05:27.964633+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60733.285,
+          "observed_at": "2026-11-26T13:05:27.595017+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "cfabddfa48f1c3a74a2f",
+    "title": "South Korea’s Stock Rally Faces Risk of Earnings Downgrades - www.tokenpost.com",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56ekQ5WHAySkJGcThfcTVoZTFaLWZsVWlsNWFPMS1aelZ2T3FtRjZ4WmZqYzRkSFNUb2Mxb0RSZ3RoT0p3N3NaT2xRS3BhdTVJcWtYRXJfeVFhdw?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T12:47:34+00:00",
+    "detected_at": "2026-11-26T13:05:26.190688+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 17.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 17.87,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "115fa08f7ab8e3d8aa9a",
     "title": "Vitalik Buterin calls for verifiable chips to combat hardware wallet threats - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOFNvWkt5NVAzZ3NUMU1NZUwyYkZRV3dEM1pPTDR0S0lKMi0yZkozUGNsTC1ZT0xxZnpRVkFERWdvQnFRQnlQXzVCMWdqMXhHeWhpN1ZYbWwzWGRnZUZuQm43MW5uV3FNN2lLbEJQTUV5ZTMzTF84dkZBTk4zV0ZadmxLMA?oc=5",
@@ -259,7 +423,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.76,
+          "observed_at": "2026-11-26T13:05:28.122521+00:00",
+          "returns_pct": {
+            "ETH": 0.0813,
+            "BTC": 0.0027,
+            "SOL": 0.0565
+          },
+          "asset_elapsed_min": {
+            "ETH": 4.7515,
+            "BTC": 4.7502,
+            "SOL": 4.7526
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0786,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -454,6 +639,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.96,
+          "observed_at": "2026-11-26T13:05:28.122569+00:00",
+          "returns_pct": {
+            "BTC": -0.0632,
+            "ETH": -0.0029,
+            "SOL": 0.0494
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9535,
+            "ETH": 14.9521,
+            "SOL": 14.9507
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -586,6 +791,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 3,
           "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.96,
+          "observed_at": "2026-11-26T13:05:28.122603+00:00",
+          "returns_pct": {
+            "BTC": -0.0632,
+            "ETH": -0.0029,
+            "SOL": 0.0494
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9535,
+            "ETH": 14.9521,
+            "SOL": 14.9507
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -2334,6 +2559,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0039
+          },
+          "60": {
+            "price": 60733.285,
+            "observed_at": "2026-11-26T13:05:27.595017+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.2139
           }
         }
       }
