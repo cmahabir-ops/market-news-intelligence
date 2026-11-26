@@ -1,5 +1,169 @@
 [
   {
+    "id": "523cd9be043d7641deb0",
+    "title": "Wives of Russian Billionaires Were Among Investors in Pavel Durov’s Telegram Crypto Project - Важные истории",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZE5PZVZjVWNjZWZHakhMeXJqYzFGSURhWTdQMmg0bmE1VW5rV0pfZmJRcTBiZEN5SVVUNXBTbXFaWlZHSFlRXzB3SFRtMTUybEFlWEJzeDg2cHJIS1A3VnRSVi1GeWN5M3NmTmV2b1YyejJPVFd3VzRaWEdnOVhFeXdET3FIRmUwRWtZdy0yVThpYlR0R0NjTHE5VHJ3Z0d5RU5WNUROZ2VtaVJDTjVyOHMwZWJXYUJrQ0hWQzQyX3c5b3d2VDY5X3J0WHY2c0hvY2c?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T13:23:17+00:00",
+    "detected_at": "2026-11-26T19:50:29.257713+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 387.2,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 387.2,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "3925e41545c89da911c1",
+    "title": "Bitcoin’s Price Every Thanksgiving Since 2013 - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSG5XTVhfaVBpeXM1cks3c1JuZG5GcmNYdnJSTXdXWkZweTBDN010bEhQZmxJTXNiSmRyZVVXWlFveHpleDdYOGdVa09xczVvY3hSblZDcElZc3ZydDAxZnlEVXZKNndSdm9jcTVSTG1JTU1VN2tGaXBOdkFqMURNdXBNWS1xUW1Xdzd4UW9HZU1Cb3pzZHVrdE1WRWh2Vl9UYzlBS19R?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T19:44:00+00:00",
+    "detected_at": "2026-11-26T19:50:29.255020+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 6.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 6.49,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60661.725,
+          "observed_at": "2026-11-26T19:50:31.401611+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1705.2,
+          "observed_at": "2026-11-26T19:50:31.691184+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.31,
+          "observed_at": "2026-11-26T19:50:32.021001+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60661.725,
+          "observed_at": "2026-11-26T19:50:31.401611+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "80d0a24cb3fc73f3af6b",
     "title": "United States Dollar Index climbs back towards 103.85 as recovery in AI trade gathers pace - www.tmgm.com",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTXp2dDRFcVJDd3RsT3hLT3lBZnVGZklTSHpfZ0luWXdFQVBmVmE3ekJmanNuc3Zpa2pwLXhvdkpyaXZuTmFnU1JlWkE3XzhIdzFObUVlRklVRnpsel9nQ1pTbnBXVndIMFFPZUJWMFMxcFB1aUpxYjlza1laMGRZSTFMMWdXQjN5bVhFYk5fal94aUJrMExCZTRXUTRsaXVHejBKSmZZQjk3OWhIdlMxR1MzdXJOaGhkc3F2bzY0TDdkYzlscVQyLUoyU19OOVl6SEJLdjRaalo1aGozczZHTQ?oc=5",
@@ -334,7 +498,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60661.725,
+            "observed_at": "2026-11-26T19:50:31.401611+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1824
+          }
+        }
       }
     }
   },
@@ -1399,6 +1575,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.2822
+          },
+          "60": {
+            "price": 60661.725,
+            "observed_at": "2026-11-26T19:50:31.401611+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1473
           }
         }
       }
@@ -6130,6 +6317,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0403
+          },
+          "240": {
+            "price": 60661.725,
+            "observed_at": "2026-11-26T19:50:31.401611+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.2915
           }
         }
       }
