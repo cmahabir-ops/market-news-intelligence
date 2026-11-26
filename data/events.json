@@ -1,5 +1,56 @@
 [
   {
+    "id": "f660a8fe1dae4cb34344",
+    "title": "Is the 2024 US Stock Market Rally a Trap? Wall Street Giants Warn S&P 500 May Plunge to 5500 Points - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IZmZPRGhwNGVtY0QyVmRnOVVMMm10Z0hTbnRuUHVNbWpjX2xTQWZCZG9rYkVNS3pJYnY1R2dlQTJkejdMWldWM05iQklpeGZBcEUw?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T00:44:39+00:00",
+    "detected_at": "2026-11-26T00:45:30.132563+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 0.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 0.85,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "49323f2b2809ee30d850",
     "title": "Prediction: 2 Cryptos That Could Pass Dogecoin’s Market Value in 2027 - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaEgzSWE4YmlYZDBBX0l0TTAwb3NLdmNlNTlOUE9PaUt6Y2NQQUMyR2ZjSEE5cUR2cUFuZ2lWS3pkdTRsUUEwMERoZXEtdWRESGt5ZDU5MTJGR0hNSDlaTnBReWRZTVJqaGFKTlVSQkRWLWZyR0xlbnpmWGFVdmw3c1BFQ3BaVXExTi1RSW9ua3VHelBaU0l2ZnpyUk44bGFrVFFmVDBEZFlvcW5vTXBTdnVkbl9pMGNZMkM3UThBNVNrZEdr?oc=5",
@@ -465,6 +516,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.02,
+          "observed_at": "2026-11-26T00:45:32.966907+00:00",
+          "returns_pct": {
+            "XRP": 0.4435,
+            "BTC": 0.4149,
+            "ETH": 0.3002
+          },
+          "asset_elapsed_min": {
+            "XRP": 60.0161,
+            "BTC": 60.0168,
+            "ETH": 60.0188
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0286,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -494,6 +565,19 @@
             "change_pct": 0.0802,
             "benchmark_return_pct": 0.0983,
             "excess_return_pct": -0.0181
+          },
+          "60": {
+            "price": 0.93985,
+            "observed_at": "2026-11-26T00:45:32.940061+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.4435,
+            "benchmark_return_pct": 0.4149,
+            "excess_return_pct": 0.0286
           }
         },
         "benchmark_asset": "BTC",
