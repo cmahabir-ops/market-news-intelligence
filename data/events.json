@@ -1,5 +1,190 @@
 [
   {
+    "id": "04da8c9e653843b450da",
+    "title": "Goldman Sachs: China-linked AI facilities may need to reassign up to 395,000 GPUs - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEtFMllKNU8tRUtqUzQ3WGxwZnd1WDllOUdxTUxhbUlUVWx3NmR4V1BzWTFaVlpjRGRVSEJhNklhbW9ZNFIzT0laTmJCUE9pZ1FFeFg2c2R3SmdnR3Jxd3JGajN3cmdRa1dqYjdhSklURUJKTHhJQThoLUpNMERxR0NlZ2JfTTlrZHRHelJQaDNpektIcU1wSm1laWJ3NG90T2doQk1CVHg1Z2c?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T23:08:17+00:00",
+    "detected_at": "2026-11-26T23:55:28.377077+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 47.2,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 47.19,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "7ed6e22e13e5c8870abb",
+    "title": "Taylor Monahan says the scripts behind North Korean laundering can be turned against it - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT2lGSGw3dTItZTl3dDRRdTdWeFg1NFc5Tlk3aWpWQlZ6VlRNQ3BQanREMGF6cF9nSy1yY2pOdEljY2VRR2NRZ0ZHaDVmUXZqSzNYS1RjRDhMcm1paURvR09od2JnelVYdm5KX18xSWVxYUt5a3ZRdG93aEVDZjJKZw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T23:38:30+00:00",
+    "detected_at": "2026-11-26T23:55:28.376402+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 17.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 16.97,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "3ca62e8c82a94e2f31ce",
+    "title": "Fed rate hike bets strengthen as strong growth fuels inflation - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUjJ0UV95OFBFMFJQU2RLZTZabXYySlVYWWJUUHdobHdLMVdqOUpSWk45RlRvNEdiN0JiV3paV0dFUDJHaUs4dHU5d1dPNjhYUDVyeTd3WXVicU9FdE1jdWhGN3ppNU4tZXhrNEdhMjFab1cwWUE5VHJuNUtPWnZPOWdvVTk4YWRseHFPbUZtLXdqUVR5MUVuZ2VJd2VlZ1pWNi0wc0ZDdmE1aXFrSmkxbmpOUEJGa2E1am03RDRSSlpCSjNIQ2tPSG45NnBTMTZHcWd4bTBqOW9EN0wydWRCMW13ZjU3cGvSAewBQVVfeXFMUFkxd0R5Sk1HNEdLX19pS3pyeGRqM19yMjZDLWQxbTVEbDJUaGd5enpGQlk0ZTBIcHhyaEM5UjdIMVVnQktXTnM3NHppYVRmWk1NaEt3N3FialJZWERSQVpKYnZtWGRmUl84WkQyS2tnZkpWdmtkeWxVWHlqemNjQUVLamwwSmF1OVI2ZjB0TG1zX0xlMFpoRjJqX0pXX25TWEdLUVNZWDlEeWFXY2JuZ3RDTy04ZDRNakpXOTFPSUNWUk9LV0lNLVZ2dHIyUXRnakEyS0Rya0tHaDRqaTMzTDAyVFMwZzlkNWNxUTU?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T06:23:49+00:00",
+    "detected_at": "2026-11-26T23:55:27.921593+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 1051.6,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": "central_bank_rate_decision",
+    "macro_status": "candidate_context",
+    "macro_benchmarks": [
+      "SPY",
+      "QQQ",
+      "BTC"
+    ],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 1051.65,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "SPY",
+        "QQQ",
+        "SMH",
+        "XLK",
+        "BTC"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60502.955,
+          "observed_at": "2026-11-26T23:55:29.491744+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {}
+  },
+  {
     "id": "10f588e685d193cf33ae",
     "title": "Fidelity Pushes Beyond Bitcoin With Chainlink ETF Filing - Bitcoin News",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHFZWUZ0YUM1cDhlSTl5X0lYM2FwNTJ4Qk4yS2ZmMzM3TVlwSU9iZjVuT2Q0dS1fcDJhdGFxajNrUmFFNWNKUlJ6UF80b0JqY1RZcVZsNUw3VUhRUERhY3lkVkRMQ0RKRnQ1X3hXVEd3SnEzVi14NV9CM0h0RzdRc0h2RngyS2p3OVBqcXVOeWJmcnN3?oc=5",
@@ -107,6 +292,26 @@
             "BTC": 4.9333,
             "ETH": 4.9322,
             "SOL": 4.9281
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.92,
+          "observed_at": "2026-11-26T23:55:29.989384+00:00",
+          "returns_pct": {
+            "BTC": 0.242,
+            "ETH": 0.2718,
+            "SOL": 0.0494
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9124,
+            "ETH": 14.9093,
+            "SOL": 14.9053
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
@@ -244,6 +449,26 @@
             "BTC": 4.9333,
             "ETH": 4.9322,
             "SOL": 4.9281
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.92,
+          "observed_at": "2026-11-26T23:55:29.989439+00:00",
+          "returns_pct": {
+            "BTC": 0.242,
+            "ETH": 0.2718,
+            "SOL": 0.0494
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9124,
+            "ETH": 14.9093,
+            "SOL": 14.9053
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
@@ -4844,6 +5069,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0644
+          },
+          "240": {
+            "price": 60502.955,
+            "observed_at": "2026-11-26T23:55:29.491744+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.2617
           }
         }
       }
