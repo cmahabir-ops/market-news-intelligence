@@ -1,5 +1,108 @@
 [
   {
+    "id": "567b387d4cd749dc4a93",
+    "title": "Crypto Market Up Today- Will Recovery Continue? - CoinGape",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYWt2RXJfSDZDN0kxenZpV3pFdE9RUEl6TnZLWnNWd28wc191dndVRi1fdFlwbzNuVjR6cUtXODJOc2h4a3QtMldYanIzUUhuSGJXZmZqSHppcEd0cU9ZVmcwR3lHeU9EeUk2TGI5ZEhWaWx0X19faEFxbFFSLUw2UQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T13:44:22+00:00",
+    "detected_at": "2026-11-26T13:50:26.127060+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 6.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 6.07,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "2be35210de832952d7e0",
+    "title": "Fed Chair Warsh Keeps Tight Grip on Rates Over AI-Driven Price Pressure, Clashing With Calls for a Slower Pace - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55TVY4WXg2eVFTNmQyc2ZOYlFRU3BUWWpXNWwtY3BrSFYxcG44MmpETlloOXh2Yjhveno4YXBYMWNtUUZvYi1vNTNPbkNSN2M2Y21vdUZDOVNWeVkwMEhZLWF5WDZDR1hjZTZpQTdIMzMycUlzbWc?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T07:36:00+00:00",
+    "detected_at": "2026-11-26T13:50:25.619573+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 374.4,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 374.43,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "e723b5fa4c4dc8ef3a48",
     "title": "Galaxy Withdrew Its Bitcoin Bottom Call: Here Are the 2 Levels It Now Watches - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWXRQZmt3cHZkLV80S0NiTkFRa1FHV1ZsY0VMbl90dm9YakZheXVUb3VHeEhGZ2gzeTdQYVBVQWRqTXdUUHhxbHZtWkRKTlNiUV9CX3NGWlMyOGxLS1NxdFV5ZmsxYS00RWZCOWZIeUlWWGpVLTJLdUNTWGpCOGhUS04wR0t1TjNCb3NFWTNfVDUyQmY1bFFiT0R6ajhSMy1JNjV3QWZvQkN0XzNsRDNlbHIzaXpDOVRCMWtySDRrcEE0X05nNkJlblBTdk1fUHdo?oc=5",
@@ -92,7 +195,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.9,
+          "observed_at": "2026-11-26T13:50:28.761142+00:00",
+          "returns_pct": {
+            "BTC": 0.0562,
+            "ETH": 0.0532,
+            "SOL": 0.1974
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.8855,
+            "ETH": 4.8846,
+            "SOL": 4.8851
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -379,6 +503,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.05,
+          "observed_at": "2026-11-26T13:50:28.761196+00:00",
+          "returns_pct": {
+            "BTC": 0.1154,
+            "ETH": 0.0285,
+            "SOL": 0.3388
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.039,
+            "ETH": 15.0393,
+            "SOL": 15.0413
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -395,7 +539,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60852.245,
+            "observed_at": "2026-11-26T13:50:27.842432+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1154
+          }
+        }
       }
     }
   },
@@ -513,6 +669,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.05,
+          "observed_at": "2026-11-26T13:50:28.761225+00:00",
+          "returns_pct": {
+            "XRP": 0.121,
+            "BTC": 0.1154,
+            "ETH": 0.0285
+          },
+          "asset_elapsed_min": {
+            "XRP": 15.0415,
+            "BTC": 15.039,
+            "ETH": 15.0393
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0056,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -529,7 +705,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 0.9512,
+            "observed_at": "2026-11-26T13:50:28.714812+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.121,
+            "benchmark_return_pct": 0.1154,
+            "excess_return_pct": 0.0056
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 60782.095,
@@ -2409,6 +2599,26 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.97,
+          "observed_at": "2026-11-26T13:50:28.761296+00:00",
+          "returns_pct": {
+            "BTC": 0.1325,
+            "ETH": -0.0792,
+            "SOL": 0.3388
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9576,
+            "ETH": 59.9583,
+            "SOL": 59.9604
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -2573,6 +2783,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 1,
           "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.97,
+          "observed_at": "2026-11-26T13:50:28.761313+00:00",
+          "returns_pct": {
+            "BTC": 0.1325,
+            "ETH": -0.0792,
+            "SOL": 0.3388
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9576,
+            "ETH": 59.9583,
+            "SOL": 59.9604
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
