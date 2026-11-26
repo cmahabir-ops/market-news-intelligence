@@ -1,5 +1,118 @@
 [
   {
+    "id": "6308dd52295a8248165e",
+    "title": "Braiins Warns Bitcoin Hashrate Hijacking Attacks Hit 1,050 to 1,600 Mining Sites: 10 outlets compared - NewsCord",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPU1VxMTlDdnBpd2d1SXFfYzFwNDhBaV9mNG5lX2ozdmU0TzI1OHg1aDJCa0NGejYza1FzczJ6OFhfekZ0Qlh4VG5LbXJ3OEpDS0p2b3R6Ry10VXBrWWpMZWkwX1d1X3cxaEJnYjE1aDFyekhNWTNvMThJekpPWlF4Sk9lV0FqUExNR1ZsYWIyTzFsWjRWbWtRdjJyWFZDb1dsVV9JWG5CMENQRTR2SFRLWTc0TWpZUFVmZGtsTVA2dktOQ2p4NWNUWmpTVlNQaTNBV1VuTjB1SXMyaEphV3loWldJSUVCTkU?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-25T23:22:32+00:00",
+    "detected_at": "2026-11-26T05:50:35.332107+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 388.1,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 388.06,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60712.255,
+          "observed_at": "2026-11-26T05:50:36.877870+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1692.845,
+          "observed_at": "2026-11-26T05:50:37.161810+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.96,
+          "observed_at": "2026-11-26T05:50:37.396399+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60712.255,
+          "observed_at": "2026-11-26T05:50:36.877870+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "13fbb3ad6c726bb32e39",
     "title": "U.S. Stock Market Today: 4 Critical Gains and Losses - STL.News",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XNVFBOG9LSUUweVdURUM0SFBJU3NRQ1VNeFlYUlpHU29QZVpZNW1nQnc5akVZTW9XZFcwQ3QzZmZMcjdHWlpQZEJwb1NPVF9OSFZDTktZblhudFd4d081RTZKQ2FHV2xURHNmaw?oc=5",
@@ -164,6 +277,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.12,
+          "observed_at": "2026-11-26T05:50:37.594475+00:00",
+          "returns_pct": {
+            "XRP": -0.3897,
+            "BTC": -0.4193,
+            "ETH": -0.437
+          },
+          "asset_elapsed_min": {
+            "XRP": 15.1117,
+            "BTC": 15.108,
+            "ETH": 15.1102
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0296,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -180,7 +313,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 0.95865,
+            "observed_at": "2026-11-26T05:50:37.490807+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3897,
+            "benchmark_return_pct": -0.4193,
+            "excess_return_pct": 0.0296
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 60967.905,
@@ -932,6 +1079,26 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.12,
+          "observed_at": "2026-11-26T05:50:37.594549+00:00",
+          "returns_pct": {
+            "BTC": -0.3417,
+            "ETH": -0.518,
+            "SOL": -0.1758
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.1046,
+            "ETH": 60.1066,
+            "SOL": 60.1079
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -959,6 +1126,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0965
+          },
+          "60": {
+            "price": 60712.255,
+            "observed_at": "2026-11-26T05:50:36.877870+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3417
           }
         }
       }
@@ -1144,6 +1322,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0601
+          },
+          "60": {
+            "price": 60712.255,
+            "observed_at": "2026-11-26T05:50:36.877870+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.35
           }
         }
       }
