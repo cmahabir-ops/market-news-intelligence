@@ -1,5 +1,57 @@
 [
   {
+    "id": "85a0c75fa1f93fb7528d",
+    "title": "HSBC's Kettner Says VIX at 30 Is Long-Term Buying Opportunity - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNajU1aUt4cFNET0MzLTVldUh6WDQzc3dwWnRGOGozT3Z4bl8zR2ZUVUFKd1pQTmxZbHhqMERTc09qN0UydmVJLW45NlNVRE4zaXZEWHgtZ19scURwS0FRdDJrazRPbWwxZXZ2YTRvcFV2azhRRHFOLVNqQWM5TzA3STRuRmNsVFh4cmFmSWhBMlY?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T13:57:43+00:00",
+    "detected_at": "2026-11-26T09:05:27.533219+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 1147.7,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 1147.74,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "96b06c1438bdfbf1e6f2",
     "title": "Bitcoin Bears May Be Walking Into a Trap as $16B Short Squeeze Builds - CryptoRank",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdEY3T2ZlVDAtRUtWYVNnY2dQMEJOdVJmZV9zSlFmSzdNeGNuVkVXNEREamFEZjNXY0ZaSmNuVkJNYmRHTXVoZUYwMENJOV82UnkyazB5ZXZNdTZkVWl3ZmJfbG05bl9hODF5ZlRKMHUtV01IX0dNWnU0c0NtNFRkeFJGTS1USExkQUJGV3pDU0ZUTm5CV3ZuRnF1dDRqbHlYVC1lVkMtSnBkUQ?oc=5",
@@ -92,7 +144,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.93,
+          "observed_at": "2026-11-26T09:05:30.562258+00:00",
+          "returns_pct": {
+            "BTC": -0.0102,
+            "ETH": -0.0277,
+            "SOL": 0.0211
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9133,
+            "ETH": 4.9125,
+            "SOL": 4.909
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -204,7 +277,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.93,
+          "observed_at": "2026-11-26T09:05:30.562321+00:00",
+          "returns_pct": {
+            "BTC": -0.0102,
+            "ETH": -0.0277,
+            "SOL": 0.0211
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9133,
+            "ETH": 4.9125,
+            "SOL": 4.909
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -316,7 +410,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.93,
+          "observed_at": "2026-11-26T09:05:30.562356+00:00",
+          "returns_pct": {
+            "BTC": -0.0102,
+            "ETH": -0.0277,
+            "SOL": 0.0211
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9133,
+            "ETH": 4.9125,
+            "SOL": 4.909
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -578,6 +693,26 @@
           },
           "benchmark": "BTC",
           "primary_excess_return_pct": 0.0405,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.98,
+          "observed_at": "2026-11-26T09:05:30.562391+00:00",
+          "returns_pct": {
+            "XRP": -0.2611,
+            "BTC": -0.2394,
+            "ETH": -0.0538
+          },
+          "asset_elapsed_min": {
+            "XRP": 14.9628,
+            "BTC": 14.9646,
+            "ETH": 14.9637
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0217,
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
@@ -1628,6 +1763,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.04,
+          "observed_at": "2026-11-26T09:05:30.562475+00:00",
+          "returns_pct": {
+            "BTC": 0.4271,
+            "ETH": 0.5643,
+            "SOL": 0.1623
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0227,
+            "ETH": 60.0253,
+            "SOL": 60.0278
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1655,6 +1810,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0575
+          },
+          "60": {
+            "price": 60801.525,
+            "observed_at": "2026-11-26T09:05:29.492857+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.4271
           }
         }
       }
@@ -1793,6 +1959,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.04,
+          "observed_at": "2026-11-26T09:05:30.562493+00:00",
+          "returns_pct": {
+            "BTC": 0.4271,
+            "ETH": 0.5643,
+            "SOL": 0.1623
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0227,
+            "ETH": 60.0253,
+            "SOL": 60.0278
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1820,6 +2006,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0575
+          },
+          "60": {
+            "price": 60801.525,
+            "observed_at": "2026-11-26T09:05:29.492857+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.4271
           }
         }
       }
@@ -5399,6 +5596,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.6558
+          },
+          "240": {
+            "price": 60801.525,
+            "observed_at": "2026-11-26T09:05:29.492857+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1261
           }
         }
       }
