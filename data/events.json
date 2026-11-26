@@ -1,5 +1,168 @@
 [
   {
+    "id": "8a5bb5dc1fa397fd5df6",
+    "title": "LIVE – Crypto News Today: Is Bitcoin Bottoming Out? BTC Bounces Back After PCE Shock - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4weDd3U3lTRUFDR1JaWFZTdDBWY2g3LVRPQTdpVGdzbWFjVWZRR0RPaTZjOW1zdGNsaURJQU9Hc09tOHZQX2pUYVlpR2dTQ3JUWm9HMlZTanVYVlF5cHRpQWZxeEgtUjVFSDBZM3dWaXRWVW9RVVlibTV4WQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T04:57:44+00:00",
+    "detected_at": "2026-11-26T05:05:28.708309+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 7.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 7.75,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60878.295,
+          "observed_at": "2026-11-26T05:05:29.885633+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1699.39,
+          "observed_at": "2026-11-26T05:05:30.086467+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.095,
+          "observed_at": "2026-11-26T05:05:30.255525+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60878.295,
+          "observed_at": "2026-11-26T05:05:29.885633+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "b6ed121525024d8c5aec",
+    "title": "US Stock Market Today: Dow, S&P 500 and Nasdaq Futures Stab… - theopenpress.in",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01ZmczeDFpSnhpUTE2M0Q1NzhiX0JqYk5RdUFHdm1BSml3Wmxodk5Jb09IOXJMMVpMVWJlRkI5ODhZM2Q4a2NfVHNlaHF4cHU2VGY5NUtvbHNsNUJOMUN0M2tyeWNodw?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T04:56:00+00:00",
+    "detected_at": "2026-11-26T05:05:28.157743+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 9.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 9.47,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "f68eadecdea6de7b8d4e",
     "title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions - TradingView",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQWJmLVBLTUdELW5OR0oteElTcjFIOFE2cGJMS1hLX1YyLTNqeVBhTmozLXA5QmRRNmY0bHA1TlczTGIzZm00ZzAtYTMxMkVFM095UGdVd3FGWGtsVURITGZRbUluaWpVN0lneXJQRExBRzhBSUpEUERPcGpVRm53aXZMZjFPZTdqS1g3ZEsyWE9nRlRZd3ZkRkNxcTdiVjFMdDI0VXFqN0dqV3hncTRnNi1ydGxWeThlWWFCZFNLdnhabGJ0YVpQOVpYLWc?oc=5",
@@ -297,6 +460,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 0,
           "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.0,
+          "observed_at": "2026-11-26T05:05:30.407750+00:00",
+          "returns_pct": {
+            "BTC": -0.0692,
+            "ETH": -0.1334,
+            "SOL": 0.0141
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.988,
+            "ETH": 14.9887,
+            "SOL": 14.9889
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -3101,6 +3284,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.3567
+          },
+          "240": {
+            "price": 60878.295,
+            "observed_at": "2026-11-26T05:05:29.885633+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.525
           }
         }
       }
