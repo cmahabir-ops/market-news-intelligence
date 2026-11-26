@@ -1,5 +1,57 @@
 [
   {
+    "id": "277bc42c7d279e92c2cc",
+    "title": "Should You Tap Ultra-Short-Term Treasury Bond ETFs? - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTFKdnZTT29yRWI4UWxuallCV3lKelNSUkhiRjhreE1TdnpTSk5jSWlDem5FWlVuSW1DZWxubkg0NFNWT2JqM1o0dWtIdFVxRDFiZ3hJdVE0Q0VJMkJLZGhMb0ZBbVN6MmJsRlhvRkVmQlFsdVdHMTNhRGhpcENGNzF0Y2xnaWRfaVpaOHBtVDQ0ZzJpR3Y2SlQ1dHBVa0lXamE0SGdma2xUUQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T13:43:00+00:00",
+    "detected_at": "2026-11-26T23:35:28.245560+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 592.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 592.47,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "f3c72840f872a06bee06",
     "title": "US stock futures rise. But is the AI market crisis over? - The Financial Express",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmk3aUY5Q1B6NmhET0g2TGxOQUJmNmw1ZGZ6Ry1qZno5ZzJ1QnAxbVFEYURWcHV1VXpob3BHUkNlb0hQLU5SVkNDcHBpeGEwRjRQeVhWdjNaWmxYcGo4OVNEeWZLNDlRcmh2Y0ZzeUFJSGhTWjZldGgwaXF1ekY3V2lJZUZfN2g1bUZ3NDd6S0htaThqRUxqaVUteXFia1hBYnp1S01LWUwybWd5YnA5UnZaTWJrMlB2UXfSAcABQVVfeXFMTnIyUGN0WS05YzVSQUtqZm1pVWZXbEh3VXpQN3d6X20tTjd6dzJYdTdpNGdHRW5nUzRTNEI2aHY3dU1DY29Yd3NGek8zbHhLeDk1c19ycF9rYThudDEyMXI4VW82NVBTeTlmYWYwVkM5ZlBkdVNBZEpCQjFxZXMzNkNTa25lcnBYbDB5eGlTNVJyd0syVGozNnByNDlzU3haZ0tta3hBV3FmRmdxUDNKb1g0TlYzOFBOQzAyQlpXa05r?oc=5",
@@ -163,6 +215,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 3,
           "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.95,
+          "observed_at": "2026-11-26T23:35:30.377047+00:00",
+          "returns_pct": {
+            "BTC": 0.0238,
+            "ETH": -0.0644,
+            "SOL": 0.0141
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9442,
+            "ETH": 14.9432,
+            "SOL": 14.942
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
