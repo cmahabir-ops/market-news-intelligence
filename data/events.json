@@ -1,5 +1,57 @@
 [
   {
+    "id": "5888eefbe8b56b4c87ca",
+    "title": "What to Look Out for in Economic Data This Week (November 23-27) - Kiplinger",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T16:59:16+00:00",
+    "detected_at": "2026-11-26T09:45:26.821010+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 1006.2,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 1006.18,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "d098794ccc8cab22419d",
     "title": "Washington’s Crypto Policy Showdown: 3 Battles to Watch, Including the Bitcoin Reserve Bill - CryptoPotato",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUjRkb19yZGV3WEIwdEtmNGI2MTQ5bGtnY2pWX1RwUlJ2eWpWS0xUQWRrUUdYMHAwWGlteXVycGdKUjRHRkRjbFE3MXJnMXc3R0ZFdVdRT0Y3NXFvRVhtdVdQSmxwc2NKTm1EZ3JUZEVCQUwxUzV6eVRrSGRiN2dzbjhJQ3ZReFgtQUd2ZU1GbDNidFJzRFJBQm9HaGJxSHhlbS1YQzYzZldkazc5dHlTZ2g3WDg?oc=5",
@@ -93,7 +145,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.98,
+          "observed_at": "2026-11-26T09:45:30.316621+00:00",
+          "returns_pct": {
+            "BTC": 0.0722,
+            "ETH": 0.0253,
+            "SOL": 0.0563
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9652,
+            "ETH": 4.9678,
+            "SOL": 4.9725
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
