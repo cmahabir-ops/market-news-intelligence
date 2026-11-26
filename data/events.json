@@ -1,5 +1,180 @@
 [
   {
+    "id": "3405d6edd8429394e014",
+    "title": "Which XRP Competitor Is Closest to Catching It: Stellar, Hedera or Chainlink? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWHFBSm5rNkFTUkVUdXd0OGxISlo5UjVVNlpLdW0yR28tWGg0UUJ6d2RjbW0wYWNTQzY1dnl1TzFKRDJJQnF4ZUJhOHdrc2ZxMXR5SWN6Qm84b2hGYUVJNzlEVFdRYmp4NC1uSU82TUFNekx2aXJpZGpNZWo2eGRWQnZOZXlDSDJWY0ZiNFRWdUp1UFdvUTlTUGk4czM4cTZxMGxTbEJ3ekd3VDFJWUpmRE53V3RRUWF0UXBlT01MaWJ3TUd6dzFOMkxrRlc2dw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T20:46:00+00:00",
+    "detected_at": "2026-11-26T20:50:33.221670+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 4.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 4.55,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.9512,
+          "observed_at": "2026-11-26T20:50:35.763040+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 60700.8,
+          "observed_at": "2026-11-26T20:50:35.146946+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1702.885,
+          "observed_at": "2026-11-26T20:50:35.353561+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.9512,
+          "observed_at": "2026-11-26T20:50:35.763040+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 60700.8,
+          "observed_at": "2026-11-26T20:50:35.146946+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "531e4cfe7e0477b7e20c",
+    "title": "Is this time different? Schroders: The Fed may pivot to easing amid the sharp sell-off in U.S. stocks, but the rebound is unlikely to be sustained - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcTRnVjFVcWZtN0tQYWU2UjVqRS1nOGhmZENXeUR1bHptN21fRlJHMWxMYnRZOHRrbmtpTzRIU3Z5dGZMQ3M2RXhGVmNQSDBta0tLRERLWEVZU21Wc3BibFdGbVdvOHNLM2t4YnZxdFZHeEpUMDhBdDMtZFVSV0swaG4tSFV0dXJzcHZUVDg3YUlfWVlETlR0b1FfOWxTQQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T12:29:19+00:00",
+    "detected_at": "2026-11-26T20:50:32.806986+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 501.2,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 501.23,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "4b220d86f6b604a3e010",
     "title": "Bitcoin under pressure, altcoins on fire: the crypto market landscape is shifting - Cointribune",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbzJmWjhsVWNNc2dLRDVzQjBLTTdieTNPR0lkc1p0UGlERHgxZUthR05pTURvOGJsbUJuY3lkU3FoajRCRFA4R3Z4X21RdFFLX05UM1h0UXQ1akhqYzltRDZNNmE0Z0VZUldnM1JHMjFLQlowbFJCWEdoWkNjRGJFWTNhY3haQQ?oc=5",
@@ -297,6 +472,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.2,
+          "observed_at": "2026-11-26T20:50:35.863072+00:00",
+          "returns_pct": {
+            "BTC": 0.0415,
+            "ETH": 0.0573,
+            "SOL": -0.0771
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.1883,
+            "ETH": 15.1888,
+            "SOL": 15.1885
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -313,7 +508,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60700.8,
+            "observed_at": "2026-11-26T20:50:35.146946+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0415
+          }
+        }
       }
     }
   },
@@ -1746,6 +1953,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.07,
+          "observed_at": "2026-11-26T20:50:35.863174+00:00",
+          "returns_pct": {
+            "BTC": 0.0644,
+            "ETH": -0.1358,
+            "SOL": -0.0771
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0624,
+            "ETH": 60.061,
+            "SOL": 60.0582
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1773,6 +2000,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0254
+          },
+          "60": {
+            "price": 60700.8,
+            "observed_at": "2026-11-26T20:50:35.146946+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0644
           }
         }
       }
@@ -6129,6 +6367,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1605
+          },
+          "240": {
+            "price": 60700.8,
+            "observed_at": "2026-11-26T20:50:35.146946+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.3156
           }
         }
       }
