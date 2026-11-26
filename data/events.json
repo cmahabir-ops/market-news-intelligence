@@ -1,5 +1,181 @@
 [
   {
+    "id": "2b6021e5162b5bcf1ede",
+    "title": "Bank of England raises quantum computing concerns as Bitcoin, Ethereum prepare defenses - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkdk9mZmNvMTNZandnbGF0WlN4SWpFMGQ2TWxocXptV3ptQllDYUdOZ0hFRW8zTUZsYnVIWlBMczljRUVKbzVydjVvMVVEYzVKY1IxOFdXWVFlaUN2T1B1Q3BhMFNsVFR1SHQ2WFk1bXBlSmsyb2hn?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T11:58:12+00:00",
+    "detected_at": "2026-11-26T12:00:41.201571+00:00",
+    "assets": [
+      "BTC",
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 2.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 2.49,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-26T12:00:44.326906+00:00",
+    "alert_last_attempt_at": "2026-11-26T12:00:44.326924+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "4616eeaab33f793f0744",
+    "title": "Crypto Market Pulse: Thanksgiving breather arrives as $7 billion Bitcoin options expiry looms - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ3RkYmdMUlR6OXJpc1J2ajlGTEtiODZsaWN2cFpHOEp0eDlKdkRucklYTnk5YnNBMTd3c3ZxdXpheUlfVFpyLVZFM3dHTndLdVFJYUlRNThwSjFwbFZSVE9ZYXlweWVORlNsalZnaWxENldKUTA5NUFaR1NaVTVzckVxellic1JHTUI2NUFsaWUwSGxORHYwSWpBenliWkRBYmQ0Wkk4NHE3WTg1cFcwcDFta01IS1dYTW9MRUZjUGd4d0R1SGJHbTBKRWpQZG8xWmFzQ2R4LVRRSXJRZDlwM2t4a20yZw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T11:46:23+00:00",
+    "detected_at": "2026-11-26T12:00:41.197426+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 14.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 14.3,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60603.625,
+          "observed_at": "2026-11-26T12:00:42.962466+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1697.765,
+          "observed_at": "2026-11-26T12:00:43.300357+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.795,
+          "observed_at": "2026-11-26T12:00:43.589789+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60603.625,
+          "observed_at": "2026-11-26T12:00:42.962466+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "e6651735e511aca5de98",
     "title": "Stablecoin Supply Shrinks by $12 Billion in 30 Days as Crypto Liquidity Tightens - BigGo Finance",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDX0VQQlJRZTd1S1BHTGI1NmVQTXBuRjI2T1VqNlA5NERSVHplNWFlX1ItNFVvNkZvX1RyUFdLek5TX3htSDdORDdaUklNdFhKcDVxQ090R3NtZHFyYTZDRGY1NmowUXFzR3NrSHdSb2JPaHd4Smc?oc=5",
