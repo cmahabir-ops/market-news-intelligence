@@ -1,5 +1,72 @@
 [
   {
+    "id": "19458887a3d8894c08c7",
+    "title": "How Low Can Bitcoin, Ethereum and XRP Fall? 4 Price Levels to Watch - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNkRVNGNzVGhON0VqWmRjeEd2Z3NqX194Um92OGxiMXRybVo4SnNuVEpQNzRlUVR3R2RDNmthdDcxbVFHN2V5RElxTXB6TWJ5ckhJOXg0YWM3THV4U2Fpc0VsaXE5eFJBakdvVFlPbmp4dE5JcHZBdEpkN0I2YzBGRXlTeFdWR0R4TTZMSWlIWUdQUmFveHpXdFZR?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T01:37:00+00:00",
+    "detected_at": "2026-11-26T02:10:29.993539+00:00",
+    "assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto",
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 33.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 33.5,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-26T02:10:32.657921+00:00",
+    "alert_last_attempt_at": "2026-11-26T02:10:32.657937+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "ee5dd8175f3b3bf21dab",
     "title": "Best Crypto Presale November 2026: Analysts Predict AlphaPepe Could Surge From $0.03833 to $1 in 2027 - StreetInsider",
     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbzR5a3NEVXlCY0JIU2c3c0tMQTM1Y1ZtcE5SQ0xKTFRabVN5UGI1RGM5MTNiaExWalk2dTd3eWJkRGhaTWtuQVlqQnBtVUtCN3VWTHNMVUhQankzdk9UamdPeDhXYm1NZ2pIaEIwdnJiT19PUlBhNFREb1VLOGhwNkx5MVQwQWlHLVdjTWtsTjJaX2RpLVpWQ2FadUc0cm5nZzdid211Z1lEVHJMTUVVMFBZU1JoT2IyMmFFRlpjMDFtd3EyZ0tqcGlNRXZ6QkZ6bjAxaEtRTnRBcW9oWTN2cnRuTDlsRW1LZldDeTN2YlA4ZTlrNlJjRW9PMA?oc=5",
@@ -1072,6 +1139,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2376
+          },
+          "60": {
+            "price": 60776.35,
+            "observed_at": "2026-11-26T02:10:31.668023+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.3567
           }
         }
       }
