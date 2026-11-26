@@ -175,6 +175,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.95,
+          "observed_at": "2026-11-26T05:20:27.177167+00:00",
+          "returns_pct": {
+            "BTC": 0.0343,
+            "ETH": -0.0335,
+            "SOL": 0.204
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9383,
+            "ETH": 14.9425,
+            "SOL": 14.9446
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -2964,6 +2984,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2654
+          },
+          "240": {
+            "price": 60899.205,
+            "observed_at": "2026-11-26T05:20:26.182068+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.326
           }
         }
       }
@@ -3163,6 +3194,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2654
+          },
+          "240": {
+            "price": 60899.205,
+            "observed_at": "2026-11-26T05:20:26.182068+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.326
           }
         }
       }
