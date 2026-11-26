@@ -1,5 +1,131 @@
 [
   {
+    "id": "2d262c39315368e29494",
+    "title": "XRP Becomes the Only Crypto With ETF Inflows in November - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNDF5M0hvZWVPYXdtbFhrUmpqSFNtVnVCUVBVd1dtTjJ4VGhHbFMzNmRlYzNDeDNaWmc3SXh4UFhXb0hjZEZtUWtUclZia0xRWWM1MzJURVJGUFprLTAzOGJaWVJWaFV5alJGdmIwUzVJcWZDSDJjcHB0aklyY0JUSDFXX1o5SFdpNHRMVTBDcVNGMTlVQzZHMFd6SXlqSHBIX2Z5VXBrZGZiZVByX3c?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T13:55:40+00:00",
+    "detected_at": "2026-11-26T14:00:39.564200+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 4,
+    "rationale": "Headline contains potentially positive catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Potentially bullish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 4.99,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.95015,
+          "observed_at": "2026-11-26T14:00:41.617063+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 60798.315,
+          "observed_at": "2026-11-26T14:00:40.983303+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1701.855,
+          "observed_at": "2026-11-26T14:00:41.264184+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.95015,
+          "observed_at": "2026-11-26T14:00:41.617063+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 60798.315,
+          "observed_at": "2026-11-26T14:00:40.983303+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    },
+    "alert_delivered_at": "2026-11-26T14:00:42.504595+00:00",
+    "alert_last_attempt_at": "2026-11-26T14:00:42.504611+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "9be360ba9acf98fae248",
     "title": "Schroders Warns: Even If the Fed Pivots to Easing, a US Stock Rebound Won't Last - BigGo Finance",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TTWJXMkxiSUp0MjU0X0tMZV85a21lUmdjSExnM0RBcndFR1dsTDVxRmNGV0xZMDdLWDN3Ym1CaWtDMElESkpRQlJKRTFDamQxZWptemZRNTlQWEtJNGdXNkdjRmw4Qjk4Tl83RnBVRWtTOHE5LUE?oc=5",
@@ -267,6 +393,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.12,
+          "observed_at": "2026-11-26T14:00:41.652395+00:00",
+          "returns_pct": {
+            "BTC": -0.0325,
+            "ETH": -0.0029,
+            "SOL": 0.2749
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.1046,
+            "ETH": 15.1031,
+            "SOL": 15.1001
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -283,7 +429,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60798.315,
+            "observed_at": "2026-11-26T14:00:40.983303+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0325
+          }
+        }
       }
     }
   },
@@ -2420,6 +2578,26 @@
           "primary_excess_return_pct": 0.0204,
           "positive_assets": 3,
           "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.98,
+          "observed_at": "2026-11-26T14:00:41.652550+00:00",
+          "returns_pct": {
+            "ETH": -0.0511,
+            "BTC": 0.1098,
+            "SOL": 0.4235
+          },
+          "asset_elapsed_min": {
+            "ETH": 59.9763,
+            "BTC": 59.9734,
+            "SOL": 59.9773
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.1609,
+          "positive_assets": 2,
+          "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
