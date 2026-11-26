@@ -1,5 +1,108 @@
 [
   {
+    "id": "4790f6e5e03d968d864b",
+    "title": "Cryptocurrency held by public officials in their asset declarations: a ranking of holders - UkrMedia News",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdncxZEplR0UwWVBCTkkxYkE5U3NGd244c25rdTdpY0JTNjhHQ1RvNW9kWmVEc3RvZFItdWl6NDMtQ0hfcmFqM284d2YtWUFSWWJ0NzFwZXY4cUwyYjFOaDBlRlZqQW9uN2FZQ2c1aEFRQlNrZ2hoTklWa3ZWMFJXRmlyOEo?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T16:31:08+00:00",
+    "detected_at": "2026-11-26T16:35:27.238631+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 4.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 4.32,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "0c8606b41c4afac9265e",
+    "title": "US Inflation Rises to 3.8% Ahead of December Federal Reserve Meeting - Dosya Haber",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdS1fZmRybTlyR0l2MUhqYTdmb1oxMzhfQWNzQVQ3UWVRZ1BZOTM1bG1PLWk5eEVDeWJiX2RDbmJPNWo4Snowd2s3b1ZCMU1SNF9kc0h2MzlDbl9kUHBnWmQ0WGxZd0Y0ZTY2N2MyNDFIT3N2MDh5V2NKVjVXYWd2WTVPWU5rOVFZVnQ1ejRIX2lJVGRaV1NRa0JvRWk4UXJ3eWprb2xESTdfejc2WW5r?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T09:36:54+00:00",
+    "detected_at": "2026-11-26T16:35:26.726213+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 418.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 418.55,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "8773b297288305a242ee",
     "title": "Monero Delisting: KuCoin Ends Spot Trading November 30 - Bitcoin Foundation",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ0NjQjN2UVlkZEl4VC0yeEU3Y2VMLUVJWVhoNXVpS2tvMDlmQUd0dldpYjNZb0ViVTlPR0Y3eExJdnNtWjRPeWw3LXZDaUtZTWN5bld5UUN5T3R3clBtWTBWWWNlZG5iTmUxMEVkRExubEVjRUR5OEJvODRHRWdoUWtGY3pKN1cyTXNhSHM2TXFlZF9hTjdLNF9LYmVmM3BEUXB4ZmR5eWdrYnRENEV1c3NScHFJWnhVU2c?oc=5",
@@ -92,7 +195,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.81,
+          "observed_at": "2026-11-26T16:35:30.242096+00:00",
+          "returns_pct": {
+            "BTC": -0.0178,
+            "ETH": 0.0933,
+            "SOL": 0.0
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.7893,
+            "ETH": 4.792,
+            "SOL": 4.7927
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -537,6 +661,26 @@
             "BTC": 4.9794,
             "ETH": 4.9775,
             "SOL": 4.9776
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.93,
+          "observed_at": "2026-11-26T16:35:30.242191+00:00",
+          "returns_pct": {
+            "BTC": -0.3755,
+            "ETH": -0.206,
+            "SOL": -0.5845
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9139,
+            "ETH": 14.9146,
+            "SOL": 14.9161
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
@@ -1530,6 +1674,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 2,
           "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.86,
+          "observed_at": "2026-11-26T16:35:30.242255+00:00",
+          "returns_pct": {
+            "BTC": -0.1593,
+            "ETH": -0.2196,
+            "SOL": -0.1344
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.848,
+            "ETH": 59.8507,
+            "SOL": 59.8523
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
