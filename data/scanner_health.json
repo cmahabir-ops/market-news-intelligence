@@ -1,14 +1,14 @@
 {
-  "started_at": "2026-11-26T06:20:27.539569+00:00",
+  "started_at": "2026-11-26T06:25:31.860091+00:00",
   "feeds": [
     {
       "source": "Google News - Markets",
       "status": "ok",
-      "entries": 55,
-      "dated": 55,
+      "entries": 28,
+      "dated": 28,
       "http": 200,
-      "processed_limit": 55,
-      "duration_seconds": 0.48
+      "processed_limit": 28,
+      "duration_seconds": 0.35
     },
     {
       "source": "Google News - Crypto",
@@ -17,13 +17,16 @@
       "dated": 100,
       "http": 200,
       "processed_limit": 60,
-      "duration_seconds": 0.5
+      "duration_seconds": 0.54
     },
     {
       "source": "Federal Reserve Press Releases",
-      "status": "error",
-      "error_type": "HTTPError",
-      "duration_seconds": 0.05
+      "status": "ok",
+      "entries": 20,
+      "dated": 20,
+      "http": 200,
+      "processed_limit": 20,
+      "duration_seconds": 0.06
     },
     {
       "source": "SEC Press Releases",
@@ -32,7 +35,7 @@
       "dated": 25,
       "http": 200,
       "processed_limit": 25,
-      "duration_seconds": 0.16
+      "duration_seconds": 0.05
     },
     {
       "source": "BLS Latest Economic Indicators",
@@ -41,7 +44,7 @@
       "dated": 1,
       "http": 200,
       "processed_limit": 1,
-      "duration_seconds": 0.46
+      "duration_seconds": 0.22
     },
     {
       "source": "Federal Reserve Speeches and Testimony",
@@ -50,7 +53,7 @@
       "dated": 15,
       "http": 200,
       "processed_limit": 15,
-      "duration_seconds": 0.06
+      "duration_seconds": 0.05
     },
     {
       "source": "NVIDIA Official Press Releases",
@@ -59,7 +62,7 @@
       "dated": 20,
       "http": 200,
       "processed_limit": 20,
-      "duration_seconds": 0.29
+      "duration_seconds": 0.39
     }
   ],
   "edgar": [
@@ -99,8 +102,8 @@
       "filings": 0
     }
   ],
-  "completed_at": "2026-11-26T06:20:32.237020+00:00",
+  "completed_at": "2026-11-26T06:25:35.070274+00:00",
   "new_events": 1,
-  "total_events": 898,
+  "total_events": 899,
   "alert_failures": 0
 }
