@@ -1,5 +1,117 @@
 [
   {
+    "id": "453558b48983c4965fee",
+    "title": "Bill to lock up U.S. government bitcoin (BTC) for 20 years advances to full House - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaDBVUUgxQjlSVjEyWmxPcFctNmluc0FSUmVfVk5SZS1NUnp3OEFpMzJ4WG1YaGJuSjlMUmVNR0lPSlZqWTNSNndPVmQydVd3S19CZjZ0SDVldXlmZzRHOUJZc3h1SF9nTF9JdUdTOGlfWWhieEZpR2pQakZVcElZbm9WdURrVkw3Z093NHNuVmlBVjBBbFFsU1hIU1NLaUZFWldYdmVvZ0t3V1N0OC1xajBHakp0bl9naTR4dHEtaXBHMTJROWFmT0hTc1p1VklZa3hXVmRFSjA5MmlY?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T04:46:00+00:00",
+    "detected_at": "2026-11-26T04:50:29.551405+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 4.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 4.49,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60920.435,
+          "observed_at": "2026-11-26T04:50:30.604420+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1701.66,
+          "observed_at": "2026-11-26T04:50:30.764152+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.085,
+          "observed_at": "2026-11-26T04:50:30.921897+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60920.435,
+          "observed_at": "2026-11-26T04:50:30.604420+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "e8abaa050ab758d47537",
     "title": "AI could threaten Bitcoin’s cryptography before quantum computers do - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPakIzOF9lTElRc21xckI0U0RleWVmTjNyUU51dzVUMnJzZlpNell4cmZZVDY4WGVxTHI5cEZ2TGlaU1RPMEdVZXB5TVdhSmVZRFkzYnNrZDhaSTFiOFU2MzVnU0ppMDhWNDRJa2JnNklFcnNpU0tEUU9lZElhR0ZXV1Jta3dhZkprWmdSamlLVllTZw?oc=5",
@@ -92,7 +204,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.97,
+          "observed_at": "2026-11-26T04:50:31.069334+00:00",
+          "returns_pct": {
+            "BTC": -0.0083,
+            "ETH": -0.0317,
+            "SOL": -0.0422
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9657,
+            "ETH": 4.9649,
+            "SOL": 4.9654
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -224,6 +357,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 2,
           "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.99,
+          "observed_at": "2026-11-26T04:50:31.069385+00:00",
+          "returns_pct": {
+            "BTC": -0.0241,
+            "ETH": -0.0091,
+            "SOL": -0.0773
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9784,
+            "ETH": 14.9786,
+            "SOL": 14.9793
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -358,6 +511,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 2,
           "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.99,
+          "observed_at": "2026-11-26T04:50:31.069419+00:00",
+          "returns_pct": {
+            "BTC": -0.0241,
+            "ETH": -0.0091,
+            "SOL": -0.0773
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9784,
+            "ETH": 14.9786,
+            "SOL": 14.9793
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
