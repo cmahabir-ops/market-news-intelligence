@@ -1,5 +1,109 @@
 [
   {
+    "id": "70e2096bc3c4b05a5766",
+    "title": "154 tax returns involving cryptocurrency were filed in the Odesa region - Інтент",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUTRoa3B4aDNDdGNKN05tZ2VPOGxzNjFlWWdGclJlOVIza1ZJVmlHZV90TXBtTTBEMDNPRlN0LTEyOVpqOExtNVJ6OWZ2ejdoc3VQUnpuSW1Fa3hqYTFHTG1QY2lZYUYyT1RwQ1lxbi13VXFKMlMteUwtMHlfXzhtdXkyWU1HWHdza1c5ZUc2SE9MZ3phbUswZ2hlWEdBZUc1M3Uyc3NTa293c1JPaEJCOXdiWjd0dkYtV0V0YzNaYnBFZDNLYmtES2hnN1cwVjl3Yk5QSmJ6Sjc4N2hlZ09jenNzZi1UV3dCSXc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T11:44:00+00:00",
+    "detected_at": "2026-11-26T12:20:34.766400+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 36.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 36.58,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "6496fa6cd11cf01f90b5",
+    "title": "Ukraine passes legislation to regulate cryptocurrency markets - Digital Watch Observatory",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HUnNFWWhGTzh3VTlPd25kcmthakFoUDhhaU1zNllwTTBMMThlQUFNbXpxcFRlcUpxMjBERGZLZ2NObXlSUkRBbmhYN1ROLXF1SG5TaW1uX2t1OFc4ZTBEOUZKSkRGajJMcHNBWTlB?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T11:25:12+00:00",
+    "detected_at": "2026-11-26T12:20:34.765182+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 55.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 55.38,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "b2f77fbd1ad75296bae6",
     "title": "XRP Price Prediction: Two SEC Filings Value Ripple at $90 and $300 - 99Bitcoins",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZmE2RFd2UHhaYUR2NnV4MDFtdF9ldXhIb25LNjJaT1F1cHJkU25KQU1jdGxIMGR5S1hfVUt5ZnRNRDB0MFpUVjBLZXJ0aWRWSmV1U3B6cWhwY3FEZFVqMW80aVNQeGd4eS14aHJHaXQ3ZERWdFllR0xUbHVZLUJVaHhlc3c1UmYyMHBQVFNOOXdmMTVJa2Y5QUdXVUFJS3hPbjI0?oc=5",
@@ -93,7 +197,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.08,
+          "observed_at": "2026-11-26T12:20:36.824420+00:00",
+          "returns_pct": {
+            "XRP": -0.0631,
+            "BTC": 0.019,
+            "ETH": 0.0659
+          },
+          "asset_elapsed_min": {
+            "XRP": 5.0735,
+            "BTC": 5.0681,
+            "ETH": 5.0703
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0821,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -220,7 +345,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.08,
+          "observed_at": "2026-11-26T12:20:36.824489+00:00",
+          "returns_pct": {
+            "ETH": 0.0659,
+            "BTC": 0.019,
+            "SOL": -0.0353
+          },
+          "asset_elapsed_min": {
+            "ETH": 5.0703,
+            "BTC": 5.0681,
+            "SOL": 5.0715
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0469,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -634,7 +780,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60605.975,
+            "observed_at": "2026-11-26T12:20:36.097829+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0039
+          }
+        }
       }
     }
   },
@@ -1536,6 +1694,26 @@
           "positive_assets": 0,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.07,
+          "observed_at": "2026-11-26T12:20:36.824566+00:00",
+          "returns_pct": {
+            "BTC": 0.024,
+            "ETH": 0.1852,
+            "SOL": 0.0991
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0555,
+            "ETH": 60.0556,
+            "SOL": 60.0546
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1563,6 +1741,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0304
+          },
+          "60": {
+            "price": 60605.975,
+            "observed_at": "2026-11-26T12:20:36.097829+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.024
           }
         }
       }
@@ -7971,6 +8160,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.5697
+          },
+          "240": {
+            "price": 60605.975,
+            "observed_at": "2026-11-26T12:20:36.097829+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1527
           }
         }
       }
