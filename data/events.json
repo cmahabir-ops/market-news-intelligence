@@ -1,5 +1,117 @@
 [
   {
+    "id": "5aa4908de071f42cc81b",
+    "title": "Bitcoin public key exposure climbs to a record 7.12 million BTC - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GRThBekRvSWxCVEYybW1rVXhZdVdkZGpEU2FTSDRfRVJhcjBXOHZTYnFGZDdzMEY1dzFWZEtJRHNzYVZNMGx1NjkweWlDQXZkQU9DS0l2dnBsQTdSbTV6QUhUdGNkMjJGb241eDdDTkdWUEExYUE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T14:26:55+00:00",
+    "detected_at": "2026-11-26T14:30:36.157674+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 3.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 3.69,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60667.525,
+          "observed_at": "2026-11-26T14:30:37.008167+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1698.63,
+          "observed_at": "2026-11-26T14:30:37.146760+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.175,
+          "observed_at": "2026-11-26T14:30:37.330688+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60667.525,
+          "observed_at": "2026-11-26T14:30:37.008167+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "f73cf5b112892c6dcc56",
     "title": "Abraxas Capital Buys $18.55 Million Worth of Ethereum, Withdraws 11,000 ETH From Binance - Kriptofoni",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfcXN1bFdXeHFPT0E0LXZLTGplR0R0U0hBd21GX1Q4RkhNeHhNVVdfcmFaNEhybWN4eFFfNTRhdnJYbmlHMi1vYmNlR2d6b1R4YWhHcGM5T0FQZHJmSUhsbTBJbkVkR0NlNFE1M1oxZDc3cURC?oc=5",
@@ -93,7 +205,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.13,
+          "observed_at": "2026-11-26T14:30:37.409380+00:00",
+          "returns_pct": {
+            "ETH": -0.1073,
+            "BTC": -0.1237,
+            "SOL": -0.1543
+          },
+          "asset_elapsed_min": {
+            "ETH": 5.1188,
+            "BTC": 5.1196,
+            "SOL": 5.1172
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0164,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -280,7 +413,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.13,
+          "observed_at": "2026-11-26T14:30:37.409425+00:00",
+          "returns_pct": {
+            "BTC": -0.1237,
+            "ETH": -0.1073,
+            "SOL": -0.1543
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.1196,
+            "ETH": 5.1188,
+            "SOL": 5.1172
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -784,7 +938,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 0.94955,
+            "observed_at": "2026-11-26T14:30:37.378770+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1892,
+            "benchmark_return_pct": -0.2449,
+            "excess_return_pct": 0.0557
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 60816.475,
@@ -2462,6 +2630,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0806
+          },
+          "60": {
+            "price": 60667.525,
+            "observed_at": "2026-11-26T14:30:37.008167+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1672
           }
         }
       }
