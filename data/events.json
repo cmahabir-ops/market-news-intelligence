@@ -1,5 +1,169 @@
 [
   {
+    "id": "e723b5fa4c4dc8ef3a48",
+    "title": "Galaxy Withdrew Its Bitcoin Bottom Call: Here Are the 2 Levels It Now Watches - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWXRQZmt3cHZkLV80S0NiTkFRa1FHV1ZsY0VMbl90dm9YakZheXVUb3VHeEhGZ2gzeTdQYVBVQWRqTXdUUHhxbHZtWkRKTlNiUV9CX3NGWlMyOGxLS1NxdFV5ZmsxYS00RWZCOWZIeUlWWGpVLTJLdUNTWGpCOGhUS04wR0t1TjNCb3NFWTNfVDUyQmY1bFFiT0R6ajhSMy1JNjV3QWZvQkN0XzNsRDNlbHIzaXpDOVRCMWtySDRrcEE0X05nNkJlblBTdk1fUHdo?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T13:42:00+00:00",
+    "detected_at": "2026-11-26T13:45:32.258989+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 3.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 3.54,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60818.065,
+          "observed_at": "2026-11-26T13:45:34.710226+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1701.905,
+          "observed_at": "2026-11-26T13:45:35.076050+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.935,
+          "observed_at": "2026-11-26T13:45:35.434646+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60818.065,
+          "observed_at": "2026-11-26T13:45:34.710226+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "d670fafc0a59b02c287b",
+    "title": "Tech Selloff Deepens Dilemma Over Kevin Warsh’s Rate-Hike Choice - www.tokenpost.com",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zeDU4OVp5RUxPVVVQdTRsQ2lnUGNJbjRiZE1fLWgwV2ZJbDNCeF9abndLTV95NXp4ZDU0S2ZYWE5Vckx3a1hGYS03YUZBVS1Hb1V3bC1VNTdTQQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T13:02:26+00:00",
+    "detected_at": "2026-11-26T13:45:31.807240+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 43.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 43.1,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "33a1bd8aafc08fdb4d9b",
     "title": "Switzerland sets 2028 timeline for crypto tax data sharing with 57 potential partners - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvNWZKeTVfcU9EYlBQeVp2LUVIWTE5MDJLejZETXpEeTRPeWVRT1J6SmRXMk5RVWJsLTdPNFRIZjRGT2NuZzlKcnBkYjRuMmFHODhRYmZpZS16Nl8wQnhwN2xFUEI0SzZzaUNOQUZTbEtLa0RQOHBGNXVEMFNqdw?oc=5",
@@ -596,7 +760,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60818.065,
+            "observed_at": "2026-11-26T13:45:34.710226+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0806
+          }
+        }
       }
     }
   },
@@ -2664,6 +2840,19 @@
             "change_pct": -0.2471,
             "benchmark_return_pct": -0.0731,
             "excess_return_pct": -0.174
+          },
+          "60": {
+            "price": 0.9513,
+            "observed_at": "2026-11-26T13:45:35.666115+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0158,
+            "benchmark_return_pct": 0.069,
+            "excess_return_pct": -0.0532
           }
         },
         "benchmark_asset": "BTC",
@@ -2861,6 +3050,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0731
+          },
+          "60": {
+            "price": 60818.065,
+            "observed_at": "2026-11-26T13:45:34.710226+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.069
           }
         }
       }
@@ -9146,6 +9346,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.4146
+          },
+          "240": {
+            "price": 60818.065,
+            "observed_at": "2026-11-26T13:45:34.710226+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0114
           }
         }
       }
