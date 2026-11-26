@@ -92,7 +92,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.96,
+          "observed_at": "2026-11-26T11:25:30.340300+00:00",
+          "returns_pct": {
+            "BTC": -0.0183,
+            "ETH": -0.0433,
+            "SOL": -0.0354
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9472,
+            "ETH": 4.9472,
+            "SOL": 4.9481
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -468,6 +489,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.81,
+          "observed_at": "2026-11-26T11:25:30.340381+00:00",
+          "returns_pct": {
+            "BTC": 0.2076,
+            "ETH": 0.2537,
+            "SOL": 0.3409
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.7963,
+            "ETH": 14.7981,
+            "SOL": 14.8004
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -595,6 +636,26 @@
             "BTC": 4.8379,
             "ETH": 4.8384,
             "SOL": 4.8413
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.81,
+          "observed_at": "2026-11-26T11:25:30.340409+00:00",
+          "returns_pct": {
+            "BTC": 0.2076,
+            "ETH": 0.2537,
+            "SOL": 0.3409
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.7963,
+            "ETH": 14.7981,
+            "SOL": 14.8004
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
@@ -7552,6 +7613,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.156
+          },
+          "240": {
+            "price": 60580.315,
+            "observed_at": "2026-11-26T11:25:29.599468+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1229
           }
         }
       }
@@ -7752,6 +7824,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.156
+          },
+          "240": {
+            "price": 60580.315,
+            "observed_at": "2026-11-26T11:25:29.599468+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1229
           }
         }
       }
