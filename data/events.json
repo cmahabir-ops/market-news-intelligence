@@ -1,5 +1,356 @@
 [
   {
+    "id": "f73cf5b112892c6dcc56",
+    "title": "Abraxas Capital Buys $18.55 Million Worth of Ethereum, Withdraws 11,000 ETH From Binance - Kriptofoni",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfcXN1bFdXeHFPT0E0LXZLTGplR0R0U0hBd21GX1Q4RkhNeHhNVVdfcmFaNEhybWN4eFFfNTRhdnJYbmlHMi1vYmNlR2d6b1R4YWhHcGM5T0FQZHJmSUhsbTBJbkVkR0NlNFE1M1oxZDc3cURC?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T13:13:00+00:00",
+    "detected_at": "2026-11-26T14:25:28.600152+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 72.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 72.48,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1700.455,
+          "observed_at": "2026-11-26T14:25:30.019612+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 60742.675,
+          "observed_at": "2026-11-26T14:25:29.830944+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.285,
+          "observed_at": "2026-11-26T14:25:30.296723+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1700.455,
+          "observed_at": "2026-11-26T14:25:30.019612+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 60742.675,
+          "observed_at": "2026-11-26T14:25:29.830944+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "c95f5f704bb8f2529f8a",
+    "title": "Israel Discount Bank opens direct Bitcoin and Ether trading inside its app - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGcXdvcFRPQm1ZdTZQSmViVzljQ3NQbWpucWRyeUtjYnBxN1k0cmE0MTRsbUttWkpQZkMwaERIRzlULW53elQ2bEd2T2hRRjJRUEx4d3I4RFNoNUM1eDRXdUgtN2hSSG5TNGdIZW92VTRQTHJ6Vy1EN2dkMA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T14:17:21+00:00",
+    "detected_at": "2026-11-26T14:25:28.598611+00:00",
+    "assets": [
+      "BTC",
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 8.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 8.13,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-26T14:25:31.640580+00:00",
+    "alert_last_attempt_at": "2026-11-26T14:25:31.640594+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "99971792b0db05190ba6",
+    "title": "He Claimed Social Security at 62 to Pour Every $2,100 Check Into Bitcoin, Betting Growth Would Beat Waiting. Bitcoin’s November Plunge Wipes Out About a Quarter of His $50,400, and His Check Stays $900 a Month Smaller for Life - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU2lTMjV4eTk2M1cxaVlubFRQM3FzMW9TN1RvbUpOMDFFbktsY1JocmpkcXQ0LW02cVgzTm5WdkdmbXNSZU1IRnRjU2NlS3BidWhlRVB4RExmX21fdnNjdDRpMXhzVnIxYUFpRFB2NjVJd0FHTWhKZXdIb3NBSVRUOEJmeWwxaWpmU3FUdnM0dC1fZHVkZnY4SVVaR3U?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T10:34:28+00:00",
+    "detected_at": "2026-11-26T14:25:28.594964+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 231.0,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 231.01,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60742.675,
+          "observed_at": "2026-11-26T14:25:29.830944+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1700.455,
+          "observed_at": "2026-11-26T14:25:30.019612+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.285,
+          "observed_at": "2026-11-26T14:25:30.296723+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60742.675,
+          "observed_at": "2026-11-26T14:25:29.830944+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "96ea6ade73885b360dbd",
+    "title": "8 Cryptos a Wall Street Index Fund Will Hold in December and the One Just Added - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU0VGYWF0Y1hfc3g2ZkhVU0ZFdGQ2ZWVxSUpuRkRQXzZqOWJBODJqVnowOHlWbk1JZktwcjNyVkp1a1B6U2xqc21XVVJleURJSFpORHhLTElVMktxcEc1RlJCOUZQdndRd3YzZV9ZWlA2ZVlVVjNJVU83UmhjQTZteXpoNmNWVjUxY2dRU0pHVFpWMTB4b1hZWk5XUGowQ1lXdWI2Q200cjREdGtZRVBoNDdtNENXRVVOWEN3N1hqYVpXODh5QV9BMGRsalQ1UVVBRG16Xw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T14:23:00+00:00",
+    "detected_at": "2026-11-26T14:25:28.593905+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 2.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 2.48,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "2f105955ae270ec18f95",
     "title": "Nvidia Agrees To $290 Million Crypto Mining Revenue Lawsuit Settlement - Dataconomy",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2tXRmFTYmhlSlNvMTN1MU5NMmN5YVRzaERSYlZHdDFXQnMtSzBDMW5RVjVEMzdKRGdFeVdCeFRSLUlsTHVXT2gtaDUxSDR4YmpSMElJTG5RN1lpRElaMElWQWpZTVlpaVgzNmhLSVFRVktROVpQZXp2RnowNDVXU3EtV1hIR3NtUTJFUDZnREpPSUpFY0x5WA?oc=5",
@@ -62,7 +413,7 @@
         "QQQ",
         "SPY"
       ],
-      "status": "awaiting_baseline",
+      "status": "baseline_missed",
       "baseline": {},
       "windows": {},
       "detection_delay_eligible": false
@@ -191,7 +542,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.94,
+          "observed_at": "2026-11-26T14:25:30.466288+00:00",
+          "returns_pct": {
+            "BTC": -0.0148,
+            "ETH": -0.0737,
+            "SOL": -0.007
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9341,
+            "ETH": 4.9314,
+            "SOL": 4.9242
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -375,6 +747,26 @@
           "primary_excess_return_pct": 0.1482,
           "positive_assets": 1,
           "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.96,
+          "observed_at": "2026-11-26T14:25:30.466342+00:00",
+          "returns_pct": {
+            "XRP": -0.1261,
+            "BTC": -0.1213,
+            "ETH": -0.1439
+          },
+          "asset_elapsed_min": {
+            "XRP": 14.9493,
+            "BTC": 14.9486,
+            "ETH": 14.948
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0048,
+          "positive_assets": 0,
+          "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -2022,6 +2414,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 0,
           "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.97,
+          "observed_at": "2026-11-26T14:25:30.466456+00:00",
+          "returns_pct": {
+            "BTC": -0.0435,
+            "ETH": -0.213,
+            "SOL": 0.614
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9636,
+            "ETH": 59.9637,
+            "SOL": 59.9657
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
