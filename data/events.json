@@ -3209,6 +3209,19 @@
             "change_pct": -0.4486,
             "benchmark_return_pct": -0.4863,
             "excess_return_pct": 0.0377
+          },
+          "240": {
+            "price": 1683.945,
+            "observed_at": "2026-11-26T06:45:37.310211+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -1.064,
+            "benchmark_return_pct": -0.8104,
+            "excess_return_pct": -0.2536
           }
         },
         "benchmark_asset": "BTC",
@@ -3420,6 +3433,19 @@
             "change_pct": -0.4486,
             "benchmark_return_pct": -0.4863,
             "excess_return_pct": 0.0377
+          },
+          "240": {
+            "price": 1683.945,
+            "observed_at": "2026-11-26T06:45:37.310211+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -1.064,
+            "benchmark_return_pct": -0.8104,
+            "excess_return_pct": -0.2536
           }
         },
         "benchmark_asset": "BTC",
