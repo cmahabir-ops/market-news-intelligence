@@ -1,5 +1,169 @@
 [
   {
+    "id": "a8e836c73ca251f77e59",
+    "title": "Venice AI faces privacy allegations as VVV drops over 15% - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yVGxKNFN4amhMbGV0UkdlU0t3QjJ2aElvUmRVNjIwMXAtVlFvYXRiV2o3X05PdTdwSFRhNTh5SUZjMGZwbUVZQ3BJelRFbV9PZXp4NUlWWTJtQ2hqLU9FTmdLbUREWGU4N1hMdkdxWTFLU055YVE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T06:38:50+00:00",
+    "detected_at": "2026-11-26T07:20:26.701668+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 41.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 41.61,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "aef750c3907001ace50f",
+    "title": "CFTC Hands Crypto a Balance-Sheet Victory, but Bitcoin Doesn't Care - www.blockhead.co",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDlIMC1DOHFFM1laLXJsTjNJRGNPOGtjaXZUWmlGcGY1dVRFdXgycld0eGo4c0dWM1FJU084WGZUb1RhNk5LMndnODdYVERCcDBLNHNKVHBqRGo1M0V3VXlBT2w0UGctaDRDemNGT2IwTnZlR2ZVdnR3SFI0cWozZzB6bzNCdDZMWmhyQ1l0bGFfdHRrRWpTeU1Vel9XR0RtYnJXbA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T07:15:27+00:00",
+    "detected_at": "2026-11-26T07:20:26.698429+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 4.99,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60449.715,
+          "observed_at": "2026-11-26T07:20:27.496248+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1687.565,
+          "observed_at": "2026-11-26T07:20:27.618249+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.92,
+          "observed_at": "2026-11-26T07:20:27.731737+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60449.715,
+          "observed_at": "2026-11-26T07:20:27.496248+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "88f973775726abb8c258",
     "title": "What Crypto Experts Say About PCE and Bitcoin’s Next Move - The Crypto Times",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWmZTX3hlVnE4TGdnYVgyWDFtNW9ZOFNmek9Kb2R6VFNyeW9EaTF0TmVpNnQ3SExMUlBCcXp3X2V4Zk54Qm9XaF9RRUdJQllxR0lnMk9HRGdvOGcxeWRFVnNWdmRKbWpGVm1vdlI0b1Y0LVRIOXZvMWZvVHpoYVFXOVZvWVlDbDFWYmdmYjBUOXo0MEduQk41dXlwNA?oc=5",
