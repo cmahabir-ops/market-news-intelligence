@@ -1,5 +1,235 @@
 [
   {
+    "id": "48844aec7489a0dad00f",
+    "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGIySm15X1NiRWc4ZWY1NGxpaGVMTkVzc01rRFAyZUJ5T3pFaVpfLVBRbDRRTWxoRmRVb1dGby1Gb3B0Q0hTY0w4VWRZaURfcGJmMi1LZ3JBdE14UFU0bEJMNHFURzdzRFBwWUIwV2oxTzh6UlBmSDNGdFpGU19aazZOOTVTU0VPZlpUcTlpYm1rcXcxYlZFbDgzalF3RkhPTnpNUnFPczdCSDBiX0xBNEo5SXNKTVFFZlE5ZnhvTnpKZw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T05:30:38+00:00",
+    "detected_at": "2026-11-26T05:35:28.899690+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 4.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 4.85,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.9624,
+          "observed_at": "2026-11-26T05:35:30.790035+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 60967.905,
+          "observed_at": "2026-11-26T05:35:30.399548+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1700.275,
+          "observed_at": "2026-11-26T05:35:30.548822+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.9624,
+          "observed_at": "2026-11-26T05:35:30.790035+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 60967.905,
+          "observed_at": "2026-11-26T05:35:30.399548+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    },
+    "alert_delivered_at": "2026-11-26T05:35:31.207503+00:00",
+    "alert_last_attempt_at": "2026-11-26T05:35:31.207520+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "32ad5cd3be8073580aaf",
+    "title": "Warren, Van Hollen Lead Senate Democrats Urging SEC Withdraw Crypto, Tokenized Securities Exemptions - NewsCord",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOakdLbm9zUVJ5eGl2VGY5ak9ZRkVOMzluUDRtMXdXd3RNclUtWTJEeTBUNGtzWE92aGZDb1dsbzItMGtBSmdaOXN1TUx2Z3p6YUdzOHRZWHdvalZtVTB0Qm5oZkk0aDhuY3Q3R182RE1iZ3BNcmltUW52SnYyYVlQYVRURTNKaTZMWE9ldzJhZjAyUVZ5alU3R3Q2d3pLNmxZU2FXWmJKX3dtQjdJbmdhcF9sQWs5Rk5fS3R3UWlQRG1yQXJFVWN2YjNnRE5wTExUbC1EakRBLWhFUXFLQWx5Q0xDVTFoMVpQVVE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T05:19:55+00:00",
+    "detected_at": "2026-11-26T05:35:28.898785+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 15.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 15.56,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "de93d8fc27aaeb298a58",
+    "title": "Trump Tariffs 2027: Stock Market Impact - Markets.com",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BbHJsNnM4SmRLTzZfbUtZYmkxOE5VaFRTcHVLZXU0S19pVDZPWW1CcGJpZTdXdy1lcGFSMDRxLVNRNm93Sy1iNUl4aWVfYUY4ZGk0SHVOZVg4ZVZGZDNfem1IR1ZjNW9lMjdUaW94RHBqa1hJM3RQRzFpNE4?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-25T16:02:00+00:00",
+    "detected_at": "2026-11-26T05:35:28.521079+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 813.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 813.48,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "852dbd4cc087033837d4",
     "title": "Moscow Exchange Set to Launch Bitcoin, Ethereum, and USDT Trading - CryptoPotato",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM0FheUxUdWV5eXhMbVctb0wxOWN6Q0J2RHpJR1dHZUFZVTJoeUlGTG1YNmZNN2IwWGdxc2NsdVJSa0ZZS2ZMYlpVNzUtdzdjVU5xYTl3RGN1NHpoZ0FZZFpCcWRuYV9maV9MWXRlNW90U1A1Z1pWUVNVbS1zcVZMdUk3VE16OXI5eS1sbUV0Z2xVSkk?oc=5",
@@ -960,6 +1190,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.98,
+          "observed_at": "2026-11-26T05:35:30.846486+00:00",
+          "returns_pct": {
+            "BTC": 0.0538,
+            "ETH": -0.0905,
+            "SOL": 0.2038
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9749,
+            "ETH": 59.9751,
+            "SOL": 59.9758
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1125,6 +1375,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 0,
           "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.98,
+          "observed_at": "2026-11-26T05:35:30.846527+00:00",
+          "returns_pct": {
+            "BTC": 0.0538,
+            "ETH": -0.0905,
+            "SOL": 0.2038
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9749,
+            "ETH": 59.9751,
+            "SOL": 59.9758
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
