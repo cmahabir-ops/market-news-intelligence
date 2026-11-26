@@ -1,5 +1,169 @@
 [
   {
+    "id": "5dae213ea1224cb64e43",
+    "title": "Franklin Templeton Expands His Crypto Basket, HYPE Ends on December 1st - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXM245ZkJlU3JscVh4cHhxY29mVlQ5Q1AwNG10WVVkbWZwcFRTR3l2eXdfV2F4dVFvV29LN0pBNUFXS3ozM3NSM05XQWxhVmllc1FWQndadWNGUQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T08:20:02+00:00",
+    "detected_at": "2026-11-26T10:15:27.261581+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 115.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 115.42,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "7bcd2b71d3407673d04e",
+    "title": "Why Is Crypto Up Today? BTC Back Above $60K – is the Bull Market Back? - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUEszSHZXaUJaVzAwdDB4ZmJHdkU0anVsVW0yN2U1MnR3emJiWTV5RWt4LXhBN3libEFCS1dPNkVGTG9Bd0FtS0pONWJqekRZN19rdHFyODFlVk9pNFpFbHZKel9aRkZuMDhYcXRlZE5hcG1venZ4ODlEZEF5YXBYazJ4QXJ0d3dCQmNjdGlzUVQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T10:11:22+00:00",
+    "detected_at": "2026-11-26T10:15:27.259040+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 4.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 4.09,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60865.905,
+          "observed_at": "2026-11-26T10:15:28.086685+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1702.405,
+          "observed_at": "2026-11-26T10:15:28.216675+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.045,
+          "observed_at": "2026-11-26T10:15:28.293210+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60865.905,
+          "observed_at": "2026-11-26T10:15:28.086685+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "54bb7932279169f7bb4b",
     "title": "‘Trump Family Crypto Scam’: Democrat Questions $500 Million UAE Investment in Firm Linked to President - Benzinga",
     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZklySXlWcjB2bG5JbjVfRjdqbXEwOGxiRmlDUThqT0E2MU1QSXpPUmJBTTVWd29jNVBSeEQzRkFWUklvS3VWd09PVmxIaGkxOHNNLW5Rd0FDVzY1NVYwZ3owMmVuajFiVndxU1lHYlhfTHhsTURLWVlVOTg5UDFtQ1c4dU1PVVpwWUVqOHZFdE5NWTZjczUwcmRLQUFrRTVHV2lXVkZsRklPbTNmclV2ZS11c3J4T1hPN0JxZzZoSzc2b2hpN2ZxZVpJcGJfWVhwUVoyMUs5VDhfczcyQUEyTndJdVdPSkZqblhNV2hzdEVrUQ?oc=5",
@@ -192,6 +356,22 @@
           "primary_excess_return_pct": null,
           "positive_assets": 0,
           "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.88,
+          "observed_at": "2026-11-26T10:15:28.355772+00:00",
+          "returns_pct": {
+            "BTC": 0.0119
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.8803
+          },
+          "benchmark": "QQQ",
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -1352,6 +1532,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 0,
           "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.87,
+          "observed_at": "2026-11-26T10:15:28.355853+00:00",
+          "returns_pct": {
+            "BTC": 0.0125,
+            "ETH": 0.1868,
+            "SOL": 0.0352
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.87,
+            "ETH": 59.8665,
+            "SOL": 59.8592
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -6350,6 +6550,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1381
+          },
+          "240": {
+            "price": 60865.905,
+            "observed_at": "2026-11-26T10:15:28.086685+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.6396
           }
         }
       }
