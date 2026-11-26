@@ -1869,6 +1869,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.95,
+          "observed_at": "2026-11-26T09:50:28.661654+00:00",
+          "returns_pct": {
+            "XRP": -0.423,
+            "BTC": -0.1128,
+            "ETH": 0.1462
+          },
+          "asset_elapsed_min": {
+            "XRP": 59.9311,
+            "BTC": 59.9396,
+            "ETH": 59.9374
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.3102,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
