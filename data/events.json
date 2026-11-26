@@ -1097,6 +1097,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.93,
+          "observed_at": "2026-11-26T05:45:28.444880+00:00",
+          "returns_pct": {
+            "BTC": -0.1901,
+            "ETH": -0.3886,
+            "SOL": -0.0773
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9168,
+            "ETH": 59.9183,
+            "SOL": 59.9208
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
