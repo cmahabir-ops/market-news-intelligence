@@ -1,5 +1,226 @@
 [
   {
+    "id": "8222133203f95eee0868",
+    "title": "PrimeXBT celebrates 8 years of redefining crypto trading with 50% deposit bonus - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSndidlN3TVAtU2FtaE8wYTRJTGFlVC1wLTliYUM2cjA3MWplVjY2YkZmQk01ajdobDgxVFJWS2NxZmJyS0FDVURlamJ1N2pUQ01TbzBkX1dybWV3cGljY3dheTRiMFZDUkV2c0I0bzZyVUlIaXJsNHJtSjRTSFp4SXFmODhVZ0tqWENhbkxwV0FaS010ekViUXcyN3VpdS1xN0dkYlZuMVI2Zw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T14:40:55+00:00",
+    "detected_at": "2026-11-26T15:00:39.523225+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 19.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 19.74,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "9e127064a293d28a33c5",
+    "title": "Injective submits policy letter to SEC advocating for onchain orderbooks - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoNXZEQmxnalVJb3JhZjg3LTVFQkhfQlpmZnlEcUFVdEpxS2RwVnZMQkRTQmgzZG5UUDFlbTVTbTZldFduaEhlQnVLZTh1bHJzZU8yNEdsMjBvSlhRREZmeFhzakU3clBWdVE2c2Vaa0ljazZ3WFE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T14:54:24+00:00",
+    "detected_at": "2026-11-26T15:00:39.522736+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 6.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 6.26,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "2baa90d2c667f2a9f4be",
+    "title": "TD Cowen’s Vitanza says Strategy could outlast a decade-long crypto winter - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WNjRsMEFFWlBraG9BVjE2ckxRZTh1X29TNXo2LVFsdHlnalA3aWpHOWlZbWtPUVllVHR2UWRiMGZ2d1VIVTNJY1R5a1gyc1djYWtyQXZrbkktdUhHWndyc00xdXJJb0lDVEt1bENCaHNhcFdoVGc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T13:41:59+00:00",
+    "detected_at": "2026-11-26T15:00:39.522103+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 78.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 78.68,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "b02519f0e1d9fead9960",
+    "title": "Crypto's Thanksgiving Reckoning: $3,000 Split Across Bitcoin, Dogecoin and Ether Now Worth About $1,565 - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KY1hxYTVGY0NrdEE0RzZHaHM4aC1Eb1gtVE5KNFZqWnpmUHdRWFNxaV9RODVKaEduVER3aGFEYXhJVkJ1d0NyUm5La2NQNURpUUdfU3VndWF0di1JT0Y3Y0JWV29uZmNOS2pFcnZiNXU0X05RMWc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T14:55:00+00:00",
+    "detected_at": "2026-11-26T15:00:39.520663+00:00",
+    "assets": [
+      "BTC",
+      "ETH",
+      "DOGE"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "DOGE",
+      "ETH"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "DOGE": "Crypto",
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 5.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 5.66,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-26T15:00:41.706639+00:00",
+    "alert_last_attempt_at": "2026-11-26T15:00:41.706655+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "9b34129fb88bf3cb978b",
     "title": "Ripple Shares Valued at $90 and $300 in Separate SEC Filings: Why the Massive Difference? - Coinpaper",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkFTazI2aDVoNENhZXZlbmNXVzB0OEtuR1p3T0JxMUFMWHdzd0lQVDJWTFpJLXlIM0lSM0o2MGdKX0tKeE5xaGhwRG80WjVTWGJISWhpLTFoQVJST2lMTHRTSFgyekVsMDZfUjRMbmpMR0RzemZ2T0NuVUdreWJjRkw1cXhJSHJuZFdRMkZ5UU1nV1Jab3dBcE1naUtEaTdEbjRGOHZ6VDBRYWF0ZFJzX2xsaw?oc=5",
@@ -93,7 +314,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.13,
+          "observed_at": "2026-11-26T15:00:41.332330+00:00",
+          "returns_pct": {
+            "XRP": -0.1159,
+            "BTC": -0.1759,
+            "ETH": -0.142
+          },
+          "asset_elapsed_min": {
+            "XRP": 5.1217,
+            "BTC": 5.1218,
+            "ETH": 5.1226
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.06,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -428,6 +670,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.11,
+          "observed_at": "2026-11-26T15:00:41.332416+00:00",
+          "returns_pct": {
+            "BTC": -0.101,
+            "ETH": -0.1965,
+            "SOL": -0.3933
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.1002,
+            "ETH": 15.1009,
+            "SOL": 15.1031
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -444,7 +706,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60629.495,
+            "observed_at": "2026-11-26T15:00:40.728729+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.101
+          }
+        }
       }
     }
   },
@@ -2497,6 +2771,26 @@
           "primary_excess_return_pct": 0.2448,
           "positive_assets": 2,
           "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.01,
+          "observed_at": "2026-11-26T15:00:41.332535+00:00",
+          "returns_pct": {
+            "XRP": -0.2421,
+            "BTC": -0.2777,
+            "ETH": -0.4442
+          },
+          "asset_elapsed_min": {
+            "XRP": 59.9947,
+            "BTC": 59.9958,
+            "ETH": 59.9942
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0356,
+          "positive_assets": 0,
+          "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
