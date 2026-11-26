@@ -1,5 +1,118 @@
 [
   {
+    "id": "ff6220e81f0cfccedaa0",
+    "title": "Bitcoin Reclaims $60,000: Michaël Van De Poppe Eyes ‘Great First Quarter Of 2027’, While Cathie Wood Trims Crypto Exposure - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZG4tUDAyMXdjeERFWFFkWnluLXhzWU5PWkxIbmVReklBSHFrZU9TRnhIeGdNODkzSVk3TnpJSG5rQURLdjg2THRyMVNocjFDcnRMeG45Q0JZc1RQTG9oOVMtVFo5bWhaeVpBTjYzMkZTdDRkd0lHWWlZMVlUaTJycXRYdF9TMlRMYWtOeEx5VnQ2bzA2SnZZcWZ3?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T04:36:00+00:00",
+    "detected_at": "2026-11-26T08:15:34.256725+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 219.6,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 219.57,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60513.565,
+          "observed_at": "2026-11-26T08:15:35.618607+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1686.96,
+          "observed_at": "2026-11-26T08:15:35.845561+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.82,
+          "observed_at": "2026-11-26T08:15:36.066888+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60513.565,
+          "observed_at": "2026-11-26T08:15:35.618607+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "6056db3f34512219957b",
     "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October - CoinDesk",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYTFWR2dVdjlEZ05yMGV2dWdjZTVhTGNNRERhY1ZNOEdFbTFrVDZYZGtUZ3g5eTZpWm82amtwSTRXSGdOUVlJeEVfR3RURldaTElpck1FdzdvR2puazdGYXQyWjRSWEZKdGtITXh2TnFtVkl1TXEyY0RiejJPalpkcmljSGtJelJ0c0wzNEN0dEMxaGdENUp5M0l6QmlNRjVLUHRnV0xEN3dpSG1tMTNPcDRpcWhlUGw4N015VUhoOHR2enVLRjk3X3NJWjdub2lVOW1vUHU1N2VYMVplTTZz?oc=5",
@@ -92,7 +205,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.17,
+          "observed_at": "2026-11-26T08:15:36.245447+00:00",
+          "returns_pct": {
+            "BTC": -0.158,
+            "ETH": -0.1988,
+            "SOL": -0.0917
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.1589,
+            "ETH": 5.1596,
+            "SOL": 5.1564
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -187,7 +321,24 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.17,
+          "observed_at": "2026-11-26T08:15:36.245492+00:00",
+          "returns_pct": {
+            "BTC": -0.158
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.1589
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {}
@@ -1745,6 +1896,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2056
+          },
+          "60": {
+            "price": 60513.565,
+            "observed_at": "2026-11-26T08:15:35.618607+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.2489
           }
         }
       }
@@ -1931,6 +2093,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2056
+          },
+          "60": {
+            "price": 60513.565,
+            "observed_at": "2026-11-26T08:15:35.618607+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.2489
           }
         }
       }
@@ -2117,6 +2290,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2056
+          },
+          "60": {
+            "price": 60513.565,
+            "observed_at": "2026-11-26T08:15:35.618607+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.2489
           }
         }
       }
