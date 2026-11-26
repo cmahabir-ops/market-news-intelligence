@@ -1,5 +1,165 @@
 [
   {
+    "id": "08962620ab253189b12b",
+    "title": "Coinbase, Robinhood, and Circle Could Win Big From SEC Tokenized Stock Move - CoinMarketCap",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRmlGNXZ6ckQ0UEp1SmZ6ajE2dWg0XzlKem5uSnNpdFVOMWkyOG03TUFYRWpNZFI5cEw3LTA5dTUyQkk2Sm5wMkc2N040djBFc3hqVTFhbjlLZGdSbmJ6b3NQQllEb2JyOFVPUzlrU3ctUFRFMzFGUlFtRngxUk5LNmpER21yLXphM25zekhZbjJsWDhOMlJlU3daOFNhR2pHVlFwY1QtS25lMTB6WmcxSlN5WTdkNk0?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T00:41:15+00:00",
+    "detected_at": "2026-11-26T10:00:34.446670+00:00",
+    "assets": [
+      "COIN"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "COIN",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "COIN": "Stocks"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 559.3,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 559.32,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "COIN",
+        "BTC",
+        "QQQ",
+        "SPY"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60858.635,
+          "observed_at": "2026-11-26T10:00:35.270316+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "COIN": {
+        "baseline": {
+          "price": 103.72,
+          "observed_at": "2026-11-26T10:00:35.296326+00:00",
+          "quote_at": "2026-11-25T21:00:02+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        },
+        "followups": {},
+        "benchmark_asset": "SPY",
+        "benchmark_baseline": {
+          "price": 716.7,
+          "observed_at": "2026-11-26T10:00:35.532108+00:00",
+          "quote_at": "2026-11-25T21:00:00+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        }
+      }
+    },
+    "alert_delivered_at": "2026-11-26T10:00:38.131636+00:00",
+    "alert_last_attempt_at": "2026-11-26T10:00:38.131651+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "8c421cc7ea99cc6aabff",
+    "title": "Why the Wealthy Borrow Against Their Stock Instead of Selling It: The Loan Costs Less Than a 23.8% Capital Gains Bill - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdF9iTXUxa2RCY0o1c05ERFl0NEFkM3JYZkZmWXMzVkJRaGxaOXZTb2Q4RmNKanRKMG5YdzA0N3pKTVMzRWtoY2pKSTNNeUlGQnZHWDE3d3lTWGg2MGRGejZjdG5QVHgtSGRMQVByU3JxM2U4SW1LS2RFa0h3UmZDRk0tXzB3UmVzM0pJWEhLZzdhajZRZ0J2ZU10UDJySFFDSXZxZnBrYWJpRmw3RGNIQjR0STBtWFFLVkNYYWtJNktWT2xFVFpHQUFIN2xyNXEtZnQ2RHBoTW9rX3hQUU5GdlRsRzF2YXpJbVFmZnM2WVJ2V3l6cG5MU2dn?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T09:37:00+00:00",
+    "detected_at": "2026-11-26T10:00:34.050355+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 23.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 23.57,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "797d6fb426da526dd023",
     "title": "Korea’s smaller crypto exchanges face capital crunch under newly proposed rules - KED Global",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ydXE1UDduczJJUnBFUXozY3lPNW1JeGRDalBEN1NwNFdYcm9Yd1RVbUVDQ2VFV2hRdnJTOVkzd3otb0swTFFJaXJScTNoVWRRZ2hSdHB5RkV4QUlsLVBCb2MzT3cyOXluUEprU2lXR3IwU3lkdWc?oc=5",
@@ -1293,6 +1453,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.02,
+          "observed_at": "2026-11-26T10:00:35.622490+00:00",
+          "returns_pct": {
+            "BTC": 0.0837,
+            "ETH": 0.1695,
+            "SOL": 0.0916
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0096,
+            "ETH": 60.0057,
+            "SOL": 59.9974
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1320,6 +1500,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0832
+          },
+          "60": {
+            "price": 60858.635,
+            "observed_at": "2026-11-26T10:00:35.270316+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0837
           }
         }
       }
@@ -1458,6 +1649,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.02,
+          "observed_at": "2026-11-26T10:00:35.622528+00:00",
+          "returns_pct": {
+            "BTC": 0.0837,
+            "ETH": 0.1695,
+            "SOL": 0.0916
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0096,
+            "ETH": 60.0057,
+            "SOL": 59.9974
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1485,6 +1696,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0832
+          },
+          "60": {
+            "price": 60858.635,
+            "observed_at": "2026-11-26T10:00:35.270316+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0837
           }
         }
       }
@@ -1623,6 +1845,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.02,
+          "observed_at": "2026-11-26T10:00:35.622561+00:00",
+          "returns_pct": {
+            "BTC": 0.0837,
+            "ETH": 0.1695,
+            "SOL": 0.0916
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0096,
+            "ETH": 60.0057,
+            "SOL": 59.9974
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1650,6 +1892,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0832
+          },
+          "60": {
+            "price": 60858.635,
+            "observed_at": "2026-11-26T10:00:35.270316+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0837
           }
         }
       }
