@@ -1,5 +1,57 @@
 [
   {
+    "id": "80d0a24cb3fc73f3af6b",
+    "title": "United States Dollar Index climbs back towards 103.85 as recovery in AI trade gathers pace - www.tmgm.com",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTXp2dDRFcVJDd3RsT3hLT3lBZnVGZklTSHpfZ0luWXdFQVBmVmE3ekJmanNuc3Zpa2pwLXhvdkpyaXZuTmFnU1JlWkE3XzhIdzFObUVlRklVRnpsel9nQ1pTbnBXVndIMFFPZUJWMFMxcFB1aUpxYjlza1laMGRZSTFMMWdXQjN5bVhFYk5fal94aUJrMExCZTRXUTRsaXVHejBKSmZZQjk3OWhIdlMxR1MzdXJOaGhkc3F2bzY0TDdkYzlscVQyLUoyU19OOVl6SEJLdjRaalo1aGozczZHTQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T05:16:28+00:00",
+    "detected_at": "2026-11-26T19:45:26.378772+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 869.0,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 868.97,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "5212e929b2e931b1a720",
     "title": "Will Crypto Recover? Does BTC Reclaiming $60K Offer Hope? - Cryptonews",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzTC1vdHZtQUtwTnhuNWZjOGxsbnBrT2RPWEZwVWh4Q1FzdG1FT2NfdEphN1VJTlh3TUI3a1UwWXBkd25kQ19NbFNmd1NTSFhqMWxkYU1LcHVFbmEzV3ZTa1FQaHJNMUs2Z2dwRFAwVVNPbVlsYlUyakJuYlc?oc=5",
@@ -92,7 +144,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.01,
+          "observed_at": "2026-11-26T19:45:29.986905+00:00",
+          "returns_pct": {
+            "BTC": -0.0209,
+            "ETH": -0.0519,
+            "SOL": -0.0981
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9955,
+            "ETH": 4.9948,
+            "SOL": 4.9946
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -224,6 +297,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 3,
           "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.94,
+          "observed_at": "2026-11-26T19:45:29.986956+00:00",
+          "returns_pct": {
+            "BTC": 0.0496,
+            "ETH": 0.097,
+            "SOL": -0.0841
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9306,
+            "ETH": 14.9301,
+            "SOL": 14.9316
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -1258,6 +1351,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 0,
           "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.98,
+          "observed_at": "2026-11-26T19:45:29.987019+00:00",
+          "returns_pct": {
+            "BTC": 0.0146,
+            "ETH": 0.1988,
+            "SOL": 0.0702
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9731,
+            "ETH": 59.973,
+            "SOL": 59.9743
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -6213,6 +6326,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.1465
+          },
+          "240": {
+            "price": 60581.325,
+            "observed_at": "2026-11-26T19:45:29.401887+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.3521
           }
         }
       }
