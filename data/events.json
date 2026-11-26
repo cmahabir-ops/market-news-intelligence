@@ -1,5 +1,120 @@
 [
   {
+    "id": "6ec6e71cada3ed29ef22",
+    "title": "Coinbase CEO says investors sell Bitcoin for major IPOs before returning to BTC - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoTFBMbUQybVpUYk5jUHgtWkVOajFhNjBCVW8yUV95LUlmY1dJQXhiVXp5QTdrRlJMaUVROHpKcXFNNUNxZ0N4YXZDNjREWFVUQ1hBRjIwbk00bTJybHdaZmpEUV9LS1R3MXh3UHplNXpxUzVaMHRCZQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T07:34:00+00:00",
+    "detected_at": "2026-11-26T07:40:35.770017+00:00",
+    "assets": [
+      "BTC",
+      "COIN"
+    ],
+    "market": "Both",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "COIN",
+      "BTC"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "COIN": "Stocks",
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 6.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 6.6,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-26T07:40:38.610580+00:00",
+    "alert_last_attempt_at": "2026-11-26T07:40:38.610595+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "9fefb6180bdc4ff98783",
+    "title": "Yen and Franc Draw Safe-Haven Bids as AI Stock Plunge Sparks Volatility; Dollar Slips Late - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12YTF3b0pSSm5pMkdSTVhGNVNGako5OHZyVXhqbm5zOHZBUTVhSzNiYnNISDJmY2g3Z1ladDNUOHd3MTFaS3Y2VU93ZkVXR0paU2hWZmItc2gtLTVKSFQyR2I5VGg2T3FiVldzRHpVbXA4UV8yV2c?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T01:35:00+00:00",
+    "detected_at": "2026-11-26T07:40:35.323964+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 365.6,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 365.59,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "bc3eaa98c3bddd8c51ca",
     "title": "When to Sell Audacity Coin in GTA 6: Elevator Cash-Out - Bitcoin Foundation",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkg3dUlEaURPN1pWb05vWmNYQmw0cy1BTVJITmxldmxXVldRZmNBU21zVUlHeXRvbG5faHVXeVZtVHpRTnFMWF9KODNSUFpZQXJDSHgtTjNiWXVhTXhMcmhLNXM5RWpjUXJTU3lnM3FhNnhBNjU4V3FXTGRpdHRJelhGTWY3UTZSLWVRdk8tQjh6azluYmxmaWtrT0h6YUZfOFVOMnR5V21FWUJqT2c?oc=5",
@@ -114,6 +229,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.22,
+          "observed_at": "2026-11-26T07:40:38.202496+00:00",
+          "returns_pct": {
+            "BTC": 0.0864,
+            "ETH": 0.0855,
+            "SOL": -0.0916
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.2092,
+            "ETH": 15.207,
+            "SOL": 15.2049
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -130,7 +265,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60558.245,
+            "observed_at": "2026-11-26T07:40:37.615859+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0864
+          }
+        }
       }
     },
     "alert_delivered_at": "2026-11-26T07:25:26.723886+00:00",
@@ -251,6 +398,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.22,
+          "observed_at": "2026-11-26T07:40:38.202571+00:00",
+          "returns_pct": {
+            "BTC": 0.0864,
+            "ETH": 0.0855,
+            "SOL": -0.0916
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.2092,
+            "ETH": 15.207,
+            "SOL": 15.2049
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -267,7 +434,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60558.245,
+            "observed_at": "2026-11-26T07:40:37.615859+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0864
+          }
+        }
       }
     },
     "alert_delivered_at": "2026-11-26T07:25:26.974998+00:00",
@@ -364,6 +543,22 @@
           "primary_excess_return_pct": null,
           "positive_assets": 0,
           "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.22,
+          "observed_at": "2026-11-26T07:40:38.202616+00:00",
+          "returns_pct": {
+            "BTC": 0.0864
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.2092
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
