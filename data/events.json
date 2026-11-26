@@ -1,5 +1,117 @@
 [
   {
+    "id": "99ee0b830d029dfc2041",
+    "title": "Stacks Labs is researching a way to borrow against Bitcoin without handing it over - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUmkwTzNLdkxJOGtaamZaSWtucFZJR3hiTTd5b1FwaGg4YWJGdW1BbXU3SUp5VXpaY2MxUFhQbVJqUkIwY1R2dGFjSFlCX3d3NXdKWXNJMjlhUDc1dzBZQW5zc0duakVxUlBvblRWY19CWUx5S3U1d3dQT3ZhbEVlVQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T20:05:29+00:00",
+    "detected_at": "2026-11-26T20:10:28.636184+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 4.99,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60673.725,
+          "observed_at": "2026-11-26T20:10:29.711752+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1702.47,
+          "observed_at": "2026-11-26T20:10:29.939254+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.255,
+          "observed_at": "2026-11-26T20:10:30.138311+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60673.725,
+          "observed_at": "2026-11-26T20:10:29.711752+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "262f9064bd19d76a85e3",
     "title": "Coinbase Issues December Alert: Key Services to Face Temporary Disruptions - CryptoRank",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3Y3Q1IyM3hqZmwyXy10c2ZwcGNtWmtRdklwQkxtdkpfU0h3X2hkSW9TaTdreVVzaWgtc2VaS2c4UXZCc3NfcVlOZHVpekQtcFktVG95T296ZDFKOFF1SWVrTEpfcWZXTENLQnJTRms1N0s0NmJlRi1PMmhpOUhxQ1JNaVFjMHF2S3h3MkpHUy1tTFNCRDQ2VE5NSm5xcEpVR2Z3S1VBVlFvTl9xR09PWQ?oc=5",
@@ -74,7 +186,24 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.93,
+          "observed_at": "2026-11-26T20:10:30.296598+00:00",
+          "returns_pct": {
+            "BTC": 0.0452
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9188
+          },
+          "benchmark": "QQQ",
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -197,7 +326,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.93,
+          "observed_at": "2026-11-26T20:10:30.296640+00:00",
+          "returns_pct": {
+            "ADA": 0.0831,
+            "BTC": 0.0452,
+            "ETH": 0.0379
+          },
+          "asset_elapsed_min": {
+            "ADA": 4.9199,
+            "BTC": 4.9188,
+            "ETH": 4.919
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0379,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -443,6 +593,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 0,
           "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.94,
+          "observed_at": "2026-11-26T20:10:30.296683+00:00",
+          "returns_pct": {
+            "BTC": 0.0548,
+            "ETH": -0.0552,
+            "SOL": -0.007
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9281,
+            "ETH": 14.9298,
+            "SOL": 14.9319
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -1645,6 +1815,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.04,
+          "observed_at": "2026-11-26T20:10:30.296766+00:00",
+          "returns_pct": {
+            "BTC": 0.3868,
+            "ETH": 0.2034,
+            "SOL": 0.0211
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0349,
+            "ETH": 60.0365,
+            "SOL": 60.0384
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1672,6 +1862,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.1843
+          },
+          "60": {
+            "price": 60673.725,
+            "observed_at": "2026-11-26T20:10:29.711752+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.3868
           }
         }
       }
