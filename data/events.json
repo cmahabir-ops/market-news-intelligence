@@ -1,5 +1,172 @@
 [
   {
+    "id": "51fa5e581a2062cea35b",
+    "title": "Bitcoin News: $7B Options Expiry, Swiss ETF and Reserve Bill - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZWxVa0oyMHd0SFp1UFJjWWt4OWFkVm9JbDhoc0U1bklTT1NJdXVZQUZjZFBKNklCb2ZWVG9TUVk3YXBBNjk2Ml9razJUeTNDUDdEQ0RGVFBKSU9WY3ZJal9kOXFVdjZCWExxSUl6bXN0WFRnSTFOYldOUTNkOGJLdmhQUjBSQXA0aHc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T15:38:32+00:00",
+    "detected_at": "2026-11-26T15:45:26.413190+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 6.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 6.91,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60368.74,
+          "observed_at": "2026-11-26T15:45:28.722507+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1685.64,
+          "observed_at": "2026-11-26T15:45:29.034884+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.68,
+          "observed_at": "2026-11-26T15:45:29.570662+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60368.74,
+          "observed_at": "2026-11-26T15:45:28.722507+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-26T15:45:30.532327+00:00",
+    "alert_last_attempt_at": "2026-11-26T15:45:30.532346+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "266b6b57c4a282343fe7",
+    "title": "Tom Lee Says U.S. Stocks May Have Bottomed Before Fed Shift - www.tokenpost.com",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwc3FfVnRaRG4tS1VXeHdQN3VzWDBJdEU0UDM5ZTRPNlVsbjE3cXBJVlA2c2FVQkZOWVZqeFZsUGlZcFN1TjRqYjd6T1dyQms5Zk5MNFNn?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T15:32:31+00:00",
+    "detected_at": "2026-11-26T15:45:25.990895+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 12.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 12.92,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "8af8aaccae5f5665c87e",
     "title": "Gold Reserve Ltd. Stock Watch: What Is Driving TSXV:GRZ Today and What Comes Next | S&P/TSX Venture Composite Index | Small Cap Value Stock - kalkine.ca",
     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV1h5VXMwU0N6TkVPOWJaRVNSNWVzZmFLRmJnbTFDdDFhM2pfME5MRVEwdFJVQ3N1MG1kLWY3bEw1NkFacHVvTndzLWJZM09FaXFxZ3NFT1JyUzFYN2haZngwZS1tbGhPeGx4Vzh1bmk5QmtqSTdJNFU5NnZDQUJzWDZVT3JydVFFdlN5WnJDYTIzUVFnRHVXQS1PWmt1cjZNQkJFLXlYVVJDVWR4SzB6Tlo4NTVVcmxHdFhIVi1aWkdEOV85YXNsbFFoY0Z3RE55Y01NVEJHLTBBRTVHeXVhRVRjWFFsbmNTOVAwanNaT3BNT1E?oc=5",
@@ -298,6 +465,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.8,
+          "observed_at": "2026-11-26T15:45:30.067486+00:00",
+          "returns_pct": {
+            "ETH": 0.2677,
+            "BTC": 0.2347,
+            "SOL": 0.3051
+          },
+          "asset_elapsed_min": {
+            "ETH": 14.7786,
+            "BTC": 14.7758,
+            "SOL": 14.7834
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.033,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -491,6 +678,26 @@
           },
           "benchmark": "BTC",
           "primary_excess_return_pct": 0.0269,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.8,
+          "observed_at": "2026-11-26T15:45:30.067527+00:00",
+          "returns_pct": {
+            "DOGE": 0.3826,
+            "BTC": 0.2347,
+            "ETH": 0.2677
+          },
+          "asset_elapsed_min": {
+            "DOGE": 14.7778,
+            "BTC": 14.7758,
+            "ETH": 14.7786
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.1479,
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
@@ -1607,6 +1814,26 @@
             "BTC": 15.1002,
             "ETH": 15.1009,
             "SOL": 15.1031
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.92,
+          "observed_at": "2026-11-26T15:45:30.067590+00:00",
+          "returns_pct": {
+            "BTC": -0.5307,
+            "ETH": -0.7063,
+            "SOL": -0.7094
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9001,
+            "ETH": 59.9029,
+            "SOL": 59.9089
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
