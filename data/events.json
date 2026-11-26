@@ -1,5 +1,109 @@
 [
   {
+    "id": "db50191d5feba822f712",
+    "title": "When Will The US Stock Market Reopen? - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd2lDRWF4Y2VWTldSQjFzSm9SV0ZpeVdaVmVidzR1Z19VUXNoMjJkbjNodjNjblViQkhMenFROVcyckJ2T29WTWxqZmNDd0dFdUM0Mng5aTRmNHNWbTNVUDJEd0RkcW1Ic01SQ1YyQUlBRkRqanNmUnY0UkFTTzlOUnNR0gGHAUFVX3lxTE54SU1MdDN0dnkxbEFFdXhiZWNDdU82bmRldWMwUlVSS0xoVHRBZDZvSWJGTkVpbHlyMEkycllVRGlSZ1RjUXJFd3lBMTRwWTk4cUtRQnVrQVZweDVJR3FNNVRHdm9zYlJSMWJlbDVhem5iQXF5QmRvczloWkhwb3hRbzg5SUNOZw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T05:33:56+00:00",
+    "detected_at": "2026-11-26T06:40:35.210348+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 66.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 66.65,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "2c6ea383fe8872da8abd",
+    "title": "Nasdaq Plummets 4.6% Intraday, Closes Down 0.6% Amid AI Bubble Fears - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQmVYdXNCa1VlTUx4YjF4VDdoVzJVbmExY1A1a2dBRzYyZGNSRGJnYmI4eXAyakhsRTJzdUhqRDFyZjFEU2p4MHZqU3NaT0F4Mk85NzhzSkpqSXdJWjNwRVRHZzdDaGRET0JPeXBPaUxyaWRJVmMxNlpjanhkSEg1N0JWM01rZE1pTnJ4WDhB?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T04:45:57+00:00",
+    "detected_at": "2026-11-26T06:40:34.640566+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 114.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 114.63,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "b2fa35cb9da564328634",
     "title": "Strategic Bitcoin Reserve Bill Advances, but Can It Pass Before 2027? - Coinpedia",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEMzcGttWXM1ajVfQnhYTmdJbmlPSU81RVllVnlDeTRiREMwVHYwSFpacW9raTJZc3g4V1VMS2VjNEdFaElLMWRkd0JteVlmVnRreFlNdGdaNE55enNJQkt4QTBTV3J3d19rMGRKdnJ5aEZPM2wzdTNaSTdBRlZDNWxONWdUZkpYNGtrUkdNLVFPQWR1TVhHYtIBngFBVV95cUxOeTVFNVZuSElVRXZGZXJRU09EVDg0OW1BTE9CellVaEd5ZndodE9DT0lzZm5sY0ZmWXpzX3Fkdm53cWl0Sml6NjNuS1lXeW5XUEpJNHREYmxDZDczMXI4Z09QbXVSM25uZEFrUk9rWkNnd0RINzg2WFlLUXVCYS04RFhMTUdYcG1YVVNPWUtEcWdkLXduYVBXRlhXZlNKUQ?oc=5",
@@ -112,6 +216,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.06,
+          "observed_at": "2026-11-26T06:40:38.387964+00:00",
+          "returns_pct": {
+            "BTC": -0.1979,
+            "ETH": -0.1698,
+            "SOL": -0.1201
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0481,
+            "ETH": 15.0515,
+            "SOL": 15.055
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -128,7 +252,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60385.88,
+            "observed_at": "2026-11-26T06:40:37.407744+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1979
+          }
+        }
       }
     }
   },
