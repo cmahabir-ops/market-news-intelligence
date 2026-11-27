@@ -1,5 +1,121 @@
 [
   {
+    "id": "c2f1bc235eb84f1deebc",
+    "title": "Bitcoin Rebounds Above $60,000 as Spot ETF Outflows Hit Record - Businesskorea",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Za0tFM1djcmcwd1V0b3VJR0xuZVZzYjVud2xZMjVVSHd1WVUzSXd0cmxBRHh2N0ZLVmczN1J1VG5Cc25QNnAtVGZTTGZIbXRNSlFia2J4NlE5YXZlS2FhVmRtaXZjSnRIM18xSFFMakRnYmVn?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T00:36:44+00:00",
+    "detected_at": "2026-11-27T01:00:37.423192+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 4,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 23.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 23.89,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60611.935,
+          "observed_at": "2026-11-27T01:00:38.924581+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1699.61,
+          "observed_at": "2026-11-27T01:00:39.143026+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.18,
+          "observed_at": "2026-11-27T01:00:39.354747+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60611.935,
+          "observed_at": "2026-11-27T01:00:38.924581+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-27T01:00:40.334388+00:00",
+    "alert_last_attempt_at": "2026-11-27T01:00:40.334404+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "c7dcb1bcc9a87f992e96",
     "title": "US Stock Futures Rise as Wall Street Ends Holiday Week - cwibc.co.id",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xWHNMR3ZucmhLNDh3V0hac01ZYWFOQ2Jna0FpdDA1cTNqTTVpWGpydzdWSnBGQk96UWM2MHJBcFA1SlFYX1RjUXRXZXl0cDBaUC1VdkdrVXNzN3ZPcXpDZER3WG9XNjhxN1RmX1JZckdTUQ?oc=5",
@@ -344,6 +460,26 @@
             "BTC": 4.8381,
             "ETH": 4.8377,
             "SOL": 4.8376
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.99,
+          "observed_at": "2026-11-27T01:00:39.739603+00:00",
+          "returns_pct": {
+            "BTC": -0.0581,
+            "ETH": 0.1818,
+            "SOL": -0.1193
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9808,
+            "ETH": 14.9806,
+            "SOL": 14.9794
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
@@ -3680,6 +3816,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0094
+          },
+          "240": {
+            "price": 60611.935,
+            "observed_at": "2026-11-27T01:00:38.924581+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1148
           }
         }
       }
@@ -3876,6 +4023,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0094
+          },
+          "240": {
+            "price": 60611.935,
+            "observed_at": "2026-11-27T01:00:38.924581+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1148
           }
         }
       }
