@@ -1380,6 +1380,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.95,
+          "observed_at": "2026-11-27T06:15:31.383250+00:00",
+          "returns_pct": {
+            "BTC": 0.3828,
+            "ETH": -0.0871,
+            "SOL": 0.2536
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9374,
+            "ETH": 59.9381,
+            "SOL": 59.9372
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1544,6 +1564,26 @@
           "primary_excess_return_pct": 0.0696,
           "positive_assets": 3,
           "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.95,
+          "observed_at": "2026-11-27T06:15:31.383288+00:00",
+          "returns_pct": {
+            "XRP": 0.8473,
+            "BTC": 0.3828,
+            "ETH": -0.0871
+          },
+          "asset_elapsed_min": {
+            "XRP": 59.9383,
+            "BTC": 59.9374,
+            "ETH": 59.9381
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.4645,
+          "positive_assets": 2,
+          "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -1725,6 +1765,26 @@
           "primary_excess_return_pct": 0.0696,
           "positive_assets": 3,
           "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.95,
+          "observed_at": "2026-11-27T06:15:31.383312+00:00",
+          "returns_pct": {
+            "XRP": 0.8473,
+            "BTC": 0.3828,
+            "ETH": -0.0871
+          },
+          "asset_elapsed_min": {
+            "XRP": 59.9383,
+            "BTC": 59.9374,
+            "ETH": 59.9381
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.4645,
+          "positive_assets": 2,
+          "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
