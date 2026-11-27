@@ -1,5 +1,118 @@
 [
   {
+    "id": "1837853cc494a20a78be",
+    "title": "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNanpLekFHV3NqbEsyNnQ3OE9sTFUxVS02cVFveXZfbFlVcDI3MjlCVGRfRmhka2NNTndRcE9DNENnbWUtLTg1ODhZemdKbUk4YmxyZzl0Yk5ZNjhzX0tyUGo1eUI5WTVPZ2o1QThtRWFzYUtHb25oUGlGamxkbm40dGRKSUg?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T18:16:03+00:00",
+    "detected_at": "2026-11-27T19:55:30.813311+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 99.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 99.46,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59801.685,
+          "observed_at": "2026-11-27T19:55:31.778918+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1668.52,
+          "observed_at": "2026-11-27T19:55:31.900162+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.99,
+          "observed_at": "2026-11-27T19:55:32.068495+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59801.685,
+          "observed_at": "2026-11-27T19:55:31.778918+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "05b5fe0f7dd6a8c76717",
     "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different - Decrypt",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XTlZrWkEtc3R3a21nb29sZm9oODFOYTJ1MmMtTlRiZGZ6aEZack9WLVQyQjN1NWJUeUVWLVA1OE9ObE02MlczNnVfOHR5TEZFT216LWlYanAtWFpTaDBoNUNTLXpkUXNXS0V4dE9keUp0QVRfclpkWnowY2lFRlk?oc=5",
@@ -92,7 +205,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.95,
+          "observed_at": "2026-11-27T19:55:32.240173+00:00",
+          "returns_pct": {
+            "BTC": -0.1022,
+            "ETH": -0.1203,
+            "SOL": -0.2287
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.944,
+            "ETH": 4.9414,
+            "SOL": 4.9393
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -204,7 +338,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.95,
+          "observed_at": "2026-11-27T19:55:32.240269+00:00",
+          "returns_pct": {
+            "BTC": -0.1022,
+            "ETH": -0.1203,
+            "SOL": -0.2287
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.944,
+            "ETH": 4.9414,
+            "SOL": 4.9393
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -467,6 +622,26 @@
           },
           "benchmark": "BTC",
           "primary_excess_return_pct": -0.0625,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.92,
+          "observed_at": "2026-11-27T19:55:32.240352+00:00",
+          "returns_pct": {
+            "XRP": -0.3466,
+            "BTC": -0.2823,
+            "ETH": -0.2708
+          },
+          "asset_elapsed_min": {
+            "XRP": 14.9062,
+            "BTC": 14.9098,
+            "ETH": 14.9082
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0643,
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
