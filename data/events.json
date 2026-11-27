@@ -1,5 +1,151 @@
 [
   {
+    "id": "a68d2dcca4234b21aaed",
+    "title": "US Stock Futures Surge After Thanksgiving Break as Nasdaq Jumps 2.5%, S&P 500 Tops 7,300 - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnFhcTBLakYyT0YzbHN3NS1ZU2JqbDZNR2lKeERxLWhmYWk3dmxFd3A5bUdNQzktNlJKeEZ3RWJiU0w2SnpENkxuUU03N2FWYXZGU0w5aUJvZEpPNTRhLWQtc3JLSmtjOE8yQk5BakcxaENQdDhxVUpPa0hoU2lJQ1VaM0FITjIybHFYQUhoNF80LW92YU5Dem5ZUXdjR2QyQnlZMU5SMENJTV9sUXh5Zk930gG3AUFVX3lxTFB5NHIzWkZDbnRTemUxV05mel9FVllkS2hYRkU3amdXLUk5LTQ5VVVhSVpuR2QyV2pQZmpWaWJPQ3NmN1JQdHRhbVd1M1hJV0w0OU5sMmVKRWwwSzRBYk5xa3JHQjEtdFFDNlVkc3NyOUJVdTB0SS1YUUJHb2dpQUJrY3Q3Zy1FREdXYnJoUkRQR19WWkNMQjdNMGNrOUNnbmtwLUV2ek1fNHh4d3RvcWpSdHdPOFplOA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T07:00:44+00:00",
+    "detected_at": "2026-11-27T08:40:31.427204+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 99.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 99.79,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "d310663565c70a1ca5f3",
+    "title": "Nvidia CEO Jensen Huang’s return sparks mixed market reactions amid AI concerns - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc2xGZ0FKNlZEV1ltWS1meVNRSnRMVklyTFBuS3BBNHA3b1BOdWdFNnEzZjQ3eTRRWU1wOTIzWVUySlBCS3E1RzNnZGRnek9KMDJsZDQtb05sQXhJNHdDd3hiZENDeTFKcUMwbW1EY2U2M2prNi0wU3VjdnItd0ZDdHptOVRtVlh5RzRwSFJ4RGJpXzdhaHd0MU1JUWhXZDIyeTFwaC00Rkd4dw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T08:30:48+00:00",
+    "detected_at": "2026-11-27T08:40:31.424158+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "NVDA",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "NVDA": "Stocks"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 9.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 9.72,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "NVDA",
+        "AMD",
+        "SMH",
+        "QQQ",
+        "SPY"
+      ],
+      "status": "awaiting_baseline",
+      "baseline": {},
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "NVDA": {
+        "baseline": {
+          "price": 149.3,
+          "observed_at": "2026-11-27T08:40:34.342354+00:00",
+          "quote_at": "2026-11-25T21:00:01+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        },
+        "followups": {},
+        "benchmark_asset": "QQQ",
+        "benchmark_baseline": {
+          "price": 633.93,
+          "observed_at": "2026-11-27T08:40:34.481684+00:00",
+          "quote_at": "2026-11-25T21:00:01+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        }
+      }
+    }
+  },
+  {
     "id": "0ca2f583dc7413fce793",
     "title": "Justin Sun promotes USDD collateralized lending as Sky closes five legacy Ethereum vaults - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkcFJQZUg4cXFaMW51MEdPb05kc0R0MUh0Z09YMWp3QlZ3cGoweDk4bGJ0bHBoOWlUT2dBQ3kwYWFpdS1WemhOY0RsaTVQajQ5X1RwZFFVQkJkSGthNUFnMkUxRGZobG9zUHhYSFFTZjQxOWg3WFhUcA?oc=5",
@@ -92,7 +238,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.06,
+          "observed_at": "2026-11-27T08:40:35.249524+00:00",
+          "returns_pct": {
+            "ETH": -0.0321,
+            "BTC": -0.0331,
+            "SOL": -0.0274
+          },
+          "asset_elapsed_min": {
+            "ETH": 5.0384,
+            "BTC": 5.0369,
+            "SOL": 5.0388
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.001,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -288,6 +455,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.05,
+          "observed_at": "2026-11-27T08:40:35.249592+00:00",
+          "returns_pct": {
+            "BTC": -0.3785,
+            "ETH": -0.4833,
+            "SOL": -0.3816
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0265,
+            "ETH": 15.0295,
+            "SOL": 15.0363
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -304,7 +491,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 61653.035,
+            "observed_at": "2026-11-27T08:40:33.795464+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3785
+          }
+        }
       }
     }
   },
@@ -5637,6 +5836,19 @@
             "change_pct": 0.243,
             "benchmark_return_pct": 0.2145,
             "excess_return_pct": 0.0285
+          },
+          "240": {
+            "price": 1727.745,
+            "observed_at": "2026-11-27T08:40:34.126505+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.4959,
+            "benchmark_return_pct": 0.2178,
+            "excess_return_pct": -0.7137
           }
         },
         "benchmark_asset": "BTC",
