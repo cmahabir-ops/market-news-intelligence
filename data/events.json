@@ -1,5 +1,221 @@
 [
   {
+    "id": "51d8bd215f3bd97237e0",
+    "title": "Hackers breach US Air Force’s Cloud One platform, disrupting operations - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SQ1FPbnBFcnh5ajRfQjI4S3E2S2wzWTExLWJkSnZhZDB5ZWdLcXBJempHc0kyb3NGOUctVVpKN053MXgwSnJJMGdpOHItRV9fbG9nYTNHTm1RcVA5RDMtSnRtSGJ4dk5idTJxMXNPUQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T17:10:49+00:00",
+    "detected_at": "2026-11-27T17:25:31.057180+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 14.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 14.7,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "904e151d3417bf795f73",
+    "title": "3 Reasons to Buy Chainlink (LINK) Before 2027 and 2 Reasons to Wait - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSGpnY0RVd0FvaklsVWExbGdPeHU2cXloclZjWDBCS0NHUWpkSU1Qbmxpb21nLUxpTnFSX2x0b3p6WV80dUVXQl9OeVRQNVo1OTViZ0VuR2JhSjZFVXZOTjNCcU9KZUE3WWVWSjFoaUNWMXNPYmFTazh5Z2dmbS1jUnF1aVlvMXhiTnN1T21IcS0zb2RUNFZPaXlfTjE1SWpIUnVGNWkxblNoaXlwamJENXVjVlBETHhBQXp1QXVpSUpidw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T17:20:00+00:00",
+    "detected_at": "2026-11-27T17:25:31.054433+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 5.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 5.52,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "795b60a39986b81416da",
+    "title": "How Much Will 1 Bitcoin Be Worth in 2035? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZXA5RFpwaFJPRGtJRkMyQXRSSVJXdkdNZkdCcHBrZlhoWVZZcjB2TzlwQ3ZOMU9uUndlTi1zQy1ERFFLMzFSVUlRRzh1cWJoQVhIdDA0dnhDX050MGp3VWgwa1VWUV8tRW9TZUV5S2FvU3JpR0ZVcEI3Yk1nc1hFWGxDYzY5WHV6X0tMamE3OEVvemx4QjQ3MjhyeUo1MWVJ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T17:12:00+00:00",
+    "detected_at": "2026-11-27T17:25:31.051515+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 13.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 13.52,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59768.515,
+          "observed_at": "2026-11-27T17:25:33.289150+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1668.76,
+          "observed_at": "2026-11-27T17:25:33.539067+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.965,
+          "observed_at": "2026-11-27T17:25:34.144245+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59768.515,
+          "observed_at": "2026-11-27T17:25:33.289150+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "233e46b2de3f9a7a1801",
     "title": "Billionaire Paul Tudor Jones’ Firm Nearly Doubled Its Bitcoin ETF Shares to 1.36 Million - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHlNbjZOdDZpV0trR2dBdW92eGszUzJTU3FhTGx6d3lGbnVYNHFteFhEUjc2T2hzUnNtMm53N2JGQmI0a0V4dUZLdlRzcFJTYUVQT0lSZ0pWMGtlV2drOGVaQW9sNkpSNk5IWHF2SElSbkxSUnZkeW52OTllazlkVndsWlJfa09HTlNUNTFibGQ2TnFncW1zZFZFN1Y0cmM?oc=5",
@@ -93,7 +309,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.01,
+          "observed_at": "2026-11-27T17:25:34.504338+00:00",
+          "returns_pct": {
+            "BTC": -0.0774,
+            "ETH": -0.065,
+            "SOL": 0.0695
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9888,
+            "ETH": 4.9907,
+            "SOL": 4.9958
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -464,6 +701,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.12,
+          "observed_at": "2026-11-27T17:25:34.504410+00:00",
+          "returns_pct": {
+            "BTC": -0.1542,
+            "ETH": 0.0462,
+            "SOL": 0.0417
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0979,
+            "ETH": 15.0971,
+            "SOL": 15.0922
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -480,7 +737,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59768.515,
+            "observed_at": "2026-11-27T17:25:33.289150+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1542
+          }
+        }
       }
     }
   },
@@ -597,6 +866,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.12,
+          "observed_at": "2026-11-27T17:25:34.504446+00:00",
+          "returns_pct": {
+            "BTC": -0.1542,
+            "ETH": 0.0462,
+            "SOL": 0.0417
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0979,
+            "ETH": 15.0971,
+            "SOL": 15.0922
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -613,7 +902,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59768.515,
+            "observed_at": "2026-11-27T17:25:33.289150+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1542
+          }
+        }
       }
     }
   },
