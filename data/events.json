@@ -268,6 +268,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.06,
+          "observed_at": "2026-11-27T08:10:29.963914+00:00",
+          "returns_pct": {
+            "ETH": 0.0418,
+            "BTC": 0.1987,
+            "SOL": 0.0068
+          },
+          "asset_elapsed_min": {
+            "ETH": 15.0524,
+            "BTC": 15.0512,
+            "SOL": 15.0532
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.1569,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -284,7 +304,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1734.555,
+            "observed_at": "2026-11-27T08:10:29.409437+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0418,
+            "benchmark_return_pct": 0.1987,
+            "excess_return_pct": -0.1569
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 61672.365,
@@ -755,6 +789,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.89,
+          "observed_at": "2026-11-27T08:10:29.963998+00:00",
+          "returns_pct": {
+            "ETH": 0.2311,
+            "BTC": 0.2562,
+            "SOL": 0.432
+          },
+          "asset_elapsed_min": {
+            "ETH": 59.8799,
+            "BTC": 59.8779,
+            "SOL": 59.8814
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0251,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -907,6 +961,22 @@
           "positive_assets": 1,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.89,
+          "observed_at": "2026-11-27T08:10:29.964023+00:00",
+          "returns_pct": {
+            "BTC": 0.2562
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.8779
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1015,6 +1085,22 @@
           },
           "asset_elapsed_min": {
             "BTC": 14.8692
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.89,
+          "observed_at": "2026-11-27T08:10:29.964038+00:00",
+          "returns_pct": {
+            "BTC": 0.2562
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.8779
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
