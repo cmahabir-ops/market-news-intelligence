@@ -1,5 +1,169 @@
 [
   {
+    "id": "181195aee395100e9842",
+    "title": "Bitcoin ETFs lose $5.39B as crypto borrowers cut debt - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42R253YnVycVpCdTJkMDlVZ1VfYUtHdHF1aDZzeXhNYWdoSjBwbHBubUZnRDFYejFCdDFxWmIyWGdpcHkwUjNOcEdXd29yeHZaeUZ3SU1GZGw1YTJobDhuQ3dmVG92ZGEwQVktWm9Pdw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T20:00:00+00:00",
+    "detected_at": "2026-11-27T20:05:23.429312+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 5.39,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59789.835,
+          "observed_at": "2026-11-27T20:05:25.406452+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1669.455,
+          "observed_at": "2026-11-27T20:05:25.696945+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.975,
+          "observed_at": "2026-11-27T20:05:26.224446+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59789.835,
+          "observed_at": "2026-11-27T20:05:25.406452+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "33a5b77d17002025217c",
+    "title": "The stock market is stuck | Expert Opinion - Inquirer.com",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGpwT1Z5aVBMdUpmMU8tVVQ5eEQ1U1VfZVZyY090UVNDV01yZlRKUjhIU0xHRTRmUDBZS2NmQmVuUlFJaHlDUGUxWkczWTJGeDNfVENta0dtSWdQZmlsOHdrMWswOHJsUGp1NWUwSEFtTXk1MjJQWk9LZEN1S2hnUzVJZ3ZpMWpXVUxmYXFzbFpQX3RaN3Zqb3lFVXdiSkxPOWdteQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T12:01:00+00:00",
+    "detected_at": "2026-11-27T20:05:22.867294+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 484.4,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 484.38,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "9f24952c7f1b763510c6",
     "title": "China, Japan, South Korea and ASEAN Agree to Form Crypto Regulation Working Group - CoinGape",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWhCSXpoUWQ2NU1aVzdqZmFjd0luQjZDMUVJdVcxWWx3b2tlNUtNd1FIbjdacTJsYzRPbkZEc2FzRmZLM2JUbGtjRTZjTDdLLUx2MzQ1dF9VQklyWUdyVHZrWG1fc0FIQlJOWWl4T3lqVUNMU2dWNXUydHZjVGpNNGZlS1JKdlZYUTlHNXRsT0hxcWtkVVBPOFRMbEdGck1wb2k0?oc=5",
@@ -144,7 +308,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.84,
+          "observed_at": "2026-11-27T20:05:26.805646+00:00",
+          "returns_pct": {
+            "DOGE": -0.078,
+            "BTC": -0.0415,
+            "ETH": 0.0192
+          },
+          "asset_elapsed_min": {
+            "DOGE": 4.8195,
+            "BTC": 4.8185,
+            "ETH": 4.8191
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0365,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -421,6 +606,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.86,
+          "observed_at": "2026-11-27T20:05:26.805701+00:00",
+          "returns_pct": {
+            "BTC": -0.122,
+            "ETH": -0.0644,
+            "SOL": -0.2495
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.8377,
+            "ETH": 14.838,
+            "SOL": 14.8419
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -548,6 +753,26 @@
             "BTC": 4.944,
             "ETH": 4.9414,
             "SOL": 4.9393
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.86,
+          "observed_at": "2026-11-27T20:05:26.805724+00:00",
+          "returns_pct": {
+            "BTC": -0.122,
+            "ETH": -0.0644,
+            "SOL": -0.2495
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.8377,
+            "ETH": 14.838,
+            "SOL": 14.8419
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
@@ -2174,6 +2399,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.97,
+          "observed_at": "2026-11-27T20:05:26.805790+00:00",
+          "returns_pct": {
+            "BTC": -0.145,
+            "ETH": -0.0706,
+            "SOL": -0.0347
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9488,
+            "ETH": 59.9496,
+            "SOL": 59.9501
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -2339,6 +2584,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 3,
           "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.97,
+          "observed_at": "2026-11-27T20:05:26.805804+00:00",
+          "returns_pct": {
+            "BTC": -0.145,
+            "ETH": -0.0706,
+            "SOL": -0.0347
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9488,
+            "ETH": 59.9496,
+            "SOL": 59.9501
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
