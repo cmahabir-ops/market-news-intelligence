@@ -1,5 +1,221 @@
 [
   {
+    "id": "15e3b2253685512d404e",
+    "title": "REALITY CHECK | OpenAI and Anthropic May Have Cracked the Mathematics Behind Modern Cryptography - BitKE",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xeThseGZnSFVaanZxU0dsVnNiSjE2NGFqUWp0S0tnYVM1QVNxOWZCVWlobW1xMURJOGo0eVVtakwwYl9YNDM4U1loQ05IS1BJdnJyckFkbEhMRlFLNldRNTJtUnItUjJmUWhySGRtbTVWQ3lkdzBGWEdCdkMyM2c?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T08:00:40+00:00",
+    "detected_at": "2026-11-27T09:35:31.254862+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 94.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 94.85,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "76124b7bf52f57dc43b1",
+    "title": "Bitcoin price recovery at risk as stablecoin market cap declines 12% in 30 days - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qTHkyV2ZZdWJ4QVVtQmJnRGRhZHlvMzMwczJjZ251S3duTXpEU2Jla2xCZ0VNd3VnSmNOem9FVWZmVmF0bTZnOVY5R1hEMVFubkduc00yTktTTUhfWDJ3eGxoRGRrZFNxQ0ZWRGNveDRORHlQbDY2dE5MUXczUQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T09:30:00+00:00",
+    "detected_at": "2026-11-27T09:35:31.249573+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 5.52,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61756.825,
+          "observed_at": "2026-11-27T09:35:32.595794+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1733.58,
+          "observed_at": "2026-11-27T09:35:32.751194+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.635,
+          "observed_at": "2026-11-27T09:35:33.074051+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61756.825,
+          "observed_at": "2026-11-27T09:35:32.595794+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "282d526e872b2cedb792",
+    "title": "A Tale Of Two Chairmanships: The First 18 Months Of SEC Crypto Enforcement - Legal 500",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ1VPbDJKYXh6NVZYVHRhOEk1S2ZVRWN6OGM0SzRLZkNYWXpvRFJzcXF0U1BvOTRWU25FcFhMU0FNOEIwaHlnaWR6VGh0SmtOSHluSHZxTlVUQ2psT3Frdl9na2hndzNzVGxBVjZfS2ZIS015Z002MjR0d2pHd3VFVTA2X05HTk55MTNZYV9tRnlrb3ZZT1NrekpBdWNNaTdFZDFWRnRsdFZraHF1RzdHWnlMaEFRNGFnVzQ1SkxpMDNSNmRObmhzTjNJazBObkhydVRMMXlmc1NSeXUxUzZGVmxpSGY?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T08:35:52+00:00",
+    "detected_at": "2026-11-27T09:35:31.247780+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 59.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 59.65,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "e0fce586cc7833acd0b7",
     "title": "LBank Exchange listed MCU(Marvel Coin Universe) - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yYURQRW9ZeXpDVElwRGJ1UjhiM2dya0VGSU04MUdqYVNxMGUxVkdzaVY0djFNbU5ydEZsdjRnbHI2bjR4MVVybTFuaENMdVhqYm5RMDlrMkdzR0dJd0xKUGJTUGhrcjF1RkV3d01zTFNGd09va3doNHQ5aXVEQQ?oc=5",
@@ -1013,6 +1229,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.03,
+          "observed_at": "2026-11-27T09:35:33.229115+00:00",
+          "returns_pct": {
+            "ETH": 0.3055,
+            "BTC": 0.1352,
+            "SOL": 0.7112
+          },
+          "asset_elapsed_min": {
+            "ETH": 60.0154,
+            "BTC": 60.0169,
+            "SOL": 60.0106
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.1703,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1042,6 +1278,19 @@
             "change_pct": 0.0558,
             "benchmark_return_pct": 0.0313,
             "excess_return_pct": 0.0245
+          },
+          "60": {
+            "price": 1733.58,
+            "observed_at": "2026-11-27T09:35:32.751194+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.3055,
+            "benchmark_return_pct": 0.1352,
+            "excess_return_pct": 0.1703
           }
         },
         "benchmark_asset": "BTC",
@@ -5365,6 +5614,19 @@
             "change_pct": -0.5145,
             "benchmark_return_pct": -0.0729,
             "excess_return_pct": -0.4416
+          },
+          "240": {
+            "price": 1733.58,
+            "observed_at": "2026-11-27T09:35:32.751194+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.5661,
+            "benchmark_return_pct": 0.0023,
+            "excess_return_pct": -0.5684
           }
         },
         "benchmark_asset": "BTC",
