@@ -1,14 +1,14 @@
 {
-  "started_at": "2026-11-27T12:15:34.438158+00:00",
+  "started_at": "2026-11-27T12:20:28.690761+00:00",
   "feeds": [
     {
       "source": "Google News - Markets",
       "status": "ok",
-      "entries": 16,
-      "dated": 16,
+      "entries": 51,
+      "dated": 51,
       "http": 200,
-      "processed_limit": 16,
-      "duration_seconds": 0.29
+      "processed_limit": 51,
+      "duration_seconds": 0.36
     },
     {
       "source": "Google News - Crypto",
@@ -17,7 +17,7 @@
       "dated": 100,
       "http": 200,
       "processed_limit": 60,
-      "duration_seconds": 0.38
+      "duration_seconds": 0.43
     },
     {
       "source": "Federal Reserve Press Releases",
@@ -35,7 +35,7 @@
       "dated": 25,
       "http": 200,
       "processed_limit": 25,
-      "duration_seconds": 0.04
+      "duration_seconds": 0.05
     },
     {
       "source": "BLS Latest Economic Indicators",
@@ -44,7 +44,7 @@
       "dated": 1,
       "http": 200,
       "processed_limit": 1,
-      "duration_seconds": 0.09
+      "duration_seconds": 0.05
     },
     {
       "source": "Federal Reserve Speeches and Testimony",
@@ -62,7 +62,7 @@
       "dated": 20,
       "http": 200,
       "processed_limit": 20,
-      "duration_seconds": 0.18
+      "duration_seconds": 0.17
     }
   ],
   "edgar": [
@@ -102,8 +102,8 @@
       "filings": 0
     }
   ],
-  "completed_at": "2026-11-27T12:15:36.850089+00:00",
+  "completed_at": "2026-11-27T12:20:31.008346+00:00",
   "new_events": 1,
-  "total_events": 1343,
+  "total_events": 1344,
   "alert_failures": 0
 }
