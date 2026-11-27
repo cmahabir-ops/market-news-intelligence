@@ -1,5 +1,172 @@
 [
   {
+    "id": "a24f67d4a57f5627fa4f",
+    "title": "Bitcoin plummets while mining companies see increased profitability! BTC holders explore record-breaking earnings through UE Crypto cloud mining - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0pXUjRGNmtSWFVUMF9ZRjdlZ1VNVGJDaG5ZekRVaG5FQWxjcTg3MUQ2Wmh4dHc4M1F2elF4UnBrbUFIb3ZtZlktSk12Y1dyN0g4TUl1bGt1NjFlS3hMZnk3M3ZkR0xyaTFVc2ptVEEzUTlFUXBmbXZEREN3d3lnTQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T10:46:35+00:00",
+    "detected_at": "2026-11-27T10:50:31.129253+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 3.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 3.94,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61588.97,
+          "observed_at": "2026-11-27T10:50:32.248056+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1728.73,
+          "observed_at": "2026-11-27T10:50:32.476833+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.475,
+          "observed_at": "2026-11-27T10:50:32.980796+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61588.97,
+          "observed_at": "2026-11-27T10:50:32.248056+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-27T10:50:33.861848+00:00",
+    "alert_last_attempt_at": "2026-11-27T10:50:33.861862+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "82bfc22d72eadaa40c88",
+    "title": "IREN Stock Premarket: Shares Jump 9% To $14.05 Ahead Of Black Friday Session - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUFR2d0pOSUktcGlfeE5lNnNETFBHU1B5Q2N3MHB0ZzZqNmVsV1RMOW9FanFHM2dYT1VfQ1RQeUwxVy1BZjdaaksyYjFvNXdDRDNSLUh2YThfM3BEcFRDMTJZNXZtSWw5andGSUc3QVYyeUdOT2M1ZHpDZS1kRDd6Um1WSFhFRnI2R3J1dGpQbGhmMFp3U0dIaGtKenVvalRlWndQUWZNVGxrd25iZkRUTGl3MNIBuAFBVV95cUxQLVJNWi1wSzR4cmlEMlBiZFJVVFBzUndKQlhDVlZEdkpTTF9LeVNKam1iMFdsWTh5V3ZIdVpEVWJFWTBNZzlyc01QOUpid3VUb1Mtbk5PMnhpM3VwWEhzdk8zS0d3TjUtR0RPUUVXbDRaUXQ0NWhnMm8zelU4a1F6d2pGZWJObG5xYUk2VDlhWlE1NTN6N0dtX2VkNXdlWlcwaXFVLTkzdl9zY2dQcFZmMGZSQjA0MUdX?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T09:43:02+00:00",
+    "detected_at": "2026-11-27T10:50:31.128486+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 67.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 67.49,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "1268fbfd9be39a726ddd",
     "title": "Arthur Hayes Warns of Weekend 'Crypto Dump' as $7B in Bitcoin Options Expire - Bitcoin News",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGhaT1ltbzJBX3pHb2Izczd6NkVYakFiMXE1bkFaWFdMSUpJXy1VWGs3SDRZY3pvSmRwd1FOeGdsRUNYN1hkRXhsbHRWbmdWMWdmVlF5a053Y0FGMy1GMGw2OVFqaGo3d1A2X0dfSkRoV2Jid2VLQjh6U2tZUTFwcFVOSXBjbmtFWjBhLU1XZmtLcWQ1UlF3?oc=5",
@@ -92,7 +259,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.1,
+          "observed_at": "2026-11-27T10:50:33.376925+00:00",
+          "returns_pct": {
+            "BTC": 0.0671,
+            "ETH": 0.1237,
+            "SOL": 0.1909
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0803,
+            "ETH": 5.0803,
+            "SOL": 5.0779
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -6919,6 +7107,19 @@
             "change_pct": -0.2761,
             "benchmark_return_pct": -0.2636,
             "excess_return_pct": -0.0125
+          },
+          "240": {
+            "price": 1728.73,
+            "observed_at": "2026-11-27T10:50:32.476833+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1441,
+            "benchmark_return_pct": -0.0594,
+            "excess_return_pct": -0.0847
           }
         },
         "benchmark_asset": "BTC",
