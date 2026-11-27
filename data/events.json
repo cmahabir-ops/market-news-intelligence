@@ -1,5 +1,56 @@
 [
   {
+    "id": "f4da59be583577f34d76",
+    "title": "Gold Prices Track US Stock Market Stability - www.suaralandak.co.id",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEU1NlNGp3aXR4cGhfS3ZpWXk3c3VwVTBHdmp4MFpLZGdUMUNjUWdOc1QxVVlNMWZlc2NaVjREeDQtYWdiSG40S1pLd01FdTVxZjRrdGpubHFDendGeVJvQTB2SGNxZmZFcVZ1MlBLTmZWNlk1alE?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T18:53:00+00:00",
+    "detected_at": "2026-11-27T19:00:36.358058+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 7.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 7.61,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "13cf6c4c3a985a1ec54c",
     "title": "Senate Banking Democrats Urge SEC Chair Atkins to Withdraw Regulation Crypto Assets and the Innovation Exemption for Tokenized Stocks - HedgeCo.Net",
     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQREROSVl4UlRtUWpBTmN5cHFxMXFaMmwwLXZod0hxbGRnUE1COW9rTUtNaVNXWHRvMzh6T2wwVFlDZkNDc0tSQXZFei14T3ZUMGZ4OEFsdENHQXRVZ0NXdnlPSEZRR08yNlo2dGliN1ZlMTFMQ0EtZWdHTDZQZzU5bUlid3JHX1piNVhoNG5ucFZKOWtWcXNCeTFrUEpQczg5VVh1Y1VQYVBKRURuZzZ5RkpOaHBGX0pqbVNrNHB5ZDFUSkNqUkM3Rm1yU2JPNFU0Y3ZLeGJvRlRSU2k2a3FWLWxfeEQxejFhOFNPMDZiNlZySDR0TVZzcU51VzVQRk1J?oc=5",
@@ -1317,6 +1368,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.02,
+          "observed_at": "2026-11-27T19:00:40.561577+00:00",
+          "returns_pct": {
+            "XRP": 0.2481,
+            "BTC": 0.119,
+            "ETH": 0.071
+          },
+          "asset_elapsed_min": {
+            "XRP": 60.0091,
+            "BTC": 59.9939,
+            "ETH": 59.9971
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.1291,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1346,6 +1417,19 @@
             "change_pct": 0.0211,
             "benchmark_return_pct": 0.1107,
             "excess_return_pct": -0.0896
+          },
+          "60": {
+            "price": 0.9494,
+            "observed_at": "2026-11-27T19:00:40.471923+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.2481,
+            "benchmark_return_pct": 0.119,
+            "excess_return_pct": 0.1291
           }
         },
         "benchmark_asset": "BTC",
