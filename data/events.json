@@ -1,5 +1,56 @@
 [
   {
+    "id": "c7dcb1bcc9a87f992e96",
+    "title": "US Stock Futures Rise as Wall Street Ends Holiday Week - cwibc.co.id",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xWHNMR3ZucmhLNDh3V0hac01ZYWFOQ2Jna0FpdDA1cTNqTTVpWGpydzdWSnBGQk96UWM2MHJBcFA1SlFYX1RjUXRXZXl0cDBaUC1VdkdrVXNzN3ZPcXpDZER3WG9XNjhxN1RmX1JZckdTUQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T00:48:02+00:00",
+    "detected_at": "2026-11-27T00:55:22.532484+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 7.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 7.34,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "1c11fe3673bd8a3e88d3",
     "title": "Tether Supply Falls $8.1 Billion in Two Months, Pressuring Bitcoin Rebound - bloomingbit",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UbXNFQVVSTmxLUDhXa1F2UHJkVnFjWGhOcWt2Q1AyeHlyaC16N0I4YVl0ckMxMzQ1Nm0wUmltNklEd01kaWJ0U0szTXIwTkVyMFdBNQ?oc=5",
@@ -93,7 +144,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.93,
+          "observed_at": "2026-11-27T00:55:25.912593+00:00",
+          "returns_pct": {
+            "BTC": -0.0127,
+            "ETH": -0.0398,
+            "SOL": -0.0562
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9092,
+            "ETH": 4.9112,
+            "SOL": 4.9119
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -1151,6 +1223,22 @@
           "primary_excess_return_pct": null,
           "positive_assets": 0,
           "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.94,
+          "observed_at": "2026-11-27T00:55:25.912695+00:00",
+          "returns_pct": {
+            "BTC": 0.1858
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9238
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -3988,6 +4076,19 @@
             "change_pct": 0.2103,
             "benchmark_return_pct": 0.142,
             "excess_return_pct": 0.0683
+          },
+          "240": {
+            "price": 0.945,
+            "observed_at": "2026-11-27T00:55:25.828695+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.6518,
+            "benchmark_return_pct": -0.1407,
+            "excess_return_pct": -0.5111
           }
         },
         "benchmark_asset": "BTC",
