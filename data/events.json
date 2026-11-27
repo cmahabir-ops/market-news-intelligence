@@ -1,5 +1,117 @@
 [
   {
+    "id": "42ad32686367b10091fd",
+    "title": "Bitcoin in Extreme Fear: Historically a Buy Signal, But Potentially a Trap? - Mitrade",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQek9WaV9kVUJTN2ZNVThNNFZ6RFF5anZpb2lCWDNMSlRjOG1MYWUzUG42czM4RWxyTm1XS3g1aEZvQlU4NFE1SmlHRkpNQ0xpR0ZkUG9nd1lQWWxiU0RmZktwQ3FpWWRiS2F0UVhiZ0Z0SERqRzJ2VmY5NGxRc2pDZFpXQzhkeXZM?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T03:41:05+00:00",
+    "detected_at": "2026-11-27T03:45:25.894155+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 4.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 4.35,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61390.685,
+          "observed_at": "2026-11-27T03:45:27.862118+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1726.515,
+          "observed_at": "2026-11-27T03:45:28.262826+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 72.79,
+          "observed_at": "2026-11-27T03:45:29.032884+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61390.685,
+          "observed_at": "2026-11-27T03:45:27.862118+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "162ab8cda6840519e5bb",
     "title": "JPMorgan flags bitcoin 'capitulation,' Democrats push back on SEC's crypto plans, and more - The Block",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcmFYcDJuU0lVNDJKclpDRTMxelZWazdOVHVVTVpuMXFPbFVCRlZUdXZvVE1ZV0VsemdtR3RnZVZQNzBKRG1rdXdBQ2R6c1JMYWJMTTJ2cG12RTMxblNMMjVoYmtOeWExVWVfcXllejR2Z19iMmQ2eXF4YXN4LXUyZlJ6UzBLOXBlekdiNXd5MTVnaVg1YXY2Vks3UnRlVGhjNTFwTlQzbFdzUFNKQUpQYS1rSHVhTVpnOUhPYUloc3dTSVkzZVlsZ1hR?oc=5",
@@ -93,7 +205,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.96,
+          "observed_at": "2026-11-27T03:45:29.492461+00:00",
+          "returns_pct": {
+            "BTC": -0.1284,
+            "ETH": -0.0365,
+            "SOL": -0.0961
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9292,
+            "ETH": 4.9328,
+            "SOL": 4.9405
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -1571,6 +1704,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 0,
           "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.96,
+          "observed_at": "2026-11-27T03:45:29.492568+00:00",
+          "returns_pct": {
+            "BTC": 0.006,
+            "ETH": 0.1534,
+            "SOL": 0.5456
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9302,
+            "ETH": 59.9327,
+            "SOL": 59.939
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -4687,6 +4840,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.481
+          },
+          "240": {
+            "price": 61390.685,
+            "observed_at": "2026-11-27T03:45:27.862118+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 1.7128
           }
         }
       }
@@ -4887,6 +5051,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.481
+          },
+          "240": {
+            "price": 61390.685,
+            "observed_at": "2026-11-27T03:45:27.862118+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 1.7128
           }
         }
       }
