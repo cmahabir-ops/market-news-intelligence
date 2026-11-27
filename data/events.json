@@ -1,5 +1,264 @@
 [
   {
+    "id": "a021026fdcafef8dfaa0",
+    "title": "Nvidia Agrees to $290 Million Settlement Over Crypto Mining Revenue Disclosures - Gadget Review",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWEIxcklKRXdrQlpzcFZUQ0Q5dHNPSUJqSzVzSW9pcDZyT056YkcxSWR5WW1uV1B6NlhaNHhNeHctRXROeXlmZlE4YWRPdU5kbnlpZU5TTlUyN2tNaGNfZ1FTZ0QtVUFLZzcwcjZ3b1ZZQW1wM3cyLXk4bXdTNEdzOEdPV09QUjJiTVpCekE2MmxzUEJXb25HVWk0Nm5XenUzUlRqSU1MZDhmZGc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T17:45:53+00:00",
+    "detected_at": "2026-11-27T18:05:30.931198+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "NVDA",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "NVDA": "Stocks"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 19.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 19.63,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "NVDA",
+        "AMD",
+        "SMH",
+        "QQQ",
+        "SPY"
+      ],
+      "status": "awaiting_baseline",
+      "baseline": {},
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "NVDA": {
+        "baseline": {
+          "price": 150.49,
+          "observed_at": "2026-11-27T18:05:33.788433+00:00",
+          "quote_at": "2026-11-27T18:00:00+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "regular_candidate",
+          "valid_for_reaction": true,
+          "freshness": "recent"
+        },
+        "followups": {},
+        "benchmark_asset": "QQQ",
+        "benchmark_baseline": {
+          "price": 650.99,
+          "observed_at": "2026-11-27T18:05:33.853046+00:00",
+          "quote_at": "2026-11-27T18:00:00+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "regular_candidate",
+          "valid_for_reaction": true,
+          "freshness": "recent"
+        }
+      }
+    }
+  },
+  {
+    "id": "291330abfb20c4d0f4de",
+    "title": "Binance Fully Lifts Withdrawal Restrictions Following Cyberattack - Kriptofoni",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oUjZ6dHpJYWhpb2t4czdpb2h6U05ZdFA1VDlwOFFraXJWRVg0UmtGdzhnTklfYkpYd1FRWVhpRnE4dkxGcHNsSDIweUxydzFlWHlfLUhISFQ1Zk1jVWQ4VjFfUE9QX1JuQm9YcDZTYXltd1Q3a1Y0?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T17:20:02+00:00",
+    "detected_at": "2026-11-27T18:05:30.930552+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 45.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 45.48,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "4d15873f28348912b7b6",
+    "title": "Bitcoin Repeats 2018’s Thanksgiving Selloff: Will It Also Track the December Decline? - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQThWT1M2XzRJR290MV9MWlNuQmlkYnFqc2J0cXlFUHJnWk1SZFNZTElYQWxpZy1ZYzJKQW1WUlQyNHdsdzR2YVNsak0zTGJsQnlmQm1NRm1QanpoU0xjcVE1TGhpRXQyVG01YWt6SjliUzJjTTRSSThOamRlR1RTS2k2cUhoMVctNnJtczZBM3NJd2ZFZ1Z1MzFkazBrcnRFM3E3eVByX2lMaElldGJKQ1Zpb0NzQ3ROZmRwVlBGZm1ERTVaVlhtNkVjdXBrOF9BcTYyZXFwdEt3NGl3?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T18:00:10+00:00",
+    "detected_at": "2026-11-27T18:05:30.926403+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 5.35,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59776.215,
+          "observed_at": "2026-11-27T18:05:33.378928+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1667.63,
+          "observed_at": "2026-11-27T18:05:33.613618+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.82,
+          "observed_at": "2026-11-27T18:05:34.109026+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59776.215,
+          "observed_at": "2026-11-27T18:05:33.378928+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "3d3b2dd61a29f0b4f0f5",
     "title": "What XRP Did After Every Month It Fell More Than 20% - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTXhoWmFocDBHU3puY1UwbGplZnNpdUlNMks1NnhMeGRGUWptRUJMSW9oS2pVaXo3M0t3NDdrdzlRdkVMb1lWMVMyeV9LT1BINGMxUFBZWmhiQUJGaHg5SFhuTnZnRUlMSEJ3Z2Z5N1NNaFcwOUR4c1ZHYVdFQ1JOVUF4RnBldU1VTi1HX3laNWdrUTMxM2FTUE55ZEllQXMyLWZlS1dkOFR5SE1iblRn?oc=5",
@@ -93,7 +352,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.92,
+          "observed_at": "2026-11-27T18:05:34.467153+00:00",
+          "returns_pct": {
+            "XRP": 0.0,
+            "BTC": 0.0333,
+            "ETH": -0.045
+          },
+          "asset_elapsed_min": {
+            "XRP": 4.9071,
+            "BTC": 4.9008,
+            "ETH": 4.9026
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0333,
+          "positive_assets": 1,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
