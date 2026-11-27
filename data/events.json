@@ -1,5 +1,308 @@
 [
   {
+    "id": "eff8598f36706c6c0967",
+    "title": "Pi Network’s Upcoming Events, a Potential BTC Buying Opportunity, and More: Bits Recap Nov. 27 - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSzl1bkVIWGh1M18yRGRRR3pVV0RpSVdHUDg0em9taG9RbFMzNFF6TUJhWkNBWUswdUtUSVNtRG0zLXl2eEo1VWEyNWgxVXdrcm95ZHItRDE1elAwMkxYaTVTVTIxcGdOeEhVcFhzTTRHc1VpNnFZZ2lUck03eGsyZXp1dTZGcGhBLTJCbUxRX1lEdlg3TmxTTTM0TU50U25rSFdwMk1OM3hVbG9XZXczMGxNLWhpalRDa0FaOXlCcVh6R3BQN3c?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T11:56:08+00:00",
+    "detected_at": "2026-11-27T12:50:32.159295+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 54.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 54.4,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61409.645,
+          "observed_at": "2026-11-27T12:50:34.548730+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1717.44,
+          "observed_at": "2026-11-27T12:50:34.710148+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 72.98,
+          "observed_at": "2026-11-27T12:50:35.214023+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61409.645,
+          "observed_at": "2026-11-27T12:50:34.548730+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "c0125ba2d3b4c02cef8d",
+    "title": "Bit Digital borrowed against Ethereum to fund AI, and now its crypto treasury is paying the price - CryptoSlate",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbUlmT1JXaktYVTJXNkh6SktoWkZUalYwdUFlME9LbG84WTVEUHowcGxyNm5Edm1CX1FYbldBSG5VSHJUaDJLX05BX1RmVjJwRTdaNWl3WjAwNkhKbjB0RmpHcUFoSTNYVm9xdmxMZGxqcm9raDc0a3lRWTdneUxsS2otajgtbWFKUmVMN0g3bVhpZDVEby00OGZkeXEyREZPcmUtbXdoOFpoalV4X2ttZDFNblRfVU1Oa0NOMmln?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T12:40:54+00:00",
+    "detected_at": "2026-11-27T12:50:32.156014+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 9.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 9.64,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1717.44,
+          "observed_at": "2026-11-27T12:50:34.710148+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 61409.645,
+          "observed_at": "2026-11-27T12:50:34.548730+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 72.98,
+          "observed_at": "2026-11-27T12:50:35.214023+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1717.44,
+          "observed_at": "2026-11-27T12:50:34.710148+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 61409.645,
+          "observed_at": "2026-11-27T12:50:34.548730+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "085a68509acf31c1cb10",
+    "title": "Crypto Today: Bitcoin, Ethereum and XRP regain ground - www.tmgm.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkVyMjI2NjV0elg0ekxhNkVueUxyTW9rSTNYclhtd09oM3dUbWlscWhtWGlRMnVHanBnMDM4NzM3ZXFnbzlXZTd6U0NaeTRLUHBidzN1MGF1UEttSUJZdTY3U1NMUVh6MVlxZlFkSWpIa1RuZHRxVWJiOC1vN3dodW0zNkxoQlhwMkJVdWRoSGRLZjZGcy1OdE5USUo4QkV6S2ZNcHRzNEpCWEJjbzd0ZUh5bFNPSkE5TnlzYVlUZzA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T11:10:24+00:00",
+    "detected_at": "2026-11-27T12:50:32.155238+00:00",
+    "assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto",
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 100.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 100.14,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-27T12:50:35.743803+00:00",
+    "alert_last_attempt_at": "2026-11-27T12:50:35.743820+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "67958426b48a6b2a335c",
     "title": "ASEAN, China, Japan and South Korea to set up AMRO working group on digital payments and asset regulation - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0czhZLVJLMmU2MnpwLXc4Tlo5ZTFlaFFsdmZERXVXTC1FMzdEeU53YllhS3lybnZtLUFNOUlzN29iT3FhdFNaUUVZcWZYNkdxVWxTVkdfQUVEV01FQkt0QU81M01WTTBxblhhNV9ocDhjdWl2SGc?oc=5",
