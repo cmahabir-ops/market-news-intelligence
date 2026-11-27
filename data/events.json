@@ -1,5 +1,176 @@
 [
   {
+    "id": "568c5e2822af0c01a087",
+    "title": "Binance Fully Lifts Withdrawal Suspension Following $6.3B Crypto Heist - Forbes Middle East",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUhrV1Bwdk9JSU5yclhDR3NSV3RzemxRYmdhOGNaSl9lTkVCMEhnRWY1RzBzNDdKU05GdXB5TFI4ZElpSW05VDBGU1FVNEFGMlQxU3dQS0tZc0NWUkdkenZuV1FXbGRSa1NhMFpEQkw1bl91VWVOckJkMEVhUU41S0g3M0pKMFEyU21VcGpsN1NOX1V2eVpvMWNtM0RlWnF5U0NoZnJsV09BQURKdlNhUkpqWDQ1UXZUR2VKS3ZCdHYwRU95SHE4bDlMa0VfNms5cGc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T06:25:02+00:00",
+    "detected_at": "2026-11-27T10:00:45.868269+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 215.7,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 215.73,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "e94be3b68572fd6e613a",
+    "title": "Have Bitcoin, Ethereum and XRP finally bottomed? - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT0ZmQ2phbjdJdUk3UGZkdW4zT1FBV3hnLWJGV1FPYkNoblJFemJsajVJZDREMkJMSG1pUVQyNmxPSHAyQ0xDWG50RWZTX0lNcXFta3VYdlZaVnJSa0RWejMyMHV6X2loRTB4dHQ1dGNzdlN5T2hfSDBnLWlMVDg3b3RoakdjdUxnSlptSFgzc2VMWE5hVmk3dDJPUW1pc0xKY3ludkVXVU1LTUtvR0Z6M05IQms?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T09:41:14+00:00",
+    "detected_at": "2026-11-27T10:00:45.866418+00:00",
+    "assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto",
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 19.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 19.53,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-27T10:00:48.453485+00:00",
+    "alert_last_attempt_at": "2026-11-27T10:00:48.453502+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "0a49161399f6fe2e315f",
+    "title": "Is the U.S. stock market crash the Federal Reserve’s fault? Former Goldman Sachs strategist urges prompt dovish signals - 富途牛牛",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUpmUGREQTVQaXREVVg1SE9TaHZ2STg5dTNtNkJwNmxtT3Bac2plLURmanNVMTNoUWV3WWg1bDNRYk1zZnJxVWVzTmYzOWJHd1lub0xMRVNMSjFnTENkQlZTdEF5bFBIQlJmU0ZqZ2pDNEFhc2xuLW1SOUFVZU1uRmlncUFnZ2E0dVhkc0o2ZmN0bzcxRFZhUQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T09:35:17+00:00",
+    "detected_at": "2026-11-27T10:00:45.289586+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 25.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 25.47,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "0f6a50dc23ffc8ec4abd",
     "title": "Two New 3x Leveraged XRP ETFs in the Works as November 30 Approaches - Kriptofoni",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11S1JBTUtLMmhERWUyZ1p2d3AtWl94V2pHLU9kbWdjbDd6dVNMUnlrM3BuVDFvV1h2WWJkajVKOG1rOWV0aXpaNjNfY1dWSUVlSG5ScFRMMjNyV0g4VHlMbk4tc3FvSkNUcjlsRkhLVDE0bm1B?oc=5",
@@ -93,7 +264,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.29,
+          "observed_at": "2026-11-27T10:00:47.907026+00:00",
+          "returns_pct": {
+            "XRP": 0.0051,
+            "BTC": 0.0085,
+            "ETH": -0.0272
+          },
+          "asset_elapsed_min": {
+            "XRP": 5.2766,
+            "BTC": 5.2823,
+            "ETH": 5.2827
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0034,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -216,7 +408,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.29,
+          "observed_at": "2026-11-27T10:00:47.907091+00:00",
+          "returns_pct": {
+            "BTC": 0.0085,
+            "ETH": -0.0272,
+            "SOL": 0.1839
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.2823,
+            "ETH": 5.2827,
+            "SOL": 5.2782
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -502,7 +715,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 61565.375,
+            "observed_at": "2026-11-27T10:00:47.302576+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3055
+          }
+        }
       }
     }
   },
@@ -656,7 +881,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 61565.375,
+            "observed_at": "2026-11-27T10:00:47.302576+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3055
+          }
+        }
       }
     },
     "alert_delivered_at": "2026-11-27T09:40:36.463778+00:00",
@@ -1571,6 +1808,26 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.14,
+          "observed_at": "2026-11-27T10:00:47.907160+00:00",
+          "returns_pct": {
+            "ETH": -0.1411,
+            "BTC": -0.1369,
+            "SOL": 0.3206
+          },
+          "asset_elapsed_min": {
+            "ETH": 60.1343,
+            "BTC": 60.1338,
+            "SOL": 60.1287
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0042,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1600,6 +1857,19 @@
             "change_pct": -0.0682,
             "benchmark_return_pct": -0.0498,
             "excess_return_pct": -0.0184
+          },
+          "60": {
+            "price": 1726.815,
+            "observed_at": "2026-11-27T10:00:47.551505+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1411,
+            "benchmark_return_pct": -0.1369,
+            "excess_return_pct": -0.0042
           }
         },
         "benchmark_asset": "BTC",
@@ -5676,6 +5946,19 @@
             "change_pct": -0.4184,
             "benchmark_return_pct": -0.0793,
             "excess_return_pct": -0.3391
+          },
+          "240": {
+            "price": 1726.815,
+            "observed_at": "2026-11-27T10:00:47.551505+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.6975,
+            "benchmark_return_pct": -0.1391,
+            "excess_return_pct": -0.5584
           }
         },
         "benchmark_asset": "BTC",
