@@ -1,5 +1,169 @@
 [
   {
+    "id": "216429fe673b01d2ead6",
+    "title": "Crypto On-Ramps Explained: How to Move From Cards and Bank Accounts into Crypto - Technology Org",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTjRpblduNmRYeUZNQTY4MWRnYjF1SFVXdk9rV0pmaHNvTUdsWVZqMnpCY05hajQ0TGhyMEV3dzhNR0RXZWp1dmJFazlIMXp5eG5RYS1fZkxyVjByanhlY2pZUS1iZmdocDBVeXBMek9uWFlaMVNkZmxSWmc3VjUtbkV2dkQwejB5ZHd3VWlxUlZjbFp5WFFZOXl5RTJ0ZjItNzFDY1AyZkZKNGc0aHg1QndkZXlrQ3dR?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T13:15:25+00:00",
+    "detected_at": "2026-11-27T13:40:35.913119+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 25.2,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 25.18,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "4fe4b93f2c00e27b76a0",
+    "title": "‘No Reason To Panic... Yet’—Fears Of Secret AI ‘Bombshells’ Trigger ‘Urgent’ Bitcoin And Crypto Price Warnings - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeGhwa0ZmeXpyNDhQZzQ1SWJ4U3R3RkJJeHdHSG42QnlBQkxOOFVVYVdnZWw3SGt0dThpN2pLdzhkeFhGREtTWGs3OVh0dGd5RzdQc3U1SGFIeTZvdGlXTDB2QldpYXV5X1FsMTRoWWliNEM5R0Y4MGtSSXppbDFpN2ZMajNWMGxnWU5JUXJpY3RPRVhWbU44bDZkMVdTZkJQX000VFBWZzhqWXhuTk5PRTVwTFZLaWhubTNQLVluX2NZdGx6c3FmanU0Wm1abDFhbFh1aTRJWEtNY01aSHI2R0E0M1I3YS12Y2ZLZzBB?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T13:36:14+00:00",
+    "detected_at": "2026-11-27T13:40:35.911103+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 4.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 4.37,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61350.475,
+          "observed_at": "2026-11-27T13:40:38.159848+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1718.585,
+          "observed_at": "2026-11-27T13:40:38.339414+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.185,
+          "observed_at": "2026-11-27T13:40:38.629677+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61350.475,
+          "observed_at": "2026-11-27T13:40:38.159848+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "dcbeb80fb4b68c7e99ae",
     "title": "Brazil’s stock exchange B3 partners with six financial firms to launch real-backed stablecoin in Q1 2027 - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPelRZOHc5QVJHbGxIVnpnQkxuNHlhTGdKUkN5UXYtRktlenEtTVAzR3h4aHkxR1loRXpoUmpYUjFMUWo5T0tJTDhUQm5vdEhDZ256alFJQ1l0RktuTGtDQllaZ0cybklSR1BIUWhGTDE?oc=5",
@@ -10019,6 +10183,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.3216
+          },
+          "240": {
+            "price": 61350.475,
+            "observed_at": "2026-11-27T13:40:38.159848+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.6535
           }
         }
       }
@@ -10216,6 +10391,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.3216
+          },
+          "240": {
+            "price": 61350.475,
+            "observed_at": "2026-11-27T13:40:38.159848+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.6535
           }
         }
       }
