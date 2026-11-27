@@ -1,5 +1,109 @@
 [
   {
+    "id": "c323ff0ac2dfe75b2d71",
+    "title": "DXY Index Today: Dollar Slips Below 103.86 As Fed Hike Fully Priced In - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0JUVlNoM1pMU2RrTXBGX3hhQVFxMnRtaVJNVFU2OU9XWHFOUkpBNnVGNEUxWGZEUlk2TVNmNWItZF9JSnd1UHlmc2x1TmFsbnROVnl5Ukk2Q0YxLXVfYTZIa0VqUmw0MndURjY5M0dRTU1qWXlHakUweDJtS0JPekZzTUtPWFQyRnc5RkktVU8zbEZOZ1JyWFIwQm9sTjFxRFNMejNzMVBWOFp4eWfSAbMBQVVfeXFMUG03SHdiM2hsREFUdU1wQmVpdU5TNGs0UmMxZnZrMHdCNzk5bXFoWTZuWGp0V1k2YnRHenNkTV9KLUN6Sl9vejBVREJESmlmY1pxU21KWTlDTXVDcjhuMEd3ZmVEQlRocGpTWGdpbnE2eTNJV2pvcWZjc0ZzeTdqTkZtMEgtN1Q1ejRaOWtJbVlTWTJrQzh2bHVLNVlPTjEwek5ZQzV0dHY2enFGSEtPd25TU28?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T07:46:01+00:00",
+    "detected_at": "2026-11-27T08:00:47.618596+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 14.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 14.78,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "15f68ddcca0bb98fad58",
+    "title": "KuCoin to Delist Monero (XMR) as the Altcoin Suffers a Sharp Decline - Kriptofoni",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hN0pHdm9IZ2xldFlhckRMd2VNWkhWZlVtR25YazZoSlNwQVkxc2ktMXVMLUpxZEtHUUZDRDl3OEs5Tk1sd0xnYl8wQlRjSnNMUkhIdGw2dy1PbUFFWGk3MVdtaEl1R1ZhNFE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T07:07:00+00:00",
+    "detected_at": "2026-11-27T08:00:47.617776+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 53.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 53.79,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "27ab4864d1bcfff9c3b5",
     "title": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15 - The Block",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXAyVzlGczQydm1aZlZ0UEFrZndNeEdCYjA0aDRLUGVvck84T3hndmMwNGFVMnREZ2dZOU16NG5wdTczem0tVllaa1ZVdVFEbEJkMGJxdndSQWV5TlpTMmM3aE1DVGdQal92VHoyanlDS0w1LXBmMmxQWTlaaWZpclEwYVlpSDVnUW5vdk9IYXJ1Y2ZQXy1xRUZIREtDM0JrMDlCaVhPbTlnUQ?oc=5",
@@ -92,7 +196,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.39,
+          "observed_at": "2026-11-27T08:00:49.783013+00:00",
+          "returns_pct": {
+            "ETH": -0.0828,
+            "BTC": -0.1438,
+            "SOL": -0.0478
+          },
+          "asset_elapsed_min": {
+            "ETH": 5.3834,
+            "BTC": 5.384,
+            "SOL": 5.3834
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.061,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -1265,6 +1390,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.18,
+          "observed_at": "2026-11-27T08:00:49.783161+00:00",
+          "returns_pct": {
+            "BTC": -0.0301,
+            "ETH": 0.0419,
+            "SOL": 0.3633
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.1729,
+            "ETH": 60.1736,
+            "SOL": 60.1746
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1292,6 +1437,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.208
+          },
+          "60": {
+            "price": 61583.705,
+            "observed_at": "2026-11-27T08:00:49.132207+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0301
           }
         }
       }
