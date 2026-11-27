@@ -1,5 +1,118 @@
 [
   {
+    "id": "b14bce13d801beb24f77",
+    "title": "Bitcoin in free fall, Anthropic takes off: The financial market goes against the trend - Cointribune",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0pWOXY0VkxsRXMyM2s4ZG5YbmN2eW9EeWtOdXdsUHVfeS1RMFVibHBlel9fQ1I2UFEwazZPN29ONm5ES095YzZCREZpNEUtUWItTEJwR2ZZTmw1c19FVnVzVGxRYXVrM1U1YTdsUW02T0dRMGlaUU5melNJWVUzdFNUTG5Nc3VXa0o5NjROQzNzZkZTXzZRTVp2VEFhc2tlRlA1aXNSU2lDX0JERE9JNHh3emFzV0JS?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T20:05:00+00:00",
+    "detected_at": "2026-11-27T20:15:32.721159+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 10.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 10.55,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59697.055,
+          "observed_at": "2026-11-27T20:15:33.601115+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1666.635,
+          "observed_at": "2026-11-27T20:15:33.739624+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.955,
+          "observed_at": "2026-11-27T20:15:33.931327+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59697.055,
+          "observed_at": "2026-11-27T20:15:33.601115+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "181195aee395100e9842",
     "title": "Bitcoin ETFs lose $5.39B as crypto borrowers cut debt - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42R253YnVycVpCdTJkMDlVZ1VfYUtHdHF1aDZzeXhNYWdoSjBwbHBubUZnRDFYejFCdDFxWmIyWGdpcHkwUjNOcEdXd29yeHZaeUZ3SU1GZGw1YTJobDhuQ3dmVG92ZGEwQVktWm9Pdw?oc=5",
@@ -349,6 +462,26 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.96,
+          "observed_at": "2026-11-27T20:15:34.187631+00:00",
+          "returns_pct": {
+            "DOGE": -0.1819,
+            "BTC": -0.1966,
+            "ETH": -0.1498
+          },
+          "asset_elapsed_min": {
+            "DOGE": 14.9539,
+            "BTC": 14.9551,
+            "ETH": 14.9532
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0147,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -530,7 +663,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59697.055,
+            "observed_at": "2026-11-27T20:15:33.601115+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.175
+          }
+        }
       }
     }
   },
@@ -2001,6 +2146,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.03,
+          "observed_at": "2026-11-27T20:15:34.187786+00:00",
+          "returns_pct": {
+            "BTC": -0.1407,
+            "ETH": -0.1588,
+            "SOL": -0.1734
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0187,
+            "ETH": 60.0177,
+            "SOL": 60.0124
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -2028,6 +2193,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2022
+          },
+          "60": {
+            "price": 59697.055,
+            "observed_at": "2026-11-27T20:15:33.601115+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1407
           }
         }
       }
@@ -8963,6 +9139,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0625
+          },
+          "240": {
+            "price": 59697.055,
+            "observed_at": "2026-11-27T20:15:33.601115+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.4397
           }
         }
       }
