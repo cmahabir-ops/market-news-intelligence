@@ -1,5 +1,117 @@
 [
   {
+    "id": "765024a90f1526283dc7",
+    "title": "Bitcoin Core Privacy Alert: Bug Exposes Wallet IPs for Pennies - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOXdnM2dxNVFFOHpQY00xeGpEU282THgza09jMmNBM29YcnhwdXFPYzVSMUVQQy1HQUtNaGNnYzZac250aU9pdmNxRHZkOElMSFhKYUZCSlVjaUhjSXVHcnA5eV9JU3lsbWQ2RE03c2VYNktWdVBRX0RISk8ybE5rSDJJZXRGdUh6ZkRodDJLejA2UE3SAZgBQVVfeXFMTjBpVGRtV0p5dGVxWFFtQW1XQ1VCNHlKWmp6NFZ4Z1BRc3FQMnZVR0ptbVRpVUFlT0JmdFYwNUYzY0xrVGlVU1VqNXM4RkN0bWRHZmNpaXViWmRlSXhKN3h6QktfN1hEUzhGemxvMDR0VkVMNEI1VjVTYkpNUFlJUjZHeHRIdFZ5VUJMaGFZWExrYWF3ZEVlZ2I?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T00:09:59+00:00",
+    "detected_at": "2026-11-27T00:15:32.672522+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 5.56,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60465.915,
+          "observed_at": "2026-11-27T00:15:34.100561+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1686.635,
+          "observed_at": "2026-11-27T00:15:34.233452+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.94,
+          "observed_at": "2026-11-27T00:15:34.474418+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60465.915,
+          "observed_at": "2026-11-27T00:15:34.100561+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "8abfccd6e63453412f12",
     "title": "Japan weighs cooling-off periods for crypto transfers to self-custody wallets - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HYTFYRHhKaEh6M0ZCMlAzWG1hWEdKWmV5WmJjc2c1TVdyY2FXWW16ZlFTUkV3eDJxbnl3YmRKc2lfcVQ5Q2tmR25CN0tRWWJPLXBNaURoUnVDcWVuY1laNTFSa1JNekRKMjVkS2MwTEpxUQ?oc=5",
@@ -4233,6 +4345,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.109
+          },
+          "240": {
+            "price": 60465.915,
+            "observed_at": "2026-11-27T00:15:34.100561+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3337
           }
         }
       }
@@ -4484,6 +4607,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.1066
+          },
+          "240": {
+            "price": 60465.915,
+            "observed_at": "2026-11-27T00:15:34.100561+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3425
           }
         }
       }
