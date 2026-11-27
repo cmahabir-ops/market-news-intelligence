@@ -1,5 +1,220 @@
 [
   {
+    "id": "31f5b799ada850496963",
+    "title": "Monero hit by delistings as Zcash adds ETFs - ForkLog",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0ybTBCSjJEWVhpUWdpZ0U0UTBIZzNVUTFIMlhadmpyNEU2NVBCMWYwdWVGSk1ReE9pcXdmcTNJcGE3Wkd0LUp1MlFmUE5zSmd3SlU4SmJ1YmJ4amJxWTRzZjBiLTFKS2NzX25WWVp3SW5HNS1PdVE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T09:39:30+00:00",
+    "detected_at": "2026-11-27T10:10:37.386339+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 31.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 31.12,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "284eef18fdd7e4c21834",
+    "title": "Elliptic tracks $389M in stolen Binance funds through Bitcoin CoinJoins - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04cW9pNWZKY1FZV1ItNDBFeDdnWEozTWJWSWZMc1FRT3ZnQjR5emJtd2laYWtfeFRyTkQ4WU1sSkpHcWpCTl9kQlkzRlFNZ0MzRHVEU3lfeF92QkhXMUxoc01kMmV3TkN1eloxd3JEb0p1MjVyM2d1LTlWUXM?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T10:04:27+00:00",
+    "detected_at": "2026-11-27T10:10:37.383789+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 6.2,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 6.17,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61607.615,
+          "observed_at": "2026-11-27T10:10:38.732293+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1726.89,
+          "observed_at": "2026-11-27T10:10:38.860425+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.475,
+          "observed_at": "2026-11-27T10:10:39.226586+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61607.615,
+          "observed_at": "2026-11-27T10:10:38.732293+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "eb4442979d6290ebd84d",
+    "title": "Even when the Fed gets it right, it gets it wrong | Opinion - Knoxville News Sentinel",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRDRDNFJURVJ2d1ZuRFVwVUxKTVl4a1p0c3Y5TU1iN09abFZVUERZaGozLUNscGpPbVphblF5OWhjRTA4dFJ3dWRvWGtwU2NPRzJtM0pQX2JCdk5yX24talpMajE2dlpjNm94MFBrQk9KTzFmc3dXVTBPOW85OWE2SDRaalY5dXpUR2JZQzhTUFZvUEZEcFNYVDM4U08welgwdDdjNS1CYm9UdWtTSUlOVFZMaDJ6cWFBVzI2VzRUZlRDajRHLVQxd3ZMckVJMWVvY1J2RQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T10:06:00+00:00",
+    "detected_at": "2026-11-27T10:10:36.968933+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 4.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 4.62,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "fded96a4fb5e4eacd664",
     "title": "XMR Price Prediction: Monero Drops 11% as KuCoin Exit Nears - Bitcoin Foundation",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT3lHYmg3TDFQLU5fS2RIem16czNsTFplUVYwaHZ4bDduX3lUc0NFaXQzRnRvUGpTRVFtWlJSMnVYR1g2anVKcjM5ZXhncTRhN2lPVmRYNk14akdpVlhkNndzSzhXdHREVHFBUUVTdEthMDJvejJpRkZJT3FOVEg1UVRPQ21sWHNjMnJVSFFLZXJFVUZoUFhhVWZBaWZZVlRjMEJJTHhqeks1ZFFCNG5EeVNvNA?oc=5",
@@ -92,7 +307,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.13,
+          "observed_at": "2026-11-27T10:10:39.429249+00:00",
+          "returns_pct": {
+            "BTC": -0.007,
+            "ETH": -0.0206,
+            "SOL": 0.0954
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.1153,
+            "ETH": 5.1151,
+            "SOL": 5.1171
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -447,6 +683,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.15,
+          "observed_at": "2026-11-27T10:10:39.429327+00:00",
+          "returns_pct": {
+            "XRP": 0.0358,
+            "BTC": 0.0771,
+            "ETH": -0.0229
+          },
+          "asset_elapsed_min": {
+            "XRP": 15.1341,
+            "BTC": 15.1395,
+            "ETH": 15.1378
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0413,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -463,7 +719,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 0.9779,
+            "observed_at": "2026-11-27T10:10:39.324826+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0358,
+            "benchmark_return_pct": 0.0771,
+            "excess_return_pct": -0.0413
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 61560.145,
@@ -591,6 +861,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.15,
+          "observed_at": "2026-11-27T10:10:39.429360+00:00",
+          "returns_pct": {
+            "BTC": 0.0771,
+            "ETH": -0.0229,
+            "SOL": 0.0885
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.1395,
+            "ETH": 15.1378,
+            "SOL": 15.1351
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -607,7 +897,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 61607.615,
+            "observed_at": "2026-11-27T10:10:38.732293+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0771
+          }
+        }
       }
     }
   },
