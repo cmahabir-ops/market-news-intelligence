@@ -1,5 +1,255 @@
 [
   {
+    "id": "2b2f8ada7061c04a8bf4",
+    "title": "Binance hacker moves 11,989 ETH worth $20M to unknown wallet - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhbDJidUZ6b21BdTQ0NmxLVFdtMnV6Vk00QURlNjd5Y3p4RHUxdHNVaklqMmlMMTFKQUJfQjdDNUlNeURmdWxfRmRqY2FOLUMwempRaVNKbXNtNld2QXJXSzJRTkF3bWltYUpjYUJNTkg0TTI1My1yVWwzVWc2Zw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T15:06:43+00:00",
+    "detected_at": "2026-11-27T15:10:31.869091+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 3.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 3.81,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1644.065,
+          "observed_at": "2026-11-27T15:10:34.417517+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59192.585,
+          "observed_at": "2026-11-27T15:10:34.247940+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.745,
+          "observed_at": "2026-11-27T15:10:34.580783+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1644.065,
+          "observed_at": "2026-11-27T15:10:34.417517+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59192.585,
+          "observed_at": "2026-11-27T15:10:34.247940+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "ec3e6c86b01eb2cd2a52",
+    "title": "Ethereum's Glamsterdam Upgrade Scheduled For December Test - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSURPZlp4VXloWUFOdmFXMndWbm01eDJiZTI4QUhkbEtRODRjcFZiUVR5Wm1zeGhTS0V0bmlFNmRwYmdWY2JOcTRrYnZHMDZETjh4emx4VTAtOXRIYko4bVRLX01EVFg0bWJJeEtqMENLU1lWeXE0NUlHNVQ4Y09MX05qVG9MOGpDdnlCd2pRV2RuU0liXy1kRnd6SDdKX2VCejBfS2lrQ0o3Y0ZWRlV6MFVodw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T14:59:00+00:00",
+    "detected_at": "2026-11-27T15:10:31.865519+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline contains potentially positive catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Potentially bullish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 11.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 11.53,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1644.065,
+          "observed_at": "2026-11-27T15:10:34.417517+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59192.585,
+          "observed_at": "2026-11-27T15:10:34.247940+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.745,
+          "observed_at": "2026-11-27T15:10:34.580783+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1644.065,
+          "observed_at": "2026-11-27T15:10:34.417517+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59192.585,
+          "observed_at": "2026-11-27T15:10:34.247940+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    },
+    "alert_delivered_at": "2026-11-27T15:10:35.266435+00:00",
+    "alert_last_attempt_at": "2026-11-27T15:10:35.266451+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "74bae4fde4865f38f4da",
     "title": "Attorney General James Wins $1.3 Billion Judgment Against Crypto Scammers Who Targeted Haitian Community - Yonkers Times",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNGZyWnpYT2NzVU1FUjFMRFZ3OUNURmxsQUczdG9kQnEwN2dtQ1JzdTlPdGhRVkdEaWowRmZJbWhSc2Jsb2FZdEdTVWpIMEEzcmRQWlNSVENfTzBibHBKdG11RUNoQ2VTZzBlZFk2Q3R2OENtblBNb2RxRmZXZVpzTTFuZEtqRFlSMXFJU2VJV1ZlWW92YVI5VFgzd0RJbnUxbmktOGxBWlg3dWlZQjc1N3BHWk8zWjFPVllObkxRNmpvbE5hV0toOQ?oc=5",
@@ -507,7 +757,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59192.585,
+            "observed_at": "2026-11-27T15:10:34.247940+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.381
+          }
+        }
       }
     }
   },
@@ -1594,6 +1856,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.08,
+          "observed_at": "2026-11-27T15:10:34.787976+00:00",
+          "returns_pct": {
+            "ETH": -4.497,
+            "BTC": -3.5408,
+            "SOL": -3.2282
+          },
+          "asset_elapsed_min": {
+            "ETH": 60.0699,
+            "BTC": 60.0727,
+            "SOL": 60.0636
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.9562,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1623,6 +1905,19 @@
             "change_pct": -0.1019,
             "benchmark_return_pct": -0.1177,
             "excess_return_pct": 0.0158
+          },
+          "60": {
+            "price": 1644.065,
+            "observed_at": "2026-11-27T15:10:34.417517+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -4.497,
+            "benchmark_return_pct": -3.5408,
+            "excess_return_pct": -0.9562
           }
         },
         "benchmark_asset": "BTC",
@@ -1871,6 +2166,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1202
+          },
+          "60": {
+            "price": 59192.585,
+            "observed_at": "2026-11-27T15:10:34.247940+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -3.6298
           }
         }
       }
@@ -9601,6 +9907,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.1742
+          },
+          "240": {
+            "price": 59192.585,
+            "observed_at": "2026-11-27T15:10:34.247940+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -3.6927
           }
         }
       }
@@ -9798,6 +10115,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.1742
+          },
+          "240": {
+            "price": 59192.585,
+            "observed_at": "2026-11-27T15:10:34.247940+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -3.6927
           }
         }
       }
