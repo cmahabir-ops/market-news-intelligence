@@ -93,7 +93,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.0,
+          "observed_at": "2026-11-27T13:25:32.109235+00:00",
+          "returns_pct": {
+            "BTC": 0.1467,
+            "ETH": 0.0399,
+            "SOL": 0.3152
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9829,
+            "ETH": 4.9826,
+            "SOL": 4.9853
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -206,7 +227,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.0,
+          "observed_at": "2026-11-27T13:25:32.109309+00:00",
+          "returns_pct": {
+            "ETH": 0.0399,
+            "BTC": 0.1467,
+            "SOL": 0.3152
+          },
+          "asset_elapsed_min": {
+            "ETH": 4.9826,
+            "BTC": 4.9829,
+            "SOL": 4.9853
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.1068,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -447,6 +489,26 @@
             "BTC": 5.0005,
             "ETH": 5.0025,
             "SOL": 5.0005
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.97,
+          "observed_at": "2026-11-27T13:25:32.109356+00:00",
+          "returns_pct": {
+            "BTC": -0.1968,
+            "ETH": -0.1558,
+            "SOL": 0.2328
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9591,
+            "ETH": 14.9588,
+            "SOL": 14.9591
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
@@ -2519,6 +2581,26 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.04,
+          "observed_at": "2026-11-27T13:25:32.109486+00:00",
+          "returns_pct": {
+            "BTC": -0.3166,
+            "ETH": -0.1026,
+            "SOL": 0.1985
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0228,
+            "ETH": 60.023,
+            "SOL": 60.0266
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -2546,6 +2628,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0926
+          },
+          "60": {
+            "price": 61336.015,
+            "observed_at": "2026-11-27T13:25:31.365156+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3166
           }
         }
       }
