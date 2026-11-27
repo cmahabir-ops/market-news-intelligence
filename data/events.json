@@ -1,5 +1,71 @@
 [
   {
+    "id": "3f12e89d582bb1fbc147",
+    "title": "Crypto Today: Bitcoin, Ethereum and XRP stage a comeback - www.tmgm.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeXF1QTlHTVVhY0FnT2pMdlJiMmJnNWlvaHVISkZqa0llR0psUXl1OUdmQ0R3OHVic0JDbTgtdlZURXdLZ3N1b1hYRUtRVDZraFZPM1B2WEVWLWRvd3VkblZaeE1YcTQ1VndjSzN4dUZfVVRzWXlRSW1Tc3BJOXoyU3lTSWdTYTZSSFpMUEUzMmZ4eWx4ZUdMd1FTWW5qVGVwSnZwekJGTTlsOU9NNER1c09QUTBLaWVKbWJVRzZRQ0Q?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T09:48:44+00:00",
+    "detected_at": "2026-11-27T09:50:36.074012+00:00",
+    "assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto",
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 1.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 1.87,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-27T09:50:38.300201+00:00",
+    "alert_last_attempt_at": "2026-11-27T09:50:38.300218+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "22cc138fc64045c7700f",
     "title": "CFTC Crypto Market Rules: Public Comments on Proposed Regulatory Framework Close December 14 - FinanceFeeds",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1hfUWJmOTJNX0ZiN1A1SGQyYnJvMW8zY2VSUnVzSm14UkpILTFrLTd5UG5kbkdlNHRNeE9xWFA2U2x2MkNLVEd3OGRZS19FNGtIS1NhU20zaVhSbjZHM0lmZ0IwWWNTbGo1SXBERmRtMG04aE1TMm9TSGZQWGJncnJ2WEhVS21sNTI3dVRUNXFvU3pOa1ljWWNUUm9wbEZnQkdfeVF2TzhhYi1BWEJRSDlHUV93NzFP?oc=5",
@@ -538,6 +604,26 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.09,
+          "observed_at": "2026-11-27T09:50:37.754488+00:00",
+          "returns_pct": {
+            "BTC": -0.2764,
+            "ETH": -0.2812,
+            "SOL": -0.3259
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0779,
+            "ETH": 15.0786,
+            "SOL": 15.0765
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -554,7 +640,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 61586.125,
+            "observed_at": "2026-11-27T09:50:37.268544+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.2764
+          }
+        }
       }
     }
   },
