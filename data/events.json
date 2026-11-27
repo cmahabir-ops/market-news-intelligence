@@ -1,5 +1,359 @@
 [
   {
+    "id": "1582b26c6c458eea7cdf",
+    "title": "Hayes Warns of Weekend Bitcoin Selloff as $6.8 Billion in Options Expire - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02ck91VzR3ZDBQaEdFUFN0dXZWTnVnd1RsY1hqYjRiNkJRYVBxUHZZVVlGUVBmT1MtQUhJc3BzN3Z4V1ZBbFBQMlgyWjlKYWE2OVUyS3k4b3d4MVJpa2NXeEl3dlNSM0w4MGl0RkoydWF1TWx0YlE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T06:26:00+00:00",
+    "detected_at": "2026-11-27T12:55:29.913167+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 389.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 389.5,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61387.545,
+          "observed_at": "2026-11-27T12:55:32.195450+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1717.86,
+          "observed_at": "2026-11-27T12:55:32.502902+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 72.91,
+          "observed_at": "2026-11-27T12:55:33.205360+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61387.545,
+          "observed_at": "2026-11-27T12:55:32.195450+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "2186dc7cff93f7a98d10",
+    "title": "Ripple Is One Vote Away From a New Era as December 9 Comes Into Focus for an $837 Million Market - Kriptofoni",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNemt6NWJFRm83cWFpT1ZYV2tDRk1GS1E2ZHBoWHJZUmhyZ1Nfc1hDS0w3eFRiTGhRQ1dmQnVLenVhNzZIR01PN3U1cmtoMC1nSEp0d3F6d1RUQmZYRXc2NVh1VzhQWF9yVDJhWE1GYS01VFhqVDltRV9HUFpTNXF1SkVn?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T11:46:43+00:00",
+    "detected_at": "2026-11-27T12:55:29.910063+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 68.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 68.78,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.97035,
+          "observed_at": "2026-11-27T12:55:33.402619+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 61387.545,
+          "observed_at": "2026-11-27T12:55:32.195450+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1717.86,
+          "observed_at": "2026-11-27T12:55:32.502902+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.97035,
+          "observed_at": "2026-11-27T12:55:33.402619+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 61387.545,
+          "observed_at": "2026-11-27T12:55:32.195450+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "1642a8e231867dc474ed",
+    "title": "Austria crypto trading hits €20.4B in six months, surpassing 2025 total - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WcXpsQ1FvWWVZMzdqbjY0NVRDUk1KU05MVkcxay13M3hZSzZXd2ozVXdaMmZDX1FZTlc4Q0tUNGlqSTljUG5PZVlpVEFyd1h4NE5rM0FvZERmYldGNm5FTWNVMU53OVUtY084bFJiOEFweFlOME03bDFjVQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T12:50:39+00:00",
+    "detected_at": "2026-11-27T12:55:29.908386+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 4.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 4.85,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "cfab599cdc70a9275d77",
+    "title": "Could AI Threaten Bitcoin, Ethereum, XRP? Inside Crypto’s ‘Wall of Worry’ - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQzdPOVY3Z1hfX0U4R3h6RHFTTU56UXhyZHFkeWRHdmhjZV9kMGV1UVNjVlp0a2RZbWcwYW43MEhxeVNOak5rY0c3SXV3cHdSN1N6Ml9NZE56b3JTcVNQVE9nOFo2V0wxcDVsZnd5OWtaTzNRaEZkbWtzQXc2NkN0SDRjb3lxTXM2eDd1NVlLQVZIV1BBZE1aVXAyTDZKODlnQ2VCWnU2UmFPb3pab0dRdDgyNDk3OXUyd3ptMnZmMUM2U21PSUR3MA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T12:49:50+00:00",
+    "detected_at": "2026-11-27T12:55:29.907180+00:00",
+    "assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto",
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 5.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 5.67,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-27T12:55:33.976098+00:00",
+    "alert_last_attempt_at": "2026-11-27T12:55:33.976116+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "eff8598f36706c6c0967",
     "title": "Pi Network’s Upcoming Events, a Potential BTC Buying Opportunity, and More: Bits Recap Nov. 27 - CryptoRank",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSzl1bkVIWGh1M18yRGRRR3pVV0RpSVdHUDg0em9taG9RbFMzNFF6TUJhWkNBWUswdUtUSVNtRG0zLXl2eEo1VWEyNWgxVXdrcm95ZHItRDE1elAwMkxYaTVTVTIxcGdOeEhVcFhzTTRHc1VpNnFZZ2lUck03eGsyZXp1dTZGcGhBLTJCbUxRX1lEdlg3TmxTTTM0TU50U25rSFdwMk1OM3hVbG9XZXczMGxNLWhpalRDa0FaOXlCcVh6R3BQN3c?oc=5",
@@ -93,7 +447,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.98,
+          "observed_at": "2026-11-27T12:55:33.476307+00:00",
+          "returns_pct": {
+            "BTC": -0.036,
+            "ETH": 0.0245,
+            "SOL": -0.0959
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9608,
+            "ETH": 4.9632,
+            "SOL": 4.9665
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -205,7 +580,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.98,
+          "observed_at": "2026-11-27T12:55:33.476365+00:00",
+          "returns_pct": {
+            "ETH": 0.0245,
+            "BTC": -0.036,
+            "SOL": -0.0959
+          },
+          "asset_elapsed_min": {
+            "ETH": 4.9632,
+            "BTC": 4.9608,
+            "SOL": 4.9665
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0605,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -1854,6 +2250,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.03,
+          "observed_at": "2026-11-27T12:55:33.476457+00:00",
+          "returns_pct": {
+            "BTC": -0.1779,
+            "ETH": -0.1148,
+            "SOL": -0.1506
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.005,
+            "ETH": 60.0075,
+            "SOL": 60.0144
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1881,6 +2297,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.1103
+          },
+          "60": {
+            "price": 61387.545,
+            "observed_at": "2026-11-27T12:55:32.195450+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1779
           }
         }
       }
