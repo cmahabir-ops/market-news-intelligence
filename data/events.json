@@ -1,5 +1,179 @@
 [
   {
+    "id": "6e3399b298a3705f1707",
+    "title": "Prediction Markets Paint a Brutal Year-End Price Picture for XRP Holders - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56TTA4VDNoS1FWV1gyVnlGT0EzVzZvVUJCR2FGUWYyTkt4TmhVa1FRZ2dLY29RUDUxdEdBWWJ2TV9ydXlYWmN6cWZRMEZCX0lNSWx2ZE9vczRuNlU?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T22:13:38+00:00",
+    "detected_at": "2026-11-27T22:15:30.939438+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 1.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 1.88,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.942,
+          "observed_at": "2026-11-27T22:15:34.164886+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59597.525,
+          "observed_at": "2026-11-27T22:15:33.644845+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1655.355,
+          "observed_at": "2026-11-27T22:15:33.775962+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.942,
+          "observed_at": "2026-11-27T22:15:34.164886+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59597.525,
+          "observed_at": "2026-11-27T22:15:33.644845+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "3ee1db83e816f197521a",
+    "title": "Khosla warns AI and quantum computing could threaten crypto security by 2030 - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQUdrZG4zWEFydkpySk03aTJKX0V3X2tuVU9TQnJDTVZTb2R6aTExczVVVDNfcVZPbUJHQkc0ekJWc1RkcjRwRTMxR3pXTWNISEkzV0UtRWZCaWNFeTFVUVNiVzNQcU1JQ2NBcld5aGlzcmQ1VW9lOU9mUzNXdEMwUHR4TUR6eGRkclhwSV9Qa0VEUVZBWjcxT3FJSmk5MkJQUmdaUDBLYw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T22:09:52+00:00",
+    "detected_at": "2026-11-27T22:15:30.938539+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 5.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 5.65,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "d87de172a0c436edc545",
     "title": "What Would It Take for Hedera (HBAR) to Reach $1? - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZDhNaTR4cU1VOXdEbnh6ZUx4NUhXcHE5bGxOSnU3dVpUbFMzWWZlb1JWcUlxUVkwWjQwQXVnSE5CSGlnbHktTU5mRERNZGtWVmhSRXlOc3NqNWJvbVh2OHR5OG1RNUg1VDRIc1NjaXJnanVDSVBNWmNad0dOQnlCd3ZrUWcwQkM4ZzE5WmhyWExUcTFUUXVuNnJGbHIteXozWUJYbzlKMA?oc=5",
