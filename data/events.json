@@ -1,5 +1,343 @@
 [
   {
+    "id": "db9420c61e7ddf89ad1c",
+    "title": "Binance lifts withdrawal suspension after $6.3 billion crypto heist - Business Standard",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOM1lMcjZoa3VwM1dXeWVDRUlLZ3R0bjZqTkk0R2Z2UThySl80ODgwU1RmODYwWXlpdktfSm1ZMWk5djRtTUZ5U1BWQTZuQm1pdEtyWU1IZjBaYmtFMUNsUFdkbm9oUi1LMDdMREt2REFyY2V5endnaXlrVWQwNWZuUUt1YzJXaGRoLU5sU043Vko5bDNpNXp3Z2R0YUNiVXVBak1mRW9VSXRWdno4bXdZa0NSUkZUeUJ6VXd3WXYxTkhHOTRyODhwa3lHRDBTQ1VpaDNrMG9GVzRiZHfSAeABQVVfeXFMT3lXTnBrLXFsa05zbGtNeVh3NlpxdmlIUC0tU2VoZHlIaldmbVNFTlNMOVJrTVFCMWlaOWxwZjN5emJOYkdVZDhKYzhIVWpMQ3hVeTcwZVl1ZzRJdHNzV2JEcWVtSl8taU9pdE9iNnpOcHozWmo3Z3dnV3F1NG1jOFBCZ0ZoQlpJV1A2OS1FYnpjUEhjRTU0UmhVeEY5d0E4N3ozSk9ldUQyVU43LVBldVFWTWRCa29DSUdiZkVqbEtTMVV2U0ZCUlhJaHl2MXpVNlRzcVRybEpfV1hBNjQ4SzE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T02:40:24+00:00",
+    "detected_at": "2026-11-27T03:10:30.250740+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 30.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 30.1,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "f2231305480728dd554d",
+    "title": "‘Sore Subject’ for the Thanksgiving Table: Peter Schiff Says Bitcoin Fall Leaves Holders With Little to Celebrate - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVTBCZFRtUXNWTy1hTnZodEwzOHpXRm81dl9zTGFvZy1yRnNEUk9mcDFXQmRqM0JQYkxqZlhnR3gzTERNalBvTE5EamNVOHpoQWNOcGxjNE9sMDVZTFcwSVdfM2JrdV9ydmVoVTBOWnpORy0zenpaVnNGaFVnNU43aUdFYnAtUGJwZmhsUkpsQWZPMUg4VF9SV0k0RllpWlNINk9hWGVLUHA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T03:02:10+00:00",
+    "detected_at": "2026-11-27T03:10:30.249114+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 8.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 8.34,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61570.145,
+          "observed_at": "2026-11-27T03:10:32.751704+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1731.275,
+          "observed_at": "2026-11-27T03:10:33.079946+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 72.89,
+          "observed_at": "2026-11-27T03:10:33.449005+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61570.145,
+          "observed_at": "2026-11-27T03:10:32.751704+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "2309e43ff425e07b3cf6",
+    "title": "Ethereum Price Forecast: Ethlabs recommends proceeding with Glamsterdam - www.tmgm.com",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa0NVOXQ2NEh2WmxleVR5aEkzdGxCNGg0S3A5dmdOcE53X05EdTJyQmpnNzdaN2dqcUdLdG93MXFRcUpVR2hta3ZZQ21SSVdybXVsVHA0bTUxWS1KVUFNTkYzemxZbGNEVWFqaEZpdEVnaWJrRE1TRGN5M2R2cHBpUHBvZkw3QnJNeFpRMms3bHZ4VkJoZ01jcG1ZcndLVGE5NHdoaW5YZWdwTzZBNnB2NGdmWXZJeUpYY1d4Ri1odUVCck51cTJNN3Z5QVlpZjV5WFJFenln?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T03:09:34+00:00",
+    "detected_at": "2026-11-27T03:10:30.248167+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 0.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 0.94,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1731.275,
+          "observed_at": "2026-11-27T03:10:33.079946+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 61570.145,
+          "observed_at": "2026-11-27T03:10:32.751704+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 72.89,
+          "observed_at": "2026-11-27T03:10:33.449005+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1731.275,
+          "observed_at": "2026-11-27T03:10:33.079946+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 61570.145,
+          "observed_at": "2026-11-27T03:10:32.751704+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "55f07208c840f014cf56",
+    "title": "Global Tech Markets Remain Volatile as US Dollar Extends Strong Winning Streak - NAI500",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVNBblR2SVlVYnplbV9JTUFHaF84ZTlxOU9lS1RGNUYzek9tU3NFN2ZWbE1vOFBSWS1BUHF2RnBnckpDSEp3U1pqQ1pMWDVKQTZpU29TcElwMDY0ZU5HTWFHeUVsbTROOUR2cFplX2VBVzJ6SGpJTHZaTG9XTDRkVEgzckUtOEV0ZXZnZ0lnV1QyRVBSd3lsSWpja29IempyaVFQZl8tTUFzQWVxVWRkRw?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T03:06:25+00:00",
+    "detected_at": "2026-11-27T03:10:29.842484+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 4.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 4.08,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "a156499894bd0b2297df",
     "title": "Overseas Overnight Trading: 8 Major Markets Rebound - STL.News",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KcE40MHRhRXg5dmVIMVRrNl84dnVVZnY5NHg0X1BOajl1WGVQellvTGNzYUdnUnlNQm1URWx2RlJGM0VlTW95WDZtdDdmcEFLaVAtUkVHT1RXZmFTRXpUdzhvaUZtYW9oc21UeUpsTW9kOHc?oc=5",
@@ -1057,6 +1395,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.6903
+          },
+          "60": {
+            "price": 61570.145,
+            "observed_at": "2026-11-27T03:10:32.751704+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 1.4068
           }
         }
       }
