@@ -1,5 +1,183 @@
 [
   {
+    "id": "37b9852e81fe1f4d3d2b",
+    "title": "Ethereum’s Glamsterdam upgrade set for December 15 test on Hoodi - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NNm9QU25EY2d0eWlOVXAydmZkNzI5T1d1b2pFb25QNW1zTTFGbENyeHVIS2VCVHItNkExMFZsSnpNTWlvaDROUTBtdG9ya2RCVnpEaV9qbmtoUGJKLVk2OEFSeDg2c2xpdlQ1eTBsX2dvcU1JM21WTGpfR0ZBS3c?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T04:33:11+00:00",
+    "detected_at": "2026-11-27T04:40:29.241627+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline contains potentially positive catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Potentially bullish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 7.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 7.3,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1736.355,
+          "observed_at": "2026-11-27T04:40:30.764292+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 61519.03,
+          "observed_at": "2026-11-27T04:40:30.598308+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 72.87,
+          "observed_at": "2026-11-27T04:40:31.348991+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1736.355,
+          "observed_at": "2026-11-27T04:40:30.764292+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 61519.03,
+          "observed_at": "2026-11-27T04:40:30.598308+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    },
+    "alert_delivered_at": "2026-11-27T04:40:32.101875+00:00",
+    "alert_last_attempt_at": "2026-11-27T04:40:32.101892+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "e66ac2d3b74b9fa8492e",
+    "title": "Warsh's 2018 dilemma returns as an AI stock rout meets a Fed bent on taming inflation - investingLive",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY09laG1mUWszalBJSzg5UWJLX09IcGtzZGk5cmg1NHNjaG45alBBd01ta2p1dzFSMkZhcjNfM3ZSUnZGbzBzemRkUVVWY0N5dktqbU9RQ1lRbGEtaHdNckE3am4tcmh1RHE4S1NwS2tEM05mVWpub0JFTEQtLTJoWlBHOGJCV2tfQ015d1JjSDU3ZEZVUHFpV2tzNmxXdDhhalB1akROVFJrMkNpVHlJLUZqS2RpQmZmYkVrYUIyNTNERnlt?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T04:18:37+00:00",
+    "detected_at": "2026-11-27T04:40:28.678767+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 21.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 21.86,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "62f366132ebe92b9bbad",
     "title": "The Federal Reserve May Be Forced to Abandon Rate Hikes in December! Former Goldman Sachs Strategist Issues Major Warning: Risk Assets Could Face a Comprehensive Collapse - Moomoo",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZTBoNnRWdWs3aFhKTUt3MnkwR0tWZ1lPaE13V0FNMENVUFNJQjNpdGE1dzdjeURyalE0Nmp2Ml9IdmtIeDVlcHBrTmU5WnZIZjB0MG5STUJzVV9DUjFkSHhtemdPclVBSWRUVzR4SV80cHdWMUVMbFctMExkeXZEZFBnaGlJTDZVTnItZHEzT0xDZC1iUUQxbHBSYWx2LURs?oc=5",
@@ -904,6 +1082,26 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.99,
+          "observed_at": "2026-11-27T04:40:31.577875+00:00",
+          "returns_pct": {
+            "BTC": 0.0804,
+            "ETH": 0.5332,
+            "SOL": 0.0137
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9748,
+            "ETH": 59.9745,
+            "SOL": 59.9791
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1171,6 +1369,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1196
+          },
+          "60": {
+            "price": 61519.03,
+            "observed_at": "2026-11-27T04:40:30.598308+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0444
           }
         }
       }
