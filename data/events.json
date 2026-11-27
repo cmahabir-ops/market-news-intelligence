@@ -92,7 +92,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.99,
+          "observed_at": "2026-11-27T11:35:32.553289+00:00",
+          "returns_pct": {
+            "BTC": 0.1584,
+            "ETH": 0.12,
+            "SOL": 0.1845
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9824,
+            "ETH": 4.9822,
+            "SOL": 4.9809
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -547,6 +568,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.07,
+          "observed_at": "2026-11-27T11:35:32.553401+00:00",
+          "returns_pct": {
+            "ETH": 0.2362,
+            "BTC": 0.2738,
+            "SOL": 0.1982
+          },
+          "asset_elapsed_min": {
+            "ETH": 15.0625,
+            "BTC": 15.0623,
+            "SOL": 15.0618
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0376,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -563,7 +604,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1727.395,
+            "observed_at": "2026-11-27T11:35:32.078534+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.2362,
+            "benchmark_return_pct": 0.2738,
+            "excess_return_pct": -0.0376
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 61527.605,
