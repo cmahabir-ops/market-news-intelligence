@@ -1,5 +1,121 @@
 [
   {
+    "id": "162ab8cda6840519e5bb",
+    "title": "JPMorgan flags bitcoin 'capitulation,' Democrats push back on SEC's crypto plans, and more - The Block",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcmFYcDJuU0lVNDJKclpDRTMxelZWazdOVHVVTVpuMXFPbFVCRlZUdXZvVE1ZV0VsemdtR3RnZVZQNzBKRG1rdXdBQ2R6c1JMYWJMTTJ2cG12RTMxblNMMjVoYmtOeWExVWVfcXllejR2Z19iMmQ2eXF4YXN4LXUyZlJ6UzBLOXBlekdiNXd5MTVnaVg1YXY2Vks3UnRlVGhjNTFwTlQzbFdzUFNKQUpQYS1rSHVhTVpnOUhPYUloc3dTSVkzZVlsZ1hR?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T02:20:00+00:00",
+    "detected_at": "2026-11-27T03:40:30.971996+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 80.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 80.52,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61469.605,
+          "observed_at": "2026-11-27T03:40:32.109431+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1727.145,
+          "observed_at": "2026-11-27T03:40:32.296609+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 72.86,
+          "observed_at": "2026-11-27T03:40:32.600964+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61469.605,
+          "observed_at": "2026-11-27T03:40:32.109431+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-27T03:40:33.400688+00:00",
+    "alert_last_attempt_at": "2026-11-27T03:40:33.400702+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "6117b6bb913a0859f5b9",
     "title": "CEX.IO becomes first cryptocurrency exchange to delist Pi Network token - VnExpress International",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3JkNm9ocXV1Y0xhWGJhTEdTUURoYnJyYW1FUklKNFN3TFQ4UE1rQW1Kcy1hM1k3RmlWeE5DbDFoSG8wcHp3a1h5MmMtTmZwR1owSkFSbkZnNnhmSXZ5SzZlb1o2NnBWZXl2d3k3NzNWOENaTFNQdklYcW5hWW9NZ2M1QlpIR0J1dWUzY3VnY0VUeDY5cjM3clRPcTMxZ0FCUjhjZVlnTExTV0M1UDNMTldjTVN1ZFJKeTlKSVhYd2xYU0tsUkdj?oc=5",
@@ -144,7 +260,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.09,
+          "observed_at": "2026-11-27T03:40:32.830681+00:00",
+          "returns_pct": {
+            "BTC": -0.036,
+            "ETH": -0.0327,
+            "SOL": -0.096
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0734,
+            "ETH": 5.071,
+            "SOL": 5.0635
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
