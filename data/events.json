@@ -1,5 +1,56 @@
 [
   {
+    "id": "67958426b48a6b2a335c",
+    "title": "ASEAN, China, Japan and South Korea to set up AMRO working group on digital payments and asset regulation - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0czhZLVJLMmU2MnpwLXc4Tlo5ZTFlaFFsdmZERXVXTC1FMzdEeU53YllhS3lybnZtLUFNOUlzN29iT3FhdFNaUUVZcWZYNkdxVWxTVkdfQUVEV01FQkt0QU81M01WTTBxblhhNV9ocDhjdWl2SGc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T12:39:49+00:00",
+    "detected_at": "2026-11-27T12:45:32.524232+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 5.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 5.73,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "96e79f803ef312f7f925",
     "title": "Austrian Financial Market Authority reports €20.4B in H1 crypto trading volume - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0T0QySzVyaTE5NHVUUEhtdktja0xaU2R1SXEyWDRmV2JpZEQ5eUFramIwdjZ2a19DTFBKX0sxenc4NGpPWFhrNTVyanRnWWFVbzlpVHJlX1MxWVdCT2p4YXlza1c3LWRpd183TWtKaXVVSVhzQWpsRQ?oc=5",
@@ -311,6 +362,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.05,
+          "observed_at": "2026-11-27T12:45:34.350340+00:00",
+          "returns_pct": {
+            "BTC": -0.003,
+            "ETH": 0.1531,
+            "SOL": 0.0137
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0439,
+            "ETH": 15.0415,
+            "SOL": 15.0365
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -327,7 +398,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 61459.415,
+            "observed_at": "2026-11-27T12:45:33.788397+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.003
+          }
+        }
       }
     }
   },
@@ -421,6 +504,22 @@
           "primary_excess_return_pct": null,
           "positive_assets": 1,
           "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.05,
+          "observed_at": "2026-11-27T12:45:34.350398+00:00",
+          "returns_pct": {
+            "BTC": -0.003
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0439
+          },
+          "benchmark": "QQQ",
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -1871,6 +1970,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.12,
+          "observed_at": "2026-11-27T12:45:34.350505+00:00",
+          "returns_pct": {
+            "ETH": -0.2196,
+            "BTC": -0.2337,
+            "SOL": -0.1847
+          },
+          "asset_elapsed_min": {
+            "ETH": 60.1125,
+            "BTC": 60.1139,
+            "SOL": 60.1109
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0141,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1900,6 +2019,19 @@
             "change_pct": -0.1459,
             "benchmark_return_pct": -0.0167,
             "excess_return_pct": -0.1292
+          },
+          "60": {
+            "price": 1720.105,
+            "observed_at": "2026-11-27T12:45:33.926665+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.2196,
+            "benchmark_return_pct": -0.2337,
+            "excess_return_pct": 0.0141
           }
         },
         "benchmark_asset": "BTC",
@@ -2147,6 +2279,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1601
+          },
+          "60": {
+            "price": 61459.415,
+            "observed_at": "2026-11-27T12:45:33.788397+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3768
           }
         }
       }
@@ -2332,6 +2475,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1601
+          },
+          "60": {
+            "price": 61459.415,
+            "observed_at": "2026-11-27T12:45:33.788397+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3768
           }
         }
       }
