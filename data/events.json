@@ -1,5 +1,180 @@
 [
   {
+    "id": "0ca2f583dc7413fce793",
+    "title": "Justin Sun promotes USDD collateralized lending as Sky closes five legacy Ethereum vaults - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkcFJQZUg4cXFaMW51MEdPb05kc0R0MUh0Z09YMWp3QlZ3cGoweDk4bGJ0bHBoOWlUT2dBQ3kwYWFpdS1WemhOY0RsaTVQajQ5X1RwZFFVQkJkSGthNUFnMkUxRGZobG9zUHhYSFFTZjQxOWg3WFhUcA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T08:30:00+00:00",
+    "detected_at": "2026-11-27T08:35:30.096839+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 5.5,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1728.3,
+          "observed_at": "2026-11-27T08:35:31.825430+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 61673.44,
+          "observed_at": "2026-11-27T08:35:31.581979+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.115,
+          "observed_at": "2026-11-27T08:35:32.435965+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1728.3,
+          "observed_at": "2026-11-27T08:35:31.825430+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 61673.44,
+          "observed_at": "2026-11-27T08:35:31.581979+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "94fee5f353dcf94317eb",
+    "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeENKRzhrcTNLYzJwajJUZFEycnFQLUU3VzEzcGFUbUZZbXRFdDFJYnNDOHFYNGdITndxLUp5RkxEX0dhOFRxLUtUOFlIVndFUUlad2EwbmlGVmRRaFVSeG1PSHNTYzRKN3JVRUdmVEJHcnJTTGlNd0YyRG5sQm1taFMxUzM0U3JlbFNuVDZwclQ5c2tyTUVhRDAzUGVUazBYZUNHTFYwZEtVTVBIbDJhZw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T07:33:01+00:00",
+    "detected_at": "2026-11-27T08:35:30.095160+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 62.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 62.48,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "a98e94547ee0c73d7074",
     "title": "Tether Supply Shrinks $8.1 Billion as Bitcoin's Recovery Lacks Fuel - BigGo Finance",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rTm1kYk5tTVktZDZIUTlRWEVYQm1ReVFSb3FtREtxbHZaTUlHSmlWVUpBMFZ6Zl9YUnhjcHpjd3lYVEJDRk9NTlhGd2NWMExwS0NydG11YUUtTU02ZmQwTHhBbFJ3X0paN1h6dEZnaGw3aC04OEE?oc=5",
