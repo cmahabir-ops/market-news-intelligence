@@ -1,5 +1,57 @@
 [
   {
+    "id": "960a7c7b3a81f422f1d6",
+    "title": "Binance Lifts Withdrawal Suspension After Record $6.3 Billion Hack, but USDC Withdrawals Stay Paused - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcU5nMXdHa3dHNldEXzJWazhiVXEyS2RVT1UxaGh6ZVI0d0VHZjIxdm5PcUJHV3VrQlV3R3ByV01iWWxFUEJfdUVZYjJaNEhLUGNTZEI3b0hQbEpoaXV2dENuTGs2VnQyeTIybUZPa2RSLVVYU2VoeVNscjRBc3FCMHZ5MFVlTDMtSnBDY21ITUREeHUya3ZzRUV2QjJWOG1VYUhLT3k0Tm4?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T05:24:46+00:00",
+    "detected_at": "2026-11-27T05:40:33.929511+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 15.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 15.8,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "ff20fa94dbbf7081eb08",
     "title": "JPCrypto-ISAC partners with SEAL to enhance cyberattack response - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2RLVFdibm1pVVVpcHByWERVbmY2MGVtMU8wZTBfclJoVnk1WEdPVy0xWUVFeEcxOGhNbXAtYkpmOEk2czhJY1pNZ0phNm9QY240aFMtaXJ3S0NEZXVKMVctR3h5dTVWTzU3X0dtaG0wRlI5TnQwUEJQV3EtaWtUallQTm1BUQ?oc=5",
@@ -143,7 +195,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.17,
+          "observed_at": "2026-11-27T05:40:39.157826+00:00",
+          "returns_pct": {
+            "ETH": -0.1649,
+            "BTC": -0.1691,
+            "SOL": -0.3003
+          },
+          "asset_elapsed_min": {
+            "ETH": 5.1069,
+            "BTC": 5.1069,
+            "SOL": 5.1591
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0042,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -1317,6 +1390,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.14,
+          "observed_at": "2026-11-27T05:40:39.157974+00:00",
+          "returns_pct": {
+            "ETH": 0.243,
+            "BTC": 0.2145,
+            "SOL": 0.247
+          },
+          "asset_elapsed_min": {
+            "ETH": 60.0781,
+            "BTC": 60.0787,
+            "SOL": 60.1254
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0285,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1346,6 +1439,19 @@
             "change_pct": -0.3637,
             "benchmark_return_pct": -0.2878,
             "excess_return_pct": -0.0759
+          },
+          "60": {
+            "price": 1740.575,
+            "observed_at": "2026-11-27T05:40:35.451800+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.243,
+            "benchmark_return_pct": 0.2145,
+            "excess_return_pct": 0.0285
           }
         },
         "benchmark_asset": "BTC",
@@ -1844,7 +1950,7 @@
         "QQQ",
         "SPY"
       ],
-      "status": "tracking",
+      "status": "completed_or_expired",
       "baseline": {
         "BTC": {
           "price": 61317.045,
