@@ -1,5 +1,128 @@
 [
   {
+    "id": "3a9919d7d92abd40c121",
+    "title": "Ethereum Plans Shift to Hash-Based Signatures for Post-Quantum Security - The Quantum Insider",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWNyRTBYaHNfSzVyTkVXeEpnYmlXRVhhd01WN3A2SFZEVTFrSzVkSG5pNVQtYUpGV25DRUw5cTNjb21RWFlEckstTDFZQzF1NktLUElrZjh0bVBrRnM5T3RoWmdJYXNWVHlqOXR0Mk9yX1R6Zm9qMWNuNDJkelJSbUFxR3VHZTRndWptXy1UUTh4cWV2eHU5dTM4MDlUeU1LaGc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T10:56:20+00:00",
+    "detected_at": "2026-11-27T11:00:38.165093+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 4.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 4.3,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1726.805,
+          "observed_at": "2026-11-27T11:00:39.697758+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 61546.525,
+          "observed_at": "2026-11-27T11:00:39.557907+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.22,
+          "observed_at": "2026-11-27T11:00:40.038878+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1726.805,
+          "observed_at": "2026-11-27T11:00:39.697758+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 61546.525,
+          "observed_at": "2026-11-27T11:00:39.557907+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
     "id": "6d3a457eacc0d6bc1074",
     "title": "Stock futures jump as Wall Street looks to end volatile week on a high - TradingView",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUVM3SUdrUkxkS3lmSGVaeHJtS3oyRzJnN3pvbEZTdHFTbmVGN2tERXJtYzNKSFVEY0tENEJFR1dDUEtOS2xmb18xZnVUTzV0S3NvR1k4Ykp4bUNyYkJ5eHJhazRRY2p6U0xDMWxRRUk2Q0YwMVJQS2YwdklxZjNHUHF4RnV2eEZ1aU9IMUdzX01kcnhuaV82aGYyNVNQS3NibzhadjRnUWN4N0dsTy1DRzR6REV1UUxXdDFRdC1zbHFSUE9XQzBwNEYwVk5MUQ?oc=5",
@@ -352,6 +475,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.22,
+          "observed_at": "2026-11-27T11:00:40.347074+00:00",
+          "returns_pct": {
+            "BTC": -0.0018,
+            "ETH": 0.0122,
+            "SOL": -0.1568
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.2022,
+            "ETH": 15.2007,
+            "SOL": 15.1955
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -368,7 +511,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 61546.525,
+            "observed_at": "2026-11-27T11:00:39.557907+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0018
+          }
+        }
       }
     }
   },
@@ -2238,6 +2393,19 @@
             "change_pct": 0.0358,
             "benchmark_return_pct": 0.0771,
             "excess_return_pct": -0.0413
+          },
+          "60": {
+            "price": 0.97915,
+            "observed_at": "2026-11-27T11:00:40.210978+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1637,
+            "benchmark_return_pct": -0.0221,
+            "excess_return_pct": 0.1858
           }
         },
         "benchmark_asset": "BTC",
@@ -2434,6 +2602,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0771
+          },
+          "60": {
+            "price": 61546.525,
+            "observed_at": "2026-11-27T11:00:39.557907+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0221
           }
         }
       }
@@ -6772,6 +6951,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0301
+          },
+          "240": {
+            "price": 61546.525,
+            "observed_at": "2026-11-27T11:00:39.557907+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0904
           }
         }
       }
