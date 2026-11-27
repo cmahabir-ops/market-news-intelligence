@@ -1,5 +1,57 @@
 [
   {
+    "id": "483f9cceb083af52937a",
+    "title": "How AI Bubble Burst Could Hit Millions of Homeowners - Newsweek",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BUEkxQVZSQUNNTWstVy1sb1dRYkM3NGs2RkFieS1vX2pUSVpTcFFZX25tR1oxejBYbnhQY2NTUFlYNXBJdHl1a0M0SEFybmU2VHlVQlVWUC1Qc0hYUGxOUHMxZFByUm5FT2RiV0VVWFctbk9rbC00?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T10:00:00+00:00",
+    "detected_at": "2026-11-27T18:25:24.216924+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 505.4,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 505.4,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "384a122bfb96967a5bcc",
     "title": "China, Japan, South Korea and ASEAN form joint group on crypto and digital payments - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yYW1ZSDBrb1ZtN241V2RtNWV6OVZHQ0t1T0thUkFVejQ3UVZaLTdEYWRFSHBuRGF0bjluZ1U0VTI3OWJyd3RMazlNWmZOcFlING5XZFZXemZKeTlYV1k1NFQ4a1Q0UFF4RkZXbHNyT2FOM2dBS3BkZm9YOVhURFU?oc=5",
@@ -144,7 +196,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.94,
+          "observed_at": "2026-11-27T18:25:27.787991+00:00",
+          "returns_pct": {
+            "BTC": -0.0341,
+            "ETH": -0.0504,
+            "SOL": -0.0627
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9246,
+            "ETH": 4.9219,
+            "SOL": 4.9166
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -256,7 +329,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.94,
+          "observed_at": "2026-11-27T18:25:27.788067+00:00",
+          "returns_pct": {
+            "BTC": -0.0341,
+            "ETH": -0.0504,
+            "SOL": -0.0627
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9246,
+            "ETH": 4.9219,
+            "SOL": 4.9166
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -499,6 +593,26 @@
             "BTC": 5.0479,
             "ETH": 5.047,
             "SOL": 5.0472
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.96,
+          "observed_at": "2026-11-27T18:25:27.788110+00:00",
+          "returns_pct": {
+            "BTC": -0.0923,
+            "ETH": -0.2354,
+            "SOL": -0.3406
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9401,
+            "ETH": 14.9391,
+            "SOL": 14.9399
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
@@ -821,7 +935,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59802.035,
+            "observed_at": "2026-11-27T18:25:26.841015+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0432
+          }
+        }
       }
     }
   },
@@ -2087,6 +2213,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.91,
+          "observed_at": "2026-11-27T18:25:27.788192+00:00",
+          "returns_pct": {
+            "BTC": 0.0561,
+            "ETH": -0.0842,
+            "SOL": -0.3752
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.8925,
+            "ETH": 59.891,
+            "SOL": 59.8895
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -2300,6 +2446,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.2406
+          },
+          "60": {
+            "price": 59802.035,
+            "observed_at": "2026-11-27T18:25:26.841015+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0214
           }
         }
       }
