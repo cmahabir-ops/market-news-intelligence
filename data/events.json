@@ -1,5 +1,233 @@
 [
   {
+    "id": "6e8e37d1245f47062e07",
+    "title": "Bitcoin Faces A Critical Weekend As Market Risks Mount - Cointribune",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONEJCbHFLYzVFalpNQVI2d1NWc0otYUJEZ2lfWXBVWFUwRWxHdGlZcVFLVVc1RTczdDhOcW5FaXVPY2dGb0NtUnRuamhGM0E4UUljX2dfZFMteFREdkxrZ1kzTnpReUI2LTZKQ1MwQUtQaUhucUNDM1NreWR6dkV3ZXVkVnpQQUZmc3FxWE5Rcw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T16:13:32+00:00",
+    "detected_at": "2026-11-27T16:15:30.388936+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 2.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 1.97,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59960.69,
+          "observed_at": "2026-11-27T16:15:31.388931+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1669.66,
+          "observed_at": "2026-11-27T16:15:31.565683+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 72.105,
+          "observed_at": "2026-11-27T16:15:31.838806+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59960.69,
+          "observed_at": "2026-11-27T16:15:31.388931+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "f996e93637ad29b4e18e",
+    "title": "Coinbase CEO Says Bitcoin Investors Would Return After IPO Frenzy Fades - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeHhCbUQzUHA3d005NU5XcWFuMUtuWlNleG04anpTNGJmYkJZc1NNZXczWmVNRXozMVlwanBYaGVpdFh6UVR0dVZiUG56eG9OR0JKVWtLWjRiX1RTbzRrYmtEU0hUamlEQUdySVc0Q2F6TTNMdnR1dmFSX1RIZ1BuT3F6akEzY2JWMXVfN3E5UVl4eEs5OHRoN0tBUzZFckw0SGc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T15:57:00+00:00",
+    "detected_at": "2026-11-27T16:15:30.385706+00:00",
+    "assets": [
+      "BTC",
+      "COIN"
+    ],
+    "market": "Both",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "COIN",
+      "BTC"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "COIN": "Stocks",
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 18.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 18.51,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-27T16:15:32.536980+00:00",
+    "alert_last_attempt_at": "2026-11-27T16:15:32.536992+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "28bf265ff50b9e37e4f3",
+    "title": "The Big Pressures Facing the Fed - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYmJVY0hNd3M0QlpLTWVBLW5iNXM3SWhZeGRHOWpyS0xxbWk3QmczdjVYN2lfdnRaNEpOTWFfRGtHdGNHbVM0UTNTS3FLNFZua0dScFRNanRvaDJmMzRFdm42OUczNUZnLWQwbDI4STFxSkljNkRETXJDT3ZaeU1aYnRvSmpTeUlKVk9LQ0lCWQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T15:53:26+00:00",
+    "detected_at": "2026-11-27T16:15:29.857314+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 22.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 22.06,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "ed390f82417aef9e00be",
     "title": "Analyst Benjamin Cowen Believes a Sustained Recovery in Bitcoin Will Come in 2027 - Cryptonews.net",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5cmhlOU0zVS1zb3BNVUpOYVVrdFhVOXZDSnp5OEFFMnMzcjloNjZSeDBSUDV5YXhIeUlIeXZTVXpPU2FVRjdaNlJxTjdNNTBVUG54Y2xNbjc?oc=5",
@@ -148,7 +376,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59960.69,
+            "observed_at": "2026-11-27T16:15:31.388931+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0191
+          }
+        }
       }
     }
   },
@@ -353,7 +593,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59960.69,
+            "observed_at": "2026-11-27T16:15:31.388931+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0191
+          }
+        }
       }
     }
   },
@@ -2376,6 +2628,30 @@
           "positive_assets": 5,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.93,
+          "observed_at": "2026-11-27T16:15:32.040179+00:00",
+          "returns_pct": {
+            "SPY": 0.289,
+            "QQQ": 0.5289,
+            "SMH": 0.7988,
+            "XLK": 0.5559,
+            "BTC": 0.4095
+          },
+          "asset_elapsed_min": {
+            "SPY": 59.9212,
+            "QQQ": 59.9208,
+            "SMH": 59.9212,
+            "XLK": 59.9203,
+            "BTC": 59.9209
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 5,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -2616,6 +2892,19 @@
             "change_pct": 1.1992,
             "benchmark_return_pct": 0.9786,
             "excess_return_pct": 0.2206
+          },
+          "60": {
+            "price": 1669.66,
+            "observed_at": "2026-11-27T16:15:31.565683+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 1.5568,
+            "benchmark_return_pct": 1.2976,
+            "excess_return_pct": 0.2592
           }
         },
         "benchmark_asset": "BTC",
@@ -2815,6 +3104,19 @@
             "change_pct": 1.1992,
             "benchmark_return_pct": 0.9786,
             "excess_return_pct": 0.2206
+          },
+          "60": {
+            "price": 1669.66,
+            "observed_at": "2026-11-27T16:15:31.565683+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 1.5568,
+            "benchmark_return_pct": 1.2976,
+            "excess_return_pct": 0.2592
           }
         },
         "benchmark_asset": "BTC",
