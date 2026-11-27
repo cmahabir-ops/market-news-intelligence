@@ -1,5 +1,222 @@
 [
   {
+    "id": "fc408fe6c007a707abc5",
+    "title": "Bitcoin Exchanges Upbit and Bithumb Add CVC and REI Tokens to Delisting Watchlist - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EaHpRZFgwVlJnamlabVNuVkR2TVZ6SDlENDFpR2lISWVFTU1sUFI1aW5lLVZkMDEzNm9hc2x3VlppX0NFRWpFVFNmdEMtbEpDMFBUTkRfZw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T10:23:36+00:00",
+    "detected_at": "2026-11-27T10:25:34.513406+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 2.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 1.98,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61594.845,
+          "observed_at": "2026-11-27T10:25:36.082865+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1726.26,
+          "observed_at": "2026-11-27T10:25:36.290638+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.325,
+          "observed_at": "2026-11-27T10:25:36.653766+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61594.845,
+          "observed_at": "2026-11-27T10:25:36.082865+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "e6879078e1592290747c",
+    "title": "Foreign investors make biggest Japanese stock sales in nine weeks - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMGdpdDJyU2IzdVRqSk9iaHRFXzloM3ExZFdSVS11Nk1UYXpqZThQUUYtZGduSG95SXdpODBVdF9DOHBVYm5GZHk4U2ZNYmJWUm5WRS1uTmdNbkE4SmdlMXFMZFlicVdkS1BGd0REb3FOXzZJX3RrLThabUNJbDZSNVJOYl9sM1JGRy1lZmhzZFdwQ0p1TVNqdVFHRUdITThFTmZqZlNNcXdhcDNQT3VvN09jMnVzS1RJVDRlWWs5bFdwMlBfRVlZZmhkc3ZZczVVNkotLXE2NDZNQ2gxUENTaFR0bmdoVWV6TmRkN2xGeUHSAfABQVVfeXFMUDBnaXQyclNiM3VUakpPYmh0RV85aDNxMWRXUlUtdTZNVGF6amU4UFFGLWRnbkhveUl3aTgwVXRfQzhwVWJuRmR5OFNmTWJiVlJuVkUtbk5nTW5BOEpnZTFxTGRZYnFXZEtQRndERG9xTl82SV90ay04Wm1DSWw2UjVSTmJfbDNSRkctZWZoc2RXcENKdU1TanVRR0VHSE04RU5mamZTTXF3YXAzUE91bzdPYzJ1c0tUSVQ0ZVlrOWxXcDJQX0VZWWZoZHN2WXM1VTZKLS1xNjQ2TUNoMVBDU2hUdG5naFVlek5kZDdsRnlB?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T07:55:00+00:00",
+    "detected_at": "2026-11-27T10:25:34.107091+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 150.6,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 150.57,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "76aee9e5190a1730c2ac",
+    "title": "Stock Market Today: Sensex Drops 750 Points, Nifty Near 25,700; Infosys, TCS, HCLTech Tumble - NDTV Profit",
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOMGNVeElWVjl1TGtUdU5NUFdOWVcwUlRtTG9STmNkelg5cGpIQUZhbUNySkZnbEZxVVM0WEw4V2ZiTHFqcmRzcVpMNENkOUR6VHl0dXVsOXpWZHdLR3VEYVluQ3dWR1pKSURjYVJKN1JiWVo1MEhHMExhX2VYaThmSkN3UFo0cXNtY2dYNmIyY05RTE50WGdZbzJkN0FDdFBVRWFCMFRhdW9oUXZpbHpjWHdqYUhNUnpac19CaFFhRUE5SWJuOEN5dGhvdTJzQ3c0RUx0aVM3UUlFcnlKQTljLUlXUnhQMjQ3Z2JXVzhfM3hydkFQZlFWVUxVd2dwem1YMi1VeGVqWGJCWmY0V1hF0gGXAkFVX3lxTE1uRGlqVC1pQ1VqeDVoTDlxVVRnQW9rWG5CWFZXTURBbl9XamtHaUJhS3JoQ0NWc1Q5VDZteGFxYU41cy1oc204ckI4eHJEZVphb051YUZDOU05WWhaYVJzUVBMRjM5WkpYMkZJc1RReURsUHJ0c0RIWnRzSlJCMnRZR1hOc3BabEdwLXFFeG9YNk5IZThEZldkRmJtb0hsdkRsYWprbHRaNTR2MFJIcHJTaklNYUVDY0tyd285SGhTcHRueVFIeVdRZ083MExxRUJ0Ykg4N3hoTmdidkY0SEJTX01yZURrZFpUbG9mZERRSF83LWF6U3gtV2J5RHRoeXRDWGRuUXVSYkk4YWpvOXJMRlF5Q0RUYw?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T07:23:26+00:00",
+    "detected_at": "2026-11-27T10:25:34.106520+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 182.1,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": "9bacdf290212b0c28509",
+    "duplicate_status": "possible_duplicate",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 182.14,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "possible_duplicate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "8c778cb843e15afc7b42",
     "title": "Bitcoin Hyper Launched: How to Claim, Trade, and Access HYPER - Cryptonews",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTNBTHNDV1FJOU9aeGhfdGQ1WFBzUjhIVzYtUFdCY2Q4eXY0RXdSR21UbWlTeE03cmVGMW9hWl9QRW5GNi1lQ1plN1dpNHh4cEwyak51QnNrX0xKbGpEbkdYd1h2OHBLNWFycVFpOXlrY3BUQWxldlJWeXc2YzZSUWFQZElPZHNuMHR3M1A4bjZ5eVVPa1V3?oc=5",
@@ -92,7 +309,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.07,
+          "observed_at": "2026-11-27T10:25:36.850794+00:00",
+          "returns_pct": {
+            "BTC": 0.022,
+            "ETH": 0.0072,
+            "SOL": 0.0956
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0615,
+            "ETH": 5.0622,
+            "SOL": 5.0638
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -204,7 +442,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.07,
+          "observed_at": "2026-11-27T10:25:36.850841+00:00",
+          "returns_pct": {
+            "BTC": 0.022,
+            "ETH": 0.0072,
+            "SOL": 0.0956
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0615,
+            "ETH": 5.0622,
+            "SOL": 5.0638
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -406,7 +665,24 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.07,
+          "observed_at": "2026-11-27T10:25:36.850872+00:00",
+          "returns_pct": {
+            "BTC": 0.022
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0615
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {}
@@ -622,6 +898,26 @@
             "BTC": 4.825,
             "ETH": 4.8258,
             "SOL": 4.8232
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.97,
+          "observed_at": "2026-11-27T10:25:36.850886+00:00",
+          "returns_pct": {
+            "BTC": -0.0207,
+            "ETH": -0.0365,
+            "SOL": -0.2042
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9558,
+            "ETH": 14.9572,
+            "SOL": 14.9571
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
