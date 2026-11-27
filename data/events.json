@@ -1,5 +1,85 @@
 [
   {
+    "id": "875c7ecc65934ad78412",
+    "title": "Deutsche Bank: Tech Stock Sell-Off Nears Bottom – S&P 500 Projected to Surge 25% to 9000 in 2025, Fed May Hike Interest Rates 3 More Times - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91VDFVQXpURWliTUIwYlYzbUtaQmttTVd3NTZYYkFnR09TTlF6R05SVU5veXlZa2l3Tld4Znl4TTR1enpOZEtTM0pSTjZOdGVTYTRn?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T04:41:11+00:00",
+    "detected_at": "2026-11-27T04:45:30.606046+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 4.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": "central_bank_rate_decision",
+    "macro_status": "candidate_context",
+    "macro_benchmarks": [
+      "SPY",
+      "QQQ",
+      "BTC"
+    ],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 4.33,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "SPY",
+        "QQQ",
+        "SMH",
+        "XLK",
+        "BTC"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61440.185,
+          "observed_at": "2026-11-27T04:45:33.557666+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {}
+  },
+  {
     "id": "37b9852e81fe1f4d3d2b",
     "title": "Ethereum’s Glamsterdam upgrade set for December 15 test on Hoodi - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NNm9QU25EY2d0eWlOVXAydmZkNzI5T1d1b2pFb25QNW1zTTFGbENyeHVIS2VCVHItNkExMFZsSnpNTWlvaDROUTBtdG9ya2RCVnpEaV9qbmtoUGJKLVk2OEFSeDg2c2xpdlQ1eTBsX2dvcU1JM21WTGpfR0ZBS3c?oc=5",
@@ -92,7 +172,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.07,
+          "observed_at": "2026-11-27T04:45:34.993031+00:00",
+          "returns_pct": {
+            "ETH": -0.1011,
+            "BTC": -0.1282,
+            "SOL": -0.0274
+          },
+          "asset_elapsed_min": {
+            "ETH": 5.0529,
+            "BTC": 5.0493,
+            "SOL": 5.0539
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0271,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -916,6 +1017,26 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.12,
+          "observed_at": "2026-11-27T04:45:34.993113+00:00",
+          "returns_pct": {
+            "BTC": 0.0806,
+            "ETH": 0.4683,
+            "SOL": 0.0824
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0949,
+            "ETH": 60.0946,
+            "SOL": 60.0925
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -943,6 +1064,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0891
+          },
+          "60": {
+            "price": 61440.185,
+            "observed_at": "2026-11-27T04:45:33.557666+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0806
           }
         }
       }
@@ -1129,6 +1261,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.2174
+          },
+          "60": {
+            "price": 61440.185,
+            "observed_at": "2026-11-27T04:45:33.557666+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0479
           }
         }
       }
