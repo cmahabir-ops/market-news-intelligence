@@ -1,5 +1,469 @@
 [
   {
+    "id": "8c778cb843e15afc7b42",
+    "title": "Bitcoin Hyper Launched: How to Claim, Trade, and Access HYPER - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTNBTHNDV1FJOU9aeGhfdGQ1WFBzUjhIVzYtUFdCY2Q4eXY0RXdSR21UbWlTeE03cmVGMW9hWl9QRW5GNi1lQ1plN1dpNHh4cEwyak51QnNrX0xKbGpEbkdYd1h2OHBLNWFycVFpOXlrY3BUQWxldlJWeXc2YzZSUWFQZElPZHNuMHR3M1A4bjZ5eVVPa1V3?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T10:16:06+00:00",
+    "detected_at": "2026-11-27T10:20:31.065814+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 4.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 4.42,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61581.285,
+          "observed_at": "2026-11-27T10:20:32.391644+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1726.135,
+          "observed_at": "2026-11-27T10:20:32.559767+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.255,
+          "observed_at": "2026-11-27T10:20:32.825695+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61581.285,
+          "observed_at": "2026-11-27T10:20:32.391644+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "ea0cfe08bad9a94f5385",
+    "title": "Swiss Bitcoin ETF Debuts: 'Bitcoin Wasn't the Problem,' BIT CEO - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kdlpaVE9zVG93cVBzeXpKTkdsMzlVV3JPb1BvcnpoVldxa3JWZXJfZzUzUlgwWGw1UnRPclpzWGdDYXJ2T0RiQjhtbEV5UDhWczk1c2NPdmdhbjQ2Wk9ScFF3OG1OVFR0eEN5UTJuMjVzUQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T10:15:48+00:00",
+    "detected_at": "2026-11-27T10:20:31.060182+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 4.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 4.72,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61581.285,
+          "observed_at": "2026-11-27T10:20:32.391644+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1726.135,
+          "observed_at": "2026-11-27T10:20:32.559767+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.255,
+          "observed_at": "2026-11-27T10:20:32.825695+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61581.285,
+          "observed_at": "2026-11-27T10:20:32.391644+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-27T10:20:33.411605+00:00",
+    "alert_last_attempt_at": "2026-11-27T10:20:33.411618+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "e6469ca8f6553a068fc5",
+    "title": "Binance hack: US seeks to recover over USD 1 billion in crypto assets - internationalfinance.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZEVCTHdXNzJ2aGItYnNhMzg2NHJZM21EbTQyeTFWcWd0QjIyMmx1S3R6YmtYdGkxUUVSd0dkNThfbFVyVnh4RzNoTVNnNVZZbmhaYXUxd0pHSER1UWswR3lEUWxYWlIwWTBqR0ZCcGZ0TC0zZ2F1ZWpmcVk0c2hxZGw2NFBidEtHZFQ2cWFUa0lQeEc5RUppbTBfaWVpdGl0LTBmZGdyWDBNcXJvWlhrdQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T08:44:38+00:00",
+    "detected_at": "2026-11-27T10:20:31.059508+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 95.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 95.88,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "747f897fbac452836fe7",
+    "title": "Hedge Fund Repo Haircuts Stay Stable Through Shocks - Wisevoter",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnZQZmYzS0d6RHprQW9zc1ViNjFBX0RJWVdUVGNqVUJZRS1lSTFnemFSS1RFd2FoYjZIOXVHcUp4eE54Q2kzTVhVSlNraEh1TWtWVHFocllvSjZDazkxNFBjZmNaYUlIVlFwTldKVHJKS0lZTFJkbmpEU1pYN0dBLXMzSDBVWkR3cHNn?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T09:17:11+00:00",
+    "detected_at": "2026-11-27T10:20:30.637286+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 63.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 63.33,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "52cb854dd9c0318096c8",
+    "title": "US Fed rate hike: Why is the central bank turning hawkish as markets brace for more hikes? - The Financial Express",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLWRoSmpBREFkZFVpM3ZhN1BoYVgtb0szUVVwTzNEYko0TmZSOVhiZUJ6MWg2bDRIenVtQm05dDRZNFNLRDZRQ3RPa1Q3SlpDbF92X0dHVzFMM3AxdHpMYnpTWTNFVHM5MXV4TWVEbnc2TTR4X0ZvRDRHekxRZ1BuQ1FTY1p2UzBKS3ZkNE9pUWFGUlJDemd5SGs2VDRtMFhjT3FVaDZUMDVkV1NIa2dTMGVmUlYtWmtZQkpWQ0dvN3AyWW1WSk16U1JsNDZyQ2I3TXF2WUJqLW9KcDBOWnfSAeQBQVVfeXFMT2FKVDV3TUcxZTVqSzVLY2lHMHZsaE5WUTI5cVdFZ3RDQUV0V2ZsdWRWbHdmeV9yNTdlZWN0X25uT2ZfMFZxbF9RcGdNUmdtZHEyRlc0RURveDhvb0lUVVNhb1JOaEZtTm5mZWV1em5EU09VTmFpYXEydElDS3d0aC00blFNbkdPNGhfRm1kSkN5enlzdDZ3cUxBQzVyaUdDODE2TWVhaWgzbXRxUURkV25QbV9faWVFemdFam1Yako3enJyMXZJR0lPN2F2VjlIb215VGk2WGFvR01taHhDR01QVXpJ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T10:04:27+00:00",
+    "detected_at": "2026-11-27T10:20:30.635895+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 16.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": "central_bank_rate_decision",
+    "macro_status": "candidate_context",
+    "macro_benchmarks": [
+      "SPY",
+      "QQQ",
+      "BTC"
+    ],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 16.06,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "SPY",
+        "QQQ",
+        "SMH",
+        "XLK",
+        "BTC"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61581.285,
+          "observed_at": "2026-11-27T10:20:32.391644+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {}
+  },
+  {
+    "id": "262b057b21ebaa8658bd",
+    "title": "First Financial Holding earnings call: Expects Fed to hike another quarter-point by year-end, Taiwan's Central Bank to hold steady; sees Taiwan GDP hitting 6% next year - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZ0hOeGU1Ri1pS2dkLTNiRVlQWE5SZElBV1JPWVYtNGxUTm5TMS1PNlNIQ3hCTTlOYnloNWR3blozUXFXeTlwdXhVUTNFUm1YTjUxUUJYcnRfVm1JMnF2anZ5OG84dXl1RWhLWkI2NzFJMFV2aUE?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T10:05:00+00:00",
+    "detected_at": "2026-11-27T10:20:30.633678+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 15.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 15.51,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "31f5b799ada850496963",
     "title": "Monero hit by delistings as Zcash adds ETFs - ForkLog",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0ybTBCSjJEWVhpUWdpZ0U0UTBIZzNVUTFIMlhadmpyNEU2NVBCMWYwdWVGSk1ReE9pcXdmcTNJcGE3Wkd0LUp1MlFmUE5zSmd3SlU4SmJ1YmJ4amJxWTRzZjBiLTFKS2NzX25WWVp3SW5HNS1PdVE?oc=5",
@@ -348,6 +812,26 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.02,
+          "observed_at": "2026-11-27T10:20:33.027134+00:00",
+          "returns_pct": {
+            "BTC": -0.0497,
+            "ETH": -0.0643,
+            "SOL": -0.2043
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0096,
+            "ETH": 15.0101,
+            "SOL": 15.0104
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -364,7 +848,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 61581.285,
+            "observed_at": "2026-11-27T10:20:32.391644+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0497
+          }
+        }
       }
     }
   },
