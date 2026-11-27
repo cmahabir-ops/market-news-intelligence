@@ -1,5 +1,57 @@
 [
   {
+    "id": "0603b7bc3c1e178f9a1e",
+    "title": "Gold rises as rebound in tech stocks offsets rate-hike concerns - Moneyweb",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1hOTUc0M2dreUhFYjFSanI5ZmRLWXBobGthakdDVk45OUN1RTRqU21tX2RNT09CU0MteVJ4RmU4WWlRMG0wV0xlckxqdWhWNEY0TmpwejZVMGZ3emVLckp2Z1FLdHZZR2xoOFRMaGVrT0czV2tONUdNVFBiM1gwbVR0VWp5YWlzeUJxNjE5MngzdkVjRl9rWmViUmNSZl9o?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T08:30:38+00:00",
+    "detected_at": "2026-11-27T12:00:35.947473+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 210.0,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 209.97,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "008e0a9ef4b34baf5d4e",
     "title": "Why Bitcoin Is Underperforming the Stock Market in 2026 - CryptoRank",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWnhPOFNJNDBQVk5FT2NmTWxBZ3dRdHU2Tk04QUhjOXhRejh3MWpFUTFIMmV5ZjhZT1pQX2VMakY5cWNhQ2c1V2dQdzgxb2pTQ2cxdUs0Umhpc0VuUmZJQzdIb3Q1V1N2OW5vR2V1ZnNCT0FHQW5kakJoUEpYb1lYYUp5aXhYYnpQWGE0ZkFOWG9yWGNFb2M5UHFLdnk?oc=5",
@@ -93,7 +145,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.11,
+          "observed_at": "2026-11-27T12:00:38.687644+00:00",
+          "returns_pct": {
+            "BTC": 0.1563,
+            "ETH": 0.0895,
+            "SOL": 0.0822
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0957,
+            "ETH": 5.0981,
+            "SOL": 5.102
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -479,6 +552,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.2,
+          "observed_at": "2026-11-27T12:00:38.687723+00:00",
+          "returns_pct": {
+            "ETH": -0.1459,
+            "BTC": -0.0167,
+            "SOL": -0.0137
+          },
+          "asset_elapsed_min": {
+            "ETH": 15.1794,
+            "BTC": 15.1781,
+            "SOL": 15.1814
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.1292,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -495,7 +588,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1721.375,
+            "observed_at": "2026-11-27T12:00:37.941375+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1459,
+            "benchmark_return_pct": -0.0167,
+            "excess_return_pct": -0.1292
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 61603.355,
@@ -710,7 +817,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 61593.095,
+            "observed_at": "2026-11-27T12:00:37.637664+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1601
+          }
+        }
       }
     }
   },
@@ -863,7 +982,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 61593.095,
+            "observed_at": "2026-11-27T12:00:37.637664+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1601
+          }
+        }
       }
     }
   },
@@ -2660,6 +2791,26 @@
           },
           "benchmark": "BTC",
           "primary_excess_return_pct": -0.1365,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.99,
+          "observed_at": "2026-11-27T12:00:38.687836+00:00",
+          "returns_pct": {
+            "ETH": -0.3145,
+            "BTC": 0.0757,
+            "SOL": -0.1912
+          },
+          "asset_elapsed_min": {
+            "ETH": 59.9707,
+            "BTC": 59.968,
+            "SOL": 59.9737
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.3902,
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
