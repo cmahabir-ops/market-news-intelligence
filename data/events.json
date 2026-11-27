@@ -1,5 +1,71 @@
 [
   {
+    "id": "28213d5b80820798005b",
+    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC extends tentative rebound, ETH and XRP climb on easing bearish momentum - www.tmgm.com",
+    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxONzR1UUNrclZ2Q1pqWm9jUnBVZ09ZdV9VNkw3MHJHX0xtNDkzYjl4Sjc0M3M4enRZd3VsaEYtWnd5TG1JdmRsV3Z4bE51OXpTQy1MZmhtdHk3YmsweGZFSWtkeVVCd2Jvck5iYmZjRjNuZFh6dEM0VVhHa3RNVUM2MUdabDJtS283TWx2YVZIY2xsYjBJNXExVmFheVd3bXBmX2dNYU5jX1plYjF0NXYxOUQ5T3BBcUNtR1J5SFVKZlZicDFQVmVxWTlFRG1fNjdRaWFYZmhPNWVNQ0xCWndQM3dhZXIxRmtwT2QyMjF3NGFyYXRVandzZ1BXUEZjZUNHS1NRV1BfaFd5S0xCSDUxSlJoeUpNN2ZGZ0E?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T04:19:44+00:00",
+    "detected_at": "2026-11-27T04:20:31.719144+00:00",
+    "assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto",
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 0.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 0.8,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-27T04:20:34.767820+00:00",
+    "alert_last_attempt_at": "2026-11-27T04:20:34.767838+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "c86794935cb6f2842146",
     "title": "Asian Shares Steady After Bruising November on AI Doubts - Wisevoter",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGZjVEF3Y05Ycmdtd2ZwZnRfakVlSEpwUkk5aUsxNTAxbzFVaHlVTEp5M1RvdGFiVDUtVHBvbnNjUm5NejktNUx3QngyZTc1VC1pcHlveENSMnRlWUxYOEd0cUZncDF2bTZwenJ3My1iT1ZtV3lHMHM4cHJPOHlxOFFOVnBmVFBkc2NR?oc=5",
@@ -4746,6 +4812,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.3894
+          },
+          "240": {
+            "price": 61368.605,
+            "observed_at": "2026-11-27T04:20:33.343300+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 1.4929
           }
         }
       }
