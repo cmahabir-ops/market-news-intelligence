@@ -1,5 +1,57 @@
 [
   {
+    "id": "5d9f496f848af89a05d4",
+    "title": "Is the Fed ready for its next fight? - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3IzVkhhUHhBeWN2cExXZ2RSTkx3UXRsZXNBeVluZ3VsbXRpb1FkNnVCQjBRRzVyMkdWUGF6SEV0b2xJSi1fb1JtRllkVUw4aExrZ3h6SGgxdy1Jbkt4dnNJTlZUMF9EcHMxdmNSdUZUdDBwRUJCRW9hR1hJaEEwdklicEw?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T05:01:25+00:00",
+    "detected_at": "2026-11-27T05:20:31.620887+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 19.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 19.11,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "6f2b69e370c3ac172784",
     "title": "Bitcoin Core rebroadcast exposes wallet privacy risks - grafa.com",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVFUtVnVaNE1WM1dNQW1mMElQeTJZOFdlb2RJN0VGWG5FTFRSdWQ1LUcwdTctOXJyejVOVU9IR0cyelZiWGgxaE90b2Fnb3ZtNlByVXh6QXoxN3NaTXJESEhneDA3M1N5ODdtU3NMRmFrLUFwWl9XUmRtNkF3Qm1BYXBKNmVFUk9uZHVhVUl6bElDUlhMVE5OSTZYaTM0ZzdxR3VqRE1pcGdKaXZzV2pEWG1NcndVeVUwNk1rS2drdmx3dk5HcjhHZWI5R1AyUXFpRUhF?oc=5",
@@ -92,7 +144,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.02,
+          "observed_at": "2026-11-27T05:20:35.718555+00:00",
+          "returns_pct": {
+            "BTC": 0.1252,
+            "ETH": 0.1782,
+            "SOL": 0.2536
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0014,
+            "ETH": 5.0027,
+            "SOL": 5.0085
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -204,7 +277,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.02,
+          "observed_at": "2026-11-27T05:20:35.718629+00:00",
+          "returns_pct": {
+            "XRP": 0.0884,
+            "BTC": 0.1252,
+            "ETH": 0.1782
+          },
+          "asset_elapsed_min": {
+            "XRP": 5.0109,
+            "BTC": 5.0014,
+            "ETH": 5.0027
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0368,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -330,7 +424,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.02,
+          "observed_at": "2026-11-27T05:20:35.718712+00:00",
+          "returns_pct": {
+            "XRP": 0.0884,
+            "BTC": 0.1252,
+            "ETH": 0.1782
+          },
+          "asset_elapsed_min": {
+            "XRP": 5.0109,
+            "BTC": 5.0014,
+            "ETH": 5.0027
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0368,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
