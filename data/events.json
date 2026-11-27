@@ -1,5 +1,169 @@
 [
   {
+    "id": "9120ea9f01f0bf18c17d",
+    "title": "BTC Price Prediction: Whales Add Over 120,000 BTC - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQlhoZTVpbE5zVlpiaWgwbW9zOXl5V0o4dXFsdndWb202Q0pSZm5ZdTFTTjF5aUZhWW15am9kYWlkLTBjRmNUc05mdzRvZXhPN1M3ZURWYlIzcTFkMUtqNFpQd05VODhSSzNGSHdNZ2s0VGVjMWswMGRSZGZ1VTE3YjFtcVlxdlJEOG80NjFPNnNNRkZyQXZpNHNjVlNVcXpl?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T20:21:35+00:00",
+    "detected_at": "2026-11-27T20:25:38.093807+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 4.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 4.05,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59687.465,
+          "observed_at": "2026-11-27T20:25:41.009669+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1663.995,
+          "observed_at": "2026-11-27T20:25:41.186699+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.945,
+          "observed_at": "2026-11-27T20:25:41.394505+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59687.465,
+          "observed_at": "2026-11-27T20:25:41.009669+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "e3c6119631080e9dbd81",
+    "title": "Why is RBI moving gold back to India? What Russia's frozen reserves and 1991 crisis reveal - Livemint",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaEJ4LWxKWEU2OGs1cUo5N0Jhcm5YeGJnekQxN3RuRExXaGYyNEwyNTJXVWdoNXd3OThRMkV0ZjkyWTVCckdvOFctVEktSzFKeFJkSE1ReExGMWxoVnFIdzNUWUswX0ptbVhBR2RXT2tYdmxxbnJiRk8zbEFJWnlsZ1ZJUHNrTDhHNGdyclVtdEh6UFZMd3g1ZWluQTZwV1BGS1JvVWZrRXlEc2VWNFo3VEZGWl9KNjk0Yl9yS1E4VnlaSV8ya1RzQklidUtxM3lEVllseXdKbEJNVTI3TUhRSW45SGdzbE3SAewBQVVfeXFMTXlwazhpeUtKX2p2THVnb1NIemVaNE0wTnRuaExEWXZ0SVFrdUVVcEdzUFRkZGpQMWduNVZmb3ZfZklnRk1VYjdPbXZUZmo1VGhPRVI0dkVIV2pTWWNhbmljZ1NYaXpBMnF6S3lZQ2huWkd6em54YXdxTUc3Y0piTV9reC10NEJEY0M3NV9EeFN5TkN1YU5ibFpwMVN2U200dENlWXA4Q0lKaE1HcnpKcXd5X1VOOU0zWThhek5GUXMxZXhhd01UMEdJa21CeWhGMURRTnN0cG1jaF9wajVVZXRfaUVib1V1bG5zUXY?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T18:11:57+00:00",
+    "detected_at": "2026-11-27T20:25:37.662071+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 133.7,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 133.68,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "1a75a769f6d6f9f93cc5",
     "title": "Timothy Peterson Shared a Scenario in Which Bitcoin Could Rise to $90,000 - Cryptonews.net",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54Mm1NQjNTM21UNTgtTmVOSUVibEJ4NjNmZ0hncFB6VnplNF9kZENnOGNaMnBSWkljTVNTY25jQ1ZOYnRpSTJWSG40cS1KcmJ3eFVJYlJZVFU?oc=5",
@@ -93,7 +257,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.26,
+          "observed_at": "2026-11-27T20:25:41.740182+00:00",
+          "returns_pct": {
+            "BTC": -0.0642,
+            "ETH": -0.1422,
+            "SOL": -0.0208
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.249,
+            "ETH": 5.2471,
+            "SOL": 5.2423
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -206,7 +391,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.26,
+          "observed_at": "2026-11-27T20:25:41.740230+00:00",
+          "returns_pct": {
+            "BTC": -0.0642,
+            "ETH": -0.1422,
+            "SOL": -0.0208
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.249,
+            "ETH": 5.2471,
+            "SOL": 5.2423
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -2061,6 +2267,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.15,
+          "observed_at": "2026-11-27T20:25:41.740346+00:00",
+          "returns_pct": {
+            "XRP": -0.3368,
+            "BTC": -0.3082,
+            "ETH": -0.3834
+          },
+          "asset_elapsed_min": {
+            "XRP": 60.135,
+            "BTC": 60.1332,
+            "ETH": 60.134
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0286,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -2090,6 +2316,19 @@
             "change_pct": 0.2052,
             "benchmark_return_pct": 0.1654,
             "excess_return_pct": 0.0398
+          },
+          "60": {
+            "price": 0.9469,
+            "observed_at": "2026-11-27T20:25:41.696752+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3368,
+            "benchmark_return_pct": -0.3082,
+            "excess_return_pct": -0.0286
           }
         },
         "benchmark_asset": "BTC",
@@ -2383,6 +2622,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.1073
+          },
+          "60": {
+            "price": 59687.465,
+            "observed_at": "2026-11-27T20:25:41.009669+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.366
           }
         }
       }
@@ -9216,6 +9466,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0876
+          },
+          "240": {
+            "price": 59687.465,
+            "observed_at": "2026-11-27T20:25:41.009669+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3004
           }
         }
       }
