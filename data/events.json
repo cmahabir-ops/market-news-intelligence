@@ -1,5 +1,337 @@
 [
   {
+    "id": "22cc138fc64045c7700f",
+    "title": "CFTC Crypto Market Rules: Public Comments on Proposed Regulatory Framework Close December 14 - FinanceFeeds",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1hfUWJmOTJNX0ZiN1A1SGQyYnJvMW8zY2VSUnVzSm14UkpILTFrLTd5UG5kbkdlNHRNeE9xWFA2U2x2MkNLVEd3OGRZS19FNGtIS1NhU20zaVhSbjZHM0lmZ0IwWWNTbGo1SXBERmRtMG04aE1TMm9TSGZQWGJncnJ2WEhVS21sNTI3dVRUNXFvU3pOa1ljWWNUUm9wbEZnQkdfeVF2TzhhYi1BWEJRSDlHUV93NzFP?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T07:34:20+00:00",
+    "detected_at": "2026-11-27T09:40:34.863211+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 126.2,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 126.25,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "0c0b7c5a30a767a80148",
+    "title": "JPMorgan vs TD Cowen: Can Saylor's Strategy Survive a Record Discount? - Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT19xeE04YnVQZGwwWUxISXQxWU5LR3A2Mm1zbW9MSUFhNjMzNGJRZ0hiWWJSZEFUS0FIUzBTRW1BOTVZT0Jic2RlbnhIcGxaQmotRE52dk5EeW5Fd3BaY3lzNWpxOUN4M0UwNU1GNTNXckxvLURkeDNQMUJVSERzdUoyTWw2T2xrSjFlckhJY0pOamRyaVVnQWlOSXJOTE5oRl9vNkp3?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T09:35:45+00:00",
+    "detected_at": "2026-11-27T09:40:34.862753+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 4.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 4.83,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61754.035,
+          "observed_at": "2026-11-27T09:40:35.733617+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1732.395,
+          "observed_at": "2026-11-27T09:40:35.801170+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.66,
+          "observed_at": "2026-11-27T09:40:36.028636+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61754.035,
+          "observed_at": "2026-11-27T09:40:35.733617+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "4185d1e8cd0d9ce07b07",
+    "title": "Bitcoin ETF Outflows Hit $453M Before Thanksgiving Pause - FinanceFeeds",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVC1ZbW8yOHdiSmpfQl9DWVRCTnlfUVpMME9sLUM2eENEaXdBdFV3T1Ruc3c0c3VtT0lyWVFEdmlhSGRhNFVGc0tJSFd6OWhSd2dDVXZ4bW4zeUViWlJVeGJTOVlLNmVFakhCTWN0MndUSGlBZW9DZmE0bGtHRW04MHJQTlFhalU2UGowRmM2a1RzY2RCdTdaSTBSVVMxcmJERGM4UEFjR1d5WWhnOUNlYkdZS0NyLWc1MXdybnFqVkMtZw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T09:02:07+00:00",
+    "detected_at": "2026-11-27T09:40:34.859794+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 4,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 38.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 38.46,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61754.035,
+          "observed_at": "2026-11-27T09:40:35.733617+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1732.395,
+          "observed_at": "2026-11-27T09:40:35.801170+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.66,
+          "observed_at": "2026-11-27T09:40:36.028636+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61754.035,
+          "observed_at": "2026-11-27T09:40:35.733617+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-27T09:40:36.463778+00:00",
+    "alert_last_attempt_at": "2026-11-27T09:40:36.463797+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "b5c6cb292cbc2c2ebd16",
+    "title": "Sensex Today Trades Lower | Nifty Below 25,850 | TCS & Infosys Top Losers - Equitymaster",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS29qbHZCcmtEQjRjU3R4RjFsVDlybHdHazNGcEZVRW9mazJfOG4zNWJmSzU1a0EwX2l0aGNjdWRVb0NRSllxcll0QlpSekpHTlFHbXlxSEphdHpwdVhodDVaMWlkUVRMWmxLOTVpVFpCemxYeVV6LWwwd0hyTU9RUm1sNVdXRmoyRHNENkNmMmUwZXZhNjFMYUhGSUJzOU9veEJTRzl6VEYzRnR4Ung3dGN4QVRtV3h4RnhEQ0U4UTJuWkIzZXd0b0pB?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T04:30:58+00:00",
+    "detected_at": "2026-11-27T09:40:34.388195+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 309.6,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 309.61,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "15e3b2253685512d404e",
     "title": "REALITY CHECK | OpenAI and Anthropic May Have Cracked the Mathematics Behind Modern Cryptography - BitKE",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xeThseGZnSFVaanZxU0dsVnNiSjE2NGFqUWp0S0tnYVM1QVNxOWZCVWlobW1xMURJOGo0eVVtakwwYl9YNDM4U1loQ05IS1BJdnJyckFkbEhMRlFLNldRNTJtUnItUjJmUWhySGRtbTVWQ3lkdzBGWEdCdkMyM2c?oc=5",
@@ -144,7 +476,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.06,
+          "observed_at": "2026-11-27T09:40:36.141727+00:00",
+          "returns_pct": {
+            "BTC": -0.0045,
+            "ETH": -0.0684,
+            "SOL": 0.034
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0523,
+            "ETH": 5.0508,
+            "SOL": 5.0492
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
