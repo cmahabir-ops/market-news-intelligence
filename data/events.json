@@ -1,5 +1,241 @@
 [
   {
+    "id": "0f6a50dc23ffc8ec4abd",
+    "title": "Two New 3x Leveraged XRP ETFs in the Works as November 30 Approaches - Kriptofoni",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11S1JBTUtLMmhERWUyZ1p2d3AtWl94V2pHLU9kbWdjbDd6dVNMUnlrM3BuVDFvV1h2WWJkajVKOG1rOWV0aXpaNjNfY1dWSUVlSG5ScFRMMjNyV0g4VHlMbk4tc3FvSkNUcjlsRkhLVDE0bm1B?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T09:12:00+00:00",
+    "detected_at": "2026-11-27T09:55:27.919593+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 43.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 43.47,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.97755,
+          "observed_at": "2026-11-27T09:55:31.277041+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 61560.145,
+          "observed_at": "2026-11-27T09:55:30.362241+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1727.285,
+          "observed_at": "2026-11-27T09:55:30.590237+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.97755,
+          "observed_at": "2026-11-27T09:55:31.277041+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 61560.145,
+          "observed_at": "2026-11-27T09:55:30.362241+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "6e5cd5095b1815731e1f",
+    "title": "Bitcoin rises 2% as tech futures gain 3% and silver jumps 7% - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3d0UnhtUmlNLVlfbC1TOE5wSWtxZ19KNXdpbkJIaENPc0hGNVhVNlgwZk5tMnRzbWlQcmFNMlNxZHdGTmZVODlRRWtsa2dJeklGdXpPN2s2andDc0FBQ2w5a3d5OElrVWFaWnB3Q0dQb0dlVkRRLXRUNjZ1RTgya19jcVRYYUNXTzJ6Zkw2cXVTS3RkRm1JcENqV05vR21xLWxMeFZCV1hDVmRZM3lWRg?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T09:49:55+00:00",
+    "detected_at": "2026-11-27T09:55:27.917800+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 5.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 5.55,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61560.145,
+          "observed_at": "2026-11-27T09:55:30.362241+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1727.285,
+          "observed_at": "2026-11-27T09:55:30.590237+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.41,
+          "observed_at": "2026-11-27T09:55:31.120723+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61560.145,
+          "observed_at": "2026-11-27T09:55:30.362241+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "3f12e89d582bb1fbc147",
     "title": "Crypto Today: Bitcoin, Ethereum and XRP stage a comeback - www.tmgm.com",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeXF1QTlHTVVhY0FnT2pMdlJiMmJnNWlvaHVISkZqa0llR0psUXl1OUdmQ0R3OHVic0JDbTgtdlZURXdLZ3N1b1hYRUtRVDZraFZPM1B2WEVWLWRvd3VkblZaeE1YcTQ1VndjSzN4dUZfVVRzWXlRSW1Tc3BJOXoyU3lTSWdTYTZSSFpMUEUzMmZ4eWx4ZUdMd1FTWW5qVGVwSnZwekJGTTlsOU9NNER1c09QUTBLaWVKbWJVRzZRQ0Q?oc=5",
@@ -230,6 +466,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.93,
+          "observed_at": "2026-11-27T09:55:31.354232+00:00",
+          "returns_pct": {
+            "BTC": -0.314,
+            "ETH": -0.295,
+            "SOL": -0.3394
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9105,
+            "ETH": 14.9132,
+            "SOL": 14.9182
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -358,6 +614,26 @@
             "BTC": 4.9855,
             "ETH": 4.9892,
             "SOL": 4.9933
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.93,
+          "observed_at": "2026-11-27T09:55:31.354279+00:00",
+          "returns_pct": {
+            "BTC": -0.314,
+            "ETH": -0.295,
+            "SOL": -0.3394
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9105,
+            "ETH": 14.9132,
+            "SOL": 14.9182
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
@@ -5607,6 +5883,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0532
+          },
+          "240": {
+            "price": 61560.145,
+            "observed_at": "2026-11-27T09:55:30.362241+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1972
           }
         }
       }
@@ -5804,6 +6091,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0532
+          },
+          "240": {
+            "price": 61560.145,
+            "observed_at": "2026-11-27T09:55:30.362241+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1972
           }
         }
       }
