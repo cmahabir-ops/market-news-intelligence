@@ -1,5 +1,129 @@
 [
   {
+    "id": "586f442937207fb8a351",
+    "title": "FG Nexus Dumps More Ethereum With Total Losses Crossing $80M - CoinMarketCap",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamMxTkxCWWE4c0pMQ0NUTnZJSnl3TEFReWVDWDNjcnkzR05RU2M5NmNhMmhVcjhiaS02MjVEWEZwZFRMQjhqOEtKWUZfSDNrNTBrX3kyYXFwRm1zTWlsbm9CR1VOY3pPMW9XYUU4ZG0xRjAzSHVqYnJ6YmszQ2t5Y1Jod2hNcVZHMUFFcjRYTm1ZaThWcHV0RjJISG1EMkNZYjlSMW5GYlU1eTQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T23:10:42+00:00",
+    "detected_at": "2026-11-27T09:05:25.835085+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 594.7,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 594.73,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1729.995,
+          "observed_at": "2026-11-27T09:05:28.248147+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 61678.915,
+          "observed_at": "2026-11-27T09:05:27.990542+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.44,
+          "observed_at": "2026-11-27T09:05:29.084033+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1729.995,
+          "observed_at": "2026-11-27T09:05:28.248147+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 61678.915,
+          "observed_at": "2026-11-27T09:05:27.990542+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
     "id": "40f5a290f2457e22d68f",
     "title": "KuCoin to delist Monero on Nov. 30 as XMR price falls over 11% - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZnNGRUU4YU9mNG5wZUh3TjJsTUJrVWxGaEFWVEpaZXBhWHIzUzJxRGY2NUd2R3dxWksyXzk4OHNDQnZyVHozTkV3OXhkM3NNLVM3RDlqXzhldmk5QWNtRjE5bm5sQlhtYTdxNFdySFpmUlltTTVsN1lxZTl4UjZCSjFrSk9jWDlM?oc=5",
@@ -144,7 +268,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.84,
+          "observed_at": "2026-11-27T09:05:29.422080+00:00",
+          "returns_pct": {
+            "ETH": 0.0428,
+            "BTC": 0.0473,
+            "SOL": 0.1773
+          },
+          "asset_elapsed_min": {
+            "ETH": 4.8126,
+            "BTC": 4.8119,
+            "SOL": 4.8166
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0045,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
