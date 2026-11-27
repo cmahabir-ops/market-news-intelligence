@@ -1,5 +1,170 @@
 [
   {
+    "id": "47866f6284233a9041cc",
+    "title": "Best Apps for Buying Steam Gift Cards with Crypto, USDT and Bitcoin - Tech Labari",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSFJuNlRqZ3FVZ2JYTnVlRGZkRHo0YmdFQU40MU01aVFZc0dzcFdHNWQ5NWxuR1RnVUlsREdYdGtfZ0J4aGozV3B6Y0xjVXpDTFY3cENyVExVZDlNdXBoaHhYMEZMTXJ5VVEtTlFBLWtxSXBnWTBjUnZrcGhTVFdGVDBvZG0xOWthazlVUEE3UnlXSTFk?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T18:36:28+00:00",
+    "detected_at": "2026-11-27T19:35:21.984555+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 58.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 58.9,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59899.995,
+          "observed_at": "2026-11-27T19:35:23.158719+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1672.085,
+          "observed_at": "2026-11-27T19:35:23.315630+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 72.265,
+          "observed_at": "2026-11-27T19:35:23.717877+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59899.995,
+          "observed_at": "2026-11-27T19:35:23.158719+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "6c84c64eb6d268411c8e",
+    "title": "BlackRock Sells Over $22 Billion of These Two Cryptocurrencies So Far in November 2026 - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlVQUy11dlNIR2I3RUYyU2dYRms0QklhUFY5eWRySTBVbXJQNmc0b1R4ZWZVR09xM3lmNW9nUnZodUQ3dlNkSkxHYVdiOERqTjBVZ3BYZmd2bTdVZmVoTlcyNVJzN243dmJxYVF3eVVFXzZYQ3dwX0U0Y2NXVUVxcnRPV28yQkljN2RWdm13UWJITGc5ZEF1S0oxZTZveXAwcHB0N2Noc2dNejYwcVZ3c3c0a9IBuAFBVV95cUxNZWFua3pSNmJaN21nMW1aS2lDRFdESERWZlRMSno0ZHRHbzJwR2ZCZ1ZXNGJkX043T2w5WFh5VzQ3TUphdktDUWxpZDZ5MTBSWlhkRnJWZ0R4T3d4Vi1xT3lJWE1lUVUxSXc1RURwTVFZNWE3Q3UyU3YydGNMV0NveXJpZWhmWDRYNkpnTFdRX3NVN01Ed2xzVUppSlVlaEpoYkNKVThNQ29LM1hVcEFSeHBqSVc5VDVO?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T19:20:49+00:00",
+    "detected_at": "2026-11-27T19:35:21.983899+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 14.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 14.55,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "0b980a42b088803ceff5",
     "title": "XRP Ledger Tops 8.37 Million Accounts as ETF Inflows Hit $4.07 Million - BigGo Finance",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQZ0l0VnRZNFpScVNiSGk3WXM4a2NFV2FlTlE4MFpCMnJzbEg0dTZsQUZfUUhraUVZVXRTZUZmNjZ1SXp1ZTRHblloZnhrNWVPa1BnN3dYWEIwRTdVSWdyWEF6WVZKRm53WXVUNGpZeDdNZ2c5anc?oc=5",
@@ -353,6 +518,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 0,
           "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.84,
+          "observed_at": "2026-11-27T19:35:24.110575+00:00",
+          "returns_pct": {
+            "BTC": -0.0112,
+            "ETH": -0.0048,
+            "SOL": 0.1733
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.8263,
+            "ETH": 14.8262,
+            "SOL": 14.8288
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
