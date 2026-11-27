@@ -1,5 +1,233 @@
 [
   {
+    "id": "ee7eaf9dacfc4c8b5eda",
+    "title": "$6.8 Billion in Bitcoin Options Set to Expire Today - Kriptofoni",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05ZEFEREFwcERqYWt4cFd5VHFHcExlbDNjSmR2S3g4TWhlODkzX1Q2LUZpa3FZeFZlNi1Vd2xsbmdVVkFkQ0JaSzhHaG9OaWF4SzRYcHN2OERab2dNMnJiOUE5X0JhbjJjOVE2a3Y4aG8waTQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T05:05:00+00:00",
+    "detected_at": "2026-11-27T06:05:27.767251+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 60.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 60.46,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61697.145,
+          "observed_at": "2026-11-27T06:05:28.824171+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1738.48,
+          "observed_at": "2026-11-27T06:05:28.952704+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 72.97,
+          "observed_at": "2026-11-27T06:05:29.145092+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61697.145,
+          "observed_at": "2026-11-27T06:05:28.824171+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "5015fa7c6bb80e789d15",
+    "title": "Israel Discount Bank to Offer Bitcoin, Ethereum Trading From Nov. 26 - CoinMarketCap",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbExHUWVSbmRLYlYwOWh6LVNvd2Z3RExzWm1VUnBzeGFKZFUzd3ZERjRxOVZuS0l1cktJNmJKNmdqbGtiZFlTMTlDb3N3dzZhSV9MNmxkODBiUUFXRGViZXVRSlVWRTIyY01ULUVWcl85QmxwTEFIREZZUEZXNmpXeE1vam1FWjJsMHBGSmZGZHc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T03:32:02+00:00",
+    "detected_at": "2026-11-27T06:05:27.766524+00:00",
+    "assets": [
+      "BTC",
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 153.4,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 153.43,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-27T06:05:30.460028+00:00",
+    "alert_last_attempt_at": "2026-11-27T06:05:30.460041+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "74b7b8b8294925d988ee",
+    "title": "Fed Weighs AI Selloff Against Inflation Fight - Wisevoter",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDY5cHVDR0FmUVFScXlRNzZBQ2xQcnNVb21Vc3BteUJNR3F2dE5sQVNKekRIbFl2eXNjLWdiaXN4dWE4dGQtSElFRHBIWnlTd2x0cTh0bzJzX1dFVGlYbmxPVlNZMk10Vmh6dFZmdVlwQm5hajFsNUNsRjIxOWRQdlh3S1BHN2xn?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T06:03:30+00:00",
+    "detected_at": "2026-11-27T06:05:27.340255+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 2.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 1.96,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "31bda2d191483084c012",
     "title": "South Korea’s Upbit announces new listings for KGEN, FLR and HAEDAL, postpones KGEN trading - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jVEkzYThmN1pkWVBDeDU1aWJGSDRSY01yRVFkRVNOLTZQYWIxMTBCVDBZeUxBVXIwY2x6Yml2bWJ1UDlDbDl1SmxvOWpVcWhQWUN3MVlZbDA5SGhuelJzUnpEUkVINWVmdVE?oc=5",
@@ -308,6 +536,26 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.86,
+          "observed_at": "2026-11-27T06:05:29.273864+00:00",
+          "returns_pct": {
+            "BTC": 0.0249,
+            "ETH": -0.0127,
+            "SOL": -0.1232
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.8511,
+            "ETH": 14.8501,
+            "SOL": 14.8485
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -436,6 +684,26 @@
             "BTC": 4.9158,
             "ETH": 4.9152,
             "SOL": 4.915
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.86,
+          "observed_at": "2026-11-27T06:05:29.273914+00:00",
+          "returns_pct": {
+            "BTC": 0.0249,
+            "ETH": -0.0127,
+            "SOL": -0.1232
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.8511,
+            "ETH": 14.8501,
+            "SOL": 14.8485
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
