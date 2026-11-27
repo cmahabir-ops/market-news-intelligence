@@ -361,6 +361,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.04,
+          "observed_at": "2026-11-27T08:50:34.038390+00:00",
+          "returns_pct": {
+            "ETH": 0.0558,
+            "BTC": 0.0313,
+            "SOL": 0.0957
+          },
+          "asset_elapsed_min": {
+            "ETH": 15.0237,
+            "BTC": 15.0229,
+            "SOL": 15.0231
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0245,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -377,7 +397,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1729.265,
+            "observed_at": "2026-11-27T08:50:33.246392+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0558,
+            "benchmark_return_pct": 0.0313,
+            "excess_return_pct": 0.0245
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 61673.44,
