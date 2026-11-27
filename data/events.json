@@ -1,5 +1,222 @@
 [
   {
+    "id": "ce9e6f61b7ceb5981dbd",
+    "title": "JPMorgan Says Bitcoin ‘Capitulation’ Has Been Reached - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWDNyY2tfcEFJbVZ4NVRHWVJGLUlsVEhYYlpQR25vU2pRQ3BwdW9EbmdqeTdQdER0YUN5a2lVWTZUdUVqUmUzbkhleC1sUnY5NXBqbnk3T25mTTFhRVVKTlFWVk5aOEVYdWRFYkk5NWoxQ3dLYzl4dzB3R3M2RnRxWXVUc0N6S0JnNVctdWF5VXQzSUZNMHNxTFJSYkFkbWd1NGFkS0hXd285NFk?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T15:01:00+00:00",
+    "detected_at": "2026-11-27T15:20:36.911672+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 19.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 19.62,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59462.095,
+          "observed_at": "2026-11-27T15:20:38.069171+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1658.82,
+          "observed_at": "2026-11-27T15:20:38.202858+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.23,
+          "observed_at": "2026-11-27T15:20:38.378707+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59462.095,
+          "observed_at": "2026-11-27T15:20:38.069171+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "aa80865c8a59bd869493",
+    "title": "U.S. stock market today: Nasdaq futures lead gains ahead of Black Friday session - Traders Union",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeDItMXZXLTlCVS02ODJxQVdDal9IQzNNM0lTZzhJaFBQR0ZLbzZlbjZIS3FnbHRHczBGNlBQM3ZOVTNSVXhRVXltb3dVeFZTOHJhUTl3VEZYWElITHBfXzkxUGJZOXVocTR5ekRyUWFSTXdaaE1NMEJseXN6Y0JOSHNqV1ZueThnb1poakZmZmJFQ25rNDZtWlhGWQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T10:50:54+00:00",
+    "detected_at": "2026-11-27T15:20:36.505208+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 269.7,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": "a39df8a32aab677cf730",
+    "duplicate_status": "possible_duplicate",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 269.71,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "possible_duplicate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "6c081afc736a30b700e8",
+    "title": "Stock Market Today: Dow Gains 344 Points, S&P 500 Up 0.66% and Nasdaq Rises 0.82% as Tech Rebounds - Around Prague",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVpJLXh4aUQ5bkFHb1dvNzBoZHhRb25vc3ZXdzVRRExWUzV6eENYQzhWSkw1UURjUUwzN0hiVy1ad1ByOHlaaktIcWJ4VXRqTFlDTnNCSW1KWmhiVEpOamhBMEt3TzhubThkd2N0NGc3X0JGWnV0Z211M0JIVXQ3ZlhxTTRXbktyaVVuUWJlWlRQVi11WHFPZVF6TVpmSE9mZFJ1U1c5MUx6OGp3NTUtLUJn?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T15:13:44+00:00",
+    "detected_at": "2026-11-27T15:20:36.504524+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 6.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 6.88,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "8306d058c6adbb837c89",
     "title": "US stocks rally sharply as AI shares rebound, but Fed rate hike clouds outlook - The Financial Express",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORmpUU2UyOUlhdXB3Wkd4UmY0d291SXY5STVDaWdqc3N1TzRJNkxvczlNVC1WcTVsdVVROEhYR2ZoQmdBbHMzWHBXR000djI2bjUxU3A2cE1yUGlZMFBIejRxVGZLNExjQ1NhNTU0eWNpSEg2aW0xMk0tLU5YLWZvR2ZkX2QwUGlPcmg4SmlwYXE3RC1LbXJCbVZuU0tlT2kzN0NxdlRia2tvaElpUGozUm9qYUliSFZ6RXl6UGR1MXRRNGRHSDd4WVVaWGhZYWdlRjlvOTh6MnTSAd8BQVVfeXFMUHdBNE1jdTIyMlA1cUF3dXVMZlhSaVItR3ozVFpFc0ZMQjNDbHFkT3dNM1pTU1lRbFZpTDJzRnNLck94YzZsdTA0XzRYakNpdUZzUnUzMTFzTFJ4aUtJY0l2emo2amZPblE0bnNUMjlCSmZjZVJqZjVGdEt4cnJBMzlCNEdEV21JcGZoM2xrdloyUjFJSVc4c2haZ2w1Y3hOd0lmdXp1ai1jZWdsU1RoUTBlQ3VPUUx0QVNETFd5bXRMRlhjR2VzdXcxcUFoWWM3OVRYeFdQSllhTVRXYVRWaw?oc=5",
@@ -115,7 +332,32 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.04,
+          "observed_at": "2026-11-27T15:20:38.617515+00:00",
+          "returns_pct": {
+            "SPY": -0.0035,
+            "QQQ": -0.014,
+            "SMH": -0.0804,
+            "XLK": -0.0445,
+            "BTC": -0.4254
+          },
+          "asset_elapsed_min": {
+            "SPY": 5.0306,
+            "QQQ": 5.0313,
+            "SMH": 5.0305,
+            "XLK": 5.0298,
+            "BTC": 5.0322
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 5,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {}
@@ -9332,6 +9574,19 @@
             "change_pct": -0.2365,
             "benchmark_return_pct": 0.033,
             "excess_return_pct": -0.2695
+          },
+          "240": {
+            "price": 1658.82,
+            "observed_at": "2026-11-27T15:20:38.202858+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -3.7431,
+            "benchmark_return_pct": -3.357,
+            "excess_return_pct": -0.3861
           }
         },
         "benchmark_asset": "BTC",
