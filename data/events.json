@@ -1,5 +1,170 @@
 [
   {
+    "id": "1c11fe3673bd8a3e88d3",
+    "title": "Tether Supply Falls $8.1 Billion in Two Months, Pressuring Bitcoin Rebound - bloomingbit",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UbXNFQVVSTmxLUDhXa1F2UHJkVnFjWGhOcWt2Q1AyeHlyaC16N0I4YVl0ckMxMzQ1Nm0wUmltNklEd01kaWJ0U0szTXIwTkVyMFdBNQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T00:19:54+00:00",
+    "detected_at": "2026-11-27T00:50:29.063846+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 30.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 30.58,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60623.075,
+          "observed_at": "2026-11-27T00:50:30.366320+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1697.635,
+          "observed_at": "2026-11-27T00:50:30.567603+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.215,
+          "observed_at": "2026-11-27T00:50:30.845159+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60623.075,
+          "observed_at": "2026-11-27T00:50:30.366320+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "70df892e3108dbb431da",
+    "title": "Gold prices crash ₹22,000 in a month: Is this the right time to buy to make profits when prices go up? Experts' advice - Livemint",
+    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOS25ESFVRcEpKQzl2RXZ5OUFURWdvb3F3ZV90RnFXUDY0ZWJsNTNuUXBQcUdmNVJNUkU4X25sNXJ4Tk1IbmtEdEw4VDZGeVlEQVY0Tm02NTNlR1hDdjIxc1FZMFVnN0ZKak9UeG9hSkNYSDg0d3QxdkNhOVVVdWZ1dE5SR3VZNWFkN2dPdDJrUGxnenJGTUhRTThreVJja1c2cXRXMTVaUkJlM0kwNTBJUzBsZ2V5QURCaWlEVEZHNE00ckJ2a24zdlM0c19QY09Tc05FMlJ0WGh3TlEtampzZ1FVT1lwNFc2ODdvSkx6bG9US21LOTVaUWxUN0hncUVhY1dDY1N0VVVSVjJoN0HSAZMCQVVfeXFMT1NDMmgxaGtab0Y2ZzAyMHUyc295VG5LWHJtZ205UGV4TFZzWDlYdjdCZElNQVBfdkJ3eExyRnRZVlpLQWJ3Nmx2LUlCWng3TzRrZWFxd3R5WldKekxrMTFPNXNyQ1pxU2RhTzRpMU9OOHdMakstVFFZNWxoZFFGaUVLeWdQRHlHYzdwcE1sR2xSN1E4TFZ0bXRjdEktbG1ha1FqaFZnNjNjMFNYQ2YxR2M3LTNwVE9vVzZVMk02eTZGV2k0ajlDa2Vsd2xPT2FRVTViclp6a1p6c0hkdzlUamNVOWI2Q0ZlNzRMX3MyLThqSnIyVWMwSWdwTlpNcjV4aENMSXJXOU9aXy04UDBXM1ViNjQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T08:27:45+00:00",
+    "detected_at": "2026-11-27T00:50:28.589043+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 982.7,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 982.73,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "04a78028355641cf7a89",
     "title": "On the Chain: Bitcoin steadies above US$60,000 as traders brace for US$7 billion options expiry - Yahoo Finance Australia",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTUp0b1Q0ZDJ0VWRLRVZPUnVaVFp0UVBleGxzNXo0LWZtZUZXb3ViczJhQkM0ZEw2SEZiUVE2ajM3YmVBbHdrRnFYSHFzRHVHM2ZvMG81NnlvWWhXQzRQTFgwQ0pMSF9GY1k3c1Ixdk1nX05WeTRqOHRoYnpaSG1hWF9WRGpkMlk?oc=5",
@@ -93,7 +258,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.85,
+          "observed_at": "2026-11-27T00:50:31.065430+00:00",
+          "returns_pct": {
+            "BTC": -0.0398,
+            "ETH": 0.0654,
+            "SOL": -0.0702
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.8381,
+            "ETH": 4.8377,
+            "SOL": 4.8376
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
