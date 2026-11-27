@@ -1,5 +1,181 @@
 [
   {
+    "id": "a61ac8c66027cb6d91de",
+    "title": "What Is UBR Crypto? Solana Token Near $2 Shows $2B Valuation - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNXA5bnFnWkE1RzVUdlF3bURqa3cxbHRvNHowNnF6SkpoRlM4T054NVp2TUpHS09RQkpWQTJlOWhvU2FDS2xPejhqbng2NGdrVm5qRVRsaElqMkxGbWdMc2RJZmJPelJITkxtWGJFUnZxVDJKemdPbHJYVEdKSlFTRWdvem8teFUyZm9ubGdUcFRGd2dTTzlCOTZoRUJkM1V5RFpVMA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T06:24:10+00:00",
+    "detected_at": "2026-11-27T08:15:26.629104+00:00",
+    "assets": [
+      "BTC",
+      "SOL"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "SOL",
+      "BTC"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "SOL": "Crypto",
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 111.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 111.28,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-27T08:15:29.998257+00:00",
+    "alert_last_attempt_at": "2026-11-27T08:15:29.998276+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "95778ec9d0900a2c924f",
+    "title": "Bitcoin Wallet IP Exposure Costs 18–34 Cents in Tests - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUtTTkhKc0VnYW9ha29kdm5VZGVqUDZ2bXJVY0dYUVRZR0h5VTlKQVVnV2lIY0xKV3gwalFGaER1LWNzT2Uza2h0TU16TnVtd21IQjktOThfXy1HN2FpVTJFM0pQbW42QnpCV3J0WmYtaFlTUWpmU0tvdzVWcEVEMGlUeFRUWk00eTJxdzNxWU55bmM0bHVrdll6eHo4MUFhOTdMS2FjYmI4NmpvZjFzUQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T08:14:04+00:00",
+    "detected_at": "2026-11-27T08:15:26.627214+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 1.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 1.38,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61809.695,
+          "observed_at": "2026-11-27T08:15:28.512397+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1734.075,
+          "observed_at": "2026-11-27T08:15:28.765973+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.15,
+          "observed_at": "2026-11-27T08:15:29.231732+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61809.695,
+          "observed_at": "2026-11-27T08:15:28.512397+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "aadf3112c9f6c9819c29",
     "title": "Crypto Scams: Washington Strikes Southeast Asian Networks - Cointribune",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSFRLZUxkbnp3OWQyWmxyTW5TNXpWREQwRV9FbkRYUER0WTlteFBlV2t2ZnFhN2JobVhBcW1DYjBNNnB3OWdXNjdtdmlWaUtRUGdnOVJJZS1FVWpBOUY1MGViZVg0UmtCb0tDQXlNNktXcnpmVTRwSXJndnJRb2F1dkVCZHFxOG9vbFp4b2x0czhEUQ?oc=5",
@@ -838,6 +1014,19 @@
             "change_pct": 0.0901,
             "benchmark_return_pct": 0.2317,
             "excess_return_pct": -0.1416
+          },
+          "60": {
+            "price": 1734.075,
+            "observed_at": "2026-11-27T08:15:28.765973+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.2034,
+            "benchmark_return_pct": 0.2801,
+            "excess_return_pct": -0.0767
           }
         },
         "benchmark_asset": "BTC",
