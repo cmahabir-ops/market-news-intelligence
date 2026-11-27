@@ -1,5 +1,109 @@
 [
   {
+    "id": "e0f96c6094f33d9a3df7",
+    "title": "Ahead of Market: 10 things that will decide stock market action on Friday - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaklwV19lVzNMNEJnMHZFa3Q3bHg2UExWOF9DcE1xck4yWDhpTG1reVExdU44Y0Q3eklxbXp6OTlUMTAtSTFNS2s0YnE1ckZMZUZQZUhya3hnX2VMRGUycnotUUVEOUZjdkY3MkNoQlktc3JHYVh0TnFaTVVXN0VxTDVfZHotNEJycFlFSG9PaGxQZGtndTdJRVk4Z09qTk5TdFYxY3RfQUtHRDlqQkRjRThjcDkzSm14cTZTS1FPRk9TRTRmckFtQ1ZmeDJFZ2FGR2NHdU55R2JmOTYyYU91aWhIWUNhZXhBYXdN0gHkAUFVX3lxTE9RSU1Rb1VURzlleHZzaWQyajNBampRQVR1U1RMbk5lNlY1aXhBdGJpakhKNTdlQ2JKRnZBdExjdnhoZjFDN2dsUXMwR1FBMnB3aFJIMzdxYU5oRWpfV1poc1ZkUXQ4RjFrUWJGRGRpanJ3cERDV3g3Y0xHV2syYnpiUDFMODNDNEZ4QmFmNHJQRVdNRTJfNEM0OEx6TU5IWG5EaDJoQlVLREUtQThZVks2Q2VKOTNBU3FMQVlLTFI3VEpFY2hpdHVNWGNNb1huUTlMMEk2YlNFM3ZYbi00eXNWTlNENQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T15:43:51+00:00",
+    "detected_at": "2026-11-27T02:00:35.785187+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 616.7,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 616.75,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "32fe1a049f283d99bbae",
+    "title": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjBId0RKMFpkWFQ3R3VMeVV3T0VOMEI5dzRuWWZaMGNLVFBtRXZoWjJlWHhsdXVqdGNYT2NNc3ctSU9zdXpCR3ZaSXFENDhwQ1BQa1RqV01palJ3LWcxOWFnRXZFRm40NGRTaU9XYU9yOGF2WXAtV0lxOEdDcWZmSUxfYlZfZENjV3JUX0k5YmstSkk3V1ZWVWpkR1VjdDNzdkF6ZGxSNXpOZ1AxZmlGNThJTE0zUQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T23:53:35+00:00",
+    "detected_at": "2026-11-27T02:00:35.783345+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 127.0,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 127.01,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "91b399c4fad3083b05c5",
     "title": "Franklin Crypto Index ETF to Add HYPE on December 1, Expanding Constituent Tokens to 8 - BigGo Finance",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wZEticUtEejVDeTJuUVhnc0tZanl6eWkybmxETlBIcldyeHBmS3hCMG9nSXl3QVk4eVF6cTUtLTNnNkYxaTh1V2NWRnlHTlhkUmllTktMRDYxU1dTTWZlR3VlQ0llLVdFUXgwYTNwM3lVVFloRnc?oc=5",
@@ -229,6 +333,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.05,
+          "observed_at": "2026-11-27T02:00:38.032485+00:00",
+          "returns_pct": {
+            "BTC": 0.0938,
+            "ETH": 0.1608,
+            "SOL": 0.1823
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0411,
+            "ETH": 15.037,
+            "SOL": 15.0337
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -245,7 +369,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 60666.005,
+            "observed_at": "2026-11-27T02:00:37.537581+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0938
+          }
+        }
       }
     }
   },
@@ -701,6 +837,26 @@
             "BTC": 14.8809,
             "ETH": 14.8823,
             "SOL": 14.8855
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.99,
+          "observed_at": "2026-11-27T02:00:38.032579+00:00",
+          "returns_pct": {
+            "BTC": 0.0892,
+            "ETH": 0.0547,
+            "SOL": 0.3512
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9769,
+            "ETH": 59.9759,
+            "SOL": 59.9758
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
