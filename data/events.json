@@ -1,5 +1,129 @@
 [
   {
+    "id": "cc434b80b2a50db7dd0d",
+    "title": "Ethereum’s Co-Founder Takes On Crypto’s Next Security Threat. Who Is Vitalik Buterin? - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WYWhfa2NLaU9odEFOei1UQjBEeE4td2phOEx1WDRhc2JoNDdpdUVaVEdLejdDbzRlQVFydDN2R3h5eGVoaDNvMURMZnpqQXluSWVBRXJKOTI4UQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T05:09:36+00:00",
+    "detected_at": "2026-11-27T05:55:31.618138+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 45.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 45.93,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1738.945,
+          "observed_at": "2026-11-27T05:55:32.859848+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 61651.115,
+          "observed_at": "2026-11-27T05:55:32.708452+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.04,
+          "observed_at": "2026-11-27T05:55:33.135388+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1738.945,
+          "observed_at": "2026-11-27T05:55:32.859848+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 61651.115,
+          "observed_at": "2026-11-27T05:55:32.708452+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
     "id": "46f73874d3f8268db39f",
     "title": "Bitcoin price reclaims $61K ahead of $6.8B options expiry, what comes next? - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTa2p2bm5RbVkweUNib3d6U3p5dERsNHJpOGZSTmEwdEVfdnY1b1dhYVQ5QVNBamlra2FKNTVzYXVZc2NXTUlMWk9Ra0g0aGpYcTdWTkJBaW5kNXUzdC1FNVhiMl9SZm5EUkx2b2VMZ2RhR2F4U2dBT056RjZyMW8?oc=5",
@@ -92,7 +216,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.93,
+          "observed_at": "2026-11-27T05:55:33.337631+00:00",
+          "returns_pct": {
+            "BTC": -0.0497,
+            "ETH": 0.0141,
+            "SOL": -0.0274
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9158,
+            "ETH": 4.9152,
+            "SOL": 4.915
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -205,7 +350,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.93,
+          "observed_at": "2026-11-27T05:55:33.337711+00:00",
+          "returns_pct": {
+            "BTC": -0.0497,
+            "ETH": 0.0141,
+            "SOL": -0.0274
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9158,
+            "ETH": 4.9152,
+            "SOL": 4.915
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
