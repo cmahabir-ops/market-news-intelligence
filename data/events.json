@@ -1,5 +1,56 @@
 [
   {
+    "id": "ef7112f59ac128b26b7f",
+    "title": "ESMA plans overhaul of EU MiCA crypto register by 2027 - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yZFhRbzBEM2YxYTBoOTJpSXBiUzRyNVJBN3hVYkhCaWRSTkd2dXJLSTY0UGhjRVRhVDZlRy1rbzZabWYxb1JSUmNEaFF6cEgwZS1LLXlxaTg0WjNJYVQ1VzdMM2p2UldmWmgySjF0aTZXcFdHc0E?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T08:16:07+00:00",
+    "detected_at": "2026-11-27T08:20:31.397803+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 4.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 4.41,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "a61ac8c66027cb6d91de",
     "title": "What Is UBR Crypto? Solana Token Near $2 Shows $2B Valuation - Bitcoin Foundation",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNXA5bnFnWkE1RzVUdlF3bURqa3cxbHRvNHowNnF6SkpoRlM4T054NVp2TUpHS09RQkpWQTJlOWhvU2FDS2xPejhqbng2NGdrVm5qRVRsaElqMkxGbWdMc2RJZmJPelJITkxtWGJFUnZxVDJKemdPbHJYVEdKSlFTRWdvem8teFUyZm9ubGdUcFRGd2dTTzlCOTZoRUJkM1V5RFpVMA?oc=5",
@@ -156,7 +207,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.08,
+          "observed_at": "2026-11-27T08:20:33.599181+00:00",
+          "returns_pct": {
+            "BTC": 0.4291,
+            "ETH": 0.3284,
+            "SOL": 0.5058
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0712,
+            "ETH": 5.0713,
+            "SOL": 5.0684
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
