@@ -1,5 +1,71 @@
 [
   {
+    "id": "4a2d26d652b9055881a2",
+    "title": "Gemini AI Picks Which Could Double First in 2027: Bitcoin, Ethereum or Solana - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeHo1bEJjc29Uak9KT1kxRmV1eVZlV1FIZWdoSWVjTkZOWlZVVFJ3MGZleHAtdDh3WXlWQ1p6Z1BXc1VBU2dHX3VhdUJJUnd4R3FjQVZ5X2NqMDNXckdld1Z1UDdvX29OZWF4TV84Nk5JdkVMUDdQWE9zR0RaMHBuTDFzUWo1cUp1SXIyckRINDhNaWRCbjUxc2h5MWhDcmpocl9scV9KeEtRcTVWLU9xcEIxUmhVTjJlRGxjV1BnbFZ4Vk45R0I4RG0wVjlWQlU?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T18:07:00+00:00",
+    "detected_at": "2026-11-27T18:15:31.104642+00:00",
+    "assets": [
+      "BTC",
+      "ETH",
+      "SOL"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH",
+      "SOL"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto",
+      "SOL": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 8.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 8.52,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-27T18:15:34.890343+00:00",
+    "alert_last_attempt_at": "2026-11-27T18:15:34.890353+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "ddb9434e5b058a23a94f",
     "title": "China, Japan, South Korea, ASEAN form crypto regulation working group - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZnlhRV93ZkNuV0lJS2xyWkNWRFNVU092OW5CYVQwbUw2OXk1ZXZPZnVPZF9KaWdnem1lVUZWTjgwcG1aZGM1ZW93eExiS01keDQ3V1hXdWFZb1RtSVYtWGk2MUJmeW8tYjVqakF2YTlrZkZZSnh3MTN1aHUtcmdQN0pWNm45VG9lMy1MQkZXbEFBc1hpUDlCV1ZB?oc=5",
@@ -143,7 +209,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.06,
+          "observed_at": "2026-11-27T18:15:34.259042+00:00",
+          "returns_pct": {
+            "BTC": -0.0052,
+            "ETH": -0.0652,
+            "SOL": -0.0765
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0479,
+            "ETH": 5.047,
+            "SOL": 5.0472
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -555,6 +642,26 @@
           "primary_excess_return_pct": -0.0333,
           "positive_assets": 1,
           "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.92,
+          "observed_at": "2026-11-27T18:15:34.259136+00:00",
+          "returns_pct": {
+            "XRP": 0.0211,
+            "BTC": 0.1638,
+            "ETH": 0.1091
+          },
+          "asset_elapsed_min": {
+            "XRP": 14.9042,
+            "BTC": 14.8996,
+            "ETH": 14.9002
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.1427,
+          "positive_assets": 3,
+          "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -2050,6 +2157,26 @@
             "BTC": 14.8742,
             "ETH": 14.8759,
             "SOL": 14.8835
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.9,
+          "observed_at": "2026-11-27T18:15:34.259227+00:00",
+          "returns_pct": {
+            "BTC": -0.1152,
+            "ETH": -0.0069,
+            "SOL": -0.1805
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.8854,
+            "ETH": 59.885,
+            "SOL": 59.8882
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
