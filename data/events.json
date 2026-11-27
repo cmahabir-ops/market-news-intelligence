@@ -1,5 +1,168 @@
 [
   {
+    "id": "c9147e097a891ffbb88e",
+    "title": "Bitcoin Faces Massive $6.8B Options Expiry Today: What Does it Mean for BTC’s Price? - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYXZsVEhuQVNGaUFJTmxNdWdYM1NXenkyc2JNZ1hzckwzUGc0dE04MDh5UHJiT2h3MUF2ZFZ2NXh0SlhSRk1FZ1hRMEkyTWxhUDZGLTRSdXV0elZlUjROU3d4QzJRRS1zZk1tejdZRlR5ZjNMdE45Z2lzN2xnb1VRVzVNbVo1UDFEd1ZtNFdpWi0zeElZblB1eFlJdkNLbFNRQzJQRVpHSVkydw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T06:57:00+00:00",
+    "detected_at": "2026-11-27T07:00:37.435424+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 3.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 3.62,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61602.235,
+          "observed_at": "2026-11-27T07:00:38.761119+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1731.67,
+          "observed_at": "2026-11-27T07:00:38.856224+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 72.935,
+          "observed_at": "2026-11-27T07:00:39.093389+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61602.235,
+          "observed_at": "2026-11-27T07:00:38.761119+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "bd054019c454fa45d768",
+    "title": "Zero Stock Returns Warning Hits Millennial Retirement Plans - Wisevoter",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2pyZ21mWDR1Yjd2WXFXS3NBZU1UWWE5ZHVVVUtrdnNRbkwzM1d1d2pXUUpIaWZQZURTUGdYcHAxWXNZR3RkX25POFBORTFuTlJQT3c5aTcyZTllYVRWODI4WWhuMFVjLWV3Rll4eWpRd3Y2SGJaTmlCMU9pbkY0TGhxWG85Z2hxS0RDdFFHbm51dG8?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T06:54:05+00:00",
+    "detected_at": "2026-11-27T07:00:37.009829+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 6.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 6.53,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "e18abf01982341df8c35",
     "title": "Bitcoin Faces A Liquidity Test As Stablecoin Market Cap Contracts - CryptoQuant",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVGlCX1VzemFzUVA5Si11MnI2eHh2WVJuWlNhbjhsYnRfcnNlSjBLMF85aEc1THI1djZFWWozU0dmV3NIWVhRNk82TEFJa3I4UUtlbWdXWU9SNVFFdlN6TVRwdnNyUHJ2cGQxSkNkMmhPazFfT21kWHlDWVhxcTNSQ2FiaVRJdkg0bU9xUmhzSTk4VW9TbUJZY0JpNkx5R0FudmNka0k5WWpubjdmZmRrM0pjUzFyRzBBSk0xLW5laFpPMnEtaTF4QVZwMG5SQQ?oc=5",
@@ -246,6 +409,26 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.07,
+          "observed_at": "2026-11-27T07:00:39.166047+00:00",
+          "returns_pct": {
+            "ETH": 0.0257,
+            "BTC": -0.0379,
+            "SOL": 0.1648
+          },
+          "asset_elapsed_min": {
+            "ETH": 15.058,
+            "BTC": 15.061,
+            "SOL": 15.0546
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0636,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -262,7 +445,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1731.67,
+            "observed_at": "2026-11-27T07:00:38.856224+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0257,
+            "benchmark_return_pct": -0.0379,
+            "excess_return_pct": 0.0636
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 61625.595,
@@ -1027,6 +1224,19 @@
             "change_pct": -0.1032,
             "benchmark_return_pct": 0.2341,
             "excess_return_pct": -0.3373
+          },
+          "60": {
+            "price": 1731.67,
+            "observed_at": "2026-11-27T07:00:38.856224+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.4184,
+            "benchmark_return_pct": -0.0793,
+            "excess_return_pct": -0.3391
           }
         },
         "benchmark_asset": "BTC",
