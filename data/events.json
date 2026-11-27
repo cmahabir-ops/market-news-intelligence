@@ -1,5 +1,86 @@
 [
   {
+    "id": "236391cae1a310baf975",
+    "title": "Gregory Daco: Federal Reserve expected to raise interest rates next month - Traders Union",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZnh5NC1ld3E1ZHZoc0RzanB4LU10QmFvd0l0aHBZYXhzRE1wYUFIVVFRVnhTcHZYVjg4enBxc1JFekctSnVGN2hRWUhNRWlTS2x3QWpYWDdVNy0tVEF1eDI0TllONllvckMweWV5bDZUNUZ0bWpFTDQ5Qm4tNUpGdzczeWREb0JSM3BN?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T02:35:12+00:00",
+    "detected_at": "2026-11-27T02:50:27.324359+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 15.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": "central_bank_rate_decision",
+    "macro_status": "candidate_context",
+    "macro_benchmarks": [
+      "SPY",
+      "QQQ",
+      "BTC"
+    ],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 15.26,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "SPY",
+        "QQQ",
+        "SMH",
+        "XLK",
+        "BTC"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61327.475,
+          "observed_at": "2026-11-27T02:50:29.077882+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {}
+  },
+  {
     "id": "381a45e54753c777ef58",
     "title": "China semiconductor materials and equipment stocks rally over 4% on Huawei memory news - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDaXhrSVBSbFpfWW1XaU9ha21LQ3g5X2xjVTMzSXhmRWpobW9yTWE0U3o5TkUxX2FoUmp0TDBKRHVSRmRCSGhEU2lzOE02d2ZLbDRNZEhHXzN0bnloeU9hME1QRkJmaE4ydzRqUXpoYmc3M3NBNy1xOTU4bw?oc=5",
@@ -145,7 +226,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.97,
+          "observed_at": "2026-11-27T02:50:30.234774+00:00",
+          "returns_pct": {
+            "BTC": -0.097,
+            "ETH": -0.1465,
+            "SOL": -0.1174
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9504,
+            "ETH": 4.9518,
+            "SOL": 4.9538
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -1018,6 +1120,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0938
+          },
+          "60": {
+            "price": 61327.475,
+            "observed_at": "2026-11-27T02:50:29.077882+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 1.1852
           }
         }
       }
