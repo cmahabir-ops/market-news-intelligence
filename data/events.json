@@ -1,5 +1,168 @@
 [
   {
+    "id": "fded96a4fb5e4eacd664",
+    "title": "XMR Price Prediction: Monero Drops 11% as KuCoin Exit Nears - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT3lHYmg3TDFQLU5fS2RIem16czNsTFplUVYwaHZ4bDduX3lUc0NFaXQzRnRvUGpTRVFtWlJSMnVYR1g2anVKcjM5ZXhncTRhN2lPVmRYNk14akdpVlhkNndzSzhXdHREVHFBUUVTdEthMDJvejJpRkZJT3FOVEg1UVRPQ21sWHNjMnJVSFFLZXJFVUZoUFhhVWZBaWZZVlRjMEJJTHhqeks1ZFFCNG5EeVNvNA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T10:04:09+00:00",
+    "detected_at": "2026-11-27T10:05:30.986820+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 1.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 1.37,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61611.915,
+          "observed_at": "2026-11-27T10:05:31.813331+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1727.245,
+          "observed_at": "2026-11-27T10:05:31.954223+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.405,
+          "observed_at": "2026-11-27T10:05:32.202457+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61611.915,
+          "observed_at": "2026-11-27T10:05:31.813331+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "5ccc24f125423763e6aa",
+    "title": "Tether freezes stolen USDT in minutes. But victims wait years and face up to 20% in recovery fees. - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSTdiSTYyeVpwOUo5WGNoN3FUcDRjWnRJR09saE1vNjdWRWFOeUJTRUdQRHRUWmFhM2VnbTRMYzB1TmkwUzRjMXBOaHZrRU9nQUh2TjZXTDdFOXpMOHBkY2hlOVdUU0lpcVk3QjhBTGNreXpWSFJMR0VvTE5rZzRUVjBQcW16T0gwQzBhVWNIUm1iMzJYd2dtNEpxcUlsY1pqS3k1aTJWVFFXSjRXT0REd0hySXhScVZkTHc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T10:00:00+00:00",
+    "detected_at": "2026-11-27T10:05:30.986307+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 5.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 5.52,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "568c5e2822af0c01a087",
     "title": "Binance Fully Lifts Withdrawal Suspension Following $6.3B Crypto Heist - Forbes Middle East",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUhrV1Bwdk9JSU5yclhDR3NSV3RzemxRYmdhOGNaSl9lTkVCMEhnRWY1RzBzNDdKU05GdXB5TFI4ZElpSW05VDBGU1FVNEFGMlQxU3dQS0tZc0NWUkdkenZuV1FXbGRSa1NhMFpEQkw1bl91VWVOckJkMEVhUU41S0g3M0pKMFEyU21VcGpsN1NOX1V2eVpvMWNtM0RlWnF5U0NoZnJsV09BQURKdlNhUkpqWDQ1UXZUR2VKS3ZCdHYwRU95SHE4bDlMa0VfNms5cGc?oc=5",
@@ -1578,6 +1741,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.07,
+          "observed_at": "2026-11-27T10:05:32.321564+00:00",
+          "returns_pct": {
+            "ETH": -0.159,
+            "BTC": -0.1086,
+            "SOL": -0.0477
+          },
+          "asset_elapsed_min": {
+            "ETH": 60.0618,
+            "BTC": 60.0637,
+            "SOL": 60.052
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0504,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1607,6 +1790,19 @@
             "change_pct": -0.0266,
             "benchmark_return_pct": -0.1009,
             "excess_return_pct": 0.0743
+          },
+          "60": {
+            "price": 1727.245,
+            "observed_at": "2026-11-27T10:05:31.954223+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.159,
+            "benchmark_return_pct": -0.1086,
+            "excess_return_pct": -0.0504
           }
         },
         "benchmark_asset": "BTC",
@@ -5579,6 +5775,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0974
+          },
+          "240": {
+            "price": 61611.915,
+            "observed_at": "2026-11-27T10:05:31.813331+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1381
           }
         }
       }
