@@ -1,5 +1,180 @@
 [
   {
+    "id": "40f5a290f2457e22d68f",
+    "title": "KuCoin to delist Monero on Nov. 30 as XMR price falls over 11% - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZnNGRUU4YU9mNG5wZUh3TjJsTUJrVWxGaEFWVEpaZXBhWHIzUzJxRGY2NUd2R3dxWksyXzk4OHNDQnZyVHozTkV3OXhkM3NNLVM3RDlqXzhldmk5QWNtRjE5bm5sQlhtYTdxNFdySFpmUlltTTVsN1lxZTl4UjZCSjFrSk9jWDlM?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T08:55:55+00:00",
+    "detected_at": "2026-11-27T09:00:38.002955+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 4.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 4.72,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "9a02107c4c40c7700acd",
+    "title": "BMNR Stock News: Bitmine Stops Buying Ethereum At 5% Supply Cap - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUkRjcW43amJWYUloYWJVRGFyZENhaUpqZkNFOVRVa2hOTW9HTzVKOE84Rm95U2VrSWwwTHRmNWNxaW9NbEtNZ2cwb1BHeUZxbGtLUUxHQ2dzeF80ay1kSERCNHc0ZXhob3psOWQ2VjJPaWJPeUg4ZF8zZ21UYlhVbFhQR2xVMWV5OXlUVHFGM0FsSC0tbGl1WVVUS2VxUzBUQlQ40gGoAUFVX3lxTE9OS0xnVTloT19kN1dWQWdUdmV4aUlRUmlTV3JjeHAzdjBZVnZETmhUaUtYQ1JrVmZKY3E5bUNidlVRZklsazBSbGtmRUtIVnNyTU50WXVsU3U4TEstcmRPVjB4VFJOREJkTnAzX2s1T1dCN2QwcTRCR1VpYU54S0lwTkYwZlFqcUI3Z0FZVXdNeXFIdk9hVXYtS2dsUkd3c1FSR01wdnlZZQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T08:34:10+00:00",
+    "detected_at": "2026-11-27T09:00:37.998254+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 26.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 26.47,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1729.255,
+          "observed_at": "2026-11-27T09:00:39.492612+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 61649.745,
+          "observed_at": "2026-11-27T09:00:39.275987+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.31,
+          "observed_at": "2026-11-27T09:00:40.086034+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1729.255,
+          "observed_at": "2026-11-27T09:00:39.492612+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 61649.745,
+          "observed_at": "2026-11-27T09:00:39.275987+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
     "id": "3e377420a16eb8f30816",
     "title": "Zcash (ZEC) Developers Issue Security Warning Involving $300 Million in Assets - Kriptofoni",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LT2tMQk0tNklZZDlwT19vLVZvcTNDUnA1OWpqRFM4LWxWMTc0RXFFbHFmc0xmVEZfaDRxbmFsOEVPNGJXSjV1MGNGZW5CdGxSYWQycU5tOWpUME5KZ1A4WFgzTUdyYU1jRVFlcXR4b3h5V2ZLRzJVVw?oc=5",
