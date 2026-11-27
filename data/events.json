@@ -1,5 +1,57 @@
 [
   {
+    "id": "55002e9e1b82d65f169f",
+    "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience - MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUlfM2QzdlpScVhIWThObnc4d2FnV3hsR0ZCWURLcHNWOHdVX2RKZVc4NURnY1RUV2lBazNqM2YxTkwyMndXSnUyUlVxM3hCSFZVa0t6VUZITklXRnZTRFN0bFlfU1VPNmRyZFdnX1NKRzcxbzlzSHZTdEhMRkNOX0g3dDVTdjZQemREajhYemotZTNpaVNrdHF3ajZqZFZIMm5PMGpkZDVVTmw4ejdJSjU3bzNWenUzZ3pIS2x5U2FBa3NmTzVQQlhsYVJGRjZE?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-26T13:41:00+00:00",
+    "detected_at": "2026-11-27T03:20:32.152957+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 819.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 819.54,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "f731f4171e7cf6d258a8",
     "title": "Why Bitcoin Core developers want to make wallet rebroadcasting optional - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeDlqeUkxZlNySzQ0YUUyLVJuU0xDXy1ZMWVvcHFaUFdaLXRtQTM1WEVJOXF4TUM2eUowT0FPV1pWd0dfZmw1UXN5bUV6aG1mSXZwTzZzRGEyT0lSU2JCbHJNWG54SlQ1b2lvRkpaak9TcVFEMVZ4YTNtY25ibURqVWZxS3BLTWVQZWtxUG5JODNxZS1Oa25R?oc=5",
@@ -92,7 +144,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.1,
+          "observed_at": "2026-11-27T03:20:34.820265+00:00",
+          "returns_pct": {
+            "BTC": 0.003,
+            "ETH": 0.0758,
+            "SOL": 0.0275
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0902,
+            "ETH": 5.0875,
+            "SOL": 5.079
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -4685,6 +4758,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.3126
+          },
+          "240": {
+            "price": 61475.815,
+            "observed_at": "2026-11-27T03:20:34.234314+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 1.8781
           }
         }
       }
