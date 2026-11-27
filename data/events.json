@@ -1,5 +1,310 @@
 [
   {
+    "id": "82d315c89c04b0c22d82",
+    "title": "JPMorgan Reportedly Spots Bitcoin ‘Capitulation’ Signal in Michael Saylor’s Strategy as MSTR Stock Hits 5 - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR29ocVZzWDJPMXdGMXF0Q2lFWGFiN29adm9CeWNzS0Y3SUNRVWxpaGI3TktwM1VFcFY0NlBzVW9GTkhVVE9hWUxGeXRHX1hiZWNDZzJvTEJjaENoRjhaZ3Uzc1dQeDc1bU1qQTYzUDROZXB1Y2Q0OVprc2hOOTFVR0g2czc4Y2pVd2lPam9wTFk0Y21sU044VzUyUkNWdmxvVXd6NTZ4N29iMWRQbjg2a1RkZkR2dU1fdEZ2RFlfcVdScHFDWlc1dXh1ajZ3cWJkX2JEczRR?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T09:07:41+00:00",
+    "detected_at": "2026-11-27T14:50:30.299378+00:00",
+    "assets": [
+      "BTC",
+      "MSTR"
+    ],
+    "market": "Both",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "MSTR"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "MSTR": "Stocks"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 342.8,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": "a3541bce3b79b3a78843",
+    "duplicate_status": "possible_duplicate",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 342.82,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "possible_duplicate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-27T14:50:33.539646+00:00",
+    "alert_last_attempt_at": "2026-11-27T14:50:33.539662+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "d864791adeb0f5d80490",
+    "title": "Coinbase Behind Sharp Drop in Bitcoin Apparent Demand: The 680,000 BTC Detail - Kriptofoni",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FdDVzYW9QMm5aUEFwM1BrWWJnaUh3QlF4QWpmQ0NXNGEzYThJZFQxem92dFZITDA1UHpFbi1ieGZ5TlRKb0tmck5qdFNZUXFDT0M5NFdabTJNcTZaOFRTVW5WaUtXWjhzQUhBbWVyeFdwQnNPUFNQMVRnVEJlUjA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T14:18:00+00:00",
+    "detected_at": "2026-11-27T14:50:30.298582+00:00",
+    "assets": [
+      "BTC",
+      "COIN"
+    ],
+    "market": "Both",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "COIN",
+      "BTC"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "COIN": "Stocks",
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 32.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 32.5,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-27T14:50:33.821376+00:00",
+    "alert_last_attempt_at": "2026-11-27T14:50:33.821393+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "a77498c5677431010f43",
+    "title": "Cryptocurrencies Price Prediction: Ripple, Bitcoin & Hyperliquid – European Wrap 27 November - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT1RQRWtwUUFhWUU3X3JyTHN2RGlFUDc1RHZ1Tm5lb2NIcTBWM0NIYzBTQmJZUTF1WHdsU3J0Q2dHRVdYRWxQblVFb3JWTEotQzEyamtQQXhlS1NvVUVkVVZUT3dtREFyank4anBtQmhCUF9iRTcwRm11OXh4TWVtako3d3Ezb0ZRNlpfTE5NS05kcUxaVEFrM21FOFV0dGxQWllRUERvNXhMWUhkYjZyWmduSGpkVk5TNVdFUFhFblF2dEdfVUFCRGVuM3hxTFlWRlh2dWk5cUlqZUZnMWsw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T12:33:28+00:00",
+    "detected_at": "2026-11-27T14:50:30.297990+00:00",
+    "assets": [
+      "BTC",
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "XRP",
+      "BTC"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto",
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 137.0,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 137.04,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-27T14:50:34.084258+00:00",
+    "alert_last_attempt_at": "2026-11-27T14:50:34.084276+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "9d2d90e40c16a073bcb0",
+    "title": "K33 says AI-driven math advances revive crypto security debate as Bitcoin threat remains unproven - Traders Union",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYzE1WWlWZVIydEk3aUg1R2FOZ1RHQmduYU11SlRrMGVGaE83V3VrNkdPb1ItM2dfdHhuTWVpM21MOWhxVWxmQmxfUjNMTTRkMGVrbDFPZTczWjQyUWR5czU5MTlBVGdZNmdWMV9RamowTG9XWFR2b29ZNFhwTlNVU2FEbHcxdXNCRU9DTlRUVTFPOGtpc1M2NDJmc3pHdDRGZXJzQg?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T14:40:42+00:00",
+    "detected_at": "2026-11-27T14:50:30.295137+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 9.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 9.8,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59418.955,
+          "observed_at": "2026-11-27T14:50:32.243993+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1665.33,
+          "observed_at": "2026-11-27T14:50:32.442817+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.78,
+          "observed_at": "2026-11-27T14:50:32.804227+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59418.955,
+          "observed_at": "2026-11-27T14:50:32.243993+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "5d2645fba0d704103e6c",
     "title": "Binance Founder CZ Speaks About Bitcoin’s Drop! Is $60,000 Still a Good Price? - Cryptonews.net",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03TFloX0lXSEd2eWF3cE9ESnJqb2Mydzl6SGZjb09rMzI3ZjRpNzE2ZDJVSHJJanZHZEw5dVVlcFJCTjluc2JobkhTZzdlcC1KYkNWY3R0SDQ?oc=5",
@@ -112,6 +417,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.12,
+          "observed_at": "2026-11-27T14:50:33.038568+00:00",
+          "returns_pct": {
+            "BTC": -2.1833,
+            "ETH": -2.0443,
+            "SOL": -1.8444
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.1075,
+            "ETH": 15.1082,
+            "SOL": 15.1104
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -128,7 +453,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59418.955,
+            "observed_at": "2026-11-27T14:50:32.243993+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -2.1833
+          }
+        }
       }
     }
   },
@@ -1615,6 +1952,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.03,
+          "observed_at": "2026-11-27T14:50:33.038716+00:00",
+          "returns_pct": {
+            "BTC": -3.3202,
+            "ETH": -3.4868,
+            "SOL": -3.4906
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0199,
+            "ETH": 60.0183,
+            "SOL": 60.012
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1642,6 +1999,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0609
+          },
+          "60": {
+            "price": 59418.955,
+            "observed_at": "2026-11-27T14:50:32.243993+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -3.3202
           }
         }
       }
@@ -9683,6 +10051,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.253
+          },
+          "240": {
+            "price": 59418.955,
+            "observed_at": "2026-11-27T14:50:32.243993+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -3.5234
           }
         }
       }
