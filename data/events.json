@@ -1,5 +1,180 @@
 [
   {
+    "id": "9f24952c7f1b763510c6",
+    "title": "China, Japan, South Korea and ASEAN Agree to Form Crypto Regulation Working Group - CoinGape",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWhCSXpoUWQ2NU1aVzdqZmFjd0luQjZDMUVJdVcxWWx3b2tlNUtNd1FIbjdacTJsYzRPbkZEc2FzRmZLM2JUbGtjRTZjTDdLLUx2MzQ1dF9VQklyWUdyVHZrWG1fc0FIQlJOWWl4T3lqVUNMU2dWNXUydHZjVGpNNGZlS1JKdlZYUTlHNXRsT0hxcWtkVVBPOFRMbEdGck1wb2k0?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T19:23:09+00:00",
+    "detected_at": "2026-11-27T20:00:34.047540+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 37.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 37.42,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "2ffab2220ab719785fbf",
+    "title": "ChatGPT AI Predicts What $500 in Dogecoin Could Be Worth by 2028 - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZktpb25mVUJCbHYtM2lsNnlZTlNLbHV3SUdiNF9tZkhRQ3F2ZTFuSUR3ZG5pOFNLbGZIbmpDazBhNjAyRU9COEUzcWZ5UlNaam9NeUdmM2gyaW1ydjJidVJycjBhelhjTXRPSDZxZUd2YkcybmlYU0FDc0IwS0o3UTV1NFZ3ZzFXanlZRFVDLUdMaGU1dUxNVk04NE40R2I3SmttR2pSRklqVTZheW4zZWUzSkVoM3dBWkl4Y0g5cw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T19:53:00+00:00",
+    "detected_at": "2026-11-27T20:00:34.045285+00:00",
+    "assets": [
+      "DOGE"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "DOGE",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "DOGE": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 7.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 7.57,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "DOGE",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "DOGE": {
+          "price": 0.05772,
+          "observed_at": "2026-11-27T20:00:36.478991+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59814.675,
+          "observed_at": "2026-11-27T20:00:36.295475+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1669.135,
+          "observed_at": "2026-11-27T20:00:36.549437+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "DOGE": {
+        "baseline": {
+          "price": 0.05772,
+          "observed_at": "2026-11-27T20:00:36.478991+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59814.675,
+          "observed_at": "2026-11-27T20:00:36.295475+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
     "id": "1837853cc494a20a78be",
     "title": "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means - Decrypt",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNanpLekFHV3NqbEsyNnQ3OE9sTFUxVS02cVFveXZfbFlVcDI3MjlCVGRfRmhka2NNTndRcE9DNENnbWUtLTg1ODhZemdKbUk4YmxyZzl0Yk5ZNjhzX0tyUGo1eUI5WTVPZ2o1QThtRWFzYUtHb25oUGlGamxkbm40dGRKSUg?oc=5",
@@ -93,7 +268,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.1,
+          "observed_at": "2026-11-27T20:00:37.761212+00:00",
+          "returns_pct": {
+            "BTC": 0.0217,
+            "ETH": 0.0369,
+            "SOL": -0.0625
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0753,
+            "ETH": 5.0775,
+            "SOL": 5.0841
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -492,6 +688,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.09,
+          "observed_at": "2026-11-27T20:00:37.761290+00:00",
+          "returns_pct": {
+            "BTC": -0.2235,
+            "ETH": -0.1943,
+            "SOL": -0.5185
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0669,
+            "ETH": 15.0689,
+            "SOL": 15.0752
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -508,7 +724,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59814.675,
+            "observed_at": "2026-11-27T20:00:36.295475+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.2235
+          }
+        }
       }
     }
   },
@@ -661,7 +889,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 0.9498,
+            "observed_at": "2026-11-27T20:00:37.685160+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.2363,
+            "benchmark_return_pct": -0.2607,
+            "excess_return_pct": 0.0244
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 59970.995,
@@ -8648,6 +8890,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1498
+          },
+          "240": {
+            "price": 59814.675,
+            "observed_at": "2026-11-27T20:00:36.295475+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.2626
           }
         }
       }
@@ -8896,6 +9149,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1498
+          },
+          "240": {
+            "price": 59814.675,
+            "observed_at": "2026-11-27T20:00:36.295475+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.2626
           }
         }
       }
