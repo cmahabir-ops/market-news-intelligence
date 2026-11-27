@@ -1,5 +1,236 @@
 [
   {
+    "id": "4e7d95e2e174ddb64577",
+    "title": "Bitcoin slips below $60K as traders watch $55K - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wMVNVdmRRUHp4bXFkZDhNVVBTNF9RX2FLMnRBcy1MaHJaM0d1TGNjOWlSRHBGTDNWRGlESDV0RmhOdHI1SUJIR1hscjRrNFdwalN5UXctdjVJRkNvNGJvMHh2UFpUcVQ1LUF3dllHak1hbmM4Z1VN?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T18:42:28+00:00",
+    "detected_at": "2026-11-27T19:15:30.603647+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 33.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 33.04,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59781.195,
+          "observed_at": "2026-11-27T19:15:32.478277+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1669.285,
+          "observed_at": "2026-11-27T19:15:32.680174+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 72.08,
+          "observed_at": "2026-11-27T19:15:33.189233+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59781.195,
+          "observed_at": "2026-11-27T19:15:32.478277+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "8a779e830f00b84c425a",
+    "title": "What Could $100 Each in XRP, Dogecoin, Cardano and Stellar Be Worth by 2028? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWlRRRDJvM19KNjlkZzM3MWpITFhzNzlyMldidlpOUENVdGJhOExyT0lQUGZpYld4N3lsbTVjeHlGS1V4YlgzZUJSdmpib2JBNjVfQ0pfbUVuOFZUeFkyYzBrRFZuUDhmOEQ3cXN6ZmIxaUtONVVpUFJjSnRpYnRvSWN3U0h6a1A4aDAyQWJDcF8zSWNsLVpybTZLSExwZkF0SENIR1p5bWgtdk56TUh6X2FWRHZaZnNIVmFrR2pwOC03bk4wTHV0cGJHZw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T18:50:00+00:00",
+    "detected_at": "2026-11-27T19:15:30.603085+00:00",
+    "assets": [
+      "XRP",
+      "ADA",
+      "DOGE"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "XRP",
+      "DOGE",
+      "ADA"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto",
+      "DOGE": "Crypto",
+      "ADA": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 25.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 25.51,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-27T19:15:34.079514+00:00",
+    "alert_last_attempt_at": "2026-11-27T19:15:34.079528+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "b53fc32749113ea82d6e",
+    "title": "What Is the Best Crypto to Buy With $100 Before 2027? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON3A3NldWcXhoUVlPRGYzM3lzWDVWRzhlQlgxZXhPdU5XcWVCdmhIN1JxZ3g0ZG1rcGRkb1BwdmpzR0xoSTFYQ2ZCV2lVY1pYSHE5RHZyYXJEQ3RibDdHd0FwT0VqbFo1dDFkeF90YVMzXzZwOW9KdmRBelFFaXdIMldWT0c4eW1UWXB5dEM3Y01oemxLeUZWZXlUUmxJSUVzMjZPSWNzQ001UXU4VDBv?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T19:11:00+00:00",
+    "detected_at": "2026-11-27T19:15:30.601475+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 4.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 4.51,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "d1ffda4ea83656beb3e2",
     "title": "$1,000 in Anthropic Stock or Solana: Which Could Be Worth More in 5 Years? - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWE5oX01WWF90V2xpUm9NekVDUjZtNV9MZFFYUEZHTmZRV1I0bGxLTHBxb2txV2M5cGRmbkhDUWNtRy1KRWcyTWdENlh1MVhZNlBRTHJWeTRoX1h4XzBpSndOZmQyWThlNTZVc001M21la1dmSFhpNHoxVEdHWmR3czZzNk1KTjFaV0ZyRXpjZXB5VWNIS2dRSDRxbzF6TTNiMFZCYVFHemRCcldLMWFqR0NKS0NaQXdkMF9SNmQ5RldzMG5YYlFMSw?oc=5",
@@ -93,7 +324,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.07,
+          "observed_at": "2026-11-27T19:15:33.483468+00:00",
+          "returns_pct": {
+            "SOL": 0.2016,
+            "BTC": -0.0169,
+            "ETH": 0.0491
+          },
+          "asset_elapsed_min": {
+            "SOL": 5.0495,
+            "BTC": 5.0551,
+            "ETH": 5.0524
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.2185,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -9650,6 +9902,19 @@
             "change_pct": 1.5568,
             "benchmark_return_pct": 1.2976,
             "excess_return_pct": 0.2592
+          },
+          "240": {
+            "price": 1669.285,
+            "observed_at": "2026-11-27T19:15:32.680174+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 1.534,
+            "benchmark_return_pct": 0.9944,
+            "excess_return_pct": 0.5396
           }
         },
         "benchmark_asset": "BTC",
@@ -9862,6 +10127,19 @@
             "change_pct": 1.5568,
             "benchmark_return_pct": 1.2976,
             "excess_return_pct": 0.2592
+          },
+          "240": {
+            "price": 1669.285,
+            "observed_at": "2026-11-27T19:15:32.680174+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 1.534,
+            "benchmark_return_pct": 0.9944,
+            "excess_return_pct": 0.5396
           }
         },
         "benchmark_asset": "BTC",
