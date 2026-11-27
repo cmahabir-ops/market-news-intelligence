@@ -1,5 +1,231 @@
 [
   {
+    "id": "4922c8102ca8d8327feb",
+    "title": "Bitrue Black Friday Enters Final Week With 60,000 USDT in Rewards - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xVFJoc2UyX3dyaHdrd1NkYWI5SGlVMm9JRDdWcWtwWmhHZ0pWdm9QWEpKTTZ5NGdCQnJkU3lWOHI5aEVWN1Btck1Vd2VjdGt3Y1gwTnM3NXBSLW5pOEdVZjhtZlBjZm1MRTVJRUpn?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T11:15:17+00:00",
+    "detected_at": "2026-11-27T14:10:27.933490+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 175.2,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 175.18,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "1f07e327b85f476dc605",
+    "title": "SahalWallet.net Review: An In-Depth Look at the Platform and Its Services - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd3pwc0MweTFfUkp2UFBfUi1ETGdueE5BQmtTa045QWEtaEJuRWI5cmV4LTJHbzYzLXdOdnZrRHFLMWxNa0lqMGdPRXU3bGN3TzNORWsweHNnTzNIV0h2MzhNUW5JSEJmbWtYMldkMk96OG5vcDZyNzJ2T1JaaDdDYlMzU0JBLTNINmpDNzBldjZnWmxzRkgyTQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T14:06:06+00:00",
+    "detected_at": "2026-11-27T14:10:27.932666+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 4.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 4.37,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "5fc7870895ac0f6db2d8",
+    "title": "Ethereum ETFs bleed $523.3 million over eight straight trading days - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04OFhvSWdVa0pKVkNIRGlzQ3lFcFVFeEU0S3hrMWl6eVpHcktOelc1NWQyd1REUVZTQjFibVlsTFg3U1FiNElqMXJWVHdaRUdoOV9BYUloSXJCRFpZUjJ1VGgwVzBJTnhydlhzd0RvT0M2eE5Da2tDSkNPY0UzZw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T14:05:05+00:00",
+    "detected_at": "2026-11-27T14:10:27.930657+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 5.38,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1721.48,
+          "observed_at": "2026-11-27T14:10:30.223596+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 61365.435,
+          "observed_at": "2026-11-27T14:10:29.883429+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.105,
+          "observed_at": "2026-11-27T14:10:30.765455+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1721.48,
+          "observed_at": "2026-11-27T14:10:30.223596+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 61365.435,
+          "observed_at": "2026-11-27T14:10:29.883429+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
     "id": "9d7dbed57fd2056b05dd",
     "title": "MiCA Cliff Edge Happens Your Crypto: A Founder's Cost and Continuity Plan - Global Advisory Experts",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkNlUjZEazRDejMyN2l0Ri1fWENTYnVmU3NDbG1aY0k2SjVrUlJQVjhCT09pX3YxR1k5OVd6WkxhNFhDZnd2MjM2bkFVRGRwZFViOXI1N000dHVwa01SQXlVTGp0dklEcTdobktpZ0ZOZ1haRWowc3cwRHNVRzdOdkhLWmdoVTlLeEVnbkJYQkdQQQ?oc=5",
@@ -144,7 +370,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.93,
+          "observed_at": "2026-11-27T14:10:31.078963+00:00",
+          "returns_pct": {
+            "BTC": -0.0923,
+            "ETH": -0.1247,
+            "SOL": -0.2388
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9107,
+            "ETH": 4.9137,
+            "SOL": 4.9193
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -277,6 +524,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.08,
+          "observed_at": "2026-11-27T14:10:31.079014+00:00",
+          "returns_pct": {
+            "BTC": -0.1827,
+            "ETH": -0.2778,
+            "SOL": -0.4223
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0628,
+            "ETH": 15.0638,
+            "SOL": 15.0603
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -293,7 +560,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 61365.435,
+            "observed_at": "2026-11-27T14:10:29.883429+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1827
+          }
+        }
       }
     },
     "alert_delivered_at": "2026-11-27T13:55:27.858215+00:00",
@@ -1702,6 +1981,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 1,
           "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.95,
+          "observed_at": "2026-11-27T14:10:31.079086+00:00",
+          "returns_pct": {
+            "BTC": -0.149,
+            "ETH": 0.0535,
+            "SOL": 0.1096
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9344,
+            "ETH": 59.9374,
+            "SOL": 59.9398
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
