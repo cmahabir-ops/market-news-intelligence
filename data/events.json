@@ -1,5 +1,170 @@
 [
   {
+    "id": "83151285b748c343feec",
+    "title": "South Korea Crypto Exchange Ownership Cap: 20% to 34% - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNnNkQmVVSW9aeFptdEt4Z0VHMVhibkY2emdOejY1d2NxSFl2ZXdxUGM0WndyYUZwa1owYnR4S1NkX0NTcFpPUG9RT2haUVRSbElKUXJtQVAwZHlReFk5d1FhS0lhQ1dVVllOVUZSblFWNUJrX19TS09EOURhQU5UN3l2MWRLbmtFZjZWQUlmLS1VTDd6OWc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T02:19:59+00:00",
+    "detected_at": "2026-11-27T12:25:29.087692+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 605.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 605.5,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "243531ee0c9a4b069b14",
+    "title": "Crypto Stocks Gain After Bitcoin Tops $61K In Tech Rebound, But Analysts Want A Move Above $62K - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbkQtQXhFTWg2eWVkNFBLTVRaVUZyZndoTjlnQ2F3OXRLcDlFSVdlY0dxVlJiLWVvYmVHQXBFbWVRZGczYnVKWVJad1BiYU1xU2lJcko0ZzVhU211Nk5qU0dKNHo4dF9GRGpEODFBVnhlOTBkeDlQREhkTzBSUF9PVTVqTEs1YUhvTjFQb3dRV1NvTEZfSlh4TWUxTno?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T12:03:37+00:00",
+    "detected_at": "2026-11-27T12:25:29.082521+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 21.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 21.87,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61530.825,
+          "observed_at": "2026-11-27T12:25:29.996937+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1719.645,
+          "observed_at": "2026-11-27T12:25:30.130441+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.05,
+          "observed_at": "2026-11-27T12:25:30.325331+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61530.825,
+          "observed_at": "2026-11-27T12:25:29.996937+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "45eb90da1c27e25a8119",
     "title": "Binance job listing points to potential expansion into on-chain IPOs - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUC1pN1VoeG00ZjNVOXl0T3g3czdjekRITXpNakhzWkVIZkVBb0hYZkhMaF9ld2dpQUNIejB6TDA2NGp0b3pLczc3M3NwYk9KMG5QaTZPeEVGcWgtYS1rX0czOFByQjFEUkc3WmRpSzYteS1oaFRvMGhOeE9Xd3VQdVpubTd2b200WTd0aEg4Vk1HNHc?oc=5",
@@ -296,6 +461,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 1,
           "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.98,
+          "observed_at": "2026-11-27T12:25:30.420455+00:00",
+          "returns_pct": {
+            "BTC": -0.0552,
+            "ETH": -0.1295,
+            "SOL": -0.0752
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9711,
+            "ETH": 14.971,
+            "SOL": 14.97
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -1915,6 +2100,26 @@
           "positive_assets": 2,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.99,
+          "observed_at": "2026-11-27T12:25:30.420574+00:00",
+          "returns_pct": {
+            "BTC": -0.0993,
+            "ETH": -0.2488,
+            "SOL": -0.2049
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9861,
+            "ETH": 59.9833,
+            "SOL": 59.9802
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -2079,6 +2284,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 2,
           "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.99,
+          "observed_at": "2026-11-27T12:25:30.420607+00:00",
+          "returns_pct": {
+            "BTC": -0.0993,
+            "ETH": -0.2488,
+            "SOL": -0.2049
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9861,
+            "ETH": 59.9833,
+            "SOL": 59.9802
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
