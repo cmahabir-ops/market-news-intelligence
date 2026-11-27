@@ -1,14 +1,14 @@
 {
-  "started_at": "2026-11-27T17:25:29.922672+00:00",
+  "started_at": "2026-11-27T17:30:29.331239+00:00",
   "feeds": [
     {
       "source": "Google News - Markets",
       "status": "ok",
-      "entries": 45,
-      "dated": 45,
+      "entries": 23,
+      "dated": 23,
       "http": 200,
-      "processed_limit": 45,
-      "duration_seconds": 0.46
+      "processed_limit": 23,
+      "duration_seconds": 0.36
     },
     {
       "source": "Google News - Crypto",
@@ -17,7 +17,7 @@
       "dated": 100,
       "http": 200,
       "processed_limit": 60,
-      "duration_seconds": 0.56
+      "duration_seconds": 0.48
     },
     {
       "source": "Federal Reserve Press Releases",
@@ -26,7 +26,7 @@
       "dated": 20,
       "http": 200,
       "processed_limit": 20,
-      "duration_seconds": 0.11
+      "duration_seconds": 0.09
     },
     {
       "source": "SEC Press Releases",
@@ -35,7 +35,7 @@
       "dated": 25,
       "http": 200,
       "processed_limit": 25,
-      "duration_seconds": 0.23
+      "duration_seconds": 0.21
     },
     {
       "source": "BLS Latest Economic Indicators",
@@ -53,7 +53,7 @@
       "dated": 15,
       "http": 200,
       "processed_limit": 15,
-      "duration_seconds": 0.1
+      "duration_seconds": 0.11
     },
     {
       "source": "NVIDIA Official Press Releases",
@@ -62,7 +62,7 @@
       "dated": 20,
       "http": 200,
       "processed_limit": 20,
-      "duration_seconds": 0.3
+      "duration_seconds": 0.42
     }
   ],
   "edgar": [
@@ -102,8 +102,8 @@
       "filings": 0
     }
   ],
-  "completed_at": "2026-11-27T17:25:34.783283+00:00",
-  "new_events": 3,
-  "total_events": 1448,
+  "completed_at": "2026-11-27T17:30:34.262516+00:00",
+  "new_events": 2,
+  "total_events": 1450,
   "alert_failures": 0
 }
