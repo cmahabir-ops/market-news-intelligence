@@ -1,5 +1,128 @@
 [
   {
+    "id": "4b25555b2b5e69fecda3",
+    "title": "Is 10,000 XRP Enough to Retire On by 2035? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT1JoYkI4blNacWpiVXg0UkMzVUJuemJjOXhJYkx3TmRaVFoyMWdyblRibFkySkhpVW9NN01jcldPMHdxWUxJTTRuTUwtQ3BNLTFweWlkeWRnZlFjOTNEeDlzbV8tMWxwaDd5X3BCU3k0VXNQTERJZXVZVWJ1WldfbmQxblFsa01FTGJZSFVvRmU0RVduMVNKT1JZU3NzNkg2?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T22:22:00+00:00",
+    "detected_at": "2026-11-27T22:30:34.438874+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 8.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 8.57,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.94315,
+          "observed_at": "2026-11-27T22:30:37.460109+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59684.58,
+          "observed_at": "2026-11-27T22:30:36.618258+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1657.25,
+          "observed_at": "2026-11-27T22:30:36.857325+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.94315,
+          "observed_at": "2026-11-27T22:30:37.460109+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59684.58,
+          "observed_at": "2026-11-27T22:30:36.618258+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
     "id": "fa1744cc34390d80fbcc",
     "title": "Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Biggest Rally in Over a Year - The Motley Fool",
     "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPa0trZTZDOUdXQnBuM2RIU3dVYnhER1didEZnMFg1YUNYcDZsWU90R3EwMkxPeEhMU3JJQlMyZFRxZ3NfaEV6YkVNcDBxWWI5c2R1ZUEyVzliMVVNNkdrRHR1aUUwRjR5VXJmRkoyZHFfRHZFNDVld243MnZjc2Z2elE4X1BsNm1ubldXYjhJMzJDSHFYWEpyRHA0bVRMX21zSkVWdkhTa3h2cXhHajJMY0ZPc2lPb242N2N2a1dORnp4ZFlXdjNJTXBjZUc2QmluZ0RtUkRYRV9IbDhGWGtfVmFWdm9yOFI3aGZyM1JvVjlSUjNlMTRVdHk0Sm8xWmRfYzdvdU5reE1FcUVWQmQ4eThTSDVPZVVUUkc2OEpKdlA?oc=5",
@@ -245,6 +368,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.06,
+          "observed_at": "2026-11-27T22:30:37.499848+00:00",
+          "returns_pct": {
+            "XRP": 0.1221,
+            "BTC": 0.1461,
+            "ETH": 0.1145
+          },
+          "asset_elapsed_min": {
+            "XRP": 15.0549,
+            "BTC": 15.0496,
+            "ETH": 15.0514
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.024,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -261,7 +404,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 0.94315,
+            "observed_at": "2026-11-27T22:30:37.460109+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1221,
+            "benchmark_return_pct": 0.1461,
+            "excess_return_pct": -0.024
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 59597.525,
@@ -1492,6 +1649,19 @@
             "change_pct": 0.19,
             "benchmark_return_pct": 0.0492,
             "excess_return_pct": 0.1408
+          },
+          "60": {
+            "price": 0.94315,
+            "observed_at": "2026-11-27T22:30:37.460109+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.4644,
+            "benchmark_return_pct": -0.1451,
+            "excess_return_pct": -0.3193
           }
         },
         "benchmark_asset": "BTC",
