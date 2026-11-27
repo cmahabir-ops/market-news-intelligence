@@ -1,5 +1,57 @@
 [
   {
+    "id": "8e71df62052cab9cec5b",
+    "title": "Why Qualys stock is trading up today - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeV9ZZnZSb2tneWZfSTI1TXRZX2FQa3BOZjRoRHhDR19fdmZmMzlBRmp0cFpMZUdwM2dYdjRONjFPaVFWdG9xcGtFRWg1ZHBvOHVXWXJxQllEMUI1SzR2UjVJNGV4djhsUTA2UXdQSlE1c1VWQ2lvZW1VQnctZ2J0YmRTeU5zN2ZpWm00RzFuNFI1ODA2SEJXeG1WZkJ4QQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T20:45:41+00:00",
+    "detected_at": "2026-11-27T21:15:31.771294+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 29.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 29.85,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "6abf2487ce4af02860c4",
     "title": "How Much Bitcoin Does Trump’s Family Hold and What Is It Worth Now? - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSVF2WXEwWnRxdENlRXI1YWNsZEhsbFRpUWNSNWRGMFc1aEtTVlhDd0V4dmVaRHVaR2N2ZDZrZW1KOTdveU5fVk1xZ3ZuNllWNncxTjZDVnpJdjFBRl9DTlAyZGRLUU0zVTFoSUNYaFo4NVlRRUhJYkpOWDl6NGRfZzllMV9zaW5aSGg4eDBuVm4wQy1DWFVVc211b2JUYm16SW82S0dlMUYwU0E2UjJGZGdUNlR2UzMtb25BbV93bGMzZw?oc=5",
@@ -1966,6 +2018,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.03,
+          "observed_at": "2026-11-27T21:15:35.391905+00:00",
+          "returns_pct": {
+            "BTC": 0.1272,
+            "ETH": -0.0843,
+            "SOL": -0.0973
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0208,
+            "ETH": 60.0219,
+            "SOL": 60.0221
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1993,6 +2065,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.058
+          },
+          "60": {
+            "price": 59772.965,
+            "observed_at": "2026-11-27T21:15:34.848905+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1272
           }
         }
       }
