@@ -1,5 +1,284 @@
 [
   {
+    "id": "d7297cc41b5c3c0e0cd2",
+    "title": "Four Popular Bitcoin Valuation Models Come Under Pressure as Historical Indicators Face Scrutiny - Kriptofoni",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY0dBb08tcDNmc2hCOXZXMUtzZDliaWZOMEZONXJVZk5ZZnVndG9SV3pjY0NyRUtvNUV4NnhLODhNLXlBWlhKczRTUDBZZ1lRdzJScTAwWEdYN3pYVV9TOHlvLVNubHRSQmtaQWJ5Q1g4bE1nU2FWbkI1RWg4SjJEOA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T13:18:00+00:00",
+    "detected_at": "2026-11-27T13:50:28.861002+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 32.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 32.48,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61459.535,
+          "observed_at": "2026-11-27T13:50:31.047632+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1725.495,
+          "observed_at": "2026-11-27T13:50:31.346359+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.34,
+          "observed_at": "2026-11-27T13:50:32.083496+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61459.535,
+          "observed_at": "2026-11-27T13:50:31.047632+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "d53bdda400bec99578dc",
+    "title": "OKX and ICE Launch Tokenized US Stocks But Two Wallets Account for 99.9% of Trading Volume - CCN.com",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYnpma2RrdGdRUnlvYVBJZG5fNTdjMEYycEZ2d2VSdGRndEE5bGZDNDBWd1NOZF9kU0k2aXduVXFXNThLUDdlT2RySXpSWThRQU0xaHRIYjJ5MWNTS2Z4M1o3a1JBRDVCMUptWVFxZ3pkTGpBcVRYejlmUnYxc01RbkRrdk9aNFZZQzhSM1hFSQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T13:49:47+00:00",
+    "detected_at": "2026-11-27T13:50:28.860177+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 0.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 0.7,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "3da3be5dcb781b364467",
+    "title": "Strategy Just Bought Bitcoin for the 4th Straight Week. So Why Aren't Crypto Investors Bullish on MSTR Stock? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONzhSRkMyQW1GajRESi1DM2tJSmF1V0pBOTVqMnF4Q2FCNVB1RlA1eVhNc3c4dkNlRWIwTlZxM1A1dzRodzBJcDJvc1pJWmpTTmhkMHNNUkZid1M2SjFCOENvdWZMcWl1ODhWVjVlenlyNG9yWHVrSk92ZkNHNExWOHJYQUUxTy1IbXQyLVhRSEtnbUZiSER4ZFV2YklZSjV4b3pZR2J0bDd0Q1A2VWk0dDNtbk5fdGRZWHdta0dtRWJsZTFQVjA2Q3BXQ1VPaFFZTW9VOUFEaUlma0VlRUxnQTFvTTE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T13:43:12+00:00",
+    "detected_at": "2026-11-27T13:50:28.859066+00:00",
+    "assets": [
+      "BTC",
+      "MSTR"
+    ],
+    "market": "Both",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "MSTR"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "MSTR": "Stocks"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 7.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 7.28,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-27T13:50:32.861842+00:00",
+    "alert_last_attempt_at": "2026-11-27T13:50:32.861856+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "f6dea9444b53a7355507",
+    "title": "India central bank cuts reserve ratio requirement maintenance to 90% from 99% - marketscreener.com",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHNjWGpJQ1RnVVVMeTFGY0dJckphSFJkSWp4NFpDUFByeU1YVjlwTzA0Y2pTTTBld2lobUdsNUdKVXo3c0hHTFJ4dXMwbk9WMUNtVWphMUNvdXFlcWpyVEE5T21YNFhSSmkzXzVMZHRtX0VfcGdaMGhrTjdFYkxxVUVrMXRvbVVLSHlERnVKUTFRUk1mTjFTX185R1FqOHRzbnJrdV9wTGVibXBHaG1wZFNWTnA1aDd2RVA5NWZ5M0N0ZVlmV29N?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T11:58:18+00:00",
+    "detected_at": "2026-11-27T13:50:28.431137+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 112.2,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 112.17,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "216429fe673b01d2ead6",
     "title": "Crypto On-Ramps Explained: How to Move From Cards and Bank Accounts into Crypto - Technology Org",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTjRpblduNmRYeUZNQTY4MWRnYjF1SFVXdk9rV0pmaHNvTUdsWVZqMnpCY05hajQ0TGhyMEV3dzhNR0RXZWp1dmJFazlIMXp5eG5RYS1fZkxyVjByanhlY2pZUS1iZmdocDBVeXBMek9uWFlaMVNkZmxSWmc3VjUtbkV2dkQwejB5ZHd3VWlxUlZjbFp5WFFZOXl5RTJ0ZjItNzFDY1AyZkZKNGc0aHg1QndkZXlrQ3dR?oc=5",
@@ -440,7 +719,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 61459.535,
+            "observed_at": "2026-11-27T13:50:31.047632+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1685
+          }
+        }
       }
     }
   },
@@ -2088,6 +2379,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.96,
+          "observed_at": "2026-11-27T13:50:32.324173+00:00",
+          "returns_pct": {
+            "BTC": 0.0812,
+            "ETH": 0.469,
+            "SOL": 0.4933
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9416,
+            "ETH": 59.9439,
+            "SOL": 59.9478
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -2250,6 +2561,26 @@
           },
           "benchmark": "BTC",
           "primary_excess_return_pct": 0.1175,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.96,
+          "observed_at": "2026-11-27T13:50:32.324204+00:00",
+          "returns_pct": {
+            "ETH": 0.469,
+            "BTC": 0.0812,
+            "SOL": 0.4933
+          },
+          "asset_elapsed_min": {
+            "ETH": 59.9439,
+            "BTC": 59.9416,
+            "SOL": 59.9478
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.3878,
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
