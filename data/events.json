@@ -1,5 +1,169 @@
 [
   {
+    "id": "59aada5b2474fb5de96c",
+    "title": "Could AI Crack Bitcoin? K33 Says There’s No Evidence Its Cryptography Has Been Broken - bloomingbit",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zTzJQbklINFJnYUZRSzBSSDUtNE5oTVZJR0ZJVFkyTkNnNDFUVjEyRUNlOU9wTXFldEFqMl82d3BmQUtXMnBxSFc2NUtfcGFTM1BSOA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T22:32:10+00:00",
+    "detected_at": "2026-11-27T22:50:30.534489+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 18.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 18.34,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59759.745,
+          "observed_at": "2026-11-27T22:50:31.796777+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1657.96,
+          "observed_at": "2026-11-27T22:50:31.985601+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.51,
+          "observed_at": "2026-11-27T22:50:32.280963+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59759.745,
+          "observed_at": "2026-11-27T22:50:31.796777+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "fccf2bc3b45664cc193b",
+    "title": "Could Avalanche’s (AVAX) Market Value Reach $10 Billion by 2030? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbkZmSzJtcENocm1HWVU4V2JyT2EtUDVfeTN4VzRHbTBYb3RlTDhkSXpoMGlDUHNMMkFNSDFsM2J1TWIwYlJ2X1NOMnQ0Mmo4WkRtd2V2YUgtYi1iS3lkdHE0UTI5clo4b2RlRUlHSXh0dGRqakdyc0J3RHRRVFgtRUQ3aWc3MmN0N1owTU9pdlN0T0kteVFjUUhWRURFb0tfZ1dCclpkZ3MwR29yNTY2eTZZaWpBc1BpWVE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T22:43:00+00:00",
+    "detected_at": "2026-11-27T22:50:30.533846+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 7.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 7.51,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "4b25555b2b5e69fecda3",
     "title": "Is 10,000 XRP Enough to Retire On by 2035? - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT1JoYkI4blNacWpiVXg0UkMzVUJuemJjOXhJYkx3TmRaVFoyMWdyblRibFkySkhpVW9NN01jcldPMHdxWUxJTTRuTUwtQ3BNLTFweWlkeWRnZlFjOTNEeDlzbV8tMWxwaDd5X3BCU3k0VXNQTERJZXVZVWJ1WldfbmQxblFsa01FTGJZSFVvRmU0RVduMVNKT1JZU3NzNkg2?oc=5",
@@ -148,7 +312,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 0.9439,
+            "observed_at": "2026-11-27T22:50:32.432199+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0795,
+            "benchmark_return_pct": 0.1259,
+            "excess_return_pct": -0.0464
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 59684.58,
@@ -1111,6 +1289,19 @@
             "change_pct": -0.1652,
             "benchmark_return_pct": -0.0814,
             "excess_return_pct": -0.0838
+          },
+          "60": {
+            "price": 1657.96,
+            "observed_at": "2026-11-27T22:50:31.985601+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3857,
+            "benchmark_return_pct": 0.0108,
+            "excess_return_pct": -0.3965
           }
         },
         "benchmark_asset": "BTC",
