@@ -1,5 +1,117 @@
 [
   {
+    "id": "8353961d7f3b37257b19",
+    "title": "Gold vs. Bitcoin: Mining CEO Explains Why the Rivalry Could Fade in 2027 - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MOEFacC1xUUN6THU0Uk1vZ1JnOGVNQ29aZVgwRklzR0R4Z0lVMUN0OWNpd25CdG5GV3lDSnVVWi0tcXJvcHVVaGJ6ZnVtc2NSRzMtZkp4bEo?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T21:31:39+00:00",
+    "detected_at": "2026-11-27T21:35:26.907366+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 3.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 3.8,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59728.405,
+          "observed_at": "2026-11-27T21:35:29.132646+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1663.6,
+          "observed_at": "2026-11-27T21:35:29.368082+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.855,
+          "observed_at": "2026-11-27T21:35:29.901352+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59728.405,
+          "observed_at": "2026-11-27T21:35:29.132646+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "23061d329af190047950",
     "title": "U.S. Files Largest-Ever Crypto Forfeiture Case Over $1.1 Billion Linked to Binance Breach - Latin Times",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wMklxbzhUMVpKdENEaGx1U2xhUGtUb1NZaUY3Yy0zVC1zMkNEVGxEaE9KZ1V5cEg5enQwT3BjQ3FxQnlsMlR2X3FoU1B4RGVuV1lQQkVCam90WWF5RFJsZk5UZ21IZGFWV05YckYzUUNHTkdNaHFPTTYtdw?oc=5",
@@ -373,6 +485,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.03,
+          "observed_at": "2026-11-27T21:35:30.299522+00:00",
+          "returns_pct": {
+            "BTC": -0.1108,
+            "ETH": -0.1776,
+            "SOL": -0.0209
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.007,
+            "ETH": 15.0076,
+            "SOL": 15.0095
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -389,7 +521,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59728.405,
+            "observed_at": "2026-11-27T21:35:29.132646+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1108
+          }
+        }
       }
     }
   },
@@ -506,6 +650,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.03,
+          "observed_at": "2026-11-27T21:35:30.299561+00:00",
+          "returns_pct": {
+            "BTC": -0.1108,
+            "ETH": -0.1776,
+            "SOL": -0.0209
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.007,
+            "ETH": 15.0076,
+            "SOL": 15.0095
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -522,7 +686,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59728.405,
+            "observed_at": "2026-11-27T21:35:29.132646+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1108
+          }
+        }
       }
     }
   },
@@ -1593,6 +1769,26 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.05,
+          "observed_at": "2026-11-27T21:35:30.299619+00:00",
+          "returns_pct": {
+            "BTC": -0.0055,
+            "ETH": -0.1468,
+            "SOL": -0.3052
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0301,
+            "ETH": 60.0313,
+            "SOL": 60.0343
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1620,6 +1816,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0175
+          },
+          "60": {
+            "price": 59728.405,
+            "observed_at": "2026-11-27T21:35:29.132646+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0055
           }
         }
       }
@@ -1758,6 +1965,26 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.05,
+          "observed_at": "2026-11-27T21:35:30.299635+00:00",
+          "returns_pct": {
+            "BTC": -0.0055,
+            "ETH": -0.1468,
+            "SOL": -0.3052
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0301,
+            "ETH": 60.0313,
+            "SOL": 60.0343
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1785,6 +2012,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0175
+          },
+          "60": {
+            "price": 59728.405,
+            "observed_at": "2026-11-27T21:35:29.132646+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0055
           }
         }
       }
