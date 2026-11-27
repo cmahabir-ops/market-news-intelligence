@@ -1,5 +1,56 @@
 [
   {
+    "id": "f253d11aa3181cc2be13",
+    "title": "Binance Resumes Withdrawals After Record $6.3 Billion Hack - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcU5nMXdHa3dHNldEXzJWazhiVXEyS2RVT1UxaGh6ZVI0d0VHZjIxdm5PcUJHV3VrQlV3R3ByV01iWWxFUEJfdUVZYjJaNEhLUGNTZEI3b0hQbEpoaXV2dENuTGs2VnQyeTIybUZPa2RSLVVYU2VoeVNscjRBc3FCMHZ5MFVlTDMtSnBDY21ITUREeHUya3ZzRUV2QjJWOG1VYUhLT3k0Tm4?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T05:24:46+00:00",
+    "detected_at": "2026-11-27T05:30:37.796224+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 5.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 5.86,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "0fde38429f1bb0717894",
     "title": "Deutsche Bank Sees S&P 500 Reaching 9,000 by 2027 - Wisevoter",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHVNS1ZMYmMxS29hUlFVeHFpRVF6OHRfTGFYOTdBcklSQVAxZVBaa2UyMGtpMzgtZldKcDJtNW1ubFBXcE4zSGlQcUdSeGE0VE90SlZ0X1R4MHlyNEZmWVNxdVZ4RjVhRDcyR2xERzI3QWgxbGpBY040dFFCZE9pUEZUR19DdWNy?oc=5",
@@ -215,6 +266,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.08,
+          "observed_at": "2026-11-27T05:30:39.338035+00:00",
+          "returns_pct": {
+            "BTC": 0.2787,
+            "ETH": 0.4686,
+            "SOL": 0.3016
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0757,
+            "ETH": 15.0742,
+            "SOL": 15.0722
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -231,7 +302,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 61722.15,
+            "observed_at": "2026-11-27T05:30:38.825074+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.2787
+          }
+        }
       }
     }
   },
@@ -348,6 +431,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.08,
+          "observed_at": "2026-11-27T05:30:39.338138+00:00",
+          "returns_pct": {
+            "XRP": 0.3483,
+            "BTC": 0.2787,
+            "ETH": 0.4686
+          },
+          "asset_elapsed_min": {
+            "XRP": 15.072,
+            "BTC": 15.0757,
+            "ETH": 15.0742
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0696,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -364,7 +467,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 0.9652,
+            "observed_at": "2026-11-27T05:30:39.305155+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.3483,
+            "benchmark_return_pct": 0.2787,
+            "excess_return_pct": 0.0696
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 61550.605,
@@ -495,6 +612,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.08,
+          "observed_at": "2026-11-27T05:30:39.338195+00:00",
+          "returns_pct": {
+            "XRP": 0.3483,
+            "BTC": 0.2787,
+            "ETH": 0.4686
+          },
+          "asset_elapsed_min": {
+            "XRP": 15.072,
+            "BTC": 15.0757,
+            "ETH": 15.0742
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0696,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -511,7 +648,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 0.9652,
+            "observed_at": "2026-11-27T05:30:39.305155+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.3483,
+            "benchmark_return_pct": 0.2787,
+            "excess_return_pct": 0.0696
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 61550.605,
