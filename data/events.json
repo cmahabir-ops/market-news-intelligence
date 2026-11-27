@@ -1,5 +1,109 @@
 [
   {
+    "id": "c5e3d2f6e5e9f3ab9213",
+    "title": "Cathie Wood trims crypto stake ahead of birthday - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTJkVDQ2MzI1aGoxVG9NdFJ4V2xqTnZGMUxxWmZDZU56TWJYU1lHcEpSU194MVp4ZWQwUWRYemtQN3ZlWWVKVFFyTWk0b2lHZUdrUEhvTThxMUVldkxlTTlUWlRVSVh2US1kRm9vLUp4SnJkTUFyazNxQ0xFQVdOUVVmYVZHRGI5TE1aYXQ5UXpHcVZFd2tlc1ktSQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T20:07:39+00:00",
+    "detected_at": "2026-11-27T20:30:27.291404+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 22.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 22.8,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "9bf3ba3eaadd3e4e5edd",
+    "title": "Stock Market Today: S&P 500, Nasdaq and Dow Jones Rally on Black Friday - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVGxmYzgyMUczR3JTLTI4YWduVVFST1FpNFRWNXFGakVlZW9FVndWeGtMYVp0aHp3TEExdmplRmNtZ2J0Q3M5X2ZVVXVxMkpDSXVkcjdNUXUzdWVzaXJJUDNrNlYxcHBiVnEyUHhZTXA1N05qc2RhN2FlSTllZUl4MU53NmJLVTlpckxwSGwwVkVoNGs1aWtJVWVjVFlLeGhDWU53?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T15:29:10+00:00",
+    "detected_at": "2026-11-27T20:30:26.902464+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 301.3,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 301.28,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "9120ea9f01f0bf18c17d",
     "title": "BTC Price Prediction: Whales Add Over 120,000 BTC - Bitcoin Foundation",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQlhoZTVpbE5zVlpiaWgwbW9zOXl5V0o4dXFsdndWb202Q0pSZm5ZdTFTTjF5aUZhWW15am9kYWlkLTBjRmNUc05mdzRvZXhPN1M3ZURWYlIzcTFkMUtqNFpQd05VODhSSzNGSHdNZ2s0VGVjMWswMGRSZGZ1VTE3YjFtcVlxdlJEOG80NjFPNnNNRkZyQXZpNHNjVlNVcXpl?oc=5",
@@ -92,7 +196,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.82,
+          "observed_at": "2026-11-27T20:30:30.252174+00:00",
+          "returns_pct": {
+            "BTC": 0.0727,
+            "ETH": 0.0745,
+            "SOL": 0.1598
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.8045,
+            "ETH": 4.8049,
+            "SOL": 4.8058
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -602,6 +727,26 @@
             "BTC": 4.8744,
             "ETH": 4.877,
             "SOL": 4.8821
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.94,
+          "observed_at": "2026-11-27T20:30:30.252269+00:00",
+          "returns_pct": {
+            "BTC": 0.0567,
+            "ETH": -0.084,
+            "SOL": 0.1459
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.928,
+            "ETH": 14.929,
+            "SOL": 14.9302
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
