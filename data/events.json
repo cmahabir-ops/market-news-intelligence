@@ -1,5 +1,56 @@
 [
   {
+    "id": "96e79f803ef312f7f925",
+    "title": "Austrian Financial Market Authority reports €20.4B in H1 crypto trading volume - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0T0QySzVyaTE5NHVUUEhtdktja0xaU2R1SXEyWDRmV2JpZEQ5eUFramIwdjZ2a19DTFBKX0sxenc4NGpPWFhrNTVyanRnWWFVbzlpVHJlX1MxWVdCT2p4YXlza1c3LWRpd183TWtKaXVVSVhzQWpsRQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T12:36:50+00:00",
+    "detected_at": "2026-11-27T12:40:31.405919+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 3.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 3.69,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "842d34716ca8db965eee",
     "title": "Nvidia Stock Premarket Today: NVDA Rises 4% As Chip Rally Returns - Coinpedia",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGk3MUFldHpZRkNMX2pZVTQ3R2Q1anRQODFPUjcyWnFfNnhRcjdOMUxoNkM2QWVCcHNZSE1URVlDSGMwMUtFYWpJRk04eHNVUTBwckRSSFQzRG1xSzFESjVnMms2azEwS3FhaDhBQlZMZHdCcDFQVGZXck9qMF9iekdpSVJMQkI0czc2YjdxMGdlLTV0Z01ackdNcDhxWWUzcWo5UHln0gGrAUFVX3lxTE9jZ1RXZ2ROanhpNE5hRTJZSmhGWWdJTkNUc2dYbTVNeHdXVTc3SlhaWVNpQ2g3RUtJNjU2eVhmX1JUVjB2c3l6WTJpNEMwZDRaZmk5a1VoWXRfbVdkV1kyWDRFb1RIU1I0Vjl5eDRHRGUzMml4c25KZEFIWm5VdjFpVmNYRlQ5S0ptbnQzaDdOcHRaZmU5cC1rcURZY0dpeWJRSUNhUHRZNFplUQ?oc=5",
@@ -568,6 +619,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.07,
+          "observed_at": "2026-11-27T12:40:33.999238+00:00",
+          "returns_pct": {
+            "BTC": -0.0926,
+            "ETH": 0.025,
+            "SOL": -0.13
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0529,
+            "ETH": 15.0541,
+            "SOL": 15.0568
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -584,7 +655,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 61473.845,
+            "observed_at": "2026-11-27T12:40:33.171686+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0926
+          }
+        }
       }
     }
   },
@@ -2017,6 +2100,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.98,
+          "observed_at": "2026-11-27T12:40:33.999326+00:00",
+          "returns_pct": {
+            "BTC": -0.3534,
+            "ETH": -0.4068,
+            "SOL": -0.3347
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9651,
+            "ETH": 59.9644,
+            "SOL": 59.9657
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -2176,6 +2279,26 @@
             "BTC": 14.9438,
             "ETH": 14.9423,
             "SOL": 14.9426
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.98,
+          "observed_at": "2026-11-27T12:40:33.999349+00:00",
+          "returns_pct": {
+            "BTC": -0.3534,
+            "ETH": -0.4068,
+            "SOL": -0.3347
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9651,
+            "ETH": 59.9644,
+            "SOL": 59.9657
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
@@ -9109,6 +9232,19 @@
             "change_pct": 0.3055,
             "benchmark_return_pct": 0.1352,
             "excess_return_pct": 0.1703
+          },
+          "240": {
+            "price": 1720.075,
+            "observed_at": "2026-11-27T12:40:33.375951+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.4759,
+            "benchmark_return_pct": -0.3236,
+            "excess_return_pct": -0.1523
           }
         },
         "benchmark_asset": "BTC",
