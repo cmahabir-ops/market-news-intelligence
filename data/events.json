@@ -1,5 +1,281 @@
 [
   {
+    "id": "97f6deb382106eef1e5b",
+    "title": "Gold Suffers Worst 60-Day Loss Since the 1980s. Bitcoin’s Collapse Exposes an Even Bigger Problem. - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaXp2SlB4bDBLLXhuazFpTVM3cGpHemtmejVWTGxuY21EMno4UG9lQ0tPdjNWcXJ3TEo5ZC01YU8xMXlsQnVPN1lER19tdC1hVmxESjIxU2VCY2JVUGJaM0hnWHpEcGhfTWVnYlB3b0hsRE1Hbjd2UTVLeVo4WHVrSldkV0d2cWZrMnByNFZiU05hckFVb29qb2ltbF9INEVKRkN0cUt6ZkpJYTd0Um51RVlGOERrWU43N1JIcGdZaVR2U0tHSnlxNnhQSkVEX1RzalU5cFlB?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T17:05:00+00:00",
+    "detected_at": "2026-11-27T17:10:25.554577+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 5.43,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59860.84,
+          "observed_at": "2026-11-27T17:10:27.414160+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1667.99,
+          "observed_at": "2026-11-27T17:10:27.710491+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.935,
+          "observed_at": "2026-11-27T17:10:28.609851+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59860.84,
+          "observed_at": "2026-11-27T17:10:27.414160+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "93e07baa038a70ac95f3",
+    "title": "Russia's VTB Opens Bitcoin Trading After Crypto Test Rules - Bitcoin Magazine",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hdTlKSjE4Q0NveXJDcUVSaVFSb2hwU3VBWEhtNXJOa2FWSDJWXzlTZnN2LXpDLTRjSDE3RDc2cmhyRTdrV0lFeWN6eENPUU12eEFjb0x2Zkgwa0trSzN4RkJDMTNqTVlWam9JTS1sYVkyeGVmQnIzNWd2MA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T17:06:12+00:00",
+    "detected_at": "2026-11-27T17:10:25.552383+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 4.2,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 4.23,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59860.84,
+          "observed_at": "2026-11-27T17:10:27.414160+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1667.99,
+          "observed_at": "2026-11-27T17:10:27.710491+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.935,
+          "observed_at": "2026-11-27T17:10:28.609851+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59860.84,
+          "observed_at": "2026-11-27T17:10:27.414160+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "322fdf159d7cf0e6dfc4",
+    "title": "Dow Jumps 500 Points After Thanksgiving as AI Stock Rebound, Black Friday Lift Market - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BWHI1b045UkYtYnFSLUxHQmFiR0RSbnVPQzNYR2dEbTlJX1NEc0ZVUndNTXZkMkY1UGwybk9fVmZ5dFIzekRDVUpQa1NIS0ZSWmN4UXBLd216aGkzbU54SUgtT1A0MU9NalZZc2UtblJid0dyUFE?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T15:55:00+00:00",
+    "detected_at": "2026-11-27T17:10:25.097575+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 75.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 75.42,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "19206c2a881af42f9e91",
     "title": "Ethereum leads way as large cryptocurrencies fall - MarketWatch",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObC1OV0Y4dzdnNVRRQlVULWpGWkdPWVVhSk9HX001cjZ6dDhON1hyYldsRXNFRlRxRnV3VndTTE5RQ0stWTFMZnQ4QW5BOFdQMFNydnE4Y0VFRkdlRUhwNzZMRmFEX1hDLVE4b0x3bDhkMnZSUGRTR2piTXpXTlpGajJoNXBLRDlyU29JWGx0TGtlNVBNT3dzaGpnbTItUGF0WEU2NXNhUWJUaVFlSEE?oc=5",
@@ -361,7 +637,21 @@
           "valid_for_reaction": true,
           "freshness": "recent"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 107.445,
+            "observed_at": "2026-11-27T17:10:27.461844+00:00",
+            "quote_at": "2026-11-27T17:10:24+00:00",
+            "source": "Yahoo Finance chart indicative USD",
+            "currency": "USD",
+            "session": "regular_candidate",
+            "valid_for_reaction": true,
+            "freshness": "recent",
+            "change_pct": -0.5139,
+            "benchmark_return_pct": -0.1212,
+            "excess_return_pct": -0.3927
+          }
+        },
         "benchmark_asset": "SPY",
         "benchmark_baseline": {
           "price": 727.15,
@@ -525,7 +815,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59860.84,
+            "observed_at": "2026-11-27T17:10:27.414160+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3455
+          }
+        }
       }
     }
   },
@@ -679,7 +981,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59860.84,
+            "observed_at": "2026-11-27T17:10:27.414160+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3455
+          }
+        }
       }
     },
     "alert_delivered_at": "2026-11-27T16:50:48.768500+00:00",
@@ -866,7 +1180,21 @@
           "valid_for_reaction": true,
           "freshness": "recent"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 148.84,
+            "observed_at": "2026-11-27T17:10:28.029696+00:00",
+            "quote_at": "2026-11-27T17:10:27+00:00",
+            "source": "Yahoo Finance chart indicative USD",
+            "currency": "USD",
+            "session": "regular_candidate",
+            "valid_for_reaction": true,
+            "freshness": "recent",
+            "change_pct": -0.1931,
+            "benchmark_return_pct": -0.1653,
+            "excess_return_pct": -0.0278
+          }
+        },
         "benchmark_asset": "QQQ",
         "benchmark_baseline": {
           "price": 647.36,
