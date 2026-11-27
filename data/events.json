@@ -1,5 +1,118 @@
 [
   {
+    "id": "37f30af9fa7928498683",
+    "title": "Crypto Market Pulse: Markets pause for Thanksgiving ahead of $7 billion Bitcoin options expiry - www.tmgm.com",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOS1o1RlNJc2thdWxfRlgtblI3RTZSZFBLbTMzX2twbzF1OGt0NHNIZloxR2dQTzhnZTVOa1UtOGI4Mkc0RzdWejZHeXQ2R25YZl9sa2Y4dWVMWkVqcmVReTFTdTh1VldYNVRoUUhpcW01d3VreDV1dzhtUE00eDBZSGVqSWJIVFFEakoxOFhSd0loOGZZcWdJZDdmdU44bEgxLURHdWVDZGE1enVneXpaUnBqejAwUS1SZFU5aWZtZnl0dGV2RHBNTVN4WVZjR3JEVmtJdHhRcXg5bF9VQWdsNTRfcXB5OUJtWmZUbEhZdGlpZw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-26T18:14:03+00:00",
+    "detected_at": "2026-11-27T02:05:29.803103+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 471.4,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 471.45,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60716.005,
+          "observed_at": "2026-11-27T02:05:30.584032+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1698.52,
+          "observed_at": "2026-11-27T02:05:30.721642+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.5,
+          "observed_at": "2026-11-27T02:05:30.923420+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60716.005,
+          "observed_at": "2026-11-27T02:05:30.584032+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "e0f96c6094f33d9a3df7",
     "title": "Ahead of Market: 10 things that will decide stock market action on Friday - The Economic Times",
     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaklwV19lVzNMNEJnMHZFa3Q3bHg2UExWOF9DcE1xck4yWDhpTG1reVExdU44Y0Q3eklxbXp6OTlUMTAtSTFNS2s0YnE1ckZMZUZQZUhya3hnX2VMRGUycnotUUVEOUZjdkY3MkNoQlktc3JHYVh0TnFaTVVXN0VxTDVfZHotNEJycFlFSG9PaGxQZGtndTdJRVk4Z09qTk5TdFYxY3RfQUtHRDlqQkRjRThjcDkzSm14cTZTS1FPRk9TRTRmckFtQ1ZmeDJFZ2FGR2NHdU55R2JmOTYyYU91aWhIWUNhZXhBYXdN0gHkAUFVX3lxTE9RSU1Rb1VURzlleHZzaWQyajNBampRQVR1U1RMbk5lNlY1aXhBdGJpakhKNTdlQ2JKRnZBdExjdnhoZjFDN2dsUXMwR1FBMnB3aFJIMzdxYU5oRWpfV1poc1ZkUXQ4RjFrUWJGRGRpanJ3cERDV3g3Y0xHV2syYnpiUDFMODNDNEZ4QmFmNHJQRVdNRTJfNEM0OEx6TU5IWG5EaDJoQlVLREUtQThZVks2Q2VKOTNBU3FMQVlLTFI3VEpFY2hpdHVNWGNNb1huUTlMMEk2YlNFM3ZYbi00eXNWTlNENQ?oc=5",
@@ -890,6 +1003,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.1475
+          },
+          "60": {
+            "price": 60716.005,
+            "observed_at": "2026-11-27T02:05:30.584032+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1717
           }
         }
       }
