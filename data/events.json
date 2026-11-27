@@ -1,5 +1,57 @@
 [
   {
+    "id": "bf5e881385437554a486",
+    "title": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Wall Street Returns to Wrap Up Holiday-Shortened Week — SPCX, PANW, HPQ In Focus - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNUE5ocER2Nk5tX251NmNuaEFJcEVBQzk4WmNwRlB5TzBvTEk1QTdBbUpjZC1XdVdrT3Q1R2NfTUhiOVI0V2xoWXA2M1oyazVjdU1oanNreGhQVEtzc3hYWkJpT2RaU2xRSVF0OXQzZGtRc081cDlNVFIyeDAzYW0tNERMV2hFYVhyMEZBZWh1eGI4X2d6dVBLRmVKYVh5eDJnTjA5Y21vYXRJaDhFY0l6eFQ5Y3BGaVF1bDVOM0xsWU9OODFfNTk2RnVES2hQVHp1RXdienZtVndNMEZ5UmF0RlRjY2VSdmt6bXRWLW1WU05RZ3VlUUpCaC03UE9EaVZWR0RKSHc3STZKNm1kNVJHRjEtdE51TjZ2cDlNdU1B?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T10:43:10+00:00",
+    "detected_at": "2026-11-27T18:35:24.767280+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 472.2,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 472.25,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "561f8b4a603ddc4d2503",
     "title": "AI Investment Return Doubts Mount as US Equity Funds Bleed $30.57 Billion in a Week, Highest in Nearly Three Months - BigGo Finance",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aNGN4QTIxdHExbnQ3M2tHUHlQUGpfdkN5MmRDWTBPbDI5NEZkbFRUNm9tSl9aR1VpUm9aSFVpdFgzZTg3cTZLeExKYkRfU3pVYzZOQ2l6bE10VUlwYTZsQ1JUWjZCQW1nVXdId2ZESVZ4b1Qzd3c?oc=5",
@@ -268,6 +320,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.98,
+          "observed_at": "2026-11-27T18:35:30.320541+00:00",
+          "returns_pct": {
+            "BTC": -0.063,
+            "ETH": -0.1235,
+            "SOL": 0.0209
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.958,
+            "ETH": 14.9576,
+            "SOL": 14.9548
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -400,6 +472,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 0,
           "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.98,
+          "observed_at": "2026-11-27T18:35:30.320620+00:00",
+          "returns_pct": {
+            "BTC": -0.063,
+            "ETH": -0.1235,
+            "SOL": 0.0209
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.958,
+            "ETH": 14.9576,
+            "SOL": 14.9548
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -1498,6 +1590,22 @@
           "positive_assets": 0,
           "negative_assets": 4,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.94,
+          "observed_at": "2026-11-27T18:35:30.320689+00:00",
+          "returns_pct": {
+            "BTC": 0.1908
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9186
+          },
+          "benchmark": "QQQ",
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1727,6 +1835,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 0,
           "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.94,
+          "observed_at": "2026-11-27T18:35:30.320707+00:00",
+          "returns_pct": {
+            "BTC": 0.1908,
+            "ETH": -0.0114,
+            "SOL": -0.1461
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9186,
+            "ETH": 59.9212,
+            "SOL": 59.9273
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -9874,6 +10002,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -1.5045
+          },
+          "240": {
+            "price": 59784.745,
+            "observed_at": "2026-11-27T18:35:28.840044+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -1.5811
           }
         }
       }
@@ -10070,6 +10209,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -2.3181
+          },
+          "240": {
+            "price": 59784.745,
+            "observed_at": "2026-11-27T18:35:28.840044+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -2.297
           }
         }
       }
@@ -10269,6 +10419,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -2.3181
+          },
+          "240": {
+            "price": 59784.745,
+            "observed_at": "2026-11-27T18:35:28.840044+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -2.297
           }
         }
       }
