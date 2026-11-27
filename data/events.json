@@ -1,5 +1,360 @@
 [
   {
+    "id": "e79c264e55b75a3e67e6",
+    "title": "Bitcoin falls below $60,000 after Nvidia chips found in China - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11ZC1kdkM1UjVFRHRnVlIzdEdnSGpNOVF6T1F3Y2YyZ1dwT1ZqMVBGdlItQS1vOWNrdXpRNUhhQ3FfdVM0Ni1qaWhjTWNaaUcwV1Btb1pUbl8?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T21:01:28+00:00",
+    "detected_at": "2026-11-27T21:20:26.466643+00:00",
+    "assets": [
+      "BTC",
+      "NVDA"
+    ],
+    "market": "Both",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "NVDA"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "NVDA": "Stocks"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 19.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 18.97,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-27T21:20:30.340724+00:00",
+    "alert_last_attempt_at": "2026-11-27T21:20:30.340738+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "bcb6a716a5a2341396c7",
+    "title": "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPai1NbHg0ZlptLVRkMloyUGZUSldzTVZYQ1NfYTc0N3k3YVJIRFpFNWFRUDFkM2duLWlOdVlMTzU0V3ZuQWlNbVlzRjZGbGg0THB3Ymp0Wldicm9ySmVHYjk1d1lvaVVqMmczazdSZlRZM1FSaG5YTzQwWndMaUgwdXZXd3Y4dw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T20:46:02+00:00",
+    "detected_at": "2026-11-27T21:20:26.465746+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 34.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 34.41,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59794.665,
+          "observed_at": "2026-11-27T21:20:28.711684+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1666.56,
+          "observed_at": "2026-11-27T21:20:28.909643+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.87,
+          "observed_at": "2026-11-27T21:20:29.329801+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59794.665,
+          "observed_at": "2026-11-27T21:20:28.711684+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "e94e5998c583e695aa25",
+    "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KVjhqazUxdVl3cE40WEN4R0lNRUxNdTVfLTNLRVREM2FKVWxhekw5NzR5NkE2WWpTN3JaZmZKNE5MUEZpZEtIQk9lTW85WmdXTVZtWW5KMWs?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T21:17:28+00:00",
+    "detected_at": "2026-11-27T21:20:26.464025+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 3.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 2.97,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59794.665,
+          "observed_at": "2026-11-27T21:20:28.711684+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1666.56,
+          "observed_at": "2026-11-27T21:20:28.909643+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.87,
+          "observed_at": "2026-11-27T21:20:29.329801+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59794.665,
+          "observed_at": "2026-11-27T21:20:28.711684+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "f4a9f671a461e829c29b",
+    "title": "No Black Friday in Crypto: Bitcoin (BTC), Solana (SOL), XRP Rise as $170 Million in Shorts Get Wiped Out - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMeElvRlA5N0NWZXBPMUFJaHdGelVRc2hvUmhsejNNSEFNQzZlQmtBV1U3b1VsZ0cybzdrWnM3WWZ1Vjg1WVFKa0VHaEYyOV9ZZHNvcHFvZm9nYnc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T21:17:28+00:00",
+    "detected_at": "2026-11-27T21:20:26.463380+00:00",
+    "assets": [
+      "BTC",
+      "SOL",
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "SOL",
+      "XRP"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "SOL": "Crypto",
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 3.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 2.97,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-27T21:20:30.697428+00:00",
+    "alert_last_attempt_at": "2026-11-27T21:20:30.697476+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "8e71df62052cab9cec5b",
     "title": "Why Qualys stock is trading up today - TradingView",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeV9ZZnZSb2tneWZfSTI1TXRZX2FQa3BOZjRoRHhDR19fdmZmMzlBRmp0cFpMZUdwM2dYdjRONjFPaVFWdG9xcGtFRWg1ZHBvOHVXWXJxQllEMUI1SzR2UjVJNGV4djhsUTA2UXdQSlE1c1VWQ2lvZW1VQnctZ2J0YmRTeU5zN2ZpWm00RzFuNFI1ODA2SEJXeG1WZkJ4QQ?oc=5",
@@ -163,6 +518,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 3,
           "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.9,
+          "observed_at": "2026-11-27T21:20:29.552488+00:00",
+          "returns_pct": {
+            "BTC": 0.14,
+            "ETH": 0.1189,
+            "SOL": -0.0834
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.8859,
+            "ETH": 14.8862,
+            "SOL": 14.8895
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -1623,6 +1998,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.06,
+          "observed_at": "2026-11-27T21:20:29.552577+00:00",
+          "returns_pct": {
+            "BTC": 0.1152,
+            "ETH": 0.0117,
+            "SOL": -0.1251
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0441,
+            "ETH": 60.0425,
+            "SOL": 60.0412
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1650,6 +2045,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0098
+          },
+          "60": {
+            "price": 59794.665,
+            "observed_at": "2026-11-27T21:20:28.711684+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1152
           }
         }
       }
@@ -1789,6 +2195,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.06,
+          "observed_at": "2026-11-27T21:20:29.552596+00:00",
+          "returns_pct": {
+            "BTC": 0.1152,
+            "ETH": 0.0117,
+            "SOL": -0.1251
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0441,
+            "ETH": 60.0425,
+            "SOL": 60.0412
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1816,6 +2242,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0098
+          },
+          "60": {
+            "price": 59794.665,
+            "observed_at": "2026-11-27T21:20:28.711684+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1152
           }
         }
       }
@@ -8502,6 +8939,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1682
+          },
+          "240": {
+            "price": 59794.665,
+            "observed_at": "2026-11-27T21:20:28.711684+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.2145
           }
         }
       }
