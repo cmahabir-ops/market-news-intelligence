@@ -1,5 +1,108 @@
 [
   {
+    "id": "755085739c02feb72345",
+    "title": "Nasdaq and S&P 500 post best Thanksgiving week since 2008 as AI stocks rally - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQbklFbzk5Q0RRbDFudGxCU2l3bmFjS2RPWjZkY09OZ3V4eTFPTHFGS1hYMFdvNXJtNEJ0SW4xNHNqVWxwTnhJeVJwOVdJX3I2VnFHZkVHTVp5OXAtS0F6ZlloWUtVemdVdG9wSkdkMVQ3bXRLRm9V?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T20:31:00+00:00",
+    "detected_at": "2026-11-27T21:50:29.632190+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 79.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 79.49,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "c739a6328ea4d9104fea",
+    "title": "Anthropic faces its first major share unlock as 303 million shares become sellable December 15 - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1QWNPVXJvVEowRHF2N0RuNDdjX3RtVUR0TFI1OWs2MEZULTJUMnRTV2ZBbzYxZVlMOXhobERlRWtzWnFEYm9DbTFKcGpOdUhubzN1UkExMmlMcUdFaTM4V0p4b3NfTVFjeGg1QTdhWV9vZ3Y5NkE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T21:41:58+00:00",
+    "detected_at": "2026-11-27T21:50:29.631528+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 8.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 8.53,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "56de5366bd6158d298c8",
     "title": "What Could $100 a Month in Ethereum Be Worth in 5 Years? - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ3JwYXhTeUx6SjBPNHZjdzhLTlc1MXMtNVVDV250UXpaZENzY09NdTZfdkxzeXZxY1R4NFhMc3lDZmM3dl9MYUhDOHUxSXpoLTRpNVUzZWEyWmlUc3FCWlhsSTBreHcwN1JLQUhoRmNib2JoT2YwX1M3el9NYXYyTzZFVWxJb0V4YVk1SVN4S2lwVEp2Rm43Vk1nOXRvalk4dkExanFBMW11RjhHT0tENHFRaw?oc=5",
@@ -92,7 +195,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.92,
+          "observed_at": "2026-11-27T21:50:31.036224+00:00",
+          "returns_pct": {
+            "ETH": -0.1103,
+            "BTC": -0.0576,
+            "SOL": -0.007
+          },
+          "asset_elapsed_min": {
+            "ETH": 4.9115,
+            "BTC": 4.9125,
+            "SOL": 4.9065
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0527,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -419,6 +543,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.03,
+          "observed_at": "2026-11-27T21:50:31.036314+00:00",
+          "returns_pct": {
+            "BTC": -0.0159,
+            "ETH": -0.0634,
+            "SOL": 0.0835
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0229,
+            "ETH": 15.0227,
+            "SOL": 15.0158
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -435,7 +579,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59718.885,
+            "observed_at": "2026-11-27T21:50:30.509420+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0159
+          }
+        }
       }
     }
   },
