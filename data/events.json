@@ -92,7 +92,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.21,
+          "observed_at": "2026-11-27T14:40:38.550912+00:00",
+          "returns_pct": {
+            "BTC": -0.9793,
+            "ETH": -0.6359,
+            "SOL": -0.5686
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.196,
+            "ETH": 5.198,
+            "SOL": 5.1999
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -461,9 +482,9 @@
         "followups": {},
         "benchmark_asset": "SPY",
         "benchmark_baseline": {
-          "price": 723.06,
-          "observed_at": "2026-11-27T14:35:26.211104+00:00",
-          "quote_at": "2026-11-27T14:35:22+00:00",
+          "price": 722.07,
+          "observed_at": "2026-11-27T14:40:38.222891+00:00",
+          "quote_at": "2026-11-27T14:40:37+00:00",
           "source": "Yahoo Finance chart indicative USD",
           "currency": "USD",
           "session": "regular_candidate",
@@ -1899,6 +1920,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.01,
+          "observed_at": "2026-11-27T14:40:38.551050+00:00",
+          "returns_pct": {
+            "BTC": -1.9562,
+            "ETH": -1.7055,
+            "SOL": -2.0291
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.99,
+            "ETH": 59.9915,
+            "SOL": 59.9924
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1926,6 +1967,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0657
+          },
+          "60": {
+            "price": 60150.315,
+            "observed_at": "2026-11-27T14:40:37.557169+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -1.9562
           }
         }
       }
@@ -4625,9 +4677,9 @@
         "followups": {},
         "benchmark_asset": "QQQ",
         "benchmark_baseline": {
-          "price": 640.72,
-          "observed_at": "2026-11-27T14:35:26.072013+00:00",
-          "quote_at": "2026-11-27T14:35:24+00:00",
+          "price": 639.132,
+          "observed_at": "2026-11-27T14:40:38.090476+00:00",
+          "quote_at": "2026-11-27T14:40:32+00:00",
           "source": "Yahoo Finance chart indicative USD",
           "currency": "USD",
           "session": "regular_candidate",
@@ -5041,9 +5093,9 @@
         "followups": {},
         "benchmark_asset": "SPY",
         "benchmark_baseline": {
-          "price": 723.06,
-          "observed_at": "2026-11-27T14:35:26.211104+00:00",
-          "quote_at": "2026-11-27T14:35:22+00:00",
+          "price": 722.07,
+          "observed_at": "2026-11-27T14:40:38.222891+00:00",
+          "quote_at": "2026-11-27T14:40:37+00:00",
           "source": "Yahoo Finance chart indicative USD",
           "currency": "USD",
           "session": "regular_candidate",
@@ -6408,9 +6460,9 @@
         "followups": {},
         "benchmark_asset": "QQQ",
         "benchmark_baseline": {
-          "price": 640.72,
-          "observed_at": "2026-11-27T14:35:26.072013+00:00",
-          "quote_at": "2026-11-27T14:35:24+00:00",
+          "price": 639.132,
+          "observed_at": "2026-11-27T14:40:38.090476+00:00",
+          "quote_at": "2026-11-27T14:40:32+00:00",
           "source": "Yahoo Finance chart indicative USD",
           "currency": "USD",
           "session": "regular_candidate",
@@ -13968,9 +14020,9 @@
         "followups": {},
         "benchmark_asset": "QQQ",
         "benchmark_baseline": {
-          "price": 640.72,
-          "observed_at": "2026-11-27T14:35:26.072013+00:00",
-          "quote_at": "2026-11-27T14:35:24+00:00",
+          "price": 639.132,
+          "observed_at": "2026-11-27T14:40:38.090476+00:00",
+          "quote_at": "2026-11-27T14:40:32+00:00",
           "source": "Yahoo Finance chart indicative USD",
           "currency": "USD",
           "session": "regular_candidate",
@@ -20513,9 +20565,9 @@
         "followups": {},
         "benchmark_asset": "QQQ",
         "benchmark_baseline": {
-          "price": 640.72,
-          "observed_at": "2026-11-27T14:35:26.072013+00:00",
-          "quote_at": "2026-11-27T14:35:24+00:00",
+          "price": 639.132,
+          "observed_at": "2026-11-27T14:40:38.090476+00:00",
+          "quote_at": "2026-11-27T14:40:32+00:00",
           "source": "Yahoo Finance chart indicative USD",
           "currency": "USD",
           "session": "regular_candidate",
@@ -20679,9 +20731,9 @@
         "followups": {},
         "benchmark_asset": "SPY",
         "benchmark_baseline": {
-          "price": 723.06,
-          "observed_at": "2026-11-27T14:35:26.211104+00:00",
-          "quote_at": "2026-11-27T14:35:22+00:00",
+          "price": 722.07,
+          "observed_at": "2026-11-27T14:40:38.222891+00:00",
+          "quote_at": "2026-11-27T14:40:37+00:00",
           "source": "Yahoo Finance chart indicative USD",
           "currency": "USD",
           "session": "regular_candidate",
@@ -30349,9 +30401,9 @@
         "followups": {},
         "benchmark_asset": "SPY",
         "benchmark_baseline": {
-          "price": 723.06,
-          "observed_at": "2026-11-27T14:35:26.211104+00:00",
-          "quote_at": "2026-11-27T14:35:22+00:00",
+          "price": 722.07,
+          "observed_at": "2026-11-27T14:40:38.222891+00:00",
+          "quote_at": "2026-11-27T14:40:37+00:00",
           "source": "Yahoo Finance chart indicative USD",
           "currency": "USD",
           "session": "regular_candidate",
