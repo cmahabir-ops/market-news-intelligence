@@ -1,5 +1,232 @@
 [
   {
+    "id": "173680aad8fc18849013",
+    "title": "Japan’s JPCrypto-ISAC partners with SEAL to strengthen crypto hack detection, incident response - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hZ0J1Vzl3dEU4ckxQVjAzSE1jUXdkYlNBbkZlcFdEQkFFN0o3TXVnNXc5cVFZRDdBdkMzc2s0cFJjZUg3cEMxd2lVN2gzVThkN3dFbVlhc2VEZUwwci1ibDkwQTdrRC1wY2Rr?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T06:58:00+00:00",
+    "detected_at": "2026-11-27T07:05:26.176759+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 7.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 7.44,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "8a151c4274f62bbc08d7",
+    "title": "Ethereum Whales Make Their Move With $91 Million in ETH Acquisitions - Kriptofoni",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Hb0kxZUJlRVlUSlRfdV9GVnRLYmNfVnVYSHdaSWJITUhubG1YZUdncUdGc0RJVmwyZGtEV1RkSm9qZzlsNkI5ZU5PbXBwVGpjMGFTcUlFMkdRaVFwRUE0b0NRZ2NCY3ZOSEIwM1BsbzZQWklUaWxDSGMyM2FET0k?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T06:04:00+00:00",
+    "detected_at": "2026-11-27T07:05:26.174663+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 61.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 61.44,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1733.14,
+          "observed_at": "2026-11-27T07:05:27.476445+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 61676.565,
+          "observed_at": "2026-11-27T07:05:27.316391+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 72.995,
+          "observed_at": "2026-11-27T07:05:27.734686+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1733.14,
+          "observed_at": "2026-11-27T07:05:27.476445+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 61676.565,
+          "observed_at": "2026-11-27T07:05:27.316391+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "616b4bbb8a25352ead78",
+    "title": "Cryptocurrency Exchange Upbit Announces Adding Three New Crypto Assets to its Spot Trading Platform - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wNTdXQUFjZGlPM2JXeGNVaG9vLVdLS2lTVm0wRXcwMVctVGdyVzMtRllHUzNnSkxQZEs5Z2toQXBoYVV2MXZ4Tm5QeHhiYnRLMUdCWGVWMA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T06:44:50+00:00",
+    "detected_at": "2026-11-27T07:05:26.174163+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 20.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 20.6,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "c9147e097a891ffbb88e",
     "title": "Bitcoin Faces Massive $6.8B Options Expiry Today: What Does it Mean for BTC’s Price? - CryptoPotato",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYXZsVEhuQVNGaUFJTmxNdWdYM1NXenkyc2JNZ1hzckwzUGc0dE04MDh5UHJiT2h3MUF2ZFZ2NXh0SlhSRk1FZ1hRMEkyTWxhUDZGLTRSdXV0elZlUjROU3d4QzJRRS1zZk1tejdZRlR5ZjNMdE45Z2lzN2xnb1VRVzVNbVo1UDFEd1ZtNFdpWi0zeElZblB1eFlJdkNLbFNRQzJQRVpHSVkydw?oc=5",
@@ -92,7 +319,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.82,
+          "observed_at": "2026-11-27T07:05:27.878502+00:00",
+          "returns_pct": {
+            "BTC": 0.1207,
+            "ETH": 0.0849,
+            "SOL": 0.0823
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.8093,
+            "ETH": 4.8103,
+            "SOL": 4.8107
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -270,6 +518,26 @@
             "BTC": 4.8973,
             "ETH": 4.8961,
             "SOL": 4.8947
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.88,
+          "observed_at": "2026-11-27T07:05:27.878549+00:00",
+          "returns_pct": {
+            "BTC": 0.1409,
+            "ETH": 0.1407,
+            "SOL": 0.1029
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.8714,
+            "ETH": 14.8704,
+            "SOL": 14.8706
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
@@ -842,6 +1110,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 2,
           "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.98,
+          "observed_at": "2026-11-27T07:05:27.878603+00:00",
+          "returns_pct": {
+            "BTC": -0.0334,
+            "ETH": -0.3072,
+            "SOL": 0.0343
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9749,
+            "ETH": 59.9754,
+            "SOL": 59.9765
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
