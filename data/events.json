@@ -1,5 +1,161 @@
 [
   {
+    "id": "995f9136891771fd4da3",
+    "title": "Tesla Stock Premarket Today: TSLA Rises 2% Ahead Of Black Friday Half-Day - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUVBtRVVLZVF1UHcwbWZwUV8ydlJYZFk5X0tDSkhKRGdyLVFha1EzOFI1ZVJsUzhoY0NXRTU5R1ZNaTJ5T1Z0N0NjMnVMNzlGblcyRXQ4aG1nQTB0N2VaTzVESEhhWnViYXhtenV1T0c3a2pqWGxKdnd0T0h5UjIwRjF5Qk51YjZVNnV6NDV2SFVMay15aU0yOE5SNXNFaGRJU0F4cjFVbll3LTA1d2xoQdIBtgFBVV95cUxOOWNIVDhfQ2Y2UjR6clpLSTBpTU42cnRXaW1hZXQyVGZMUGpGOVBCNW5GNVBLVDlpamJzQXFEOXJQQWhNUUZuVm9ULWNoeVBlYW5aaGVsdWhHdC1kN2dwMUh2bldVbm9hQm56Qm5yTHNTNHYtbmZjR0xVLUxBZzZZSElDcWFvMDVlNGMtVm5JNHc1bFd5TDVMVzFzekhQUmhEVWxMbFhfdnEwQWlZQU5vUDc4SXZrUQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T11:44:26+00:00",
+    "detected_at": "2026-11-27T14:25:34.431942+00:00",
+    "assets": [
+      "TSLA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "TSLA",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "TSLA": "Stocks"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 161.1,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 161.14,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "TSLA",
+        "QQQ",
+        "SPY"
+      ],
+      "status": "awaiting_baseline",
+      "baseline": {},
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "TSLA": {
+        "baseline": {
+          "price": 380.14,
+          "observed_at": "2026-11-27T14:25:35.588879+00:00",
+          "quote_at": "2026-11-25T21:00:02+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        },
+        "followups": {},
+        "benchmark_asset": "SPY",
+        "benchmark_baseline": {
+          "price": 716.7,
+          "observed_at": "2026-11-27T14:25:35.573877+00:00",
+          "quote_at": "2026-11-25T21:00:00+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        }
+      }
+    }
+  },
+  {
+    "id": "519aab090e2eaeff3269",
+    "title": "Bitcoin and Ethereum supply growth stays below 1% through 2026 - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSEllcF9tZEcwSWdDMVEzZ1hTOHdoU0hvOGxsYm5ycmE2NTRrWVE3bW0xYTRBRGdVRFBpcERRVmZEemdpb2t0aUZYTzMzYzNLelpIb0J2Z3V4OG5fTGFKcFJkaVpSLVp0QWkxOVNUUmdINGxiWW02aTRxZkNaT3lkc0h3?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T14:22:49+00:00",
+    "detected_at": "2026-11-27T14:25:34.430158+00:00",
+    "assets": [
+      "BTC",
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 2.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 2.76,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-27T14:25:36.072572+00:00",
+    "alert_last_attempt_at": "2026-11-27T14:25:36.072590+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "537b85e4e5f884cee536",
     "title": "Bitcoin Core Developer Traces Wallet IPs in 30 Tests for 18–34 Cents - Bitcoin Foundation",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUtTTkhKc0VnYW9ha29kdm5VZGVqUDZ2bXJVY0dYUVRZR0h5VTlKQVVnV2lIY0xKV3gwalFGaER1LWNzT2Uza2h0TU16TnVtd21IQjktOThfXy1HN2FpVTJFM0pQbW42QnpCV3J0WmYtaFlTUWpmU0tvdzVWcEVEMGlUeFRUWk00eTJxdzNxWU55bmM0bHVrdll6eHo4MUFhOTdMS2FjYmI4NmpvZjFzUQ?oc=5",
@@ -349,6 +505,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.1,
+          "observed_at": "2026-11-27T14:25:35.650368+00:00",
+          "returns_pct": {
+            "ETH": -0.1019,
+            "BTC": -0.1177,
+            "SOL": -0.2052
+          },
+          "asset_elapsed_min": {
+            "ETH": 15.0858,
+            "BTC": 15.0889,
+            "SOL": 15.0797
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0158,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -365,7 +541,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1719.725,
+            "observed_at": "2026-11-27T14:25:35.372798+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1019,
+            "benchmark_return_pct": -0.1177,
+            "excess_return_pct": 0.0158
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 61365.435,
