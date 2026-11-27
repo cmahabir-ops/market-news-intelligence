@@ -1,5 +1,226 @@
 [
   {
+    "id": "0b980a42b088803ceff5",
+    "title": "XRP Ledger Tops 8.37 Million Accounts as ETF Inflows Hit $4.07 Million - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQZ0l0VnRZNFpScVNiSGk3WXM4a2NFV2FlTlE4MFpCMnJzbEg0dTZsQUZfUUhraUVZVXRTZUZmNjZ1SXp1ZTRHblloZnhrNWVPa1BnN3dYWEIwRTdVSWdyWEF6WVZKRm53WXVUNGpZeDdNZ2c5anc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T19:05:00+00:00",
+    "detected_at": "2026-11-27T19:25:30.299680+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 4,
+    "rationale": "Headline contains potentially positive catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Potentially bullish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 20.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 20.5,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.9501,
+          "observed_at": "2026-11-27T19:25:33.598726+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59871.975,
+          "observed_at": "2026-11-27T19:25:33.015428+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1670.4,
+          "observed_at": "2026-11-27T19:25:33.148814+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.9501,
+          "observed_at": "2026-11-27T19:25:33.598726+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59871.975,
+          "observed_at": "2026-11-27T19:25:33.015428+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    },
+    "alert_delivered_at": "2026-11-27T19:25:34.196061+00:00",
+    "alert_last_attempt_at": "2026-11-27T19:25:34.196075+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "8e65198a0d5636b736e0",
+    "title": "OpenAI files countersuit against Apple for stealing trade secrets: FT - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRXFwVEdROWtQTng3a3NmV2pHUnVRUFh2V0RpOURzSmUzOUlFTGlTcEhLSnQ2NmVXU3hySkZyQ3dqeVNDaWFUalY2V0ZXMnR2am5FQ1FKaGVNSG5CaFBFNndrTElLMHhiQklqR2NaVXk2djJ6RGwtcWV5TEFyakZSeThrTFk3dHpMelk1amxNSW1mY2dVc0drRE1EcTk?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T18:33:09+00:00",
+    "detected_at": "2026-11-27T19:25:30.296073+00:00",
+    "assets": [
+      "AAPL"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "AAPL",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "AAPL": "Stocks"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 52.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 52.35,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "AAPL",
+        "XLK",
+        "QQQ",
+        "SPY"
+      ],
+      "status": "awaiting_baseline",
+      "baseline": {},
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "AAPL": {
+        "baseline": {
+          "price": 358.54,
+          "observed_at": "2026-11-27T19:25:32.848688+00:00",
+          "quote_at": "2026-11-27T18:00:01+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "regular_candidate",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        },
+        "followups": {},
+        "benchmark_asset": "QQQ",
+        "benchmark_baseline": {
+          "price": 650.99,
+          "observed_at": "2026-11-27T19:25:33.331098+00:00",
+          "quote_at": "2026-11-27T18:00:00+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "regular_candidate",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        }
+      }
+    }
+  },
+  {
     "id": "a285c22f214657a59d19",
     "title": "Strategy Plunges 44% in a Month: Could It Survive Bitcoin at $20,000? - Benzinga",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU3FycF9HYzV5X3pqRUJuQndUN2hkRnFiWGpYQlVWSXdhVE85WGpxY3Etb1JxZUg3eTNQQW5YU2JfT2d2NkpLNkpKNGhaSkRYbjg2OGV5RFYzZS1IQy1jTGJWdE5XckFIQjhjUFFuRDlCMjNNUjRfM2I3aXpHMEtHaWctbTdPX1A1NkZDSFVocnhpNUN4ZFdfRGQ0ZTQ0UDJLWmFRZF9kOTEtYU9qMkNYMlNZWHZWMlM3VnhPOVJycVktdFBS?oc=5",
@@ -92,7 +313,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.0,
+          "observed_at": "2026-11-27T19:25:33.628331+00:00",
+          "returns_pct": {
+            "BTC": -0.058,
+            "ETH": -0.1056,
+            "SOL": -0.0901
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9906,
+            "ETH": 4.99,
+            "SOL": 4.9904
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -477,6 +719,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.07,
+          "observed_at": "2026-11-27T19:25:33.628400+00:00",
+          "returns_pct": {
+            "SOL": 0.1946,
+            "BTC": 0.1349,
+            "ETH": 0.116
+          },
+          "asset_elapsed_min": {
+            "SOL": 15.0532,
+            "BTC": 15.0641,
+            "ETH": 15.0602
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0597,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -493,7 +755,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 72.075,
+            "observed_at": "2026-11-27T19:25:33.412755+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1946,
+            "benchmark_return_pct": 0.1349,
+            "excess_return_pct": 0.0597
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 59791.325,
@@ -9611,6 +9887,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.8467
+          },
+          "240": {
+            "price": 59871.975,
+            "observed_at": "2026-11-27T19:25:33.015428+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.6893
           }
         }
       }
