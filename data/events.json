@@ -1,5 +1,170 @@
 [
   {
+    "id": "a98e94547ee0c73d7074",
+    "title": "Tether Supply Shrinks $8.1 Billion as Bitcoin's Recovery Lacks Fuel - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rTm1kYk5tTVktZDZIUTlRWEVYQm1ReVFSb3FtREtxbHZaTUlHSmlWVUpBMFZ6Zl9YUnhjcHpjd3lYVEJDRk9NTlhGd2NWMExwS0NydG11YUUtTU02ZmQwTHhBbFJ3X0paN1h6dEZnaGw3aC04OEE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T07:55:00+00:00",
+    "detected_at": "2026-11-27T08:25:31.138146+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 30.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 30.52,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61887.25,
+          "observed_at": "2026-11-27T08:25:32.203184+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1736.135,
+          "observed_at": "2026-11-27T08:25:32.356550+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.375,
+          "observed_at": "2026-11-27T08:25:32.589286+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61887.25,
+          "observed_at": "2026-11-27T08:25:32.203184+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "9bacdf290212b0c28509",
+    "title": "Stock Market Today: Sensex Drops 600 Points, Nifty Near 25,750; Infosys, TCS, HCLTech Tumble - NDTV Profit",
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOMGNVeElWVjl1TGtUdU5NUFdOWVcwUlRtTG9STmNkelg5cGpIQUZhbUNySkZnbEZxVVM0WEw4V2ZiTHFqcmRzcVpMNENkOUR6VHl0dXVsOXpWZHdLR3VEYVluQ3dWR1pKSURjYVJKN1JiWVo1MEhHMExhX2VYaThmSkN3UFo0cXNtY2dYNmIyY05RTE50WGdZbzJkN0FDdFBVRWFCMFRhdW9oUXZpbHpjWHdqYUhNUnpac19CaFFhRUE5SWJuOEN5dGhvdTJzQ3c0RUx0aVM3UUlFcnlKQTljLUlXUnhQMjQ3Z2JXVzhfM3hydkFQZlFWVUxVd2dwem1YMi1VeGVqWGJCWmY0V1hF0gGXAkFVX3lxTE1uRGlqVC1pQ1VqeDVoTDlxVVRnQW9rWG5CWFZXTURBbl9XamtHaUJhS3JoQ0NWc1Q5VDZteGFxYU41cy1oc204ckI4eHJEZVphb051YUZDOU05WWhaYVJzUVBMRjM5WkpYMkZJc1RReURsUHJ0c0RIWnRzSlJCMnRZR1hOc3BabEdwLXFFeG9YNk5IZThEZldkRmJtb0hsdkRsYWprbHRaNTR2MFJIcHJTaklNYUVDY0tyd285SGhTcHRueVFIeVdRZ083MExxRUJ0Ykg4N3hoTmdidkY0SEJTX01yZURrZFpUbG9mZERRSF83LWF6U3gtV2J5RHRoeXRDWGRuUXVSYkk4YWpvOXJMRlF5Q0RUYw?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T07:18:45+00:00",
+    "detected_at": "2026-11-27T08:25:30.738713+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 66.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 66.76,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "ef7112f59ac128b26b7f",
     "title": "ESMA plans overhaul of EU MiCA crypto register by 2027 - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yZFhRbzBEM2YxYTBoOTJpSXBiUzRyNVJBN3hVYkhCaWRSTkd2dXJLSTY0UGhjRVRhVDZlRy1rbzZabWYxb1JSUmNEaFF6cEgwZS1LLXlxaTg0WjNJYVQ1VzdMM2p2UldmWmgySjF0aTZXcFdHc0E?oc=5",
@@ -821,6 +986,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.07,
+          "observed_at": "2026-11-27T08:25:32.791094+00:00",
+          "returns_pct": {
+            "BTC": 0.1626,
+            "ETH": 0.0891,
+            "SOL": 0.5964
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0594,
+            "ETH": 60.058,
+            "SOL": 60.0539
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -848,6 +1033,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.4598
+          },
+          "60": {
+            "price": 61887.25,
+            "observed_at": "2026-11-27T08:25:32.203184+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1626
           }
         }
       }
