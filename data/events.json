@@ -983,6 +983,22 @@
           "positive_assets": 1,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.81,
+          "observed_at": "2026-11-27T05:10:27.084694+00:00",
+          "returns_pct": {
+            "BTC": 0.5365
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.7998
+          },
+          "benchmark": "QQQ",
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
