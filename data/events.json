@@ -1,5 +1,118 @@
 [
   {
+    "id": "537b85e4e5f884cee536",
+    "title": "Bitcoin Core Developer Traces Wallet IPs in 30 Tests for 18–34 Cents - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUtTTkhKc0VnYW9ha29kdm5VZGVqUDZ2bXJVY0dYUVRZR0h5VTlKQVVnV2lIY0xKV3gwalFGaER1LWNzT2Uza2h0TU16TnVtd21IQjktOThfXy1HN2FpVTJFM0pQbW42QnpCV3J0WmYtaFlTUWpmU0tvdzVWcEVEMGlUeFRUWk00eTJxdzNxWU55bmM0bHVrdll6eHo4MUFhOTdMS2FjYmI4NmpvZjFzUQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T08:13:58+00:00",
+    "detected_at": "2026-11-27T14:15:33.202436+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 361.6,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 361.59,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 61399.265,
+          "observed_at": "2026-11-27T14:15:35.484802+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1722.375,
+          "observed_at": "2026-11-27T14:15:35.692897+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 73.095,
+          "observed_at": "2026-11-27T14:15:35.900443+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 61399.265,
+          "observed_at": "2026-11-27T14:15:35.484802+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "4922c8102ca8d8327feb",
     "title": "Bitrue Black Friday Enters Final Week With 60,000 USDT in Rewards - BeInCrypto",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xVFJoc2UyX3dyaHdrd1NkYWI5SGlVMm9JRDdWcWtwWmhHZ0pWdm9QWEpKTTZ5NGdCQnJkU3lWOHI5aEVWN1Btck1Vd2VjdGt3Y1gwTnM3NXBSLW5pOEdVZjhtZlBjZm1MRTVJRUpn?oc=5",
@@ -195,7 +308,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.1,
+          "observed_at": "2026-11-27T14:15:36.105185+00:00",
+          "returns_pct": {
+            "ETH": 0.052,
+            "BTC": 0.0551,
+            "SOL": -0.0137
+          },
+          "asset_elapsed_min": {
+            "ETH": 5.0912,
+            "BTC": 5.0934,
+            "SOL": 5.0856
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0031,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -2029,6 +2163,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1641
+          },
+          "60": {
+            "price": 61399.265,
+            "observed_at": "2026-11-27T14:15:35.484802+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0939
           }
         }
       }
@@ -10199,6 +10344,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0805
+          },
+          "240": {
+            "price": 61399.265,
+            "observed_at": "2026-11-27T14:15:35.484802+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3382
           }
         }
       }
