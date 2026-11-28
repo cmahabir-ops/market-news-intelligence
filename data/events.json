@@ -1,5 +1,118 @@
 [
   {
+    "id": "4a87647fe9a12263121a",
+    "title": "Telegram iPhone Warning: Durov Urges Updates to Older iOS - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWtxaFZGektGT28xSm5IaTQ2MnBvejN5WjlFc0JNbXc5c3JUeXh3cFp1bnB6RkVCV2x4RVJQTHViVEcyMzZxV2FmMkJHQ1pMdWw1WmlqeWhUbmwyQl8yZzY3T2tKSy1pMTZ6TFY5XzNZaHhNaFBZLVJMLUl6eHpXZXRxbmcxMXJtMWJRN1oySHZBWXVNTXJOVDM0bllodTIxcmNZc3pwR2JFLVBLbXdUbEIwckxoR09u?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T23:50:00+00:00",
+    "detected_at": "2026-11-28T08:50:33.362234+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 540.6,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 540.56,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59474.855,
+          "observed_at": "2026-11-28T08:50:34.293106+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1649.805,
+          "observed_at": "2026-11-28T08:50:34.407845+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.89,
+          "observed_at": "2026-11-28T08:50:34.652760+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59474.855,
+          "observed_at": "2026-11-28T08:50:34.293106+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "24fde43502f3830795a4",
     "title": "Gold, silver prices stage stunning comeback after 15-month low: Can the rally sustain? Key levels, trading strategy - Livemint",
     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPWVU2UWxHMlRLbzkyeGxEVWxPNWhSN3NmcmpzcDhRbFVKUng3aW1aOGNSRTU4c1VMblQzV2lnRE93a19wbHFobFFYRG1COW53ekM4Z0VUa0JNQWZRUzJaWEVVam1fQUQ2ckNucUdzM0lpVFo3OGZRLWluY2pvNnlPa1ZETWJTUGEzUDFMZkNVSUw1dnZ5RlRKRlZEYmc3U2I5dU9odXdJVWdRbTRqXzk5UWhOaHl2NmthYy1JWU9FX0lnZXlHVk1VUXlzbkFKYUtMX2xuVXhTdllaRmlYbkh0V2swaFhiSVdSN091LVF4TEFfcGdSZ1ZIb2c0ZVo1YTJ1anpSTjBsQXRGOU9HTVHSAZMCQVVfeXFMT0o1bVZIWFVKcWRKMXU1TXNybVZTb2psTUlPNXQ0Y1JIekxsMHhEU184LThPekEzTW11SVVya3ZBSVA5NTZyZ2FBQW5JMFl0NGFXTGNSSmlzZjBVd25YcDV3SlZqcEd6Y2RYY05lS2hzak51V19GNHpkV0g0MVhFamVtZ09mQ2RGQk0tR1laQzRKQkxVQ1F1QTZ2RzhtLXJONlZqdzZmUFFQRzM4QVlWYklHVUdUdEQ4NFpNOHVsNVZIY0doVWZuSFZ2dkVDcDFXcTFnb09ZV3RwSWN1NzdlZUg0RGdnekxkcTBqcDJVelY2bXBtR3JTLUM5c2ZqVzdRajNMbHljSE1UTXdMYU9tN0VkTzA?oc=5",
@@ -200,7 +313,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1649.805,
+            "observed_at": "2026-11-28T08:50:34.407845+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.263,
+            "benchmark_return_pct": -0.2308,
+            "excess_return_pct": -0.0322
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 59612.435,
@@ -4859,6 +4986,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.4317
+          },
+          "240": {
+            "price": 59474.855,
+            "observed_at": "2026-11-28T08:50:34.293106+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.8182
           }
         }
       }
