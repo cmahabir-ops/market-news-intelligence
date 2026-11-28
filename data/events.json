@@ -1,5 +1,118 @@
 [
   {
+    "id": "93d5093f0187bf7b99d7",
+    "title": "VTB Turns on Bitcoin Trading for Brokerage Clients as Russia Finalizes Investor Test - Briefs Finance",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbUtlNHNzN2VWSXBDZHZKa0haX3d4VXZra1M2LURobHEzZDVIdFNHZWJEOTI5ZFl1b0R1bUlNSnRGMW1VU3BxZ19jZmhZQVBiSmoxQ3I4X25FZTlOSHoyTTFFVlRXYUNueHV1T1Z0SDk1QzN5Vm44QkpoZGNCNnFZanlldjgtTDNCRngwV3JVREhVUQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T22:58:05+00:00",
+    "detected_at": "2026-11-28T04:50:23.301012+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 352.3,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 352.31,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59965.465,
+          "observed_at": "2026-11-28T04:50:24.440829+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1662.595,
+          "observed_at": "2026-11-28T04:50:24.566651+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.585,
+          "observed_at": "2026-11-28T04:50:24.817386+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59965.465,
+          "observed_at": "2026-11-28T04:50:24.440829+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "828de9a0285a79b23e73",
     "title": "Bitcoin recovery needs USDT supply growth: CryptoQuant, K33 weighs AI threat to Bitcoin, and more - The Block",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd0xIZ1JMaXhibUhjdTllV0duVGN5WUc1MnpxNVVuR0JnZVlCdDFXRktZRzRQaG9uOWVyTlkyU3NsSzVNYk1xb1VnV25zNTR1b09rYUJfU1pQUmg4V2ZqSUdKaTZNcWtuc1J4MHNOamVjMU5WNUNiX1RuT09aQ09BYTFJUEtwa3ZEbkk5MTRwSGtTbjVueU9JT2xHNnFPMXItSnd6VWNPdEk3VkMwc2xja0xTTnhJYU5zMVdPLXZwQVk0eVJZeFE?oc=5",
@@ -93,7 +206,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.88,
+          "observed_at": "2026-11-28T04:50:25.029961+00:00",
+          "returns_pct": {
+            "BTC": 0.0321,
+            "ETH": 0.0533,
+            "SOL": 0.0979
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.873,
+            "ETH": 4.871,
+            "SOL": 4.8675
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -417,7 +551,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 0.94815,
+            "observed_at": "2026-11-28T04:50:24.972656+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1317,
+            "benchmark_return_pct": 0.0132,
+            "excess_return_pct": -0.1449
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 59957.565,
