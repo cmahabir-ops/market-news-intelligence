@@ -1,5 +1,57 @@
 [
   {
+    "id": "3425b5bb00a2aa290f18",
+    "title": "Top TSX Gainers Today (27 Nov 2026): Why Are Aclara Resources, Gold Reserve and Other Stocks Rising? - Kalkine Media",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaFcxT1BOcjhpdEtqVDBkNGFSRlJYckZ4QkotMTAtNHlFcW90bkpBSUhrelR1X2tIck1IVnJxdldEdV90dl9PaFdUZExBVVZyVndJdksyeVBXUmJ0S25PZHpYMVp5Q1VieVN0a0E4Ymo0dEJMa0VnOHExMGZLbEdtR0o5ck1uOGJZdkxfRUxFSXBvQ1FvSERYQmNVRmVVdHRndHkyc2h0NzAzZDAwWjkxYTF4NDQtSHlsYlBxRGhEZlZ5NmhnRVgxVjhfM1B5V2Etd3FGUTQwNjJlUUU?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T11:46:00+00:00",
+    "detected_at": "2026-11-28T11:35:29.500376+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 1429.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 1429.49,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "45f4bb036e61e56c2d93",
     "title": "Ripple’s RLUSD stablecoin hits record supply as XRP slips below $1 - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MXzFkWWZhTi1OeWc2NWlNd2dna0FLODNmOWgzTHQ1OWNnLVhIY1dEajZ0a0R1Vl9Sd25XdXlJdUcwTVlYQU53LWpZelNDV010MXJyeFFhbVNFSGVJZTVyYVlCcnhYNjlXWTVad1B6am9Ub0xP?oc=5",
@@ -256,6 +308,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.08,
+          "observed_at": "2026-11-28T11:35:32.206950+00:00",
+          "returns_pct": {
+            "BTC": -0.1843,
+            "ETH": -0.1729,
+            "SOL": 0.0424
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0745,
+            "ETH": 15.0735,
+            "SOL": 15.0706
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -272,7 +344,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59085.015,
+            "observed_at": "2026-11-28T11:35:31.601875+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1843
+          }
+        }
       }
     }
   },
@@ -426,7 +510,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59085.015,
+            "observed_at": "2026-11-28T11:35:31.601875+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1911
+          }
+        }
       }
     }
   },
