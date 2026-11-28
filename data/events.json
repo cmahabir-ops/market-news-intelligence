@@ -1,5 +1,169 @@
 [
   {
+    "id": "666cb979025caec37eea",
+    "title": "Bitcoin sentiment sinks as investors question crypto’s diversification case - Traders Union",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1h5ajBYZTZYa3p5Z0ZtVFROSDRsUmp4VXlmbUdIVjdmbjhKNUx2TVh4ZkRoRlk3cmZQajZkQkFpMnJKbzNVRU1GdzRMZzRPZENFQ040ZGY5MWcwU0M2c3JOTDA1RlRfRHQtak1FQWVjdThaZHJEcXh5b1lFTUYwMXJxa1BiNlpDWXNsUmNtc3k0TUdPR1BVYWpuUnpjc2x5Vy04dDRtbFQ3WHc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T13:09:23+00:00",
+    "detected_at": "2026-11-28T13:15:31.908808+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 6.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 6.15,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59176.995,
+          "observed_at": "2026-11-28T13:15:33.609130+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1646.795,
+          "observed_at": "2026-11-28T13:15:33.806393+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.705,
+          "observed_at": "2026-11-28T13:15:34.116770+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59176.995,
+          "observed_at": "2026-11-28T13:15:33.609130+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "e108114fa1ce9a1c1a7a",
+    "title": "CryptoMaestro(@Nrahimi017)'s insights - Binance",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rMUlVM19GdXpmOWVmeTBndEw4MVdXZnpsdU0xT3Z6enBkVm5SdWhMSjgyeWhUMlc4S0Z4YjlCR2paaE9ocThfU3RUWURhRG1vRGExY1ZmWC1JUUY3ZFZ0bHR5dXo?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T06:29:37+00:00",
+    "detected_at": "2026-11-28T13:15:31.906663+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 405.9,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 405.92,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "070794c7e80fb0b4b375",
     "title": "Ram Charan warns CEOs: no industry safe from Chinese overcapacity risks - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLUd1bnIxNHlxMkhna3dYRUZGRVRpdkFiZFQwQjY1cTdZX1JzWGV5cHNmQXNGQTR2SDlRVjFKU0xsUlppVkVYQ3ZfYkJMa20yVjNnbXI1S0g1OVFteUd3RlJfYkNnMzBhY24zS0l4aGRpS0tNU05aTDVBNVpmQll0Qmt5ZHI1X2RTcm4zcFZBVl9ETmJNZ3dtZVFIQ0c1Sm8?oc=5",
@@ -1568,6 +1732,26 @@
           "primary_excess_return_pct": 0.1216,
           "positive_assets": 1,
           "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.97,
+          "observed_at": "2026-11-28T13:15:34.379230+00:00",
+          "returns_pct": {
+            "XRP": -0.1755,
+            "BTC": -0.1074,
+            "ETH": -0.157
+          },
+          "asset_elapsed_min": {
+            "XRP": 59.9615,
+            "BTC": 59.9593,
+            "ETH": 59.9595
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0681,
+          "positive_assets": 0,
+          "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
