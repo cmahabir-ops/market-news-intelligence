@@ -217,6 +217,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.07,
+          "observed_at": "2026-11-28T15:50:32.805657+00:00",
+          "returns_pct": {
+            "BTC": 0.4729,
+            "ETH": 0.4023,
+            "SOL": 0.3837
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0531,
+            "ETH": 15.0536,
+            "SOL": 15.0539
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -233,7 +253,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59470.875,
+            "observed_at": "2026-11-28T15:50:31.992779+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.4729
+          }
+        }
       }
     },
     "alert_delivered_at": "2026-11-28T15:35:30.047232+00:00",
@@ -441,7 +473,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59470.875,
+            "observed_at": "2026-11-28T15:50:31.992779+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.3527
+          }
+        }
       }
     }
   },
@@ -1157,6 +1201,22 @@
           "positive_assets": 1,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.98,
+          "observed_at": "2026-11-28T15:50:32.805792+00:00",
+          "returns_pct": {
+            "BTC": 0.5017
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9684
+          },
+          "benchmark": "QQQ",
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1422,6 +1482,19 @@
             "change_pct": 0.1653,
             "benchmark_return_pct": 0.0195,
             "excess_return_pct": 0.1458
+          },
+          "60": {
+            "price": 0.94135,
+            "observed_at": "2026-11-28T15:50:32.693554+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.3625,
+            "benchmark_return_pct": 0.3518,
+            "excess_return_pct": 0.0107
           }
         },
         "benchmark_asset": "BTC",
@@ -6062,6 +6135,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0886
+          },
+          "240": {
+            "price": 59470.875,
+            "observed_at": "2026-11-28T15:50:31.992779+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.5953
           }
         }
       }
