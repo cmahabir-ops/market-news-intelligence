@@ -1,5 +1,119 @@
 [
   {
+    "id": "bd979b7c19e3a6408f14",
+    "title": "Plume’s US arm secures broker-dealer registration to build out onchain finance - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWV9QbTFyN2NDZFZ2RDA2UFlCWlZ3ZEM4ckc0SWN3ZE13SW5hc2Rna1FJNGgwQUVTVVhCLXZWQ0QyYjJEcHVMRy1IdDZOTkt3QnJ4T3V0cnM3bVVqa2tZdEwxWjJqMFBZd2FOUjRKNHJHSWpmZmJieUd4Ymo5VlF6a2lB?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T12:57:38+00:00",
+    "detected_at": "2026-11-28T13:00:36.914615+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 3.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 2.98,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "c1e5308a5ee358abf746",
+    "title": "Bitcoin Price Could Hit $400K by 2030, Coinbase CEO Brian Armstrong Says - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PMHpRaWp5RHFTOGtkRzVsWVFKUmNyNkl6Z254dHNHZGI3UlR5Y2VCVXhsSWRoR3l6Y25fcmhadzkwN1VpWEdLLW9mcHJXa01yMFFFSlg1bmo?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T12:56:42+00:00",
+    "detected_at": "2026-11-28T13:00:36.913382+00:00",
+    "assets": [
+      "BTC",
+      "COIN"
+    ],
+    "market": "Both",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "COIN"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "COIN": "Stocks"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 3.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 3.92,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-28T13:00:39.704593+00:00",
+    "alert_last_attempt_at": "2026-11-28T13:00:39.704608+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "e3d3c0b4d37ed59bd43f",
     "title": "Bitcoin Price Crashes Below $60K Again: Why Is BTC Struggling to Sustain Its Recovery? - Coinpedia",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVzl5bDJkM1ZpbDlNbmVQRzUzYU5lc0dBeHYxTTlLOW16SVFfZ0JlVHFJRTRfaWhuQkVxMUlxY1ZZM1VLLXhNZmhPYjluWHRsQmktbDJqZW1rdGRWbjVjSEgtUjNVUFFYRWVBOEIwdGk3VmE2WHNZb0xSTUNoVUJUanBEOFVfelQxUERNWktOeEhoQXVFSG02ZFNFUUF5VFBQR0NoWW5aZW9obVlkT2FRWlU5Q0trSkNIY2VnSzFn0gHDAUFVX3lxTE5Rc3VaMzZha19aei1UTW5xdlRzMjlvMEZvWk4xMDdUM201dUx1YUFDX0RkM3dqT2I5elh5RE9nWWY4bkVlZWs3SFFSRkhTa1V2WWlWaFFzQkh6ZDlTalhHYWJzQnQ4MzNYRHhMTGU1Ql9pa0o5aDNTQTU4Y180bTBFNDlrcURMeEFNWHNFdkR5RnhQU29pejROQ3RheDU0N3BxZ1VSa1drb1hkQ21pbnJZUTFxNzRLa3lzYXFaSFRQT0dwYw?oc=5",
@@ -92,7 +206,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.1,
+          "observed_at": "2026-11-28T13:00:39.127766+00:00",
+          "returns_pct": {
+            "BTC": -0.0739,
+            "ETH": -0.0556,
+            "SOL": -0.0212
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0849,
+            "ETH": 5.0829,
+            "SOL": 5.0766
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
