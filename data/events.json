@@ -1,5 +1,117 @@
 [
   {
+    "id": "e3d3c0b4d37ed59bd43f",
+    "title": "Bitcoin Price Crashes Below $60K Again: Why Is BTC Struggling to Sustain Its Recovery? - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVzl5bDJkM1ZpbDlNbmVQRzUzYU5lc0dBeHYxTTlLOW16SVFfZ0JlVHFJRTRfaWhuQkVxMUlxY1ZZM1VLLXhNZmhPYjluWHRsQmktbDJqZW1rdGRWbjVjSEgtUjNVUFFYRWVBOEIwdGk3VmE2WHNZb0xSTUNoVUJUanBEOFVfelQxUERNWktOeEhoQXVFSG02ZFNFUUF5VFBQR0NoWW5aZW9obVlkT2FRWlU5Q0trSkNIY2VnSzFn0gHDAUFVX3lxTE5Rc3VaMzZha19aei1UTW5xdlRzMjlvMEZvWk4xMDdUM201dUx1YUFDX0RkM3dqT2I5elh5RE9nWWY4bkVlZWs3SFFSRkhTa1V2WWlWaFFzQkh6ZDlTalhHYWJzQnQ4MzNYRHhMTGU1Ql9pa0o5aDNTQTU4Y180bTBFNDlrcURMeEFNWHNFdkR5RnhQU29pejROQ3RheDU0N3BxZ1VSa1drb1hkQ21pbnJZUTFxNzRLa3lzYXFaSFRQT0dwYw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T12:45:47+00:00",
+    "detected_at": "2026-11-28T12:55:31.015526+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 9.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 9.73,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59190.665,
+          "observed_at": "2026-11-28T12:55:33.416899+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1646.425,
+          "observed_at": "2026-11-28T12:55:33.709117+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.84,
+          "observed_at": "2026-11-28T12:55:34.345340+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59190.665,
+          "observed_at": "2026-11-28T12:55:33.416899+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "8b8bf86d4be9fafe9195",
     "title": "Perplexity expands Manhattan office footprint to 22,000 square feet - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaVAxQ3h0Xy1WcF9fMXFtNzFzbHV0ZGluaU00RS1qTmw5QzhqVjQycWdKSkpacnJsaVFoNWZVQURKS2hLaGpXSUk1a0E5Z1dEaC04R01OUFo5bkdJR0JiQU1aVERnWUJ4RVZuZ0FhLS1jTlh0NzM5T253ZUt6TlhEZFZHYmcxRDF0?oc=5",
@@ -144,7 +256,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.03,
+          "observed_at": "2026-11-28T12:55:34.900271+00:00",
+          "returns_pct": {
+            "BTC": 0.0799,
+            "ETH": 0.0565,
+            "SOL": 0.106
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0022,
+            "ETH": 5.0032,
+            "SOL": 5.0075
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -5742,6 +5875,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.0565
+          },
+          "240": {
+            "price": 59190.665,
+            "observed_at": "2026-11-28T12:55:33.416899+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.4778
           }
         }
       }
