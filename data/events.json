@@ -1,5 +1,118 @@
 [
   {
+    "id": "d08e3f14d56e6615ef96",
+    "title": "Billionaire Investor Chamath Palihapitiya Raises Bitcoin’s Zero-Dollar Scenario - Kriptofoni",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSEpTTWRPVHJuUnZfS1BPanFsSG1BNTg0bkNISmc1NU9FdHo4WVlpczRaeFFnSXJadDRJNVkzSkgtcmtodUNOOXFaZ3czSEVwMHVaZkNDUU5rLVJBS3Vhby10T19COG5xcE4wZHpFRmNMcllXajZhcTNZMVNoSjdZUWM5dEVOdTg?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T10:24:00+00:00",
+    "detected_at": "2026-11-28T18:20:27.367401+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 476.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 476.46,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59370.515,
+          "observed_at": "2026-11-28T18:20:29.780440+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1644.44,
+          "observed_at": "2026-11-28T18:20:30.041309+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.365,
+          "observed_at": "2026-11-28T18:20:30.561688+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59370.515,
+          "observed_at": "2026-11-28T18:20:29.780440+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "2446e06d33ebe1dd2eb1",
     "title": "Stacks lets institutions earn yield on Bitcoin without moving it off layer 1 - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IMUtCTVRNTXl5Q1lGMHd5VmxWUXgzRTBlVFFoMzltZU5XejVXLW1VTU85ajBRM0lwNFRLSG1oNm1MVUphNVdTWjFpRkRzd0VxOURPNnVLMmxqbE1kTTVxcm9hNURnY2sxazF5SUxaT25jb3FhSDJqLQ?oc=5",
@@ -92,7 +205,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.95,
+          "observed_at": "2026-11-28T18:20:30.842455+00:00",
+          "returns_pct": {
+            "BTC": -0.0065,
+            "ETH": 0.0508,
+            "SOL": 0.0498
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9303,
+            "ETH": 4.9313,
+            "SOL": 4.9361
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
