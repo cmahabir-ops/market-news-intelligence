@@ -1,5 +1,216 @@
 [
   {
+    "id": "90a4166394664f68b955",
+    "title": "Nvidia halts AI server shipments to Southeast Asia amid US export controls - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUl2ZVYxbEVRay0tbDc5anFxUi1ZMVNrYlJRdFBsM1oxNm1EMVU0WUlESGFfMzBRMHRWOWNiUUdaOXhSd1dwYW81MEh0X0hPbGZ5RkZwbnB6QnBRRmtxcm55TU9EN1FQSUtfT1N4R2o2R19lT0I5SlpwU0pweXdFWDlkQUFlZkR1eHpCVnc3SFN6MDVnQy1UUG9TYmVRdUN2SG42Qg?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T08:07:57+00:00",
+    "detected_at": "2026-11-28T08:10:23.607921+00:00",
+    "assets": [
+      "NVDA"
+    ],
+    "market": "Stocks",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "NVDA",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "NVDA": "Stocks"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 2.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "B",
+      "kind": "indirect_candidate",
+      "delay_min": 2.44,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "NVDA",
+        "AMD",
+        "SMH",
+        "QQQ",
+        "SPY"
+      ],
+      "status": "awaiting_baseline",
+      "baseline": {},
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "NVDA": {
+        "baseline": {
+          "price": 150.49,
+          "observed_at": "2026-11-28T08:10:26.215411+00:00",
+          "quote_at": "2026-11-27T18:00:00+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        },
+        "followups": {},
+        "benchmark_asset": "QQQ",
+        "benchmark_baseline": {
+          "price": 650.99,
+          "observed_at": "2026-11-28T08:10:26.291955+00:00",
+          "quote_at": "2026-11-27T18:00:00+00:00",
+          "source": "Yahoo Finance chart indicative USD",
+          "currency": "USD",
+          "session": "outside_regular_hours",
+          "valid_for_reaction": false,
+          "freshness": "stale_or_unverified"
+        }
+      }
+    },
+    "alert_delivered_at": "2026-11-28T08:10:27.686046+00:00",
+    "alert_last_attempt_at": "2026-11-28T08:10:27.686056+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "6676492382e40fb567a7",
+    "title": "Fidelity’s spot Bitcoin ETF records $20.8 million in net outflows - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KYm85U3dGMUozQ2lKZHk0c25qVkw0eTRRUW5sT2Q0TXV1OEpleEYyZlAxYTM0d2ZwRHJKcDZPcHd1ckRtYlgtaDVtT1NPN3p6Qkc4NVVONWtnNVZJU1dCSGs4dlowY0FKcF90TDAyMThObWNp?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T08:04:51+00:00",
+    "detected_at": "2026-11-28T08:10:23.605546+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 5.54,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59691.905,
+          "observed_at": "2026-11-28T08:10:25.709953+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1656.285,
+          "observed_at": "2026-11-28T08:10:25.973469+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.115,
+          "observed_at": "2026-11-28T08:10:26.552467+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59691.905,
+          "observed_at": "2026-11-28T08:10:25.709953+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-28T08:10:28.105176+00:00",
+    "alert_last_attempt_at": "2026-11-28T08:10:28.105185+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "be029e81a3df99196cc8",
     "title": "Gold Price Forecast: Expectations of Federal Reserve Rate Hikes Weigh on Latest Rebound - 富途牛牛",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbWItRXBlM2Rxbm1uV240NGZzdS1WNkw1b1JKWGpteGxRN1BfZVg5X2s1SmhzaTJKcEMycDFCcnFOV0tlejFuMWFUSHJGUHNPME1sd1hBWEl5ZC1GUmx2MkVfUzhfWnhXd280WlcxaDk4bjBUX3V5VnBuTUcwT1ljclJzbjdXWlRzam9IQWpoTXRFRUQ1cDU5LUktaWRWbXg5enBiUU9nMUQ1Zk01a2dsMA?oc=5",
@@ -165,6 +376,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.01,
+          "observed_at": "2026-11-28T08:10:27.124807+00:00",
+          "returns_pct": {
+            "BTC": -0.0928,
+            "ETH": -0.0495,
+            "SOL": -0.0843
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.988,
+            "ETH": 14.9847,
+            "SOL": 14.989
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -181,7 +412,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59691.905,
+            "observed_at": "2026-11-28T08:10:25.709953+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0928
+          }
+        }
       }
     }
   },
