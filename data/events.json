@@ -3770,6 +3770,19 @@
             "change_pct": -0.4644,
             "benchmark_return_pct": -0.1451,
             "excess_return_pct": -0.3193
+          },
+          "240": {
+            "price": 0.95325,
+            "observed_at": "2026-11-28T01:25:32.350738+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.6016,
+            "benchmark_return_pct": 0.5205,
+            "excess_return_pct": 0.0811
           }
         },
         "benchmark_asset": "BTC",
