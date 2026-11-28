@@ -1,5 +1,244 @@
 [
   {
+    "id": "7adbb0598f23fd44404a",
+    "title": "CryptoStar USA shuts down its last Bitcoin miners in Utah - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CclB6elBRdk9ZZFh3dDhOTkxtU3NzWUtaNjU5QXA5bU1YbXJMZEJrMkVTcEVKcDNhMUJZR1k4eGd2MGdYX1c0a2dFMGhPeVZZc2JlOVRLTUFKNlhsX3NqMURJT21Sb0RhZnFkc1BUb1F2MDJMdUdv?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T01:46:14+00:00",
+    "detected_at": "2026-11-28T01:55:28.930780+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 9.2,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 9.25,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60140.675,
+          "observed_at": "2026-11-28T01:55:29.732448+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1669.005,
+          "observed_at": "2026-11-28T01:55:29.855048+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 72.185,
+          "observed_at": "2026-11-28T01:55:30.076407+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60140.675,
+          "observed_at": "2026-11-28T01:55:29.732448+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "ae48389fdcc9465ebf3b",
+    "title": "XRP Treasury Firm Evernorth Gets SEC Nod, Eyes Nasdaq Listing - CoinMarketCap",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWXBnU2NZTkFGR3RfSkhoa1pkNVMwYkQzN3dLUXRfQ0lwcnFPQUVqTURlQnBoVXpGejFLZ0hFbFFqVDhMb3NsUXVaLWpGN1hCYmtRZjh1UEo4QWVPYzM0cTBBMUVEYjR0bEJsNmZVTnRzUXFxQmVnMENrUnJtcUtNdmVjdlFuTW15M1hEMGZBWVQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T23:56:46+00:00",
+    "detected_at": "2026-11-28T01:55:28.927462+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 118.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 118.72,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.9534,
+          "observed_at": "2026-11-28T01:55:30.162596+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 60140.675,
+          "observed_at": "2026-11-28T01:55:29.732448+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1669.005,
+          "observed_at": "2026-11-28T01:55:29.855048+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.9534,
+          "observed_at": "2026-11-28T01:55:30.162596+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 60140.675,
+          "observed_at": "2026-11-28T01:55:29.732448+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    },
+    "alert_delivered_at": "2026-11-28T01:55:30.730886+00:00",
+    "alert_last_attempt_at": "2026-11-28T01:55:30.730905+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "7dd5b43d9365c515e3d0",
     "title": "China's A-shares Surge on Heavy Volume; Chen Guo Says State Council Meeting Signals Strong Policy Bottom, Worst Moment Has Passed - BigGo Finance",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51MUtlaWhwVi1oaVVfSGRPR0tFNHN5X1JGOVJ5NEZMLTBld0kwUzJCb05DOXczdjJlRlh4WE5OSjY2aDROa0FiWW1FV0taU0JrbUtHWWZCT3VRZnFjUmtCNW1YMXFlM2NaTW03Z1dRaGhWVS1zc3c?oc=5",
@@ -236,6 +475,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.95,
+          "observed_at": "2026-11-28T01:55:30.192805+00:00",
+          "returns_pct": {
+            "BTC": 0.4487,
+            "ETH": 0.4547,
+            "SOL": 0.6273
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9386,
+            "ETH": 59.9362,
+            "SOL": 59.9365
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -449,6 +708,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2824
+          },
+          "60": {
+            "price": 60140.675,
+            "observed_at": "2026-11-28T01:55:29.732448+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.4537
           }
         }
       }
