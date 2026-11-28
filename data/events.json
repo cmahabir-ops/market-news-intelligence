@@ -1,5 +1,131 @@
 [
   {
+    "id": "02423ef9b53e118b2069",
+    "title": "Vitalik Buterin Warns Against Rushing Ethereum's Glamsterdam Upgrade Over Contract Risks - CoinGape",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1hYNGdWbHU1YzAwZGRRMXczbGlNTXctVDRQaUE5LTVxdjhvX3B4SXVXNVlEVVBGY2FiOWhLZFp0WFJZOFdCLVU5ZC16NXJCS1BiN3NJc1ZvWFRzQW50NGY2TnIwMXg1NS1WN3VWRTUyeTlkSGt4WE1EWnM2ZzMyX2ZvQUhfa0ZiTUxrTU8zYzNpeWkzX19SYUpZVXl6d3pIM3NVbzhLSktOUDNkNUE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T08:21:07+00:00",
+    "detected_at": "2026-11-28T08:30:33.732107+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline contains potentially positive catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Potentially bullish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 9.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 9.45,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1654.155,
+          "observed_at": "2026-11-28T08:30:35.242586+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59612.435,
+          "observed_at": "2026-11-28T08:30:35.030849+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.125,
+          "observed_at": "2026-11-28T08:30:35.753379+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1654.155,
+          "observed_at": "2026-11-28T08:30:35.242586+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59612.435,
+          "observed_at": "2026-11-28T08:30:35.030849+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    },
+    "alert_delivered_at": "2026-11-28T08:30:36.731577+00:00",
+    "alert_last_attempt_at": "2026-11-28T08:30:36.731592+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "4c337fe5cce25c6e6ad0",
     "title": "There’s ‘A Tourist Element’ To Bitcoin, But True Believers Are Dug In At $60,000, Says Eric Balchunas - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjVJUTJrR1FWcGp5M0VhdHdSdE44bnhaTEFCTXliSEZVTGVsbGh1S0JqamtJUkpzai1xYW9WV1NseE1LdVllYzJqUHZOeTFKVzhYUTVEcDZHd21NWWcwODZodjNWQXhXbUpaYXVnY1QzeW5DYWdSVzc3NHNQNXNmRG9RMEp5Ry1hOXJxbU1sUmtGdnNDRW5mTXNGb0VLMVNtQkFDcHFR?oc=5",
@@ -246,6 +372,26 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.15,
+          "observed_at": "2026-11-28T08:30:36.198150+00:00",
+          "returns_pct": {
+            "BTC": -0.0356,
+            "ETH": 0.0166,
+            "SOL": 0.1197
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.1268,
+            "ETH": 15.1269,
+            "SOL": 15.126
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -262,7 +408,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59612.435,
+            "observed_at": "2026-11-28T08:30:35.030849+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0356
+          }
+        }
       }
     }
   },
