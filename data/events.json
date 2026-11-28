@@ -1,5 +1,57 @@
 [
   {
+    "id": "7846b4de3ad7d70a667a",
+    "title": "Oman’s stock market falls as energy-flow risks weigh on holiday-shortened week - Times of Oman",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZXItT01YMXIwNWpjZWZXN0dxZWNMNzZ4LWFrWTFvZ05uT3R0MUlkcWFTM093by1mR21IcDIyNFhWNHhKUmdLWmtKNXJ6Q3NnTU16TXhfdndtQy00QTRwMGpfeHJVcmFwbkZxR2VFc1RuazJPMjlfdklZRVMxanJZZWpMOG1wWHBPSGpRR3gwYlgtd2NObHE1NEoxVGNKSmYteDZUeU9GLTBXYy1lZ0hVajh5ME96Zzg?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-28T11:40:00+00:00",
+    "detected_at": "2026-11-28T11:50:28.928969+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 10.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 10.48,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "caa22f4443e8fc93ee30",
     "title": "Keel Infrastructure sells entire Bitcoin treasury worth $192M - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sUFA2RUJaZnRQZkhBVy1TUm1rVVNZSEFNakhmSDRscjMwYU9TMUhLd2JJNmtOeF93Q3JzYU9FeWYyaklGaWtkLVJPQ0tvdWRvLWxCMjRZb3BQbW9NOGY2dUlUcnlud1gwaHJJYjQ3TEV3b1FwbHFMYTNn?oc=5",
@@ -92,7 +144,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.02,
+          "observed_at": "2026-11-28T11:50:30.969928+00:00",
+          "returns_pct": {
+            "BTC": 0.0772,
+            "ETH": 0.1031,
+            "SOL": 0.0565
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0152,
+            "ETH": 5.0135,
+            "SOL": 5.0121
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -5428,6 +5501,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.2623
+          },
+          "240": {
+            "price": 59164.565,
+            "observed_at": "2026-11-28T11:50:30.538488+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.9043
           }
         }
       }
@@ -5625,6 +5709,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.2623
+          },
+          "240": {
+            "price": 59164.565,
+            "observed_at": "2026-11-28T11:50:30.538488+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.9043
           }
         }
       }
@@ -5825,6 +5920,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.2623
+          },
+          "240": {
+            "price": 59164.565,
+            "observed_at": "2026-11-28T11:50:30.538488+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.9043
           }
         }
       }
