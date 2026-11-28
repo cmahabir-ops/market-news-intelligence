@@ -163,6 +163,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.04,
+          "observed_at": "2026-11-28T14:40:31.504766+00:00",
+          "returns_pct": {
+            "BTC": 0.2899,
+            "ETH": 0.3133,
+            "SOL": 0.2977
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0278,
+            "ETH": 15.0305,
+            "SOL": 15.0349
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -179,7 +199,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59367.77,
+            "observed_at": "2026-11-28T14:40:30.616403+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.2899
+          }
+        }
       }
     }
   },
@@ -1045,6 +1077,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 0,
           "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.93,
+          "observed_at": "2026-11-28T14:40:31.504853+00:00",
+          "returns_pct": {
+            "BTC": 0.5397,
+            "ETH": 0.6156,
+            "SOL": 0.6973
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9196,
+            "ETH": 59.9197,
+            "SOL": 59.9134
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
