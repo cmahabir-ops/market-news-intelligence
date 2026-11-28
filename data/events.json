@@ -1,5 +1,169 @@
 [
   {
+    "id": "8f7dc2f522e0b2014593",
+    "title": "How a Central NY Crypto Scam Led the FBI to $674K - WNBF",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56Z2o1aEFYTWZSZDVFcExRM1lxT3hDVmwxcWNCNDlsMl9EWWZJUEdwa3ExaFYyX0Q5YkJKNk9MWDJJU3pFMDhnWk1YNjFQZmowWVlNcHZjN0hDWFdqOFdxb3QtaV9ZN2kwWm1UdUVMWXNkd3c?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T13:37:32+00:00",
+    "detected_at": "2026-11-28T13:40:33.495775+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 3.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 3.02,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "3e85625b693d577e0f92",
+    "title": "Could Bitcoin Reach Brian Armstrong’s $400,000 Target by 2030? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1ZlVGsxQWpOVDJrcmZkTVpFcElNQkp5d05RdUE0U0lhNUV5a0FQY3d2bmluWndmZzZTc0J1Z05hSXpFT1Nnb2NzdjBfS05JZ2NiaHBUZE1Bak9xaWg0a19zQ3UwYzhWdDdMTDZ5MWU1a3RhS2c1dXV1NWg0N2FyUTJYWG4xWkszWUU4T3RNYWtTM3hFNlJETXJ2djNHV1FVbFRGX1BKbl9lZFROd2RXcTF2NkpfUDNU?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T13:27:00+00:00",
+    "detected_at": "2026-11-28T13:40:33.492537+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 13.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 13.56,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59049.105,
+          "observed_at": "2026-11-28T13:40:35.442416+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1640.66,
+          "observed_at": "2026-11-28T13:40:35.737510+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.27,
+          "observed_at": "2026-11-28T13:40:36.518305+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59049.105,
+          "observed_at": "2026-11-28T13:40:35.442416+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "85256b64689c3a18272a",
     "title": "Trump-Backed WLFI Falls 50% as World Liberty Dumps Ethereum at a $19M Loss - BeInCrypto",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45ZkY3emZYUDVQdVI3dEFUZzFNWm5HMXhTUE0tNmVQTFFvd2owM3kzRDd4RDByYTF1UWpIbXdOazRBcUtldUk1UTZwR2RhQ2VEVWI5eXhtdnJSc3RTSXotOHFyWjZCUl9NY1dsX0lHU3dQamM?oc=5",
@@ -93,7 +257,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.16,
+          "observed_at": "2026-11-28T13:40:36.898770+00:00",
+          "returns_pct": {
+            "ETH": -0.3287,
+            "BTC": -0.281,
+            "SOL": -0.5167
+          },
+          "asset_elapsed_min": {
+            "ETH": 5.1351,
+            "BTC": 5.1333,
+            "SOL": 5.1405
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0477,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -1836,6 +2021,19 @@
             "change_pct": -0.1693,
             "benchmark_return_pct": -0.1344,
             "excess_return_pct": -0.0349
+          },
+          "60": {
+            "price": 1640.66,
+            "observed_at": "2026-11-28T13:40:35.737510+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.4626,
+            "benchmark_return_pct": -0.2936,
+            "excess_return_pct": -0.169
           }
         },
         "benchmark_asset": "BTC",
