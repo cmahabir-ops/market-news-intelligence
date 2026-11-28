@@ -1,5 +1,350 @@
 [
   {
+    "id": "ece14410a38ae786d334",
+    "title": "Bio Protocol reworks launchpad after Molecule wins SEC no-action letter - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5amd3aTJ4VUtISWdQRWlfV09zUjR5OUgyZ3RHZENPUkVfZFdtUWFBWVB0MkZBYW0xb2E4NW9RUGNGQWhmSkpLbXFWTnktYktRcFBBRFV4VlBkVF96d201bzkwdV9kYnAzdzRnUU9HdVVodlQ2SnVFUlVJb2ttcFk?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T22:11:46+00:00",
+    "detected_at": "2026-11-28T09:45:29.928327+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 693.7,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 693.73,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "c4acfe4171225fd3621c",
+    "title": "Chamath Palihapitiya Warns AI Could Crack Bitcoin as Leaders Push Back - Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUTRHYkhUcFRzOGxHTWNRSTd6Nlg3TVhKZG41bTZZSHBKVWJ3eTRPa2JRdnc1WEFZV0F0NUQzTmlRc0NqeTFuam84dE8zVkYxUExrMHIzZFlMQVNINXoyMGo3bmM3dTNBREpqWU1VR2xQWkRQTTl6NC1QR0VGY0xBWkRzNm8xZ1dTWk9iTjNLN0lqcHQtcFk0UGdBSkZ5SkRsVFVYZUR5dWI?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T04:30:00+00:00",
+    "detected_at": "2026-11-28T09:45:29.926032+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 315.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 315.5,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59474.365,
+          "observed_at": "2026-11-28T09:45:30.893809+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1647.895,
+          "observed_at": "2026-11-28T09:45:31.002479+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.8,
+          "observed_at": "2026-11-28T09:45:31.205397+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59474.365,
+          "observed_at": "2026-11-28T09:45:30.893809+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "05aa2e0e87ac47b0153b",
+    "title": "Bitcoin falls below $60,000, Ethereum nears $1,660 as renewed selling pressure persists despite US tech st - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdnR1Z3phNEdabFFRa194VFBGNW8wVEJYNUswa2VPMHVuY25TVXdpUUZxMVNEWmJFTFhiSG1XMUJFblBOeW0wamw0SVQ4RUdRQU9OUm51emJzM0xObXZVZEFNMENRREJvRVg5SHhiMElKWjFlUExva2gyMklLVndkZi1xSUpEb0pLc19NTkpMWURJa3pZUi1pMVRueVIyd21ubzViRmRhQUlvRy1sdDBHdm1xNEZBVkFoZXhrZjY1c0o2R1Y2YXZOSmRQZ3BmcUJxazFIYnQwbWlYbTV2Z3p3eXNFWU5CREZzV2VmNEFwd0JQWFA4R1JQSVpBVzlBMGRYTVBETEtaTWo5aVNfS2psNlUxWmt3NVp0OUHSAZ8CQVVfeXFMUFM2bTJ6aklpMTJobHdua2NTLUhncFRCY2doXzZzZ1lYRXc2UnJFYmstMGlrVzdDS0xKdkxzbzZ4bHh6Y0VwdC1CTTloSXZqQi1sb1FiQXNEYTdhTmFhcnR4U1IyYk5mQW5nVHBIV3lfbmpXOFUyeXltVk10RFI2ZmNadDN0TGNtaDI2N2l0WXVVU2VfR0pPdllKZE1sOWg2MnIxM3BWSGF0bDJ4VEVUa0Q3YmpvcDk3TndqM1BFSUhaYlpPdGpaYnpoSjhIQXU3dk92VVNzYm5QRHVrbGVuaWJHUVc5ZW1pVHNjeGRWcV9tYmF5N1pWanctaDQ0UkhYazkydlNsR3h5bUJoTW1jM09OQ3RrMEc0UHlpRWM1Xzg?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T07:29:08+00:00",
+    "detected_at": "2026-11-28T09:45:29.924822+00:00",
+    "assets": [
+      "BTC",
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 136.4,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 136.37,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-28T09:45:31.946749+00:00",
+    "alert_last_attempt_at": "2026-11-28T09:45:31.946763+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "fefb2c9010adbbf32090",
+    "title": "Injective Urges SEC to Open Tokenized Stock Trading to Order Books - Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa3hyTzhldUFkdXV0WWFJb21MRG0tVVFMMjR6a1phWHBDa3NRNHRTc0dfVUZfbDZ0SUVPRWNUaEhucnFhb1V0czhyOVRQZ3hGRlZiQzJpVGw0QmRoU09BQlJDd1YyblBwY2JCRHUwNFZlLUVWYUJxRzVFYlJOVkNCUnpDREg4elptSmNtQnRIWDY0VmhlZGRGcURkTmhGUGxtQ3V3YWxmWGZ6UE0?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T03:40:46+00:00",
+    "detected_at": "2026-11-28T09:45:29.921969+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 364.7,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 364.73,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59474.365,
+          "observed_at": "2026-11-28T09:45:30.893809+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1647.895,
+          "observed_at": "2026-11-28T09:45:31.002479+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.8,
+          "observed_at": "2026-11-28T09:45:31.205397+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59474.365,
+          "observed_at": "2026-11-28T09:45:30.893809+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-28T09:45:32.252688+00:00",
+    "alert_last_attempt_at": "2026-11-28T09:45:32.252702+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "b1fe54b86ac231026976",
     "title": "Trump-linked crypto token WLFI plunges 50% to record lows - CoinDesk",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVDJXelFqU09tbFZlLXlaNXJZSDJ0NjY1NHRCVm04WjBROVJDaFdoRjlXdkl2WWc5UW9DQ3JRVGFHeGVFbG93VTFqMUpnZHl4aWxJRmlXRGNFbTZlYVdEeGRINVRpQk5fQllkRlB4cGRsTEFYX19xaUU0NzZfTF9fd1dFOElmTmVGZzR5OUxaamV0aml0?oc=5",
