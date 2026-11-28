@@ -1,5 +1,244 @@
 [
   {
+    "id": "f25270d4752d5d0a9c3f",
+    "title": "This Trader Just Told XRP Holders to Stop Trusting Chart-Only Bears - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IXzRPMC1XNEs4OFRCZHVadkJaVnVZQnR1NFRvRUlKWTlZSk5ZaFNaRmFEVFNEN2ZZdF9CMUJ1MzRBS3pQY2hZMEZHU3N5VEZiaFk5bkhjLXNDRXc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T05:16:07+00:00",
+    "detected_at": "2026-11-28T06:35:29.925555+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 79.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 79.38,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.9481,
+          "observed_at": "2026-11-28T06:35:32.344591+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59808.145,
+          "observed_at": "2026-11-28T06:35:31.762350+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1658.635,
+          "observed_at": "2026-11-28T06:35:31.968593+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.9481,
+          "observed_at": "2026-11-28T06:35:32.344591+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59808.145,
+          "observed_at": "2026-11-28T06:35:31.762350+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "417c0f7e49e1a6f15e82",
+    "title": "Bitcoin ETF outflows hit $5.78B as XRP funds draw buyers - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MVEU5SV9PV1k4cVRoSjA3WlV1MlhWcWs0SVFVQWlIXzVIYzYtM2FvVmVUaUdGQTZYb3JlYWctRVJOX3lfUTU0ZjZxekZPcTFlX2huTGNSZnNsTElpVzVCeFNBS0RUc3c4NWVWU0dyNDI?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T06:30:00+00:00",
+    "detected_at": "2026-11-28T06:35:29.924864+00:00",
+    "assets": [
+      "BTC",
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 5,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "XRP"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 5.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 5.5,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-28T06:35:32.916655+00:00",
+    "alert_last_attempt_at": "2026-11-28T06:35:32.916668+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "710b3a62351c94b05c15",
+    "title": "Trump cannot save the U.S. stock market, but curbing AI spending might. - 富途牛牛",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2VydXprT29ZMmRBd1ppX21TM1VndVpueTN4ZWZYSUQ2VExKcXJLb21NQjh6aWRiMHJQQ3ZCMktTQXAtX3dNTV9scllnUEVyZnBUSnVPVFpTTEVSa29hclVQUTY4ZHY2U1hIRUtFajFPVTAtRGZiM2p0U3JQN1JnQ2hfSnBRUnAtX1FjN3B0MVdQb09YUGpPUXJxUQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T11:51:35+00:00",
+    "detected_at": "2026-11-28T06:35:29.431189+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 1123.9,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 1123.91,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "8a1b0c1f0dbf5f5f4279",
     "title": "Black Friday 2026: What Time Does Stock Market Close Today? Check Trading Hours For NYSE, Nasdaq, Bond Markets, And Banks - The Sunday Guardian",
     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQU2F1NHBNbU1LU1hiUDEtb3I2VlRSVVlxODNlMU9tc1NNZk5acWVYMVE1NHU0TkY4N3h1RjNndnZGQmNxWENfSGhvVVBXdy11QUNSYkZJUG9fNmVYVjlZZzF2eGFwS1NqRmFYV1dxSkE3bGVfOUM1N292Vkh3b0VXUE0td1YtclBFZXdzZGxaSkFRRkE3TDZJdUc4dlpzMFZKMm42anpFbVl6TFRQU0tBR3VCaWdhT1Nab3k3LVFCZ3VJclBfTE1FTmlZd3B6TEg1STFubTZLOXpJS0Vvc1ZDam9vMWltXzliU0t2MlhHb1RLVWlXUkhR0gH8AUFVX3lxTE4xLTdPZkN1Zldsb0hRNDdEQ2VfZXc2STVBaVhXR1o0Mk5aSXlRZFVuZWp0T3BPVXVPZndMbEFJREVnOVM0Z1R3ZHZwNDA2QXBfNDY1YkYtOVlDMUZ0dzBFRENVRjkzejlJRGtjNjJScFlka0gyWGw4QU9ZNUtEankwRkhGeUJpaVFMcHM5bmx5R042dE5vRUQtM2N1UHJPdGMxWGxtaElfRHRXNUZfeHBCaFFTT0lZM3hkbG5nM1h5VVVmUnAzaUZ0OWNNUGNlcUIwUy1SdlUyVTlmelFKY1dTUkVKa3F4ZHFXT2JiWjhqTU1rYUJQSGhRSUw5Qw?oc=5",
@@ -216,6 +455,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.08,
+          "observed_at": "2026-11-28T06:35:32.380758+00:00",
+          "returns_pct": {
+            "BTC": 0.2033,
+            "ETH": 0.121,
+            "SOL": 0.1612
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0692,
+            "ETH": 15.0679,
+            "SOL": 15.0629
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -232,7 +491,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59808.145,
+            "observed_at": "2026-11-28T06:35:31.762350+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.2033
+          }
+        }
       }
     }
   },
