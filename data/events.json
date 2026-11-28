@@ -1,5 +1,128 @@
 [
   {
+    "id": "45f4bb036e61e56c2d93",
+    "title": "Ripple’s RLUSD stablecoin hits record supply as XRP slips below $1 - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MXzFkWWZhTi1OeWc2NWlNd2dna0FLODNmOWgzTHQ1OWNnLVhIY1dEajZ0a0R1Vl9Sd25XdXlJdUcwTVlYQU53LWpZelNDV010MXJyeFFhbVNFSGVJZTVyYVlCcnhYNjlXWTVad1B6am9Ub0xP?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T11:18:38+00:00",
+    "detected_at": "2026-11-28T11:25:28.785745+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 6.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 6.85,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.9383,
+          "observed_at": "2026-11-28T11:25:29.982633+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59198.285,
+          "observed_at": "2026-11-28T11:25:29.505481+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1646.18,
+          "observed_at": "2026-11-28T11:25:29.639137+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.9383,
+          "observed_at": "2026-11-28T11:25:29.982633+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59198.285,
+          "observed_at": "2026-11-28T11:25:29.505481+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
     "id": "ca570a9e3ada5debca9f",
     "title": "Bitcoin: The second Russian bank opens its doors to BTC - Cointribune",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWXRwa0owQmIydnJ1Q0wxcjBxV1VFMHBaZ2wtY3RHdTNodjJySkNkVnVhLUtMb1hkUmJDQWNLaFp5YzN3SFZSX3lNNDY2VHl6dUJjQWZ4bDFpUElHVnB1azhCYlhzOWM2dDdGRjhyei1wQnJhRndiOVctVTQ5Z0c4WUNNOFV3UDM3WHVYdVVhOA?oc=5",
@@ -92,7 +215,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.05,
+          "observed_at": "2026-11-28T11:25:30.006702+00:00",
+          "returns_pct": {
+            "BTC": 0.0071,
+            "ETH": 0.0368,
+            "SOL": 0.0849
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0396,
+            "ETH": 5.0375,
+            "SOL": 5.0342
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -445,7 +589,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1646.18,
+            "observed_at": "2026-11-28T11:25:29.639137+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1884,
+            "benchmark_return_pct": 0.138,
+            "excess_return_pct": 0.0504
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 59116.715,
@@ -609,7 +767,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1646.18,
+            "observed_at": "2026-11-28T11:25:29.639137+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1884,
+            "benchmark_return_pct": 0.138,
+            "excess_return_pct": 0.0504
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 59116.715,
