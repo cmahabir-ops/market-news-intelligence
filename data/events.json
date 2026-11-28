@@ -1,5 +1,180 @@
 [
   {
+    "id": "bb2a22eafce3a10e425b",
+    "title": "Ripple's Stablecoin Is Surging in Popularity. So Why Has the Price of XRP Dipped Below $1? - شبكة تواصل الإخبارية",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yUFM2TzkzdjdkZkNsaWZmS2FnWERNVkNXaUNWYXVGU1g4OHEtS2h1eG9tcl9IRmxTaGRJZ2NLV29tTHdpaWw0QVlZVmZlcEpub3dn?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T11:38:48+00:00",
+    "detected_at": "2026-11-28T12:15:34.507362+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 36.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 36.78,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.94015,
+          "observed_at": "2026-11-28T12:15:36.583480+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59240.645,
+          "observed_at": "2026-11-28T12:15:36.051161+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1649.385,
+          "observed_at": "2026-11-28T12:15:36.238999+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.94015,
+          "observed_at": "2026-11-28T12:15:36.583480+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59240.645,
+          "observed_at": "2026-11-28T12:15:36.051161+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "4a7c9832c821a0fff039",
+    "title": "Centrifuge’s JAAA fills 91% of expanded Aave Horizon cap in three days - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkSXo3NGZFVDNQUnlrbVpXSWF2aXc5TXZ4dkdUVjF4LXE3Mm5tQ21MR0RkTEZzMnJ6c3ZPSG1IZGtjamhpMFlvSEsxNGw5Ul9yckg0M0VGQ2ZwcVhCNmM5WmNMMTl0Z0J4MW42UU0zWkNCMTZ4YS1zVnJGWQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T12:07:01+00:00",
+    "detected_at": "2026-11-28T12:15:34.505085+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 8.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 8.56,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "99415d6981786e9018b8",
     "title": "Global equity funds see biggest outflow in 14 months on AI, Fed concerns - The Economic Times",
     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNei1KN3Y5WjZvYmdkTGFDSXlDYk0zaFJzYUQ3THcwUkFZbFEwVEJuRG1HTWg5YzlUZGhSODN4TDNITWlhYjA1UGo1UWpmTTVmeEZhV2ZGcldpWi0xMm5uS0xoaHJVdXRwel9XWFllcTRPR0J0QkhkTGxaY3hZZ0Mwc01nM0poSXR4VDZlSmd0bnNMTFFuWXhIU1VVNExOeGt6UGIxVUkzRXBuUHoxRnFFQXpZR2ttampzVXdPeDd2YkFYSFBNR1hNa2NtLUZQSlNUSVl2bnBoZk1NUjI0clNWNkwyTWYtS2JCclcyRG5LYjk4cTDSAfgBQVVfeXFMT0IzODRQYl9QVWtYaDZac1VrNXNJNEdXVTRGbHFmODJreFVoQ0FZNDE4TlVPN1ZyWGdZNk10emZTWEotZ0Y5Q21iZXJ1enhEZFpGSWw4S20zRDN1ajdyQWthakZxUlRRNDNVVGJITjNXWF9HUDdnQ2pyM245WGE3UkxkVHZTa2F2WUljaS1vYUxTZXVvSzQxZWhrbVRfZTNaNUdHYUUxMTVFNHlPV0ZZSGNTVjdVRDgwdzlkU24xT1lubEF5bGhlMExocy04RGJVeENYcnFzUUJqdWhQTjFscFQ0ODRMa3F0ajhpeHZ2ZC1jbFFfZVprejE?oc=5",
@@ -1134,6 +1309,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 1,
           "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.92,
+          "observed_at": "2026-11-28T12:15:36.610009+00:00",
+          "returns_pct": {
+            "BTC": 0.0718,
+            "ETH": 0.1983,
+            "SOL": 0.3112
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9122,
+            "ETH": 59.9118,
+            "SOL": 59.9115
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -5094,6 +5289,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1492
+          },
+          "240": {
+            "price": 59240.645,
+            "observed_at": "2026-11-28T12:15:36.051161+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.659
           }
         }
       }
