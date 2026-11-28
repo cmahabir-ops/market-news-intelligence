@@ -1,5 +1,117 @@
 [
   {
+    "id": "ca570a9e3ada5debca9f",
+    "title": "Bitcoin: The second Russian bank opens its doors to BTC - Cointribune",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWXRwa0owQmIydnJ1Q0wxcjBxV1VFMHBaZ2wtY3RHdTNodjJySkNkVnVhLUtMb1hkUmJDQWNLaFp5YzN3SFZSX3lNNDY2VHl6dUJjQWZ4bDFpUElHVnB1azhCYlhzOWM2dDdGRjhyei1wQnJhRndiOVctVTQ5Z0c4WUNNOFV3UDM3WHVYdVVhOA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T11:10:49+00:00",
+    "detected_at": "2026-11-28T11:20:25.743987+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 9.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 9.61,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59194.085,
+          "observed_at": "2026-11-28T11:20:27.130422+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1645.575,
+          "observed_at": "2026-11-28T11:20:27.388111+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.705,
+          "observed_at": "2026-11-28T11:20:27.781321+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59194.085,
+          "observed_at": "2026-11-28T11:20:27.130422+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "23a5e50d2da8c9cade08",
     "title": "America Blacklisted VTB Over Iran. Now Russia's No. 2 Bank Sells Bitcoin - BeInCrypto",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uM05pQ3M3MGdJNmNGZ1NIcWhzaG4zVzY0VVRkX0dhYzBBcUd4Y2dsT3QwbEtBTGNfTVFoTnh0WWFMSUItTGRBSDB5eFRwUDNpUEFJUDdWOWNoZTA1QUFXUXZEYVJGSlJoOTdvRnZ3?oc=5",
@@ -93,7 +205,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.78,
+          "observed_at": "2026-11-28T11:20:28.036984+00:00",
+          "returns_pct": {
+            "BTC": -0.0069,
+            "ETH": -0.0331,
+            "SOL": 0.0
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.7635,
+            "ETH": 4.7642,
+            "SOL": 4.7668
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -276,6 +409,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.9,
+          "observed_at": "2026-11-28T11:20:28.037023+00:00",
+          "returns_pct": {
+            "ETH": 0.1515,
+            "BTC": 0.1309,
+            "SOL": 0.1416
+          },
+          "asset_elapsed_min": {
+            "ETH": 14.8814,
+            "BTC": 14.8805,
+            "SOL": 14.885
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0206,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -419,6 +572,26 @@
           "primary_excess_return_pct": 0.0234,
           "positive_assets": 2,
           "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.9,
+          "observed_at": "2026-11-28T11:20:28.037052+00:00",
+          "returns_pct": {
+            "ETH": 0.1515,
+            "BTC": 0.1309,
+            "SOL": 0.1416
+          },
+          "asset_elapsed_min": {
+            "ETH": 14.8814,
+            "BTC": 14.8805,
+            "SOL": 14.885
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0206,
+          "positive_assets": 3,
+          "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
