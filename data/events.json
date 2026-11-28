@@ -1,5 +1,57 @@
 [
   {
+    "id": "907b488bdba6dd1844ad",
+    "title": "Arthur Hayes says AI debt stress could hit crypto first, with a bailout setting up the next bull run - PrimeXBT",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX21uWGF4X3hBTUVGcGJnT0ZyUmJ4OV94YzRLb2huMlBiOTcwS1k3ZDFGemJ2WkdNQUJQeUlqZHA5UUtoTEUzNGhjWFpSQ09oR3Nkck5hYldXQlQ5RUNhODM0bGZCck1BSXBLbzVndmNrM1VncDZUNEJ0ckRqX2t1UkF2WE42ZGRwdnA4M18zc1dqZ05Zb21FYmFFc1h3SzY3LW1qandPcTVXcGs?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T09:01:50+00:00",
+    "detected_at": "2026-11-28T15:25:29.015614+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 383.7,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 383.65,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "172a6fe6c528722e8f22",
     "title": "The Tech Market Correction Is Over, According to Morgan Stanley. Here Are 2 Crypto Stocks to Watch in 2027. - The Globe and Mail",
     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQcno5QzNmYXhQYkVtX0xoal81Q0YzdUZrM3BHZ0FleTFHakdZbkwzQ0xTWU90Q2VZMlhXOGltcnJEUUM0cnpORFVjMXBNa0plc29FbDJ5YUZUd0xXNGVuWHNMeXRJWjE3WWxlR2JuYUF6OFFBbVVkQ2NKQ2JWMEtaaUY3R09McHNCUHRuaTBlcHlHRHpkVEJEWGhZRkNZYURkdVBtMGI1clZYeXVFQ0UtWWJXazFqRDdTbEtuSGtCNWl0dGlJWkwzOE5CUlJWOWprWmV5T1ZUZThmR0hwN3hPNlhPdE9RejhwbWpna2JrSzM0ZVFRcWxsRzJ2QjhJcklzRlFreDNRY0lmUnZBQ290TGF6bDhST2dK?oc=5",
@@ -1018,6 +1070,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.03,
+          "observed_at": "2026-11-28T15:25:30.726697+00:00",
+          "returns_pct": {
+            "BTC": 0.1664,
+            "ETH": 0.1066,
+            "SOL": 0.1134
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0232,
+            "ETH": 60.0229,
+            "SOL": 60.0229
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1045,6 +1117,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2899
+          },
+          "60": {
+            "price": 59294.645,
+            "observed_at": "2026-11-28T15:25:30.345036+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1664
           }
         }
       }
@@ -5833,6 +5916,19 @@
             "change_pct": 0.3144,
             "benchmark_return_pct": 0.067,
             "excess_return_pct": 0.2474
+          },
+          "240": {
+            "price": 0.9398,
+            "observed_at": "2026-11-28T15:25:30.694213+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1599,
+            "benchmark_return_pct": 0.1628,
+            "excess_return_pct": -0.0029
           }
         },
         "benchmark_asset": "BTC",
