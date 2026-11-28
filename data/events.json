@@ -1,5 +1,121 @@
 [
   {
+    "id": "0c0fd5ed7f4b341a295a",
+    "title": "Bitcoin slips below $60K, Binance restores withdrawals, SEC sets tokenized stock talks | Weekly recap - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KR3NoMXpqRHUwUmI0QWFCSzBqWlFlYjJrbnJPTThoZmRMX2t6QmJCV1Fielg5bDg0QV9tVnR0NHNiNEFORjRuQmU3NGowcGpXUVlDNmZ0RFlkeU5JNlZDam9OLWJBSnFHOGdpUi0tM3lNeHYwSVJEVllFWXRJSFU?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T05:40:00+00:00",
+    "detected_at": "2026-11-28T05:50:28.765133+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 10.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 10.48,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59706.585,
+          "observed_at": "2026-11-28T05:50:30.755311+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1652.425,
+          "observed_at": "2026-11-28T05:50:30.894741+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.135,
+          "observed_at": "2026-11-28T05:50:31.216773+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59706.585,
+          "observed_at": "2026-11-28T05:50:30.755311+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-28T05:50:32.161612+00:00",
+    "alert_last_attempt_at": "2026-11-28T05:50:32.161629+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "8aa157a4783216a78c86",
     "title": "Bitcoin below $60K, Binance reopens withdrawals | Weekly recap - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KR3NoMXpqRHUwUmI0QWFCSzBqWlFlYjJrbnJPTThoZmRMX2t6QmJCV1Fielg5bDg0QV9tVnR0NHNiNEFORjRuQmU3NGowcGpXUVlDNmZ0RFlkeU5JNlZDam9OLWJBSnFHOGdpUi0tM3lNeHYwSVJEVllFWXRJSFU?oc=5",
@@ -92,7 +208,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.97,
+          "observed_at": "2026-11-28T05:50:31.524998+00:00",
+          "returns_pct": {
+            "BTC": 0.1014,
+            "ETH": -0.0309,
+            "SOL": -0.0211
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9528,
+            "ETH": 4.9505,
+            "SOL": 4.949
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -813,6 +950,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.12,
+          "observed_at": "2026-11-28T05:50:31.525102+00:00",
+          "returns_pct": {
+            "BTC": -0.4317,
+            "ETH": -0.6117,
+            "SOL": -0.6286
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.1052,
+            "ETH": 60.1055,
+            "SOL": 60.1067
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -840,6 +997,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.2136
+          },
+          "60": {
+            "price": 59706.585,
+            "observed_at": "2026-11-28T05:50:30.755311+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.4317
           }
         }
       }
