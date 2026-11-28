@@ -1,5 +1,85 @@
 [
   {
+    "id": "982f0bbdd07f97811fc5",
+    "title": "Traders Trim Fed Rate Hike Bets for 2027 - Wisevoter",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVHZCbHJpNUpQblpLU0NWUjIwT1R0Z3RMcVA5OVlkRjFzTjFmTVg1bUZoNVRJXzREV0liaVdsQlY0dVlaU2ltOGRIN3lZODZ2LVhBZlV5N1ozbmFwX2dhTWxqSy1UNkdac2xUTEowbUtiT3pKSzlGMmFaVDA1Z1NjSGpwMDE?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-28T03:18:13+00:00",
+    "detected_at": "2026-11-28T03:20:27.989047+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 2.2,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": "central_bank_rate_decision",
+    "macro_status": "candidate_context",
+    "macro_benchmarks": [
+      "SPY",
+      "QQQ",
+      "BTC"
+    ],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 2.25,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "SPY",
+        "QQQ",
+        "SMH",
+        "XLK",
+        "BTC"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59899.155,
+          "observed_at": "2026-11-28T03:20:31.092481+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {}
+  },
+  {
     "id": "eb1fc9fc161767ca8a63",
     "title": "New York Stock Market Rises on AI Tech Surge; Nasdaq Posts Largest Weekly Gain Since April - 조선일보",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcXZkZmNLOTlreFFEVGQxLWVRVW9rZ0FvS0xNQVpZUF9lUFVsZ2JFWVBqZ19qWDJxY0JhNFJIUjNqZGtwLVhnUmZ0ZEwxbFZaOVRIQlY0NXFQaUw4am43b0hfWFN1Ymt4X2NldUdDOUYwZ2NBTVBtRm1jeXlabmZYN1VJYWhualBRVnlNc3BR?oc=5",
@@ -234,6 +314,26 @@
           },
           "benchmark": "BTC",
           "primary_excess_return_pct": 0.0491,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.87,
+          "observed_at": "2026-11-28T03:20:32.950883+00:00",
+          "returns_pct": {
+            "ETH": -0.3882,
+            "BTC": -0.4137,
+            "SOL": -0.5548
+          },
+          "asset_elapsed_min": {
+            "ETH": 59.8421,
+            "BTC": 59.8402,
+            "SOL": 59.8527
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0255,
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
