@@ -1,5 +1,109 @@
 [
   {
+    "id": "5a12f7902a711916c5c8",
+    "title": "US stock market today: Dow Jones jumps 510 points, S&P 500 rises 1.2%, Nasdaq gains 1.7% - IndiaIPO",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmlKTnExbUVHbmFXMC1lRDZRaTZyUUZ5S3JJdkd1NldYTmk2dlBnRExCbmV1VlluelBUZVg4S3lVUzlFU2F0S0RwUW9QdTQ3cy1jNGZRTGhLb1YzT092YjQ1U0VrVmZCR2UyaUVMMm1PRDNPWkFmSmZ2endyczQtQVJqb0hxd2djUlZWR1dJWmZlb1FuOGtseG9kbXVUSlUzOWZpNVlHazNXbVpEZUY4bElCMnJLQlk?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T18:33:36+00:00",
+    "detected_at": "2026-11-28T11:00:38.594189+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 987.0,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 987.04,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "929dcf661852e1b93da5",
+    "title": "US Stock Market Weekly: Nasdaq Jumps 6.7% - HDFC Sky",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYy1jaXN6ZDlKa043Q3pnbXJQaVlENG54VUY5RklRWi1EUmFuUF80X3pSWXo4d09hVng0UFZjWnlfa0dsMVdObFhnaHZXVksxd2pMdmxLSmkwc19INms1T2NSSXNWTlNJNTQ1UDJZZHJLSjVDT0NGbTRFVmVYcVdKMUtxWlFnXy1PeUJqck5Ed2ltaXktTS0xeFNZbnd0OEo5UGpEY2trTQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-28T04:58:12+00:00",
+    "detected_at": "2026-11-28T11:00:38.592574+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 362.4,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 362.44,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "e3183130efef0163f31b",
     "title": "Binance Blockchain Week explores future of 24/7 capital markets - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80QWs1M3h2YTh6VDlXbmZ2aUg3cUcxX29YbzJmZVlPelNnb3NSOTBvNVhUTUlrMkJ4eTlzT2ZGRW9KblNvbk9HM1RjRXdJem15ZDdiM3B4cHJya0J1UjFua2dOcDZyWXZOUEFGZFFaOHBrVlhJMy0wZlhaelY?oc=5",
@@ -1237,6 +1341,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.11,
+          "observed_at": "2026-11-28T11:00:41.389348+00:00",
+          "returns_pct": {
+            "BTC": -0.5437,
+            "ETH": -0.4101,
+            "SOL": -0.4297
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.1051,
+            "ETH": 60.1054,
+            "SOL": 60.1061
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1264,6 +1388,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.2667
+          },
+          "60": {
+            "price": 59169.695,
+            "observed_at": "2026-11-28T11:00:40.818629+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.5437
           }
         }
       }
