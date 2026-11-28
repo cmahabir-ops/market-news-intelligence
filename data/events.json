@@ -1,5 +1,85 @@
 [
   {
+    "id": "10984aea4f0cae21e184",
+    "title": "US Dollar Eyes Weekly Gain On Fed Rate Hike Expectations - Forbes Middle East",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOFc5LVN5MjJ0LXlHdU9ScjVqYmdDSEZmUkJBcUc0X2RQdVpuU3ZXclFuN01UYWd5Rl84WW53NmIxbVdiQmxobjB6UHNMSEkxMVNoYjRUeTY4QTRJM1hyOVRxZjJzRmhkbDBVRG9JM0dvbnE3MWwweE1PemtJMEpZNExqbUpHTFBoODlPd2Via3NiQ1ZjSnZVQXN6WWR5RVNaeXNQZTd0bEVZalhiX0hEWUVXVGlHckhFcVotVFBTdEtnQWFTcGc?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-28T07:32:01+00:00",
+    "detected_at": "2026-11-28T07:35:34.265344+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 3.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": "central_bank_rate_decision",
+    "macro_status": "candidate_context",
+    "macro_benchmarks": [
+      "SPY",
+      "QQQ",
+      "BTC"
+    ],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 3.55,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "SPY",
+        "QQQ",
+        "SMH",
+        "XLK",
+        "BTC"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59673.355,
+          "observed_at": "2026-11-28T07:35:36.024617+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {}
+  },
+  {
     "id": "c6f594461a77341602e3",
     "title": "Binance Blockchain Week kicks off with live Trading Master Tournament in Bangkok - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwUDRpT0NMQUdKeXVsUnhlX0pyMzlZNlJXQW9rRzdhcS1fbHRpZTNlWERfZGRXdUI1VjJmVW9RNkNzUzNESXBnbF92ZHRxRFU4SmdtSkw3dkNlWFhUOS1xUjhDbklQaUJyYWpLYXRCSFR6bFhiSTVqdg?oc=5",
@@ -1062,6 +1142,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.08,
+          "observed_at": "2026-11-28T07:35:36.831332+00:00",
+          "returns_pct": {
+            "XRP": -0.4641,
+            "BTC": -0.2254,
+            "ETH": -0.2403
+          },
+          "asset_elapsed_min": {
+            "XRP": 60.0742,
+            "BTC": 60.071,
+            "ETH": 60.0711
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.2387,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1091,6 +1191,19 @@
             "change_pct": -0.0738,
             "benchmark_return_pct": -0.0378,
             "excess_return_pct": -0.036
+          },
+          "60": {
+            "price": 0.9437,
+            "observed_at": "2026-11-28T07:35:36.794351+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.4641,
+            "benchmark_return_pct": -0.2254,
+            "excess_return_pct": -0.2387
           }
         },
         "benchmark_asset": "BTC",
@@ -4816,6 +4929,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.1846
+          },
+          "240": {
+            "price": 59673.355,
+            "observed_at": "2026-11-28T07:35:36.024617+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.2513
           }
         }
       }
