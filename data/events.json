@@ -1,5 +1,57 @@
 [
   {
+    "id": "eb1fc9fc161767ca8a63",
+    "title": "New York Stock Market Rises on AI Tech Surge; Nasdaq Posts Largest Weekly Gain Since April - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcXZkZmNLOTlreFFEVGQxLWVRVW9rZ0FvS0xNQVpZUF9lUFVsZ2JFWVBqZ19qWDJxY0JhNFJIUjNqZGtwLVhnUmZ0ZEwxbFZaOVRIQlY0NXFQaUw4am43b0hfWFN1Ymt4X2NldUdDOUYwZ2NBTVBtRm1jeXlabmZYN1VJYWhualBRVnlNc3BR?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-28T02:02:05+00:00",
+    "detected_at": "2026-11-28T02:35:27.829603+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 33.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 33.38,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "f42036d12aca7ed808eb",
     "title": "Amazon’s AI business is growing 440x faster than early AWS, says Jassy - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81NkxTd2ZBSVJYQzZYNGdLRDJlMVVPU2w0TFR3Tm1MQVRIbU13OWhpaWVKRFpLc3JuNk8xbGFkY25pT3VaRlBxU1I1WGt4TGliN2l3b19IVzFDTzMwd1dFTm1sRzl5MVhFcjN3T2dhOA?oc=5",
@@ -162,6 +214,26 @@
           },
           "benchmark": "BTC",
           "primary_excess_return_pct": -0.0156,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.82,
+          "observed_at": "2026-11-28T02:35:29.863740+00:00",
+          "returns_pct": {
+            "ETH": -0.2528,
+            "BTC": -0.3019,
+            "SOL": -0.5687
+          },
+          "asset_elapsed_min": {
+            "ETH": 14.8105,
+            "BTC": 14.8115,
+            "SOL": 14.8086
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0491,
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
