@@ -1,5 +1,57 @@
 [
   {
+    "id": "fb36c9bb1df2a5419d8d",
+    "title": "How Much Did Trump’s Family Lose as World Liberty Fell 50% in a Day? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUDl1TGVzNmN1UFdCN0hwQUFJa3BTTjRzVEZENzVIR2haYXZoR2wzdTk2X3ZTYWUxU1owdHVaUnVlQjk0N0piV1BOZEJ2UXMzSnVZZEZpX3hCQldTd2pDcnM2V2tnRk9XbnV1QkpSZWJvMGlvYWg5MDNmSUJ1bFdoakVxUVQtX3J2emNVRWZGUG5rUVhma09aZnBWSDJXVWtqeTlzNXl6b2xxbUdjelEyOTFVeVFlSVFyb1Y3NVFYalRDdw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T13:13:00+00:00",
+    "detected_at": "2026-11-28T13:25:25.319547+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 12.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 12.42,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "41de48b4fa0fca286af2",
     "title": "Pakistani Trader Abu Cartel Wins 3rd Place, $20,000 at Binance Trading Master Tournament in Bangkok - Balochistan Pulse",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMmczV1RqU1ZrM1otMm84cXNhbHdDN3ZvSGthajd4b0JoeGpMLUNtcERBeG51M0pIV0V6ZHI2QlRocG5KYUt5YmdiRmpFdy1EbVlOS3BPalRiVlVjUE1nZWdHdXJ4VnNMV3JHU0NvUW8wM0ZvVThrX1FnVURRQUZIeW5PSjdFRjdkSGlsamtTWDV0WWdUN1V3bFdUVjhCd9IBngFBVV95cUxOMmczV1RqU1ZrM1otMm84cXNhbHdDN3ZvSGthajd4b0JoeGpMLUNtcERBeG51M0pIV0V6ZHI2QlRocG5KYUt5YmdiRmpFdy1EbVlOS3BPalRiVlVjUE1nZWdHdXJ4VnNMV3JHU0NvUW8wM0ZvVThrX1FnVURRQUZIeW5PSjdFRjdkSGlsamtTWDV0WWdUN1V3bFdUVjhCdw?oc=5",
@@ -143,7 +195,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.05,
+          "observed_at": "2026-11-28T13:25:28.559071+00:00",
+          "returns_pct": {
+            "BTC": -0.0111,
+            "ETH": -0.0046,
+            "SOL": -0.0637
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0323,
+            "ETH": 5.0328,
+            "SOL": 5.0346
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -548,7 +621,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59097.795,
+            "observed_at": "2026-11-28T13:25:27.718050+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1115
+          }
+        }
       }
     }
   },
@@ -1766,6 +1851,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1223
+          },
+          "60": {
+            "price": 59097.795,
+            "observed_at": "2026-11-28T13:25:27.718050+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3334
           }
         }
       }
