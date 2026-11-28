@@ -1,5 +1,108 @@
 [
   {
+    "id": "5c187df931fc07ece72a",
+    "title": "New Inflation Data Brings Worrisome News to President Donald Trump's Economy and the AI-Fueled Stock Market - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZUk5MUlGV0lzbjRxYUVPYkZzTzRHTFh0enUtSHRjRlRXM0EzdV9mWGE2MS1sTjZtWDdBNWR2TWZkUVo0OEhKay1PRFN2dTZHT0xYTXJvMy1pTEdac3lFZlZiOW5SVXgyMWZoc1I1WGhaUFZ1RUNla2JjSmJ4Z2xQTUd6cl9DNkZZMVhObFl3YmFiZXJ5LVJ3Zzc3cTZWbjRlQmJUVmw2VmpuazVUd0VWRG53UUVYdXZqcVNPMmNIQ2pCdw?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-28T09:06:02+00:00",
+    "detected_at": "2026-11-28T09:15:32.535176+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 9.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 9.51,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "a0fb2d05261b5983508d",
+    "title": "Corporate profits hit roughly 13.5% of GDP. Why Wall Street’s bet on even more is risky - Fortune",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91Vmljb1RLVHZMQkI2aGNZVGp6eFA1R1ZGcjVnY0lLbUdqYm95QUVMSVlYMEgxQTBPXzJwRlROUU9nS2hfWGZZZTI2amt4amRRc3FuaExlcnNlZ2JSZDZaNUt4V3JHMUJ6a1JVcjlyUS1uRnFGaWVhWEF0NW1Hdw?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-28T09:00:00+00:00",
+    "detected_at": "2026-11-28T09:15:32.533937+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 15.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 15.54,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "fa8b1383cb1f1f0d86a4",
     "title": "European Commission proposes €50 billion tech fund in bid for quantum leadership - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41R0dpcU10LTdwaXJRTVdkWDFRVUtRYzBDQ3pqWkFBODBsRW13QWM4YW16bzJnSHI1SVZiQ0xUVmJyUmNkbjN2cnFPT3JsM0ZEV1RNdzNhT2huclVMSUtmV2VRZUtic0pEN0l3NFNaOFRCMGJQeUNTUw?oc=5",
@@ -144,7 +247,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.13,
+          "observed_at": "2026-11-28T09:15:34.962944+00:00",
+          "returns_pct": {
+            "BTC": -0.0369,
+            "ETH": -0.0797,
+            "SOL": -0.007
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.1189,
+            "ETH": 5.1153,
+            "SOL": 5.1079
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -861,6 +985,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.13,
+          "observed_at": "2026-11-28T09:15:34.963061+00:00",
+          "returns_pct": {
+            "BTC": -0.1492,
+            "ETH": -0.2718,
+            "SOL": -0.1126
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.1149,
+            "ETH": 60.1138,
+            "SOL": 60.1098
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -888,6 +1032,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0356
+          },
+          "60": {
+            "price": 59544.655,
+            "observed_at": "2026-11-28T09:15:34.314227+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1492
           }
         }
       }
