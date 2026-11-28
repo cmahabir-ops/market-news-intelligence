@@ -1,5 +1,117 @@
 [
   {
+    "id": "bfea9d6615627dc2938d",
+    "title": "Donald Trump’s Crypto Empire Is Suddenly Crashing Down—Adding To Bitcoin Price Crash Panic - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONkQ2bFBwRmw5eHpGWEJVZXR6VWlTR0pRZkxLM3VrRm9kMTVBMFVJVGRlWnJQNXJzYnBrcjV1VW9RelFvUk1BSVJtY3NqNEU0ckpOU2MtMnFGWHB0WmNVaWJudVYtM2tkODhkTnZDelR1b3lGVFJrY1g4Ny1DQnBEaDNrTHVycHR3TUNDRndIYV9mOWIxWHdXd0hZZVA1bFBMQkwxZ3J3V2pKWUNoWjB2UFM4QmQtMUlaNWUxaVhlQThMbGFCcTBnM1V0YjloZmE0QTdaMFk5S284ZGFDZlE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T13:23:36+00:00",
+    "detected_at": "2026-11-28T13:30:33.405452+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 7.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 6.96,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59165.185,
+          "observed_at": "2026-11-28T13:30:35.467398+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1644.61,
+          "observed_at": "2026-11-28T13:30:35.690519+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.635,
+          "observed_at": "2026-11-28T13:30:36.087763+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59165.185,
+          "observed_at": "2026-11-28T13:30:35.467398+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "fb36c9bb1df2a5419d8d",
     "title": "How Much Did Trump’s Family Lose as World Liberty Fell 50% in a Day? - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUDl1TGVzNmN1UFdCN0hwQUFJa3BTTjRzVEZENzVIR2haYXZoR2wzdTk2X3ZTYWUxU1owdHVaUnVlQjk0N0piV1BOZEJ2UXMzSnVZZEZpX3hCQldTd2pDcnM2V2tnRk9XbnV1QkpSZWJvMGlvYWg5MDNmSUJ1bFdoakVxUVQtX3J2emNVRWZGUG5rUVhma09aZnBWSDJXVWtqeTlzNXl6b2xxbUdjelEyOTFVeVFlSVFyb1Y3NVFYalRDdw?oc=5",
@@ -348,6 +460,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.05,
+          "observed_at": "2026-11-28T13:30:36.323773+00:00",
+          "returns_pct": {
+            "BTC": -0.02,
+            "ETH": -0.1327,
+            "SOL": -0.099
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.031,
+            "ETH": 15.0314,
+            "SOL": 15.0328
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -364,7 +496,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59165.185,
+            "observed_at": "2026-11-28T13:30:35.467398+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.02
+          }
+        }
       }
     }
   },
