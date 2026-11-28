@@ -1,5 +1,128 @@
 [
   {
+    "id": "589f1f29827cea1126e8",
+    "title": "Could Ripple’s RLUSD Lose Its Dollar Peg Like Trump’s USD1 Did? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRU5xdkNBbG12eERPcHhtbk1nOVRyS21DMS1YM0tJVVVXbDZPRV81MkhNTExkVVdVaVF4bmxSYjM1T1RaaEJSWmVWOE9ST3YyZnhvVzRUc2hMeUZXS051cTV2dDVJU1FWYW9rMkxYSUNaWC1HSWF2SWhaRXpTQ3hJdHJPUFF3cjNYcDIxR1FDVExVdkhzcmJXczN5SDR1cW5mTWUwYXMzc2Rfek1SLXFXWkhOVFMzNTlrS29n?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T13:43:00+00:00",
+    "detected_at": "2026-11-28T13:50:30.204236+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 7.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 7.5,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.93365,
+          "observed_at": "2026-11-28T13:50:31.705920+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 58942.155,
+          "observed_at": "2026-11-28T13:50:31.168802+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1636.435,
+          "observed_at": "2026-11-28T13:50:31.325267+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.93365,
+          "observed_at": "2026-11-28T13:50:31.705920+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 58942.155,
+          "observed_at": "2026-11-28T13:50:31.168802+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
     "id": "9095e578f3b82cdb06dc",
     "title": "Stock Market Holidays 2027: NYSE Calendar & Early Closes - Intellectia AI",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR3dIVmRtck9CMWtid1dXNWJqcXkzeW1STGF2V3VmbDZXdGNtOXNKbTRfb0tRT3ZUWE1mZGgtUXBJTlhnRzBCTXZJUUJxZnBTNWFLVmU3LTVGdGRFM1JoTl9Pc3d1NklqZjJfM0U0MDN0M3FqTmt6Nnd1LTJEeVZRdUhmNlMwcF9QOGV4RzJhaTZMM3ZleEplTFJpbmY3NVNmenlYVDBIaw?oc=5",
@@ -350,6 +473,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.07,
+          "observed_at": "2026-11-28T13:50:31.732108+00:00",
+          "returns_pct": {
+            "ETH": -0.5853,
+            "BTC": -0.4617,
+            "SOL": -0.722
+          },
+          "asset_elapsed_min": {
+            "ETH": 15.0616,
+            "BTC": 15.0621,
+            "SOL": 15.0596
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.1236,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -366,7 +509,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1636.435,
+            "observed_at": "2026-11-28T13:50:31.325267+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.5853,
+            "benchmark_return_pct": -0.4617,
+            "excess_return_pct": -0.1236
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 59215.525,
@@ -530,7 +687,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 58942.155,
+            "observed_at": "2026-11-28T13:50:31.168802+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.377
+          }
+        }
       }
     }
   },
@@ -1699,6 +1868,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 3,
           "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.97,
+          "observed_at": "2026-11-28T13:50:31.732225+00:00",
+          "returns_pct": {
+            "BTC": -0.3403,
+            "ETH": -0.5506,
+            "SOL": -0.9044
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9648,
+            "ETH": 59.9634,
+            "SOL": 59.9629
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
