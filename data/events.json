@@ -1,5 +1,344 @@
 [
   {
+    "id": "36188950923478bc6591",
+    "title": "Russia’s VTB Launches Bitcoin Trading After Central Bank Approves Crypto Test - Blockonomi",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcUdYVklacmx3TUowTUh0WWZLcWo4OXdNVlM2RWp2VENYdlQ5SnFpbE1CdGgxdU5pZHVoMWlUS2VPWHVvLUhjTkgtLUdrR3NBajFpQ3NfcVlmUkl3YVFSYTdxVFZmZTVNSzZyV0N3cG9DX3NMWXZ5UEU0NzlxdVZwNzVJdG15eGJESi0xaGZxejVUUm4tRFd1Z2RvMUYwZkxEalE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T18:58:56+00:00",
+    "detected_at": "2026-11-28T02:15:24.644053+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 436.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 436.48,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60170.395,
+          "observed_at": "2026-11-28T02:15:25.814769+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1669.425,
+          "observed_at": "2026-11-28T02:15:25.964088+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 72.14,
+          "observed_at": "2026-11-28T02:15:26.208142+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60170.395,
+          "observed_at": "2026-11-28T02:15:25.814769+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "aee62f0e6b6ba65510a4",
+    "title": "Bitcoin price at $61,600 after $6.8bn options expiry - CryptoTicker.io",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PTVVjekJUT0ZKbWJVdHVEanJmT0N2OEtVOWxlbTNuZTZtM3pvbk1tMWRmdnlsUUhEbXl3ald2ejdoa2Z0NEVLYlBkbDI0bEtHSTlaRzR6STVBWS1rajg1WG91RUx2TzBNOWxTallXbC1yZ1JkVWdR?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T13:19:43+00:00",
+    "detected_at": "2026-11-28T02:15:24.642644+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 775.7,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 775.69,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60170.395,
+          "observed_at": "2026-11-28T02:15:25.814769+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1669.425,
+          "observed_at": "2026-11-28T02:15:25.964088+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 72.14,
+          "observed_at": "2026-11-28T02:15:26.208142+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60170.395,
+          "observed_at": "2026-11-28T02:15:25.814769+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "a28d82870b858a9c1ed8",
+    "title": "Bitcoin (BTC) Price Prediction 2026, 2027 – 2030: How High Will BTC Price Go? - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiVHQ2cDI3RlA0Z3hvb05nUy05VnUtQi1jTFZ5VUhadi0wNmltaU1OQVhpbG44SUViXzVtWEtITTJxMTU2UHY3TlZnWXFSNzhrZEUwLUdJUTByaHVnUV8wSHRDZGtrSjBKSkxqYkdhOW40UdIBd0FVX3lxTE1pTUZhdHBKOVAtZXZDZW9HV180a21NZkhOSExFaGhwMHBuR1RCNS0zMkVVdmF6NHB0M0sxOU1YYUxMRjRGRGcwb3VZZ04wR1BFbDNCRzU3UXVYRnZlOUltTXNzQk8zcDZjRXk4LVUyejdRa0hxa3VV?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T14:27:11+00:00",
+    "detected_at": "2026-11-28T02:15:24.641121+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 708.2,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 708.23,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 60170.395,
+          "observed_at": "2026-11-28T02:15:25.814769+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1669.425,
+          "observed_at": "2026-11-28T02:15:25.964088+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 72.14,
+          "observed_at": "2026-11-28T02:15:26.208142+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 60170.395,
+          "observed_at": "2026-11-28T02:15:25.814769+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "02e6ad733ea7c6c3e1d7",
     "title": "Aave V4 USDC deposits hit a record $107.4 million on Ethereum Core Hub - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jNGl5bG13NDBvaWZscW1sRTQzdG9jSGFteEtDUnI0Q24xLXBBbGtKSzcxUlRJbGZHeUtRMl9mUXJyX2FRcjh4SGJZMnpLYjNJZC0yVGVwLXQtTFdYdDdwV2tkeDdQOU1DaTMwaE1MOC1ZcUk?oc=5",
@@ -92,7 +431,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.93,
+          "observed_at": "2026-11-28T02:15:26.338366+00:00",
+          "returns_pct": {
+            "ETH": 0.0638,
+            "BTC": 0.0683,
+            "SOL": 0.0069
+          },
+          "asset_elapsed_min": {
+            "ETH": 4.92,
+            "BTC": 4.92,
+            "SOL": 4.9212
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0045,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
