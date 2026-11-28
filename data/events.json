@@ -1,5 +1,117 @@
 [
   {
+    "id": "2446e06d33ebe1dd2eb1",
+    "title": "Stacks lets institutions earn yield on Bitcoin without moving it off layer 1 - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IMUtCTVRNTXl5Q1lGMHd5VmxWUXgzRTBlVFFoMzltZU5XejVXLW1VTU85ajBRM0lwNFRLSG1oNm1MVUphNVdTWjFpRkRzd0VxOURPNnVLMmxqbE1kTTVxcm9hNURnY2sxazF5SUxaT25jb3FhSDJqLQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T18:08:21+00:00",
+    "detected_at": "2026-11-28T18:15:31.447754+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 7.2,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 7.17,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59374.365,
+          "observed_at": "2026-11-28T18:15:33.960778+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1643.605,
+          "observed_at": "2026-11-28T18:15:34.164646+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.33,
+          "observed_at": "2026-11-28T18:15:34.395001+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59374.365,
+          "observed_at": "2026-11-28T18:15:33.960778+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "1f4a00cf801f2798cbe1",
     "title": "8 Altcoins That Could Be Affected If Donald Trump Abandons Cryptocurrencies - Cryptonews.net",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwYi05YlpYbEk0QTFjdG5jVjhfOWN5OWpSajQyU0NYelA4SHhMSXFWNEFwWTlTZ3hnalVyUHdNQzlZZ3VjbnJBVHplb3h4ZzBPRjdLZUREUnV0UQ?oc=5",
@@ -144,7 +256,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.03,
+          "observed_at": "2026-11-28T18:15:34.609930+00:00",
+          "returns_pct": {
+            "BTC": 0.0711,
+            "ETH": 0.0594,
+            "SOL": 0.1567
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0241,
+            "ETH": 5.0254,
+            "SOL": 5.026
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -260,7 +393,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.03,
+          "observed_at": "2026-11-28T18:15:34.609984+00:00",
+          "returns_pct": {
+            "ETH": 0.0594,
+            "BTC": 0.0711,
+            "SOL": 0.1567
+          },
+          "asset_elapsed_min": {
+            "ETH": 5.0254,
+            "BTC": 5.0241,
+            "SOL": 5.026
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0117,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -384,7 +538,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.03,
+          "observed_at": "2026-11-28T18:15:34.610030+00:00",
+          "returns_pct": {
+            "XRP": 0.1069,
+            "BTC": 0.0711,
+            "ETH": 0.0594
+          },
+          "asset_elapsed_min": {
+            "XRP": 5.0256,
+            "BTC": 5.0241,
+            "ETH": 5.0254
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0358,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -508,7 +683,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.03,
+          "observed_at": "2026-11-28T18:15:34.610060+00:00",
+          "returns_pct": {
+            "BTC": 0.0711,
+            "ETH": 0.0594,
+            "SOL": 0.1567
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0241,
+            "ETH": 5.0254,
+            "SOL": 5.026
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
