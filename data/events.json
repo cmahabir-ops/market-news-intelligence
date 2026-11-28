@@ -1,5 +1,458 @@
 [
   {
+    "id": "33668b2f8f0eb7f21e43",
+    "title": "What Awaits XRP Holders in December? The Four-Year Cycle and Three Key Dates - Kriptofoni",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84YmJOR0RTN3UwQV9Mc2FjRnRtN2hDSElMdHFwa3lYX0Q3VFpyTm12YUVHNkNvX2NEcV8zLTI3T2ZCS3FoUHZJTkZqNFhXZEpCX05ua3lrUzZkUXFQSzM4Q1psRkc0M1hlaHRR?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T06:18:00+00:00",
+    "detected_at": "2026-11-28T10:05:31.089649+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 227.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 227.52,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.93955,
+          "observed_at": "2026-11-28T10:05:32.877751+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59459.075,
+          "observed_at": "2026-11-28T10:05:32.404605+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1650.665,
+          "observed_at": "2026-11-28T10:05:32.526114+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.93955,
+          "observed_at": "2026-11-28T10:05:32.877751+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59459.075,
+          "observed_at": "2026-11-28T10:05:32.404605+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "6af8cc01a008e274c2e9",
+    "title": "Florida man sentenced to 47 months in prison for using AI to clone streamer N3on’s voice and steal $260,0 - The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPc2ZWeVpUNTVyS0hnZmhEX2swakhudGxDM3RxVGhPLVRNTWdlRHBock05WVYwUWktc0tlbEF1aEFWNU5QSFRjdnRzTVIwVmtYTXRyWDI1NTFKUnl0WU04ZUx1ME5RRkJmSm9ydHZ1a09TTE8tR2tkLTBwOFlHbEZULXVqckRzSGU1ZXVBSkhPNUs1YVdZbHFuMlUwVHJ4UldnNmFScEFzUk9MbGJnbjFEdlp2MDExbDZkTkZBTXJkeUlTYmRyU3IxOEJjMm9faGdvTTVIZm5wcndFUFZLWlVkQ3h0MXZHQllWT3RhNHBDWEJUdHJoQWhGVTRXdnFoNFB4WE0yRHE1SXVCc3FDa0xvUTR5RFlQM3hmcVNPUmxjMHhBdzhxTU41SVBvVGpUcTBJY3RWanRIdmhUZGd0ajl30gHEAkFVX3lxTE9zNXliVER3V3BoMXotX0sxRzVVZWx2YkFBWDhXeFBWS3dxdHRvZl92Z1Eyd3BjOEtUTzB4dU1lMVpqejl3blBYUDY1N3NvT1V4eGl2T1hmUG5UeENJYnRtZnRDWmNNZXh3WFM2TWZBNmNsMEpydXlHamE3ZUh6ZFRvcHBaaFRxQ3o3QXAxNEdqa1N0SXdCUlIwLXZHMDUwUVladkcxdWMzOVZaS3dLemZkMXlXcXhWeDVGeFpRNGZTOW5vRHFjd2RDMUthMGlCcVJkVC0xZmNsMG1RUEJGYUR1N0Z0eHVISlhzWXl3X2IwaTg2Q0J0NnB0QkNweXpkVm5UWEVzdDFIbWVJM0VreDdscnlZUlVORFU2c1hldjZCcFFhTVVtaWZReHhkVUdRWXZId1BtczE5bDFRME00NWF4azhiSA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T06:28:00+00:00",
+    "detected_at": "2026-11-28T10:05:31.088194+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 217.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 217.52,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "2a5dbf01f59d5ffa2b97",
+    "title": "New Credit Cards Offering 4% Cash Back in Bitcoin Are Coming Soon. Do They Deserve a Place In Your Wallet? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa0NBTFNVU19laWVGNXJBMXJZUHNTRlIwRnI0SWU1dm9DU08zblRaVGNqaXUwVUVGbmN3M2hFdkg1amItVzlpaW9UVFAtcXJaenhJY05JekN2RWpybllMeXpHMVNzeERpMTBjMW52OWY5QnpPc002aDhVcGctbnZFX241UXN1WExoY2c4SFIxb0N2dTVsU1dqLUJkRnJWV0pqY21zc1h6X3lvZ1k3TEZrNWhMcjR0YW9GeEs5SklFSWthejNrQ3EzRy0xQ0k2VnlyS2EyV0xoaVIwUWhCTE9F?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T10:00:02+00:00",
+    "detected_at": "2026-11-28T10:05:31.086166+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 5.48,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59459.075,
+          "observed_at": "2026-11-28T10:05:32.404605+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1650.665,
+          "observed_at": "2026-11-28T10:05:32.526114+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.015,
+          "observed_at": "2026-11-28T10:05:32.731710+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59459.075,
+          "observed_at": "2026-11-28T10:05:32.404605+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "7b2c317b15e361bed2ed",
+    "title": "New Crypto Regulations Introduced in Ukraine, Russia, and the US - ForkLog",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdFVXZWNGZEVKSnQ0YkdpMTNvR09sZnQ1Ny1RX3pCb093SVpTT051eDNvV1hSUUVxNDBlMldOQVhFOGtRbjdzeW5zcVZxZTNyLUJQaDFaaHE2V25jNHhLZFV3bWVCeVg3eVNGS3BBZGZrT1R6cGF3NExjMy1wWElBZG05MmUyRl9ick9xdXBtcw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T09:24:09+00:00",
+    "detected_at": "2026-11-28T10:05:31.085383+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 41.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 41.37,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "267dfec6e83d90faec80",
+    "title": "USD1 Slips Below $1 on Three Exchanges After WLFI Selloff - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVjJrZ2hoV19NLXVQMzB1eHZSVzZxNV9JZU1mN0hpMWlBdjc0eVVSRWN2aXlJUWpBUzZrb0VjOWJzaGFTVU9YMkowczN2NlNlazBpLWFVOHVtSHRrZGQ2Q201dmJPYnNZbHlZWENNeVhvajZIMHU1R2lTQWdSa2Q5a1lpSkVWTDFvRWhicDdwaEJoSDBPQXBQRjRfNXBBVV92M2dKSQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T06:26:34+00:00",
+    "detected_at": "2026-11-28T10:05:31.082211+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 219.0,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 218.95,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59459.075,
+          "observed_at": "2026-11-28T10:05:32.404605+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1650.665,
+          "observed_at": "2026-11-28T10:05:32.526114+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.015,
+          "observed_at": "2026-11-28T10:05:32.731710+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59459.075,
+          "observed_at": "2026-11-28T10:05:32.404605+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "50933df3ff011ea10000",
     "title": "Bitcoin Whales Are Doing Something They Didn’t Do in the 2018 or 2022 Bear Markets - CryptoPotato",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbkhPb1BFMVREY2xBSzlfV2NjcEJvRjE2a2swSFJ0VXJJMUtPNEtsaC02VEtMWHZCMVl4VVBBRm54ZmpEZkFBRE5lRXBBXzlkYXZrb3pvR1hyb0MzbDRTdFB0X3VyTU5nRFdESkNsUWVwb0hZU0hRVFZlekQxbS1tWEdiYkpWNVpPYW5CU0ZsVC1sb3JnZTNuUWwzdVRYa3dRQ2w0RnZzVHBacXM?oc=5",
@@ -93,7 +546,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.97,
+          "observed_at": "2026-11-28T10:05:32.906600+00:00",
+          "returns_pct": {
+            "BTC": -0.0573,
+            "ETH": 0.0009,
+            "SOL": 0.0493
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9649,
+            "ETH": 4.9645,
+            "SOL": 4.9649
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {

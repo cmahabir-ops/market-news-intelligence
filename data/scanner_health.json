@@ -1,5 +1,5 @@
 {
-  "started_at": "2026-11-28T10:00:32.628942+00:00",
+  "started_at": "2026-11-28T10:05:30.147540+00:00",
   "feeds": [
     {
       "source": "Google News - Markets",
@@ -8,7 +8,7 @@
       "dated": 22,
       "http": 200,
       "processed_limit": 22,
-      "duration_seconds": 0.31
+      "duration_seconds": 0.34
     },
     {
       "source": "Google News - Crypto",
@@ -17,7 +17,7 @@
       "dated": 100,
       "http": 200,
       "processed_limit": 60,
-      "duration_seconds": 0.39
+      "duration_seconds": 0.47
     },
     {
       "source": "Federal Reserve Press Releases",
@@ -26,7 +26,7 @@
       "dated": 20,
       "http": 200,
       "processed_limit": 20,
-      "duration_seconds": 0.05
+      "duration_seconds": 0.06
     },
     {
       "source": "SEC Press Releases",
@@ -62,7 +62,7 @@
       "dated": 20,
       "http": 200,
       "processed_limit": 20,
-      "duration_seconds": 0.2
+      "duration_seconds": 0.32
     }
   ],
   "edgar": [
@@ -102,8 +102,8 @@
       "filings": 0
     }
   ],
-  "completed_at": "2026-11-28T10:00:35.269795+00:00",
-  "new_events": 1,
-  "total_events": 1627,
+  "completed_at": "2026-11-28T10:05:33.246708+00:00",
+  "new_events": 5,
+  "total_events": 1632,
   "alert_failures": 0
 }
