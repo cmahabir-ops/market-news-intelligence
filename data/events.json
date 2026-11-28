@@ -34420,6 +34420,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.2175
+          },
+          "1440": {
+            "price": 59429.815,
+            "observed_at": "2026-11-28T17:40:34.055899+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.404
           }
         }
       }
