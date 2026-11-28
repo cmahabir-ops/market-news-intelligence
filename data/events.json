@@ -1,5 +1,57 @@
 [
   {
+    "id": "d4623e4329b553d53c54",
+    "title": "First Helium Shares Stay Halted Pending Reserves Review - Wisevoter",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnJvc1owS2xKNVpDY29NcjVqNVlMblVpVXlIbzc2N2owN0xfWjlWSWVxa19iR1VTQUplcURHbFNsd0R4VmxBNzFQQ1ZyTm5BMEVUNDhZY1NXejVwZXBnZ1lsNEdVTG8tV2JuRndvdjlldy1ZRnNQY2hmRVRhb3pKWDh0S3ZXQmEzaGMtQW5OTnI3ZTV5VWd2a0lnOVA?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-28T02:02:11+00:00",
+    "detected_at": "2026-11-28T14:00:37.282947+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 718.4,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 718.44,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "589f1f29827cea1126e8",
     "title": "Could Ripple’s RLUSD Lose Its Dollar Peg Like Trump’s USD1 Did? - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRU5xdkNBbG12eERPcHhtbk1nOVRyS21DMS1YM0tJVVVXbDZPRV81MkhNTExkVVdVaVF4bmxSYjM1T1RaaEJSWmVWOE9ST3YyZnhvVzRUc2hMeUZXS051cTV2dDVJU1FWYW9rMkxYSUNaWC1HSWF2SWhaRXpTQ3hJdHJPUFF3cjNYcDIxR1FDVExVdkhzcmJXczN5SDR1cW5mTWUwYXMzc2Rfek1SLXFXWkhOVFMzNTlrS29n?oc=5",
@@ -396,7 +448,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59060.625,
+            "observed_at": "2026-11-28T14:00:40.004628+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0195
+          }
+        }
       }
     }
   },
@@ -1740,6 +1804,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0209
+          },
+          "60": {
+            "price": 59060.625,
+            "observed_at": "2026-11-28T14:00:40.004628+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.2197
           }
         }
       }
@@ -6537,6 +6612,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.5437
+          },
+          "240": {
+            "price": 59060.625,
+            "observed_at": "2026-11-28T14:00:40.004628+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.727
           }
         }
       }
