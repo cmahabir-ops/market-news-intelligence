@@ -1,5 +1,57 @@
 [
   {
+    "id": "3dc5ff845e7a42b0b98a",
+    "title": "Gold Falls, RBI Holdings Don’t: Why India’s Reserve Share of Gold Dropped From 19% to Under 14% - NiftyTrader",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ud0xUZFRSbWNiSDk3YmI5UEVlakdaV0JJalNaN2NTa2ZQRmdjaHFjSF9DeU1QbUV3dWhWbmkzN3dvNm5JVG03MlZ6cjdvUjN2SHh0VUM0SlRXVllZVHE1Q2dld3hsUDJVbzFB?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-28T10:54:27+00:00",
+    "detected_at": "2026-11-28T15:40:28.226329+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 286.0,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 286.02,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "2bbe6c133257e9529e08",
     "title": "Binance Restores Crypto Withdrawals a Month After $6.3 Billion Breach as Bitcoin Slides to $59K - BigGo Finance",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82cm9wMEwwWWdYS1pOY1V0cUlhazlnQUR3am90SFBiUi00WXNlTW9rSDFEMDREQ3ZyNEp1X0pXOUZPbHdxaHZlUW4teG03WlNYWkF6WmY1OHVta0dCdEdRRS15bl8waGdyajVGMlh3VE1WdXFiTHc?oc=5",
@@ -93,7 +145,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.03,
+          "observed_at": "2026-11-28T15:40:30.693151+00:00",
+          "returns_pct": {
+            "BTC": 0.0261,
+            "ETH": 0.032,
+            "SOL": 0.0355
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0232,
+            "ETH": 5.0222,
+            "SOL": 5.0201
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
