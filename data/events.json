@@ -1,5 +1,179 @@
 [
   {
+    "id": "f06bd8ff6c7884ef6d44",
+    "title": "Bybit declines to publish full postmortem of $1.4B hack - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84Rk1TLXVMd1NCcU0zX1lfSjQ0dGhZZnFOS1d2T0RsZ1ExbTU5MkZLaGZ5WHlBcWRSLXpEdGt5NkJoZVdmRkdsYU1uZnJrQUVPeW1GaUlhUHlHa25VUm9hdlFrSmFCTEJ6MnhZdHd1WFFTWGxI?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T14:06:18+00:00",
+    "detected_at": "2026-11-28T14:10:30.256202+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 4.2,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 4.2,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "15536d80a1c2d7e2f29e",
+    "title": "How Much Ethereum Does Trump’s World Liberty Hold After Its $19 Million Loss? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOUNNeUFXMDdQbXVMSTNTVGFfQi1SYlZwSm1pdmM3WVpWcGFLUHY1VVluYUIwUFVUdlBzYUhIcXdLaHJFNDhuR1hBS1Jrc1R1S1NNZWdVc1BnY1NKOTRoenpfOEVmMFVhYWVBQ2IyZWVtM253YU5sUU84MDhrX2pKVno4Uldta0V3d0xnMlpSMDZHN1g1RURGZl9sNU9zdFBLcV83MDBZTlllWmJISUtxcEtrdmhxaVVNWUp2eDZlc1dVcXBvcmZESDhFX3lYdw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T14:03:00+00:00",
+    "detected_at": "2026-11-28T14:10:30.253461+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 7.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 7.5,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1640.865,
+          "observed_at": "2026-11-28T14:10:31.707546+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59077.065,
+          "observed_at": "2026-11-28T14:10:31.524569+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.275,
+          "observed_at": "2026-11-28T14:10:31.959420+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1640.865,
+          "observed_at": "2026-11-28T14:10:31.707546+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59077.065,
+          "observed_at": "2026-11-28T14:10:31.524569+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
     "id": "e034a5ba8baf5d472906",
     "title": "AI stocks rebound, Wall Street has its biggest weekly gain since April 2025. - Vietnam.vn",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSV9BbVNsVDVHakhidndzb255MFRHNXBLTlUwdnAtdGNSMzN3ckhSd2o4Y251ekcwUGtFSVppaTBWNkVua2l3cnh3TEw3b0pobjYtMDlDMlFTSUZSWTJ6Q1p6MGtONVVtRGpBZldwS1RNalZ0SnVDaEJfOHBRU3RZSHl5akp0TktXanRrRHpndHFjcHNhWW9xNWlMeWtMQQ?oc=5",
@@ -252,7 +426,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 0.93535,
+            "observed_at": "2026-11-28T14:10:32.118443+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1821,
+            "benchmark_return_pct": 0.2289,
+            "excess_return_pct": -0.0468
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 58942.155,
@@ -5746,6 +5934,19 @@
             "change_pct": -0.2183,
             "benchmark_return_pct": -0.3366,
             "excess_return_pct": 0.1183
+          },
+          "240": {
+            "price": 0.93535,
+            "observed_at": "2026-11-28T14:10:32.118443+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3834,
+            "benchmark_return_pct": -0.4614,
+            "excess_return_pct": 0.078
           }
         },
         "benchmark_asset": "BTC",
@@ -6010,6 +6211,19 @@
             "change_pct": -0.282,
             "benchmark_return_pct": -0.5758,
             "excess_return_pct": 0.2938
+          },
+          "240": {
+            "price": 0.93535,
+            "observed_at": "2026-11-28T14:10:32.118443+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.447,
+            "benchmark_return_pct": -0.6425,
+            "excess_return_pct": 0.1955
           }
         },
         "benchmark_asset": "BTC",
@@ -6269,6 +6483,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.5758
+          },
+          "240": {
+            "price": 59077.065,
+            "observed_at": "2026-11-28T14:10:31.524569+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.6425
           }
         }
       }
@@ -6518,6 +6743,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.5758
+          },
+          "240": {
+            "price": 59077.065,
+            "observed_at": "2026-11-28T14:10:31.524569+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.6425
           }
         }
       }
