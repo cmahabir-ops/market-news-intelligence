@@ -270,6 +270,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.98,
+          "observed_at": "2026-11-28T05:15:36.532510+00:00",
+          "returns_pct": {
+            "BTC": -0.3437,
+            "ETH": -0.2379,
+            "SOL": -0.2798
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.961,
+            "ETH": 14.9627,
+            "SOL": 14.9568
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1192,6 +1212,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0155
+          },
+          "60": {
+            "price": 59709.795,
+            "observed_at": "2026-11-28T05:15:35.607077+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.4379
           }
         }
       }
@@ -1378,6 +1409,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0155
+          },
+          "60": {
+            "price": 59709.795,
+            "observed_at": "2026-11-28T05:15:35.607077+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.4379
           }
         }
       }
@@ -1566,6 +1608,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0155
+          },
+          "60": {
+            "price": 59709.795,
+            "observed_at": "2026-11-28T05:15:35.607077+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.4379
           }
         }
       }
