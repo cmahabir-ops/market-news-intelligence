@@ -1,5 +1,57 @@
 [
   {
+    "id": "4d0746655cb404db2154",
+    "title": "Amazon CEO Andy Jassy projects AWS could exceed $1 trillion in annual revenue - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MX1B3ZEMySElZd1VRR0hjUW56Ukd4Zm02RThZMkZyU0FsRFV4WUlRaVZQS3BfVjMyTkJOQkZVbU56bmxKMmoyanJiRjlyOWNTcURnUDhJTWNpenBsMHNQZE9fZU1xblZBUWRlaW0tMUQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T02:32:59+00:00",
+    "detected_at": "2026-11-28T03:25:30.822121+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 52.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 52.53,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "982f0bbdd07f97811fc5",
     "title": "Traders Trim Fed Rate Hike Bets for 2027 - Wisevoter",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVHZCbHJpNUpQblpLU0NWUjIwT1R0Z3RMcVA5OVlkRjFzTjFmTVg1bUZoNVRJXzREV0liaVdsQlY0dVlaU2ltOGRIN3lZODZ2LVhBZlV5N1ozbmFwX2dhTWxqSy1UNkdac2xUTEowbUtiT3pKSzlGMmFaVDA1Z1NjSGpwMDE?oc=5",
@@ -74,7 +126,24 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.02,
+          "observed_at": "2026-11-28T03:25:32.182857+00:00",
+          "returns_pct": {
+            "BTC": -0.0562
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0084
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {}
@@ -366,6 +435,19 @@
             "change_pct": -0.3879,
             "benchmark_return_pct": -0.3292,
             "excess_return_pct": -0.0587
+          },
+          "60": {
+            "price": 1661.985,
+            "observed_at": "2026-11-28T03:25:31.748615+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.4319,
+            "benchmark_return_pct": -0.4696,
+            "excess_return_pct": 0.0377
           }
         },
         "benchmark_asset": "BTC",
