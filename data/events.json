@@ -1,5 +1,242 @@
 [
   {
+    "id": "f51de065740bb6896991",
+    "title": "Ethereum breaks key resistance: is the worst of the sell-off over? - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pU2xzVWxPRmx2emwtVUVua2g3MU44ekdDZERSZ3VLNUxxVG5kOWdoVEZXbDk4Z1ZlLVNhUGhoT0x2MUhfdVBWbkNzVG9OZnllbFgxYktQS0h3UQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-27T21:51:06+00:00",
+    "detected_at": "2026-11-28T03:45:25.330898+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 354.3,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 354.32,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1662.88,
+          "observed_at": "2026-11-28T03:45:28.018278+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59900.385,
+          "observed_at": "2026-11-28T03:45:27.808745+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.65,
+          "observed_at": "2026-11-28T03:45:28.494162+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1662.88,
+          "observed_at": "2026-11-28T03:45:28.018278+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59900.385,
+          "observed_at": "2026-11-28T03:45:27.808745+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "34ad69c8ed84d66cf988",
+    "title": "U.S. Stocks Stage Strong Rebound While Bitcoin Trades Independently Under Pressure and Retreats - NAI500",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ3d3VGZCb2YzWHlzM0VuMWhMVHU4VE1RQ0NjYW5IeHBNUURTU3JjQldlZnVCcFRudjhXc19lRU1WNGNHRWdpZ1FhemZMYTBseXlGVDI2bFFiOVFOSFJubEUyTmV6c2lzYUtRMHVYUDFZRWNqZWJpLWxtamZyV0ZjdkQ2VV9SN1RZZlA3X18yeHlKVmhLTWg3eFg0cUxzbEZ0U2IwSmxQOWl2WUNXRjQ4RFBrRHY3QjhpYVRQdFYyUnhheHZ4a2c?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T03:23:39+00:00",
+    "detected_at": "2026-11-28T03:45:25.329056+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 21.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 21.77,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59900.385,
+          "observed_at": "2026-11-28T03:45:27.808745+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1662.88,
+          "observed_at": "2026-11-28T03:45:28.018278+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.65,
+          "observed_at": "2026-11-28T03:45:28.494162+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59900.385,
+          "observed_at": "2026-11-28T03:45:27.808745+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "0390b4e903a5252612e6",
     "title": "US Stock Market Enters Correction as Technology Stocks Fall - JournalArta",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcEF0MElWSS04Y0ZvQ1h3MDlmUjdHTm5RN2N3M1RDWlhjdjVXcUxraVhjblZmTW9wX3JzdzU2c19LVEdqQ3I5RG5FWUp4d01VUzRJLVJrQnBPaEt5OUJ3czVXMzRGTXBzOS1Zc3VURjhzV0hIWFA5d3RZVmNMWVc0STQ2SjRJelk?oc=5",
@@ -210,6 +447,26 @@
             "BTC": 5.0879,
             "ETH": 5.0876,
             "SOL": 5.0863
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.85,
+          "observed_at": "2026-11-28T03:45:28.831400+00:00",
+          "returns_pct": {
+            "BTC": 0.1282,
+            "ETH": 0.1569,
+            "SOL": 0.2589
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.8328,
+            "ETH": 14.834,
+            "SOL": 14.8373
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
