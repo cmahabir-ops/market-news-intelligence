@@ -1,5 +1,118 @@
 [
   {
+    "id": "50933df3ff011ea10000",
+    "title": "Bitcoin Whales Are Doing Something They Didn’t Do in the 2018 or 2022 Bear Markets - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbkhPb1BFMVREY2xBSzlfV2NjcEJvRjE2a2swSFJ0VXJJMUtPNEtsaC02VEtMWHZCMVl4VVBBRm54ZmpEZkFBRE5lRXBBXzlkYXZrb3pvR1hyb0MzbDRTdFB0X3VyTU5nRFdESkNsUWVwb0hZU0hRVFZlekQxbS1tWEdiYkpWNVpPYW5CU0ZsVC1sb3JnZTNuUWwzdVRYa3dRQ2w0RnZzVHBacXM?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T09:50:00+00:00",
+    "detected_at": "2026-11-28T10:00:33.427649+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 10.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 10.56,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59493.145,
+          "observed_at": "2026-11-28T10:00:34.510149+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1650.65,
+          "observed_at": "2026-11-28T10:00:34.656007+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.98,
+          "observed_at": "2026-11-28T10:00:34.837116+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59493.145,
+          "observed_at": "2026-11-28T10:00:34.510149+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "ece14410a38ae786d334",
     "title": "Bio Protocol reworks launchpad after Molecule wins SEC no-action letter - Cryptopolitan",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5amd3aTJ4VUtISWdQRWlfV09zUjR5OUgyZ3RHZENPUkVfZFdtUWFBWVB0MkZBYW0xb2E4NW9RUGNGQWhmSkpLbXFWTnktYktRcFBBRFV4VlBkVF96d201bzkwdV9kYnAzdzRnUU9HdVVodlQ2SnVFUlVJb2ttcFk?oc=5",
@@ -165,6 +278,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.07,
+          "observed_at": "2026-11-28T10:00:35.010364+00:00",
+          "returns_pct": {
+            "BTC": 0.0316,
+            "ETH": 0.1672,
+            "SOL": 0.2542
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0603,
+            "ETH": 15.0609,
+            "SOL": 15.0605
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -181,7 +314,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59493.145,
+            "observed_at": "2026-11-28T10:00:34.510149+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0316
+          }
+        }
       }
     }
   },
@@ -363,6 +508,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.07,
+          "observed_at": "2026-11-28T10:00:35.010413+00:00",
+          "returns_pct": {
+            "BTC": 0.0316,
+            "ETH": 0.1672,
+            "SOL": 0.2542
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0603,
+            "ETH": 15.0609,
+            "SOL": 15.0605
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -379,7 +544,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59493.145,
+            "observed_at": "2026-11-28T10:00:34.510149+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0316
+          }
+        }
       }
     },
     "alert_delivered_at": "2026-11-28T09:45:32.252688+00:00",
