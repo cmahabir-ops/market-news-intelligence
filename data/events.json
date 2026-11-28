@@ -1,5 +1,136 @@
 [
   {
+    "id": "e5d2554f8d945a6d6a1e",
+    "title": "David Schwartz Says 80% XRP Validator Support Cannot Force Escrow Burn - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVd6dm5wbF9CdWI1OTVpSzZRcUxzMWxJNVJhdEJCVFFkVUJ3LUNKcXBNVmVHdjRHcnl5dnVnS1QxeHJZRVZnRVBiaHRfZS05UUlqakpPM1kwbXZaZGtESmFWcEMweHNQNVdLTmpSVkJ5QWZqVFdWdGVhWlAyRjhSSUxhT2RjT2YxbXpOdmFTNHNKZWFKY280bEptWXRyV3BBVWRRNE15ZnRwYll2RDBqam5xMk8?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T14:21:31+00:00",
+    "detected_at": "2026-11-28T16:25:27.727883+00:00",
+    "assets": [
+      "BTC",
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "XRP",
+      "BTC"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto",
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 123.9,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 123.95,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-28T16:25:29.082907+00:00",
+    "alert_last_attempt_at": "2026-11-28T16:25:29.082924+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "3e7cd514c4a093fc1d4d",
+    "title": "Crypto News Today: Bitcoin Price Risks a $55K Breakdown, Ethereum Faces RSI Extremes, and XRP Defends $0.93 Support - Brave New Coin",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX0tzVnMySnBveTRrNGFMUC1iMlJZd25wMDRxckpOV0hIbS1uTFFqVUhBQ05JaTI2M3QxOU15MVd3UW1oLWxkYktOVVBTRGVkLWdudy03akdQZzRvbmtWOWdCT1VSX0gwSlZMRFRIVzNXSkZKcXhjZXNPcGZ0WjZ3QnMxeGE2TEp6R1Nka1FWcXk2ZDZpakpEbkNaVGxFalFPeXk0bWVOeEdjOTh6MjZ5M0R5ZktBVmp4eGdFSFdwT195YTd5LU5hMkx0Mjc0YkFyLVp4aFVYb0w5UkI4?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T16:19:32+00:00",
+    "detected_at": "2026-11-28T16:25:27.727377+00:00",
+    "assets": [
+      "BTC",
+      "ETH",
+      "COIN",
+      "XRP"
+    ],
+    "market": "Both",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto",
+      "ETH": "Crypto",
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 5.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 5.93,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-28T16:25:29.386482+00:00",
+    "alert_last_attempt_at": "2026-11-28T16:25:29.386498+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "c9759431dad76f9f4dfc",
     "title": "Crypto News Today: Binance Ends Freeze, Fidelity Files LINK ETF - CoinMarketCap",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EZ19MRzdjZkRCenRzeDl3d29RNEpIQVRMVzFJWU41OVN6bmE1NnVxNW1jUmxwWUVKZklxT21pXzZXQXpDb28zM1BGTUxweTdqeEhSQi1WaVpHQWdxZTZnc2dNU2JfdXVNN3d3NlZ6R2plbDJqUkdSal9iaw?oc=5",
