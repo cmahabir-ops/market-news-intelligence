@@ -253,7 +253,21 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {},
+        "followups": {
+          "15": {
+            "price": 1662.72,
+            "observed_at": "2026-11-28T02:40:35.195956+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3879,
+            "benchmark_return_pct": -0.3292,
+            "excess_return_pct": -0.0587
+          }
+        },
         "benchmark_asset": "BTC",
         "benchmark_baseline": {
           "price": 60147.985,
