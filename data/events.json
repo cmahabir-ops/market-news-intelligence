@@ -1,5 +1,132 @@
 [
   {
+    "id": "afcf08c66b4296a926ce",
+    "title": "Bitwise XRP ETF clients buy $5.4 million in a single day - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdEs4M3g1SGxOVF9SdVdad21ZMTQxTUFDS3pSLXhEQ2M5TDQ5b3RpVUhONXVpRERKY2NCeFkyemJ0bnpnNnpNSENaREpFU1FVSlFGdUJOa0dlUDlpd1RTWnZrU1BqM1N5bllyaHA4YjZLWUZLUkE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T04:03:15+00:00",
+    "detected_at": "2026-11-28T04:30:33.917196+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 27.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 27.32,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.9494,
+          "observed_at": "2026-11-28T04:30:36.354388+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59957.565,
+          "observed_at": "2026-11-28T04:30:35.195334+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1663.52,
+          "observed_at": "2026-11-28T04:30:35.427702+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.9494,
+          "observed_at": "2026-11-28T04:30:36.354388+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59957.565,
+          "observed_at": "2026-11-28T04:30:35.195334+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    },
+    "alert_delivered_at": "2026-11-28T04:30:36.924612+00:00",
+    "alert_last_attempt_at": "2026-11-28T04:30:36.924631+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "225833d7d90af0a1a73d",
     "title": "Abraxas Capital left Hyperliquid and moved over $1B of Bitcoin — Why? - Cryptonews.net",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DWks5eEhjblBGV2N0VHNGcV9uMXJlRFNRX0tSQkYzZ21uLUc2NFJoOE1qSUZ0X2Q2N1p1UGdrTmstU1JUQXNyZ09tM2U1SklOb05Hb3NVRFU?oc=5",
@@ -1179,6 +1306,26 @@
             "BTC": 14.8328,
             "ETH": 14.834,
             "SOL": 14.8373
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.98,
+          "observed_at": "2026-11-28T04:30:36.408106+00:00",
+          "returns_pct": {
+            "BTC": 0.2237,
+            "ETH": 0.1954,
+            "SOL": 0.1539
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9559,
+            "ETH": 59.9575,
+            "SOL": 59.9613
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
