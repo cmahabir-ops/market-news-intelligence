@@ -1,5 +1,161 @@
 [
   {
+    "id": "bd555e2931361ca60c7c",
+    "title": "US markets week ahead: Investors eye jobs data, manufacturing & services reports; Salesforce & Marvell earnings in focus - Livemint",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdlhVdXJuSHJlZ2JaVzRZVWlPUHE3UFNmQVpTcVc5a2ZfYk5FcnpUN1pmczU3MVJlcjhTVVphc3p3OUwxY2stWmpmaXN1VWxhbnZqcDFhR2pOQWdHV2RYR1dkUmFtNDZZbks1VE1ncWhiN3h6RXB0ejJHVG1RbkVSMzEzSG5BT19vQXlRc3JnU2t0WHNMMWJTZDUyRExFZ1paRVY4VHhkSFdYYWphRUFjNEZPdV9tUjd5SUVOLVc5T19xbEJYMks3NHJlbWV3c1FLZF9KdDl1V2UwcDd0U3VUNlZPZ0hWc3FYQUxIbVllZmExNjUtRl9nMm9CVDNXZ183YUMyZdIBigJBVV95cUxNendkaUpxVjN2clktSHkxYktoOXhpa2FvWUhSS1gxbG9xeFdLZjJMcFQ0Y3AxUlE3VzFGU3NNVE5ERUZJOXBqR0ZyR1pHelJiMEI3V2FhT1BJczFsdF9DWVdEbWhzOEE0Q2JENlN1T0lHaUE4ckg3dFBvSlVvdFpUWkJSbmFfWHR1Zi1HN2Q2cFAyejRXX1VvV1FVYl8zM21HV2FYOHhFRmJlSXUtUTFtZjVJaE9DQldSUzZIMDFjNkg1aHBSVTliZHRxMVhGZUwwODF1blJlLWpZc1ZEcE42bEYwZkktV0xZbU83VGtOTnZFNzJ0bVlXeDA1Zk8zMDJUM2JmWFVxeFkzZw?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-28T17:15:02+00:00",
+    "detected_at": "2026-11-28T17:25:26.170595+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 10.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 10.4,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "37dcd2b6a0c48cbc0acc",
+    "title": "Real estate stocks jump amid broader market optimism - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb3pUWFpBWUNpUmt1TkZmSHpWTnVOcXB4NGJON0RXQXhYcTBhZ0dfWHNsbS1pbU9KSk50dVNfcktJZHJzcDdUbVpCZElMaEdqWVlXSHVYc0RuS1dCVHBtUjBKOWNuM29uQWhUTlU0SHdIZDhXS1NTQThpR2lfbkRINkN0WHhHbE5VdFNaTWt6SmJMWHF0T04xNURVc3B3OHVVUlFfeVJyYTdxc0JzLURVQzdxMXctUQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-28T17:00:59+00:00",
+    "detected_at": "2026-11-28T17:25:26.169418+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 24.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 24.45,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "46d4dff029923384a80a",
+    "title": "Volatile US market confronts jobs data, rate view as next tests | Gulf Times - Gulf Times",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHdhd2EzUUVXNXNtdFFMUGdmdGJhLUs3dTF1TFpQREltUFNKMmxSYzdGQmZ3eUxBVE9udFh0OWpyYjZobkVKZWxucnVzcEFDQngwUUFNTENsYWt6T0wwZTV1enMzU3dLLXlvSlA4OVY4aXdFX3A2eERTazhRelA1ZlY0TldtYXpYQTZJZ3lhNXVpam9nMmZCS1F6Z2NWTmUyVThfSmFCMFM1VHNlSkdPNXR1cDZicDlR0gG4AUFVX3lxTE1kd2F3YTNRRVc1c210UUxQZ2Z0YmEtSzd1MXVMWlBESW1QU0oybFJjN0ZCZnd5TEFUT250WHQ5anJiNmhuRUplbG5ydXNwQUNCeDBRQU1MQ2xha3pPTDBlNXV6czNTd0steW9KUDg5Vjhpd0VfcDZ4RFNrOFF6UDVmVjROV21helhBNklneWE1dWlqb2cyZkJLUXpnY1ZOZTJVOF9KYUIwUzVUc2VKR081dHVwNmJwOVE?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T21:00:00+00:00",
+    "detected_at": "2026-11-28T17:25:26.168641+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 1225.4,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 1225.44,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "71146902c9b7fccd3402",
     "title": "Arthur Hayes sees crypto bull run after a possible AI bailout - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XRmN2eXo0MTlpdHZ3amZ2OFBucG1zVjY4aXdLVUdsdTY4cTB1T0Yxc2JWNWZrbkRnZnByYmx6RVV1YnN5SjFzbGV4dnNJcFlKQWx4MlhjUldKcHRGajNBeHRWUV82SHpJOFhrcg?oc=5",
@@ -216,6 +372,26 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.96,
+          "observed_at": "2026-11-28T17:25:27.989020+00:00",
+          "returns_pct": {
+            "BTC": -0.1545,
+            "ETH": -0.1996,
+            "SOL": -0.269
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9545,
+            "ETH": 14.953,
+            "SOL": 14.951
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -399,6 +575,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 1,
           "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.96,
+          "observed_at": "2026-11-28T17:25:27.989088+00:00",
+          "returns_pct": {
+            "BTC": -0.1545,
+            "ETH": -0.1996,
+            "SOL": -0.269
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9545,
+            "ETH": 14.953,
+            "SOL": 14.951
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -34831,6 +35027,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0728
+          },
+          "1440": {
+            "price": 59459.995,
+            "observed_at": "2026-11-28T17:25:27.556845+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.5932
           }
         }
       }
