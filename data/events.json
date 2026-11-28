@@ -1,5 +1,169 @@
 [
   {
+    "id": "9e0ea0d2ec95f31b036f",
+    "title": "71 Blog Posts To Learn About Cryptocurrencies - HackerNoon",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45eDJ0WUl6ZUtvM3h6NnA2NkxDRk11SFFnOHY2SlJ2ZzNMNGtra1Vfejd2UW5YTnpVcVc5R0tQaEZXZDZfSFpyblFILVo1alRKTnRlQURTbEJjMmFwSGRGZmF4Z1FFZ0llSUFwaVBEUkw5WDdVeFY4?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T15:07:19+00:00",
+    "detected_at": "2026-11-28T15:55:27.392476+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 48.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 48.14,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "4edd0cf98caeeb1d1bd4",
+    "title": "Claude AI Responds to Chamath Palihapitiya’s Claim That AI Could Break Bitcoin - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRUVVWUVfb3Qzblpod3VTcE1TVFlGRms1TkVTQ0FNblM3a1A3YXNmTHI1MXdaVjdCdmlsNXR6Rmh4SklHcENvOE0yTXF3RV9uajJ6TWJtVEltcGNVaGVSZ0x6SV9uM1BQNU1TZnZ0R2dJYk12dVcwVXd3cTlLNjh2Qmt2M3FzU0ZvbFJac25aV1NRWmVFVjY1TE5NdVREQ2JwN0JmX2w5S3MyRHd1cXFEbHAxaHBQODlqX3p2NEw0RThwdGZ4S1VwUHJvbVRYOXNBRWc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T15:47:00+00:00",
+    "detected_at": "2026-11-28T15:55:27.387762+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 8.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 8.46,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59414.785,
+          "observed_at": "2026-11-28T15:55:28.241223+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1648.335,
+          "observed_at": "2026-11-28T15:55:28.357045+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.595,
+          "observed_at": "2026-11-28T15:55:28.462458+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59414.785,
+          "observed_at": "2026-11-28T15:55:28.241223+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "f834de4d777364990db8",
     "title": "The $6 Billion Bank Failure That Was Already on the Watch List - Money Morning",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWmVHekN5M0kyRVNaYWZjU19jaVFpdTgzMEtmNFl1d1BFTVl0TnE3MklOSEpHek1nSWxyLVFkLWZDMXNybnoyWG93SklPT3c5QVM2T2JmOHVsSVdSR1MxVkUyb3FoT2c3MFd1d0E0UnF3QXBBZi1YXy1ZZnkwWnY2a0NSeGgyWW0zbmwyQnRfYUxXdmZRYlE4TGNfQV9Hek0?oc=5",
