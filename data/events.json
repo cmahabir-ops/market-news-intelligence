@@ -1,5 +1,173 @@
 [
   {
+    "id": "d15048c231211b2cb3a1",
+    "title": "SEC Proposes 'Regulation Crypto Assets' With $75M Fundraising Exemption - CoinMarketCap",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDlJVWJJRi1zeWkzNXRaSkJ6YzFpSkp6RE92VlBzQ0JXWVp2a0Q3QVJfNHMwdVFIMUhpMkM3YTV6U1BUdjJSWV9UUmYwY3ZBMV82UW9NeWRVQlF0QlRwYWNucXQycFNLeHY3UWJaSWQ0NFA0UFhla0xtYTZNcFFyX3BLREM5T2ZvZjRPcExlM2V0Vjl0Sl80R3dnUVl3a2w5eEZQOG5ZOUFCMW5JN09SdmJmVDEzS2s?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T04:06:34+00:00",
+    "detected_at": "2026-11-28T06:45:30.696023+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 158.9,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 158.94,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "c9003034589a347eddd4",
+    "title": "Bitcoin price falls below $60,000 as whales buy dip, ETF outflows mount - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzZCV0ZWdEJib00yM054QzE2YlFfaWFPRVd2VGJ3MjR4bVNTSnB5amxISEZzM3g3a1BMYzQ1bHY1MmprRGoxbWhoOTZwalY0UDhzbGt5c2dDRjdEdVFqMDBjYXBxUUFYZFR0dE9sNDdUNkJDSGhXNXVfNmZPQV9EZ1EwbVhxV0tHV1JzSGdxMEltd041bWpZYg?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T06:26:00+00:00",
+    "detected_at": "2026-11-28T06:45:30.694184+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 4,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 19.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 19.51,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59808.545,
+          "observed_at": "2026-11-28T06:45:32.043155+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1659.26,
+          "observed_at": "2026-11-28T06:45:32.186149+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.38,
+          "observed_at": "2026-11-28T06:45:32.368841+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59808.545,
+          "observed_at": "2026-11-28T06:45:32.043155+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-28T06:45:33.117774+00:00",
+    "alert_last_attempt_at": "2026-11-28T06:45:33.117789+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "4cad7705da2f4977f5ea",
     "title": "NFT sales fall to $30.4M as a Bitcoin trade fetches $497,065 - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40U2lnbTRQNGFuZTkzS3BvY2RHTGVZbC1HVy1QMFZ3Z2J6N2hNeDRENWdwdUh3aUNERXRFdXA0UUJKTTFnVmJ6NXIyNTFSdm5UZWdMVUJlU3B3U0xEUHc?oc=5",
@@ -94,7 +262,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.0,
+          "observed_at": "2026-11-28T06:45:32.593270+00:00",
+          "returns_pct": {
+            "BTC": 0.0587,
+            "ETH": 0.0042,
+            "SOL": -0.042
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9878,
+            "ETH": 4.9885,
+            "SOL": 4.9882
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -1056,6 +1245,26 @@
             "BTC": 15.1677,
             "ETH": 15.1654,
             "SOL": 15.1619
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.98,
+          "observed_at": "2026-11-28T06:45:32.593356+00:00",
+          "returns_pct": {
+            "BTC": 0.2723,
+            "ETH": 0.3827,
+            "SOL": 0.3233
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9743,
+            "ETH": 59.972,
+            "SOL": 59.9682
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
