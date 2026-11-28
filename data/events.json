@@ -1,5 +1,181 @@
 [
   {
+    "id": "f42036d12aca7ed808eb",
+    "title": "Amazon’s AI business is growing 440x faster than early AWS, says Jassy - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81NkxTd2ZBSVJYQzZYNGdLRDJlMVVPU2w0TFR3Tm1MQVRIbU13OWhpaWVKRFpLc3JuNk8xbGFkY25pT3VaRlBxU1I1WGt4TGliN2l3b19IVzFDTzMwd1dFTm1sRzl5MVhFcjN3T2dhOA?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T01:20:51+00:00",
+    "detected_at": "2026-11-28T02:20:37.644580+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 59.8,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 59.78,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "0c6e8195480464c4c88f",
+    "title": "Bullish expands equity tokenization services to Aptos and Ethereum - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oZWU1R2lDVVc2eVJvYldhdGpoYWx1XzNxdnU3cDAweFdXRzZ0RUJiLVpMSi1BQTNwSnA1QjUyNHRjVVdvdGtfYlBWZ2gzcW5odjd2TVpPN3VVal9RQklwaXF6LVRfX2p1aEJYZktsM0ZBUVN3Vnl3Rkpn?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T02:05:42+00:00",
+    "detected_at": "2026-11-28T02:20:37.639658+00:00",
+    "assets": [
+      "ETH"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "ETH",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "ETH": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 14.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 14.93,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "ETH",
+        "BTC",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "ETH": {
+          "price": 1669.195,
+          "observed_at": "2026-11-28T02:20:40.881308+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 60147.985,
+          "observed_at": "2026-11-28T02:20:40.682413+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 72.095,
+          "observed_at": "2026-11-28T02:20:41.146617+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "ETH": {
+        "baseline": {
+          "price": 1669.195,
+          "observed_at": "2026-11-28T02:20:40.881308+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 60147.985,
+          "observed_at": "2026-11-28T02:20:40.682413+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
     "id": "36188950923478bc6591",
     "title": "Russia’s VTB Launches Bitcoin Trading After Central Bank Approves Crypto Test - Blockonomi",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcUdYVklacmx3TUowTUh0WWZLcWo4OXdNVlM2RWp2VENYdlQ5SnFpbE1CdGgxdU5pZHVoMWlUS2VPWHVvLUhjTkgtLUdrR3NBajFpQ3NfcVlmUkl3YVFSYTdxVFZmZTVNSzZyV0N3cG9DX3NMWXZ5UEU0NzlxdVZwNzVJdG15eGJESi0xaGZxejVUUm4tRFd1Z2RvMUYwZkxEalE?oc=5",
@@ -93,7 +269,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.26,
+          "observed_at": "2026-11-28T02:20:41.332640+00:00",
+          "returns_pct": {
+            "BTC": -0.0372,
+            "ETH": -0.0138,
+            "SOL": -0.0624
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.2478,
+            "ETH": 5.2486,
+            "SOL": 5.249
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -206,7 +403,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.26,
+          "observed_at": "2026-11-28T02:20:41.332695+00:00",
+          "returns_pct": {
+            "BTC": -0.0372,
+            "ETH": -0.0138,
+            "SOL": -0.0624
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.2478,
+            "ETH": 5.2486,
+            "SOL": 5.249
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -319,7 +537,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.26,
+          "observed_at": "2026-11-28T02:20:41.332737+00:00",
+          "returns_pct": {
+            "BTC": -0.0372,
+            "ETH": -0.0138,
+            "SOL": -0.0624
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.2478,
+            "ETH": 5.2486,
+            "SOL": 5.249
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -3155,6 +3394,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.1777
+          },
+          "240": {
+            "price": 60147.985,
+            "observed_at": "2026-11-28T02:20:40.682413+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.852
           }
         }
       }
@@ -3355,6 +3605,19 @@
             "change_pct": 0.345,
             "benchmark_return_pct": 0.2606,
             "excess_return_pct": 0.0844
+          },
+          "240": {
+            "price": 0.9531,
+            "observed_at": "2026-11-28T02:20:41.298417+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 1.1783,
+            "benchmark_return_pct": 0.9236,
+            "excess_return_pct": 0.2547
           }
         },
         "benchmark_asset": "BTC",
