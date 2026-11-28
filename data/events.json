@@ -1,5 +1,57 @@
 [
   {
+    "id": "47c975520d1dabdda5fc",
+    "title": "Gold stocks fall as spot price hits one-year low on Iran tensions - scanx.trade",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWFlvQnIwbFRBUkdiVndDeUJqdmhXM0pFTDJBd21hQXRwbmtxYkJ4cUR3TXJERkxpdlprMVRkY0NucDhmUXg2Q2xaVFpxd3JXSEJJTVQxSGlGRVRsWnpYLUMxaWVnRjZFTVdkNnVsOC0zdzBlbk5WclBNcGJEczQzamlGSzVzV1NJc1c2eFJCRXl6Qk9jSWt0SmpGUm54UWktRHdjV191UGFaV21hSEMzU1diaHFKMVc3bXc?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-28T03:03:12+00:00",
+    "detected_at": "2026-11-28T14:20:27.767384+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 677.3,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 677.26,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "f06bd8ff6c7884ef6d44",
     "title": "Bybit declines to publish full postmortem of $1.4B hack - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84Rk1TLXVMd1NCcU0zX1lfSjQ0dGhZZnFOS1d2T0RsZ1ExbTU5MkZLaGZ5WHlBcWRSLXpEdGt5NkJoZVdmRkdsYU1uZnJrQUVPeW1GaUlhUHlHa25VUm9hdlFrSmFCTEJ6MnhZdHd1WFFTWGxI?oc=5",
@@ -1325,6 +1377,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.09,
+          "observed_at": "2026-11-28T14:20:31.007894+00:00",
+          "returns_pct": {
+            "BTC": 0.0656,
+            "ETH": 0.0064,
+            "SOL": -0.3822
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0733,
+            "ETH": 60.0752,
+            "SOL": 60.0759
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1352,6 +1424,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": 0.1881
+          },
+          "60": {
+            "price": 59143.135,
+            "observed_at": "2026-11-28T14:20:30.176174+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0656
           }
         }
       }
@@ -1537,6 +1620,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.02
+          },
+          "60": {
+            "price": 59143.135,
+            "observed_at": "2026-11-28T14:20:30.176174+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0572
           }
         }
       }
