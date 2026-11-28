@@ -1,5 +1,117 @@
 [
   {
+    "id": "f987942f8fe01ed8d2d3",
+    "title": "WLFI’s Rollercoaster Intensifies as Bitcoin (BTC) Loses $60K Support: Weekend Watch - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZUMxeFh0UHlFM3BrZW5vYXY2cHBfS1ZFcUNjLVYxMGhvenp0RjNtZ0Q5TVpLWnQ5cVc1cXExaUpZak8yMXFCV1NYdXJSY3I1S1JxTi1TRmNfV0ZJZWJxX0RXal9yUTdJWVRzbEZKRVJTNnpNM1BISmYycXZ4bHYwWmE2RExYZzBlWEJuMWJ5VnZfY0E1cXREaXNvMFc0WFFrcThiX2Y4UQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T12:00:00+00:00",
+    "detected_at": "2026-11-28T12:05:31.046175+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 5.52,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59258.785,
+          "observed_at": "2026-11-28T12:05:32.239406+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1649.385,
+          "observed_at": "2026-11-28T12:05:32.447236+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.975,
+          "observed_at": "2026-11-28T12:05:32.847506+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59258.785,
+          "observed_at": "2026-11-28T12:05:32.239406+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "c034cfb45d4a614b3f98",
     "title": "Binance taps SAFU and futures insurance fund after $6.3B hack - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aTDA0Qmpmd1NzSktJRHpCSUx4MlBFNHh3OWRHNWdFUlhJeHpSSnFNT3lpQUxwRFFTSE9uYXE3OHM2ckt6Mi03NlpsbnR2WFZ3SlJKa0JNWWpzT3ZHLXNUbWl6V3UyWjdEUGZDdmdHeVA?oc=5",
@@ -1166,6 +1278,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.98,
+          "observed_at": "2026-11-28T12:05:33.204738+00:00",
+          "returns_pct": {
+            "ETH": 0.3834,
+            "BTC": 0.2403,
+            "SOL": 0.524
+          },
+          "asset_elapsed_min": {
+            "ETH": 59.9657,
+            "BTC": 59.9657,
+            "SOL": 59.9694
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.1431,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1341,6 +1473,26 @@
           },
           "benchmark": "BTC",
           "primary_excess_return_pct": 0.0206,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.98,
+          "observed_at": "2026-11-28T12:05:33.204777+00:00",
+          "returns_pct": {
+            "ETH": 0.3834,
+            "BTC": 0.2403,
+            "SOL": 0.524
+          },
+          "asset_elapsed_min": {
+            "ETH": 59.9657,
+            "BTC": 59.9657,
+            "SOL": 59.9694
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.1431,
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
