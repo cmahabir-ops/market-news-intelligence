@@ -1,5 +1,173 @@
 [
   {
+    "id": "2bbe6c133257e9529e08",
+    "title": "Binance Restores Crypto Withdrawals a Month After $6.3 Billion Breach as Bitcoin Slides to $59K - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82cm9wMEwwWWdYS1pOY1V0cUlhazlnQUR3am90SFBiUi00WXNlTW9rSDFEMDREQ3ZyNEp1X0pXOUZPbHdxaHZlUW4teG03WlNYWkF6WmY1OHVta0dCdEdRRS15bl8waGdyajVGMlh3VE1WdXFiTHc?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T14:55:00+00:00",
+    "detected_at": "2026-11-28T15:35:26.621833+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "commentary_or_price_recap",
+    "detection_delay_minutes": 40.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 40.44,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59190.975,
+          "observed_at": "2026-11-28T15:35:28.806181+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1643.185,
+          "observed_at": "2026-11-28T15:35:29.025519+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.375,
+          "observed_at": "2026-11-28T15:35:29.291419+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59190.975,
+          "observed_at": "2026-11-28T15:35:28.806181+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    },
+    "alert_delivered_at": "2026-11-28T15:35:30.047232+00:00",
+    "alert_last_attempt_at": "2026-11-28T15:35:30.047251+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "b768af6eb1d903f1c0b4",
+    "title": "Stocks are chasing a rare buy signal as markets brace for a potential Fed hike: Chart of the Day - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMzhoVzE0b3pzelI5M0ZIVTU2RDY1eDZRWV90UzhDTmhsUEI3T3NEcUFOR2pfYlFja0VNbjduUXRXZFQwZTZYTXp3TG9pQ3V3V1ZnMnNxRFBaVUlfNlpDRFYtNFFUS3lFZHpYSUZQelhXWGFOS0xkVDc2NlAzQ2R2cXo4cG1vcnRKMHBGTEg4RW1zOXRSaFRLX1VWdmFaSExnVVVMZkc5RVpRWGhZUzJEeDZDWXVzRmFubU9kNEFxanlIUTNjME50SG5BOXJFUHQyekpudHNXcVE2djhSU0dHUWNsb0dibzQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-28T12:05:24+00:00",
+    "detected_at": "2026-11-28T15:35:26.159095+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 210.0,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 210.04,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "1a35dab969dcfab92d17",
     "title": "Gemini Neon Names the Year Bitcoin Could Reclaim Its $126,000 All-Time High - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZWNiQUVZR3FRZUFmNjlVYWdReVpLbjE3dUlPZng2QnlLZEVDUnFJRnZVdkxacnk5dnF2RERmRnpCVlVNcXJHLVFqS0RFc1o5eE50S0ZGNmJ5QzZMY0M0Mm8tYjJRV2IydGpsTkFMeTZ2c1VaTWJwY3dIakNobmZncEktenJSQ0J1bnBqWl9hdnU4ZHlXMGlyOFZFR2FBTmNST1lPWmVYYnhLR2ZOaTFtUndLY2ttOGlEbm8yT1NYeWdHLUcxYjJickhkQmI?oc=5",
@@ -92,7 +260,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.83,
+          "observed_at": "2026-11-28T15:35:29.510978+00:00",
+          "returns_pct": {
+            "BTC": -0.1196,
+            "ETH": -0.164,
+            "SOL": -0.2339
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.815,
+            "ETH": 4.8153,
+            "SOL": 4.8171
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
