@@ -1,5 +1,169 @@
 [
   {
+    "id": "fa8b1383cb1f1f0d86a4",
+    "title": "European Commission proposes €50 billion tech fund in bid for quantum leadership - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41R0dpcU10LTdwaXJRTVdkWDFRVUtRYzBDQ3pqWkFBODBsRW13QWM4YW16bzJnSHI1SVZiQ0xUVmJyUmNkbjN2cnFPT3JsM0ZEV1RNdzNhT2huclVMSUtmV2VRZUtic0pEN0l3NFNaOFRCMGJQeUNTUw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T09:04:57+00:00",
+    "detected_at": "2026-11-28T09:10:25.131160+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 5.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 5.47,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "afd5197608de9ba0067f",
+    "title": "USD1 Peg Slips Across Three Exchanges After WLFI Selloff - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVjJrZ2hoV19NLXVQMzB1eHZSVzZxNV9JZU1mN0hpMWlBdjc0eVVSRWN2aXlJUWpBUzZrb0VjOWJzaGFTVU9YMkowczN2NlNlazBpLWFVOHVtSHRrZGQ2Q201dmJPYnNZbHlZWENNeVhvajZIMHU1R2lTQWdSa2Q5a1lpSkVWTDFvRWhicDdwaEJoSDBPQXBQRjRfNXBBVV92M2dKSQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T06:26:34+00:00",
+    "detected_at": "2026-11-28T09:10:25.128483+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 163.9,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 163.85,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59566.635,
+          "observed_at": "2026-11-28T09:10:27.178436+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1650.7,
+          "observed_at": "2026-11-28T09:10:27.543124+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.965,
+          "observed_at": "2026-11-28T09:10:28.312003+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59566.635,
+          "observed_at": "2026-11-28T09:10:27.178436+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "4a87647fe9a12263121a",
     "title": "Telegram iPhone Warning: Durov Urges Updates to Older iOS - Bitcoin Foundation",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWtxaFZGektGT28xSm5IaTQ2MnBvejN5WjlFc0JNbXc5c3JUeXh3cFp1bnB6RkVCV2x4RVJQTHViVEcyMzZxV2FmMkJHQ1pMdWw1WmlqeWhUbmwyQl8yZzY3T2tKSy1pMTZ6TFY5XzNZaHhNaFBZLVJMLUl6eHpXZXRxbmcxMXJtMWJRN1oySHZBWXVNTXJOVDM0bllodTIxcmNZc3pwR2JFLVBLbXdUbEIwckxoR09u?oc=5",
@@ -958,6 +1122,26 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.05,
+          "observed_at": "2026-11-28T09:10:28.799493+00:00",
+          "returns_pct": {
+            "BTC": -0.2099,
+            "ETH": -0.3372,
+            "SOL": -0.2109
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0245,
+            "ETH": 60.0262,
+            "SOL": 60.0293
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -985,6 +1169,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1555
+          },
+          "60": {
+            "price": 59566.635,
+            "observed_at": "2026-11-28T09:10:27.178436+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.2099
           }
         }
       }
