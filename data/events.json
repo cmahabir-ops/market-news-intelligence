@@ -1,5 +1,222 @@
 [
   {
+    "id": "a513cccfa7b713641df6",
+    "title": "BNB Chain, Woori Bank and BPN reportedly plan cross-border stablecoin pilot - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xYWxvLXhRR3FJNkZxSlhLQkQ4RWp1Vk5hWW5jSU5mM2VIQ1N3a2NPblAtbGxXRlh1WlFxaGNfVTNlRk42Q1Bmbl8yM2xfbUY5QVhGcUtFSnA0ek5BbkVBNDBZTV9iT3dtOE5DUW5hVlJSZFFGVFFnRw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T12:05:50+00:00",
+    "detected_at": "2026-11-28T12:20:26.738062+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 14.6,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 14.61,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "de3f4838000752463adb",
+    "title": "Changpeng Zhao: \"Even $60,000 Is a Good Price for Bitcoin — Crypto Market Nearing Bottom\" - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45NzlLZlFrWXU0SDFHb19BeDdtNGo5QnBDcEpkLUd3bC1UVGROUFVyQ1JVR0czdTZxSUhiQkxocG1zcGMyTGtGQUZ5TEtGVURwVDF0Q3NwNTF3LWZXVGpVb0RuanNXNU1OS0ozbFBCckFFQjFrX0E?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T11:05:00+00:00",
+    "detected_at": "2026-11-28T12:20:26.735986+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 75.4,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 75.45,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59295.475,
+          "observed_at": "2026-11-28T12:20:28.502241+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1651.455,
+          "observed_at": "2026-11-28T12:20:28.775110+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.035,
+          "observed_at": "2026-11-28T12:20:29.388438+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59295.475,
+          "observed_at": "2026-11-28T12:20:28.502241+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "018c0aa2d430bdda3a45",
+    "title": "Binance founder notes security complacency after $6.3bn hack and calls for crypto industry alliance - The National",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNamVrZHF2bXJxclhEOTNwQnNzZnR1QnNHUkVuUEt1ZVNPdGxuTDdldnFsN2R6WEpqYjJERVd0OExRV0pJakJrbGlvV3Q2bW1qaHp4aVZuUWdtNTd5UFdpUV9TY3R1X3NfU0k1OFBCaGxrSDFBMFRjS01HZ1ZrVmktYVlfS3Foa3F4cG5OektFV0hqYkxHc05PM0lXQ1B1ajgzXy1MWW81ZUF6OFVNNk9uYUZLRzRNRmZEZklyaEJUMXZFRGNhc1MxV0JvMEtDblB2RV95UDhvaFVQUHVKLXlBUGR1WFFqNkE?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T11:48:45+00:00",
+    "detected_at": "2026-11-28T12:20:26.735453+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline contains potentially negative catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Potentially bearish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 31.7,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 31.7,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "bb2a22eafce3a10e425b",
     "title": "Ripple's Stablecoin Is Surging in Popularity. So Why Has the Price of XRP Dipped Below $1? - شبكة تواصل الإخبارية",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yUFM2TzkzdjdkZkNsaWZmS2FnWERNVkNXaUNWYXVGU1g4OHEtS2h1eG9tcl9IRmxTaGRJZ2NLV29tTHdpaWw0QVlZVmZlcEpub3dn?oc=5",
@@ -93,7 +310,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.9,
+          "observed_at": "2026-11-28T12:20:29.868743+00:00",
+          "returns_pct": {
+            "XRP": 0.2074,
+            "BTC": 0.0926,
+            "ETH": 0.1255
+          },
+          "asset_elapsed_min": {
+            "XRP": 4.8865,
+            "BTC": 4.8742,
+            "ETH": 4.8756
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.1148,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -338,6 +576,26 @@
           "primary_excess_return_pct": null,
           "positive_assets": 1,
           "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.96,
+          "observed_at": "2026-11-28T12:20:29.868790+00:00",
+          "returns_pct": {
+            "BTC": 0.0619,
+            "ETH": 0.1255,
+            "SOL": 0.0845
+          },
+          "asset_elapsed_min": {
+            "BTC": 14.9377,
+            "ETH": 14.9388,
+            "SOL": 14.9423
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
@@ -1144,6 +1402,26 @@
           "positive_assets": 1,
           "negative_assets": 2,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.05,
+          "observed_at": "2026-11-28T12:20:29.868839+00:00",
+          "returns_pct": {
+            "BTC": 0.1713,
+            "ETH": 0.3573,
+            "SOL": 0.4667
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0229,
+            "ETH": 60.0231,
+            "SOL": 60.0268
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1171,6 +1449,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1843
+          },
+          "60": {
+            "price": 59295.475,
+            "observed_at": "2026-11-28T12:20:28.502241+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1713
           }
         }
       }
@@ -1357,6 +1646,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1911
+          },
+          "60": {
+            "price": 59295.475,
+            "observed_at": "2026-11-28T12:20:28.502241+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1644
           }
         }
       }
