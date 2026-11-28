@@ -1,5 +1,57 @@
 [
   {
+    "id": "d15615b894d2236a62a3",
+    "title": "Nov. 27: Sensex Sinks Nearly 1,000 Pts as Crude Surge, Rupee Weakness Trigger Profit Booking - The Indian Awaaz",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeU1xSEJ2TVBlamMyN1VZdldlcWh2RjZLdWdyZ1htZXk2WVVDempJMHQ0VHRqWWd1a3hkdUY0Mk54MlIwcE5ES3UzdTBXMmZVTXlhQWFzLV84el85UjNKVmdEMjRWWllVV2ZxUzhmRlNTQldTUkZEUlBnOG5feFc2RWR4c3RnVVdDVHlkTXF5ckMtWTR2bjRXbkc3QWpQN3J5Mm4yM0xGaVpqbm5XdVhpcXVMSWd3dDA?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T15:28:00+00:00",
+    "detected_at": "2026-11-28T03:50:29.921305+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 742.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 742.5,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "f51de065740bb6896991",
     "title": "Ethereum breaks key resistance: is the worst of the sell-off over? - Cryptonews.net",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pU2xzVWxPRmx2emwtVUVua2g3MU44ekdDZERSZ3VLNUxxVG5kOWdoVEZXbDk4Z1ZlLVNhUGhoT0x2MUhfdVBWbkNzVG9OZnllbFgxYktQS0h3UQ?oc=5",
@@ -93,7 +145,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.09,
+          "observed_at": "2026-11-28T03:50:32.958549+00:00",
+          "returns_pct": {
+            "ETH": -0.04,
+            "BTC": -0.0593,
+            "SOL": -0.0488
+          },
+          "asset_elapsed_min": {
+            "ETH": 5.0664,
+            "BTC": 5.0661,
+            "SOL": 5.0671
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0193,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -217,7 +290,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.09,
+          "observed_at": "2026-11-28T03:50:32.958614+00:00",
+          "returns_pct": {
+            "BTC": -0.0593,
+            "ETH": -0.04,
+            "SOL": -0.0488
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0661,
+            "ETH": 5.0664,
+            "SOL": 5.0671
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -489,7 +583,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59864.845,
+            "observed_at": "2026-11-28T03:50:31.777452+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.0688
+          }
+        }
       }
     }
   },
