@@ -1,5 +1,57 @@
 [
   {
+    "id": "adb181ba2b5bcb0b4e7f",
+    "title": "S&P 500 Investors Make Surprising Shift as Tech Stocks Sink - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0JGNllIZlBuQ2QtS2ZaQ3RuYTJWN25ET3NuR21XSzZUZWMwNE5tdXA0TnVScjZjWnNXNUhDRVY0Q1hsREdJMmZDN3F1YWc1bjVkU0twY3lNeFpTQzRKcVVzWnh1dlF6QkQxdTVIYndvZV8xUVd1aUpxb1IzazBQLU9ucmY0WW8xZXdNdmtoU1drZHhCVTlJZVNVWF9vTzhQZmdtblc3SFdEbmtaZmhYMm50SHFRRUxsdUJN?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T14:23:53+00:00",
+    "detected_at": "2026-11-28T05:30:33.165730+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 906.7,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 906.67,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "2940c738d6add2650392",
     "title": "Coinbase Files With SEC To List 24/7 Equity Perpetual Futures in US - CoinMarketCap",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnlVRGU1eXRVcU5rVUNPQVRQamxxandmM0RUZmxpcV83U1VYNVpqa1BWS1F0RzBQdmlKNDkzYjNXMl8zdUhNX2xCenBRV2lGVUg1OGZHdTNRMjBnZGtsNmdRMFNhS3lIYnF5cWhvQ1RQWVBkdDMtVVZTNExBaU1Ha1BSUnc4VGpwdkx1OW9uYmVqc3puZ1Y0bldNUnVDRl8zMmdMbVN2Z1NxWkxj?oc=5",
@@ -1117,6 +1169,26 @@
           },
           "benchmark": "BTC",
           "primary_excess_return_pct": -0.2496,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.99,
+          "observed_at": "2026-11-28T05:30:34.657330+00:00",
+          "returns_pct": {
+            "XRP": -0.4529,
+            "BTC": -0.3765,
+            "ETH": -0.4199
+          },
+          "asset_elapsed_min": {
+            "XRP": 59.9713,
+            "BTC": 59.9834,
+            "ETH": 59.9815
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0764,
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
