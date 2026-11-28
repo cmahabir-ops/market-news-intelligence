@@ -1,5 +1,117 @@
 [
   {
+    "id": "dc97f764ad538a9c4219",
+    "title": "Bitcoin’s November low pulled far older coins onto exchanges than July’s - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdldBX25FVllpRDBTV1VoLXBHM3VUOEo4RkV1REpTVTAyNG5vMndhYWtLRmlkVlZ6MG1uc2k4OERvWl9DX2llV0gwTGpzd0ZQM2YzeGZ0Zjd2WExIRGhYaEdaSmNQX1A2RldPeEQtd1R3TUJ4Zm43NkhZbHdrN0ZWVUFCLURCeW8?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T08:10:22+00:00",
+    "detected_at": "2026-11-28T08:15:25.986599+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 5.07,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59633.635,
+          "observed_at": "2026-11-28T08:15:27.422009+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1653.88,
+          "observed_at": "2026-11-28T08:15:27.628867+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.04,
+          "observed_at": "2026-11-28T08:15:28.192703+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59633.635,
+          "observed_at": "2026-11-28T08:15:27.422009+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "90a4166394664f68b955",
     "title": "Nvidia halts AI server shipments to Southeast Asia amid US export controls - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUl2ZVYxbEVRay0tbDc5anFxUi1ZMVNrYlJRdFBsM1oxNm1EMVU0WUlESGFfMzBRMHRWOWNiUUdaOXhSd1dwYW81MEh0X0hPbGZ5RkZwbnB6QnBRRmtxcm55TU9EN1FQSUtfT1N4R2o2R19lT0I5SlpwU0pweXdFWDlkQUFlZkR1eHpCVnc3SFN6MDVnQy1UUG9TYmVRdUN2SG42Qg?oc=5",
@@ -60,7 +172,7 @@
         "QQQ",
         "SPY"
       ],
-      "status": "awaiting_baseline",
+      "status": "baseline_missed",
       "baseline": {},
       "windows": {},
       "detection_delay_eligible": true
@@ -188,7 +300,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.05,
+          "observed_at": "2026-11-28T08:15:28.692956+00:00",
+          "returns_pct": {
+            "BTC": -0.0976,
+            "ETH": -0.1452,
+            "SOL": -0.1055
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0285,
+            "ETH": 5.0276,
+            "SOL": 5.0273
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -1325,6 +1458,26 @@
             "BTC": 15.0557,
             "ETH": 15.0557,
             "SOL": 15.0563
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.93,
+          "observed_at": "2026-11-28T08:15:28.693036+00:00",
+          "returns_pct": {
+            "BTC": 0.0662,
+            "ETH": 0.0514,
+            "SOL": -0.1546
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9052,
+            "ETH": 59.9068,
+            "SOL": 59.9129
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
@@ -4880,6 +5033,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.4379
+          },
+          "240": {
+            "price": 59633.635,
+            "observed_at": "2026-11-28T08:15:27.422009+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.5649
           }
         }
       }
@@ -5077,6 +5241,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.4379
+          },
+          "240": {
+            "price": 59633.635,
+            "observed_at": "2026-11-28T08:15:27.422009+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.5649
           }
         }
       }
@@ -5276,6 +5451,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.4379
+          },
+          "240": {
+            "price": 59633.635,
+            "observed_at": "2026-11-28T08:15:27.422009+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.5649
           }
         }
       }
