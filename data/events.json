@@ -1,5 +1,231 @@
 [
   {
+    "id": "2afce2b66ff975df5684",
+    "title": "Anthropic shares tested in first weekend of 24/7 trading - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xMk0xNEpCS29zU19IM0RCWFBmanVnWndIQUFTR2psdlBCZjlBTmlCa09wMml4RUoxYmZuRkJocHF3cElZMHYzaGFzdmRib09FVWE4ZmFKekE5QWF5bkZhSlF4QXFONjZNVzZUYTNYOVNwZzVKNDhQMThpSQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T14:20:10+00:00",
+    "detected_at": "2026-11-28T14:25:27.913784+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 5.3,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 5.3,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "ba26699aa3cdb42c823b",
+    "title": "What Bitcoin Did After Every Death Cross Since 2018 - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNGVfV3drcGlfam52alRPNHNaamZLZTUzQUM1NVQ2RzUzVnhhNVozcGFPWnBzTDlrdURlYTBOa0UzM1hCRzNLTktnalo1bUEzNHVnSGY5YUY0dkdtb2JrT1BjNDNJZ2syWnBpeHhiRXJ1NnJ5ZlRKaDhBT0N6M1l3bkFMeDBtb3Z3Tlo3Y0pyd1puOE5TOUlfREMyZFRvVzB0SDhEWFFuWFBQdVdpUkg0?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T14:21:00+00:00",
+    "detected_at": "2026-11-28T14:25:27.910603+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 4.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 4.47,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59196.145,
+          "observed_at": "2026-11-28T14:25:28.951307+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1645.605,
+          "observed_at": "2026-11-28T14:25:29.089277+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 70.55,
+          "observed_at": "2026-11-28T14:25:29.224995+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59196.145,
+          "observed_at": "2026-11-28T14:25:28.951307+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
+    "id": "e7e924f26065da5b0bc9",
+    "title": "XRP Escrow Burn: Schwartz Rejects Validator Power - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVd6dm5wbF9CdWI1OTVpSzZRcUxzMWxJNVJhdEJCVFFkVUJ3LUNKcXBNVmVHdjRHcnl5dnVnS1QxeHJZRVZnRVBiaHRfZS05UUlqakpPM1kwbXZaZGtESmFWcEMweHNQNVdLTmpSVkJ5QWZqVFdWdGVhWlAyRjhSSUxhT2RjT2YxbXpOdmFTNHNKZWFKY280bEptWXRyV3BBVWRRNE15ZnRwYll2RDBqam5xMk8?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T14:21:31+00:00",
+    "detected_at": "2026-11-28T14:25:27.909306+00:00",
+    "assets": [
+      "BTC",
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "XRP",
+      "BTC"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto",
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 3.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 3.95,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-28T14:25:29.866751+00:00",
+    "alert_last_attempt_at": "2026-11-28T14:25:29.866770+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "47c975520d1dabdda5fc",
     "title": "Gold stocks fall as spot price hits one-year low on Iran tensions - scanx.trade",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWFlvQnIwbFRBUkdiVndDeUJqdmhXM0pFTDJBd21hQXRwbmtxYkJ4cUR3TXJERkxpdlprMVRkY0NucDhmUXg2Q2xaVFpxd3JXSEJJTVQxSGlGRVRsWnpYLUMxaWVnRjZFTVdkNnVsOC0zdzBlbk5WclBNcGJEczQzamlGSzVzV1NJc1c2eFJCRXl6Qk9jSWt0SmpGUm54UWktRHdjV191UGFaV21hSEMzU1diaHFKMVc3bXc?oc=5",
@@ -212,6 +438,26 @@
           },
           "benchmark": "BTC",
           "primary_excess_return_pct": 0.0366,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.96,
+          "observed_at": "2026-11-28T14:25:29.306079+00:00",
+          "returns_pct": {
+            "ETH": 0.2889,
+            "BTC": 0.2016,
+            "SOL": 0.3913
+          },
+          "asset_elapsed_min": {
+            "ETH": 14.9564,
+            "BTC": 14.9571,
+            "SOL": 14.9544
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0873,
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
