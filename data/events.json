@@ -74,7 +74,24 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.02,
+          "observed_at": "2026-11-28T05:25:31.329960+00:00",
+          "returns_pct": {
+            "BTC": 0.0162
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.0043
+          },
+          "benchmark": "QQQ",
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
