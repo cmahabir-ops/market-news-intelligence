@@ -1,5 +1,117 @@
 [
   {
+    "id": "8aa157a4783216a78c86",
+    "title": "Bitcoin below $60K, Binance reopens withdrawals | Weekly recap - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KR3NoMXpqRHUwUmI0QWFCSzBqWlFlYjJrbnJPTThoZmRMX2t6QmJCV1Fielg5bDg0QV9tVnR0NHNiNEFORjRuQmU3NGowcGpXUVlDNmZ0RFlkeU5JNlZDam9OLWJBSnFHOGdpUi0tM3lNeHYwSVJEVllFWXRJSFU?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T05:40:00+00:00",
+    "detected_at": "2026-11-28T05:45:32.268416+00:00",
+    "assets": [
+      "BTC"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "BTC",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "BTC": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 5.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 5.54,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "BTC": {
+          "price": 59646.115,
+          "observed_at": "2026-11-28T05:45:33.586962+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1652.935,
+          "observed_at": "2026-11-28T05:45:33.864324+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "SOL": {
+          "price": 71.15,
+          "observed_at": "2026-11-28T05:45:34.275524+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": true
+    },
+    "price_reactions": {
+      "BTC": {
+        "baseline": {
+          "price": 59646.115,
+          "observed_at": "2026-11-28T05:45:33.586962+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {}
+      }
+    }
+  },
+  {
     "id": "adb181ba2b5bcb0b4e7f",
     "title": "S&P 500 Investors Make Surprising Shift as Tech Stocks Sink - TradingView",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0JGNllIZlBuQ2QtS2ZaQ3RuYTJWN25ET3NuR21XSzZUZWMwNE5tdXA0TnVScjZjWnNXNUhDRVY0Q1hsREdJMmZDN3F1YWc1bjVkU0twY3lNeFpTQzRKcVVzWnh1dlF6QkQxdTVIYndvZV8xUVd1aUpxb1IzazBQLU9ucmY0WW8xZXdNdmtoU1drZHhCVTlJZVNVWF9vTzhQZmdtblc3SFdEbmtaZmhYMm50SHFRRUxsdUJN?oc=5",
@@ -867,6 +979,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.04,
+          "observed_at": "2026-11-28T05:45:34.630101+00:00",
+          "returns_pct": {
+            "BTC": -0.5006,
+            "ETH": -0.5281,
+            "SOL": -0.5104
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0254,
+            "ETH": 60.0259,
+            "SOL": 60.0251
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -894,6 +1026,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0508
+          },
+          "60": {
+            "price": 59646.115,
+            "observed_at": "2026-11-28T05:45:33.586962+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.5006
           }
         }
       }
