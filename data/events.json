@@ -1,5 +1,181 @@
 [
   {
+    "id": "724544b57d276838ddea",
+    "title": "XRP Open Interest Shrinks by $211 Million on Binance, Reaching a Two-Year Low - Kriptofoni",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jbGJhS2RXVHJsZGR4ZlBlRkVrWVZuQkVXQnpVR2l6QzFrWWZLUDFyTDhjVG82aFpMWFNrWTBLN0xCN2lhdGRNbUw0cnNzdDkxS3BBQXNPSFNVQWRwM1NEbDNVVHVUUEtWQU42a2J2aUxlVGJYSXFKcQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T08:44:37+00:00",
+    "detected_at": "2026-11-28T10:10:29.479814+00:00",
+    "assets": [
+      "XRP"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": "XRP",
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "single_headline_asset",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_clear_catalyst",
+    "detection_delay_minutes": 85.9,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "reaction_or_unclassified",
+      "delay_min": 85.87,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "cross_market_impact": {
+      "method": "scan_snapshots_v3_5_1",
+      "assets": [
+        "XRP",
+        "BTC",
+        "ETH"
+      ],
+      "status": "tracking",
+      "baseline": {
+        "XRP": {
+          "price": 0.93895,
+          "observed_at": "2026-11-28T10:10:30.888031+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "BTC": {
+          "price": 59350.915,
+          "observed_at": "2026-11-28T10:10:30.434511+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "ETH": {
+          "price": 1648.92,
+          "observed_at": "2026-11-28T10:10:30.543507+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      },
+      "windows": {},
+      "detection_delay_eligible": false
+    },
+    "price_reactions": {
+      "XRP": {
+        "baseline": {
+          "price": 0.93895,
+          "observed_at": "2026-11-28T10:10:30.888031+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        },
+        "followups": {},
+        "benchmark_asset": "BTC",
+        "benchmark_baseline": {
+          "price": 59350.915,
+          "observed_at": "2026-11-28T10:10:30.434511+00:00",
+          "quote_at": null,
+          "source": "Coinbase public spot indicative USD",
+          "currency": "USD",
+          "session": "continuous",
+          "valid_for_reaction": true,
+          "freshness": "provider_timestamp_unavailable"
+        }
+      }
+    }
+  },
+  {
+    "id": "ce4aba583ffd2cbbfed1",
+    "title": "Trump Family’s Crypto Project Plunges: WLFI Drops Over 50% as USD1 Loses Its Dollar Peg - Kriptofoni",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDMi1HOHRTRExUNTZnSm5ONWdFdjd2anN2X25hNTlONmxnUkVNM0ZzUlZkcHRzYUpXZDVCR1UxYzdUQ3RrLXdxUTlwR1ZsMnNMVTlwZ3lNQVE4cWYwUzFUNFhtWVlNNmFUd3c?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T08:32:20+00:00",
+    "detected_at": "2026-11-28T10:10:29.476685+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 98.2,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 98.16,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "33668b2f8f0eb7f21e43",
     "title": "What Awaits XRP Holders in December? The Four-Year Cycle and Three Key Dates - Kriptofoni",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84YmJOR0RTN3UwQV9Mc2FjRnRtN2hDSElMdHFwa3lYX0Q3VFpyTm12YUVHNkNvX2NEcV8zLTI3T2ZCS3FoUHZJTkZqNFhXZEpCX05ua3lrUzZkUXFQSzM4Q1psRkc0M1hlaHRR?oc=5",
@@ -93,7 +269,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.98,
+          "observed_at": "2026-11-28T10:10:30.912218+00:00",
+          "returns_pct": {
+            "XRP": -0.0639,
+            "BTC": -0.1819,
+            "ETH": -0.1057
+          },
+          "asset_elapsed_min": {
+            "XRP": 4.9668,
+            "BTC": 4.9672,
+            "ETH": 4.967
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.118,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -268,7 +465,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.98,
+          "observed_at": "2026-11-28T10:10:30.912271+00:00",
+          "returns_pct": {
+            "BTC": -0.1819,
+            "ETH": -0.1057,
+            "SOL": -0.1338
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9672,
+            "ETH": 4.967,
+            "SOL": 4.9669
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -433,7 +651,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 4.98,
+          "observed_at": "2026-11-28T10:10:30.912313+00:00",
+          "returns_pct": {
+            "BTC": -0.1819,
+            "ETH": -0.1057,
+            "SOL": -0.1338
+          },
+          "asset_elapsed_min": {
+            "BTC": 4.9672,
+            "ETH": 4.967,
+            "SOL": 4.9669
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -1427,6 +1666,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.06,
+          "observed_at": "2026-11-28T10:10:30.912378+00:00",
+          "returns_pct": {
+            "BTC": -0.3621,
+            "ETH": -0.1078,
+            "SOL": -0.0634
+          },
+          "asset_elapsed_min": {
+            "BTC": 60.0543,
+            "ETH": 60.05,
+            "SOL": 60.0406
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1454,6 +1713,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.0415
+          },
+          "60": {
+            "price": 59350.915,
+            "observed_at": "2026-11-28T10:10:30.434511+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.3621
           }
         }
       }
