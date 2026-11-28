@@ -1,5 +1,56 @@
 [
   {
+    "id": "0e9b6e3e995262a82030",
+    "title": "Changpeng Zhao seeks legal advice over his portrayal in Netflix’s The Altruists - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qN0d1OVktcmppSzB0VkwwNXVROVZiMnJzUDFydXJnVVpSb0tDU2pLR21ZWkY5NkROTG1fNmlCb3NaY2hFZk0xTDhfREZocTRLZlV1eXFXZUZnVWFDeGtpN3BKbDlycEoydFdCSmFn?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T11:03:10+00:00",
+    "detected_at": "2026-11-28T11:10:37.198258+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 7.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 7.45,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "be756df2da21be2f3039",
     "title": "Vitalik Buterin urges Ethereum not to rush Glamsterdam - Crypto News",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wT0s0YUNRNS03T2FrdXl2MVNhUW5yWVhhNEVRYXQ5WlU2OFplSmFDbVpSeDM4bXZ4dEM2dG9yWm9PdEZwYkNMNExoelFmcHRJUjBqQmFqX1pGZVljNmVTZ0t1QktQZXpDMXJNMzlpSnVUYmM?oc=5",
@@ -92,7 +143,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.08,
+          "observed_at": "2026-11-28T11:10:39.353440+00:00",
+          "returns_pct": {
+            "ETH": 0.0816,
+            "BTC": 0.0582,
+            "SOL": -0.0142
+          },
+          "asset_elapsed_min": {
+            "ETH": 5.0736,
+            "BTC": 5.0747,
+            "SOL": 5.0744
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0234,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -215,7 +287,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.08,
+          "observed_at": "2026-11-28T11:10:39.353511+00:00",
+          "returns_pct": {
+            "ETH": 0.0816,
+            "BTC": 0.0582,
+            "SOL": -0.0142
+          },
+          "asset_elapsed_min": {
+            "ETH": 5.0736,
+            "BTC": 5.0747,
+            "SOL": 5.0744
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0234,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -846,6 +939,26 @@
           "positive_assets": 2,
           "negative_assets": 1,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.15,
+          "observed_at": "2026-11-28T11:10:39.353546+00:00",
+          "returns_pct": {
+            "XRP": -0.2183,
+            "BTC": -0.3366,
+            "ETH": -0.2726
+          },
+          "asset_elapsed_min": {
+            "XRP": 60.1405,
+            "BTC": 60.1391,
+            "ETH": 60.1396
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.1183,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -875,6 +988,19 @@
             "change_pct": 0.0959,
             "benchmark_return_pct": -0.0749,
             "excess_return_pct": 0.1708
+          },
+          "60": {
+            "price": 0.9369,
+            "observed_at": "2026-11-28T11:10:39.318316+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.2183,
+            "benchmark_return_pct": -0.3366,
+            "excess_return_pct": 0.1183
           }
         },
         "benchmark_asset": "BTC",
