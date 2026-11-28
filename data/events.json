@@ -1,5 +1,123 @@
 [
   {
+    "id": "c9759431dad76f9f4dfc",
+    "title": "Crypto News Today: Binance Ends Freeze, Fidelity Files LINK ETF - CoinMarketCap",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EZ19MRzdjZkRCenRzeDl3d29RNEpIQVRMVzFJWU41OVN6bmE1NnVxNW1jUmxwWUVKZklxT21pXzZXQXpDb28zM1BGTUxweTdqeEhSQi1WaVpHQWdxZTZnc2dNU2JfdXVNN3d3NlZ6R2plbDJqUkdSal9iaw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T10:32:22+00:00",
+    "detected_at": "2026-11-28T16:20:29.180053+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 348.1,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 348.12,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
+    "id": "a06b8e77cd4362b1df4e",
+    "title": "XRP, Dogecoin or Cardano: Which Holds Up Best Through a Fed Hike? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRWY3Vl9KckV5SnB3OVFUdDBfNERlYkYzcnpfWmE1b0g0YlViWWo4czZqWEFGREFOUEt0aXAzR3hjenBlNnRmZU56QlhEY2czTzZZWE0wSWVtcDdfejYzUmx5Um9QcW4tQ01rUV9FOS11ZloySzJaUFZFSUxRV3ZXbHZNZDhyNkRMSnRNMFE5OFloZzkwMFpPa1FVdGotZnM5d3JMVUNCQUhhUTVDbW9BV2JEUktCT0NWYWdvNlZn?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T16:13:00+00:00",
+    "detected_at": "2026-11-28T16:20:29.178393+00:00",
+    "assets": [
+      "XRP",
+      "ADA",
+      "DOGE"
+    ],
+    "market": "Crypto",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [
+      "XRP",
+      "DOGE",
+      "ADA"
+    ],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {
+      "XRP": "Crypto",
+      "DOGE": "Crypto",
+      "ADA": "Crypto"
+    },
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 7.5,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 7.49,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-28T16:20:31.410603+00:00",
+    "alert_last_attempt_at": "2026-11-28T16:20:31.410615+00:00",
+    "alert_attempts": 1
+  },
+  {
     "id": "e7820a37b68d08cbc4bf",
     "title": "Tether adds $10 million in Bitdeer stock after holding through an 87% drop - CoinDesk",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd3ZhZW9vN0o4S3hTcElyX0NCLUMyX0ZPVU11NmVtWTdtNm1oRWt4X0thQW1ySlBZR05xVXJ1c0l0bDRvX0FVWUVaekpZSHNxVkxJcGdEWDEydXR2cV9SVUIzMElEZHRlQ19LY29iS2RTOVpIbkJmbl9pR3daZXFqbzd2c0pvODM2VmhnODZldlNVYWxXQ0ZKX1EyeUtjN0xHVk9xMlNoZTh6anh2Nnc3cjFwYUg2cUx2Z2NQOA?oc=5",
@@ -164,6 +282,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.09,
+          "observed_at": "2026-11-28T16:20:30.837207+00:00",
+          "returns_pct": {
+            "BTC": -0.1546,
+            "ETH": -0.2648,
+            "SOL": -0.1983
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.0832,
+            "ETH": 15.081,
+            "SOL": 15.0783
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -180,7 +318,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59362.505,
+            "observed_at": "2026-11-28T16:20:30.452808+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1546
+          }
+        }
       }
     }
   },
@@ -1293,6 +1443,19 @@
             "change_pct": -0.1345,
             "benchmark_return_pct": -0.0892,
             "excess_return_pct": -0.0453
+          },
+          "60": {
+            "price": 70.46,
+            "observed_at": "2026-11-28T16:20:30.734706+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.2478,
+            "benchmark_return_pct": 0.0805,
+            "excess_return_pct": -0.3283
           }
         },
         "benchmark_asset": "BTC",
@@ -5695,6 +5858,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.3334
+          },
+          "240": {
+            "price": 59362.505,
+            "observed_at": "2026-11-28T16:20:30.452808+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.113
           }
         }
       }
@@ -5948,6 +6122,19 @@
             "change_pct": -0.2659,
             "benchmark_return_pct": -0.23,
             "excess_return_pct": -0.0359
+          },
+          "240": {
+            "price": 0.93835,
+            "observed_at": "2026-11-28T16:20:30.800861+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1915,
+            "benchmark_return_pct": 0.2057,
+            "excess_return_pct": -0.3972
           }
         },
         "benchmark_asset": "BTC",
@@ -36495,6 +36682,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.3004
+          },
+          "1440": {
+            "price": 59362.505,
+            "observed_at": "2026-11-28T16:20:30.452808+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.8432
           }
         }
       }
