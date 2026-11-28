@@ -1,5 +1,57 @@
 [
   {
+    "id": "e034a5ba8baf5d472906",
+    "title": "AI stocks rebound, Wall Street has its biggest weekly gain since April 2025. - Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSV9BbVNsVDVHakhidndzb255MFRHNXBLTlUwdnAtdGNSMzN3ckhSd2o4Y251ekcwUGtFSVppaTBWNkVua2l3cnh3TEw3b0pobjYtMDlDMlFTSUZSWTJ6Q1p6MGtONVVtRGpBZldwS1RNalZ0SnVDaEJfOHBRU3RZSHl5akp0TktXanRrRHpndHFjcHNhWW9xNWlMeWtMQQ?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-28T06:08:21+00:00",
+    "detected_at": "2026-11-28T14:05:26.424319+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 477.1,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 477.09,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "d4623e4329b553d53c54",
     "title": "First Helium Shares Stay Halted Pending Reserves Review - Wisevoter",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnJvc1owS2xKNVpDY29NcjVqNVlMblVpVXlIbzc2N2owN0xfWjlWSWVxa19iR1VTQUplcURHbFNsd0R4VmxBNzFQQ1ZyTm5BMEVUNDhZY1NXejVwZXBnZ1lsNEdVTG8tV2JuRndvdjlldy1ZRnNQY2hmRVRhb3pKWDh0S3ZXQmEzaGMtQW5OTnI3ZTV5VWd2a0lnOVA?oc=5",
@@ -161,6 +213,26 @@
           },
           "benchmark": "BTC",
           "primary_excess_return_pct": -0.0519,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 14.95,
+          "observed_at": "2026-11-28T14:05:28.119098+00:00",
+          "returns_pct": {
+            "XRP": 0.2303,
+            "BTC": 0.2662,
+            "ETH": 0.2392
+          },
+          "asset_elapsed_min": {
+            "XRP": 14.9398,
+            "BTC": 14.9414,
+            "ETH": 14.9407
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": -0.0359,
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
@@ -1478,6 +1550,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 60.0,
+          "observed_at": "2026-11-28T14:05:28.119228+00:00",
+          "returns_pct": {
+            "BTC": -0.1093,
+            "ETH": -0.4258,
+            "SOL": -0.692
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.9925,
+            "ETH": 59.9922,
+            "SOL": 59.9912
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -1505,6 +1597,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1115
+          },
+          "60": {
+            "price": 59099.045,
+            "observed_at": "2026-11-28T14:05:27.651624+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1093
           }
         }
       }
