@@ -1,5 +1,57 @@
 [
   {
+    "id": "be029e81a3df99196cc8",
+    "title": "Gold Price Forecast: Expectations of Federal Reserve Rate Hikes Weigh on Latest Rebound - 富途牛牛",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbWItRXBlM2Rxbm1uV240NGZzdS1WNkw1b1JKWGpteGxRN1BfZVg5X2s1SmhzaTJKcEMycDFCcnFOV0tlejFuMWFUSHJGUHNPME1sd1hBWEl5ZC1GUmx2MkVfUzhfWnhXd280WlcxaDk4bjBUX3V5VnBuTUcwT1ljclJzbjdXWlRzam9IQWpoTXRFRUQ1cDU5LUktaWRWbXg5enBiUU9nMUQ1Zk01a2dsMA?oc=5",
+    "source": "Google News - Markets",
+    "published_at": "2026-11-27T16:23:09+00:00",
+    "detected_at": "2026-11-28T08:00:38.879399+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 2,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 937.5,
+    "freshness_status": "late_or_invalid",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "C",
+      "kind": "commentary_or_speculation",
+      "delay_min": 937.5,
+      "fresh": false,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "late_or_invalid_feed_timestamp",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "7393a7915ece07ed96cf",
     "title": "Whales Scooped Up 121,000 Bitcoin Through a 30% Drop - Cointribune",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQUFuLWVyVnlLTnRkd2pfaWhJLWx5WVczSUxxWDRjMUdTcHF5QkRiU1FsWmN5Vm5FaE9TdnZMcjhaS2FCZWVNYkF0S0JWRFEwVEJNbUFZWGJJeGp0bTZxbTN3QWlabjRNZHYzNTlJZ1cxdFpZLUgyVktmaDJjNkR6RHM4MmpWYm9YWUE?oc=5",
@@ -93,7 +145,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.26,
+          "observed_at": "2026-11-28T08:00:41.736248+00:00",
+          "returns_pct": {
+            "BTC": 0.0327,
+            "ETH": -0.0483,
+            "SOL": 0.014
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.2398,
+            "ETH": 5.2369,
+            "SOL": 5.2358
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 2,
+          "negative_assets": 1,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
@@ -226,6 +299,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.14,
+          "observed_at": "2026-11-28T08:00:41.736317+00:00",
+          "returns_pct": {
+            "BTC": 0.1045,
+            "ETH": 0.0483,
+            "SOL": 0.1125
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.1248,
+            "ETH": 15.1276,
+            "SOL": 15.1274
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -242,7 +335,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59766.885,
+            "observed_at": "2026-11-28T08:00:40.814046+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1045
+          }
+        }
       }
     }
   },
@@ -360,6 +465,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.14,
+          "observed_at": "2026-11-28T08:00:41.736352+00:00",
+          "returns_pct": {
+            "BTC": 0.1045,
+            "ETH": 0.0483,
+            "SOL": 0.1125
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.1248,
+            "ETH": 15.1276,
+            "SOL": 15.1274
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -376,7 +501,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59766.885,
+            "observed_at": "2026-11-28T08:00:40.814046+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1045
+          }
+        }
       }
     },
     "alert_delivered_at": "2026-11-28T07:45:34.463255+00:00",
@@ -497,6 +634,26 @@
           "positive_assets": 3,
           "negative_assets": 0,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.14,
+          "observed_at": "2026-11-28T08:00:41.736379+00:00",
+          "returns_pct": {
+            "BTC": 0.1045,
+            "ETH": 0.0483,
+            "SOL": 0.1125
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.1248,
+            "ETH": 15.1276,
+            "SOL": 15.1274
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 3,
+          "negative_assets": 0,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -513,7 +670,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59766.885,
+            "observed_at": "2026-11-28T08:00:40.814046+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.1045
+          }
+        }
       }
     }
   },
