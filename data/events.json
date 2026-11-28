@@ -62,7 +62,7 @@
         "QQQ",
         "SPY"
       ],
-      "status": "awaiting_baseline",
+      "status": "baseline_missed",
       "baseline": {},
       "windows": {},
       "detection_delay_eligible": false
@@ -188,7 +188,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.05,
+          "observed_at": "2026-11-28T12:40:36.629831+00:00",
+          "returns_pct": {
+            "ETH": -0.0373,
+            "BTC": -0.0657,
+            "SOL": -0.0423
+          },
+          "asset_elapsed_min": {
+            "ETH": 5.0323,
+            "BTC": 5.0347,
+            "SOL": 5.0302
+          },
+          "benchmark": "BTC",
+          "primary_excess_return_pct": 0.0284,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": false
     },
     "price_reactions": {
