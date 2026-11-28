@@ -144,7 +144,28 @@
           "freshness": "provider_timestamp_unavailable"
         }
       },
-      "windows": {},
+      "windows": {
+        "5": {
+          "status": "observed",
+          "elapsed_min": 5.15,
+          "observed_at": "2026-11-28T13:10:37.028327+00:00",
+          "returns_pct": {
+            "BTC": 0.0246,
+            "ETH": -0.0534,
+            "SOL": -0.0424
+          },
+          "asset_elapsed_min": {
+            "BTC": 5.1365,
+            "ETH": 5.1374,
+            "SOL": 5.1384
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        }
+      },
       "detection_delay_eligible": true
     },
     "price_reactions": {
@@ -390,6 +411,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "15": {
+          "status": "observed",
+          "elapsed_min": 15.06,
+          "observed_at": "2026-11-28T13:10:37.028393+00:00",
+          "returns_pct": {
+            "BTC": -0.0209,
+            "ETH": 0.0036,
+            "SOL": -0.0918
+          },
+          "asset_elapsed_min": {
+            "BTC": 15.048,
+            "ETH": 15.0461,
+            "SOL": 15.0414
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 1,
+          "negative_assets": 2,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": true
@@ -406,7 +447,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59178.275,
+            "observed_at": "2026-11-28T13:10:36.294946+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.0209
+          }
+        }
       }
     }
   },
@@ -611,7 +664,19 @@
           "valid_for_reaction": true,
           "freshness": "provider_timestamp_unavailable"
         },
-        "followups": {}
+        "followups": {
+          "15": {
+            "price": 59178.275,
+            "observed_at": "2026-11-28T13:10:36.294946+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": 0.059
+          }
+        }
       }
     }
   },
@@ -1832,6 +1897,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.1013
+          },
+          "60": {
+            "price": 59178.275,
+            "observed_at": "2026-11-28T13:10:36.294946+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.1359
           }
         }
       }
@@ -6017,6 +6093,17 @@
             "valid_for_reaction": true,
             "freshness": "provider_timestamp_unavailable",
             "change_pct": -0.3621
+          },
+          "240": {
+            "price": 59178.275,
+            "observed_at": "2026-11-28T13:10:36.294946+00:00",
+            "quote_at": null,
+            "source": "Coinbase public spot indicative USD",
+            "currency": "USD",
+            "session": "continuous",
+            "valid_for_reaction": true,
+            "freshness": "provider_timestamp_unavailable",
+            "change_pct": -0.652
           }
         }
       }
