@@ -1,5 +1,110 @@
 [
   {
+    "id": "5ecb3a37e0baf2472e36",
+    "title": "Binance secures in-principle approval for regulated operations and Asia hub in Bhutan - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfQWFMMjNYOTlEeHhta1BITTh4bXo5bmtvSUt0WjRhZXBxQjJ1WERiTXUtMnkxaVFQSFZfZWlvRFIxSkY2elpBbFdlZnNfVGRORmhUVFpmZmoyZWxMRkVMcnJ6eWpOcUtuN0JqVGFQRHhaZDNETVNhMEFjc25TZw?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T05:03:19+00:00",
+    "detected_at": "2026-11-28T05:10:27.619996+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 3,
+    "rationale": "Headline contains potentially positive catalysts. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Potentially bullish",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 7.1,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 7.14,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "delivered",
+    "price_reactions": {},
+    "alert_delivered_at": "2026-11-28T05:10:29.397299+00:00",
+    "alert_last_attempt_at": "2026-11-28T05:10:29.397310+00:00",
+    "alert_attempts": 1
+  },
+  {
+    "id": "1f1adeff7cb5430b45c6",
+    "title": "South Korea’s Lee vows to push ahead in global AI race at data centre launch - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vTUdheGZXT25LSTJVeER6ZU9FMk9aZlBOVFEyam5IN004NUtvaUNsMXVuVXJ4alZoQ1h0YnNCZEJsV3FkdFR5bmxTVWdmUE8zVEk1b2FkS1AwSGRBdHVYZ05lSTBlWGpsUGxRMFJZWDQ?oc=5",
+    "source": "Google News - Crypto",
+    "published_at": "2026-11-28T05:07:27+00:00",
+    "detected_at": "2026-11-28T05:10:27.619410+00:00",
+    "assets": [],
+    "market": "Macro / unspecified",
+    "direction": "Unclear / mixed",
+    "significance_score": 1,
+    "rationale": "Headline does not provide a reliable directional catalyst. This is a keyword-based hypothesis, not a verified price forecast; check primary source and live market response.",
+    "primary_asset": null,
+    "secondary_assets": [],
+    "context_assets": [],
+    "attribution_status": "multi_asset_or_unspecified",
+    "attribution_method": "headline_mentions_v3",
+    "asset_segments": {},
+    "legacy_keyword_direction": "Unclear / mixed",
+    "catalyst_method": "headline_rules_v3_2",
+    "catalyst_type": null,
+    "hypothesis_direction": null,
+    "hypothesis_status": "no_primary_asset",
+    "detection_delay_minutes": 3.0,
+    "freshness_status": "fresh",
+    "source_tier": "aggregated_unverified",
+    "source_domain": "news.google.com",
+    "macro_event_type": null,
+    "macro_status": "not_detected",
+    "macro_benchmarks": [],
+    "macro_direction": null,
+    "macro_validation_eligible": false,
+    "intelligence_method": "observational_v3_3",
+    "possible_duplicate_of": null,
+    "duplicate_status": "no_near_duplicate_found",
+    "quality_v352": {
+      "method": "headline_quality_v3_5_2",
+      "tier": "D",
+      "kind": "no_clear_asset_or_macro_link",
+      "delay_min": 3.01,
+      "fresh": true,
+      "review_candidate": false,
+      "exclusions": [
+        "not_catalyst_candidate",
+        "original_source_unverified"
+      ],
+      "forecast_ready": false
+    },
+    "alert_status": "below_threshold",
+    "price_reactions": {}
+  },
+  {
     "id": "cbb2dbd6bc9ed5981a9a",
     "title": "Dollar Surges Day After US Stock Rout: Citi Explains the \"Hedge Rebalancing\" Mechanism - BigGo Finance",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fRU1iSjBscE9TUFUxMG5zRzlDUjRHU2YxdTd0YmlhUnBOak5FSnNKbjU5OGFpXy1Lc24yZUtKTkFLd0JUZkFNUGRwcWhUTjZyRFRLaVB6WXlfWnJEMW9QalZQNkxDbHoyRUMyMzNtcXdtVGd3SXc?oc=5",
@@ -1040,6 +1145,26 @@
           "positive_assets": 0,
           "negative_assets": 3,
           "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.98,
+          "observed_at": "2026-11-28T05:10:29.014946+00:00",
+          "returns_pct": {
+            "BTC": -0.4565,
+            "ETH": -0.6141,
+            "SOL": -0.5168
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.971,
+            "ETH": 59.9679,
+            "SOL": 59.9575
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
         }
       },
       "detection_delay_eligible": false
@@ -1200,6 +1325,26 @@
             "BTC": 15.4219,
             "ETH": 15.4196,
             "SOL": 15.4102
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.98,
+          "observed_at": "2026-11-28T05:10:29.014983+00:00",
+          "returns_pct": {
+            "BTC": -0.4565,
+            "ETH": -0.6141,
+            "SOL": -0.5168
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.971,
+            "ETH": 59.9679,
+            "SOL": 59.9575
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
@@ -1368,6 +1513,26 @@
             "BTC": 15.4219,
             "ETH": 15.4196,
             "SOL": 15.4102
+          },
+          "benchmark": null,
+          "primary_excess_return_pct": null,
+          "positive_assets": 0,
+          "negative_assets": 3,
+          "limitations": "Scan-time indicative snapshots; no causal attribution; may be delayed."
+        },
+        "60": {
+          "status": "observed",
+          "elapsed_min": 59.98,
+          "observed_at": "2026-11-28T05:10:29.015007+00:00",
+          "returns_pct": {
+            "BTC": -0.4565,
+            "ETH": -0.6141,
+            "SOL": -0.5168
+          },
+          "asset_elapsed_min": {
+            "BTC": 59.971,
+            "ETH": 59.9679,
+            "SOL": 59.9575
           },
           "benchmark": null,
           "primary_excess_return_pct": null,
